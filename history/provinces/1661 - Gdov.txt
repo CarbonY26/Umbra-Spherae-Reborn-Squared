@@ -1,0 +1,32 @@
+# 1661 - Gdov
+
+# County Title
+title = c_gdov
+
+# Settlements
+max_settlements = 2
+
+b_gdov = tribal
+
+#b_mda
+#b_vyazki
+#b_kolydukha
+#b_plyussa
+#b_strizhki
+#b_zakhodsy
+
+## Misc
+culture = votic
+religion = finnish_pagan
+
+# History
+867.1.1 = {
+	culture = russian
+        religion = slavic_pagan
+}
+988.1.1 = {
+	religion = orthodox
+}
+1200.1.1 = {
+	b_gdov = castle
+}

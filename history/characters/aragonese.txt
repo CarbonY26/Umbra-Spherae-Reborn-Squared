@@ -1,0 +1,485 @@
+70231 = {
+	name="Pedro"
+	dynasty=442
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="aragonese"
+	trait="brave"
+	trait="duelist"
+	trait="tough_soldier"
+	father=110500
+	mother=110501
+	
+	1068.1.1 = {
+		birth="1068.1.1"
+	}
+	1088.1.1 = {
+		add_spouse=127036
+	}
+	1097.8.16 = {
+		add_spouse=70878
+	}
+	1104.9.27 = {
+		death="1104.9.27"
+	}
+}
+70232 = {
+	name="Alifonso" # AKA: Alfonso I 'el Batallador'
+	dynasty=442
+	martial=8
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="aragonese"
+	trait="brave"
+	trait="hunter"
+	trait="brilliant_strategist"
+	father=110500
+	mother=71589
+	1082.1.1={
+		birth="1082.1.1"
+	}
+	1109.10.1={
+		add_spouse=207660
+	}
+	1111.9.17={
+		add_claim = k_castille
+		add_claim = d_castilla
+		add_claim = d_toledo
+	}
+	1114.1.1={
+		remove_spouse=207660
+		remove_claim = k_castille
+		remove_claim = d_castilla
+		remove_claim = d_toledo
+	}
+	1118.12.1={
+	capital = c_zaragoza
+	}
+	1134.9.7={
+		death="1134.9.7"
+	}
+}
+70233 = {
+	name="Remiro" # AKA: Ramiro II 'el Monje'
+	dynasty=442
+	martial=3
+	diplomacy=7
+	intrigue=4
+	stewardship=8
+	religion="catholic"
+	culture="aragonese"
+	trait="chaste"
+	trait="scholar"
+	trait="scholarly_theologian"
+	father=110500
+	mother=71589
+	1086.1.1 = {
+		birth="1086.1.1"
+	}
+	1134.9.7 = {
+		give_nickname = nick_the_monk
+		capital = c_zaragoza
+	}
+	1135.1.1 = {
+		add_spouse=7623
+	}
+	1137.1.1 = {
+		remove_spouse=7623
+	}
+	1157.8.16 = {
+		death="1157.8.16"
+	}
+}
+71380 = {
+	name="Beltrán"
+	dynasty=8780
+	religion="catholic"
+	culture="aragonese"
+	trait="bastard"
+	father=71592
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1134.1.1 = {
+		add_spouse=207654
+	}
+	1138.1.1 = {
+		death="1138.1.1"
+	}
+}
+71381 = {
+	name="Sancha"
+	dynasty=8780
+	female=yes
+	religion="catholic"
+	culture="aragonese"
+	father=71380
+	mother=207654
+	1136.1.1 = {
+		birth="1136.1.1"
+	}
+	1194.1.1 = {
+		death="1194.1.1"
+	}
+}
+71532 = {
+	name="Pedro"
+	dynasty=442
+	religion="catholic"
+	culture="aragonese"
+	father=70231
+	mother=127036
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1104.1.1 = {
+		death="1104.1.1"
+	}
+}
+71581={
+	name="Talesa"
+	female=yes
+	dynasty=442
+
+	father=110515
+	mother=71587
+
+	religion=catholic
+	culture="aragonese"
+
+	1070.1.1={
+		birth=yes
+	}
+	1155.11.1 = {
+		death=yes
+	}
+}
+71582={
+	name="Pedro"
+	dynasty=442
+
+	father=110515
+	mother=71580
+
+	religion=catholic
+	culture="aragonese"
+
+	1067.1.1={
+		birth=yes
+	}
+	1102.1.1={
+		death=yes
+	}
+}
+71583={
+	name="García"
+	dynasty=442
+
+	father=110515
+	mother=71580
+
+	religion=catholic
+	culture="aragonese"
+
+	1068.1.1={
+		birth=yes
+	}
+	1096.1.1={
+		add_spouse=71584
+	}
+	1128.1.1={
+		death=yes
+	}
+}
+71585={
+	name="Pedro"
+	dynasty=442
+
+	father=71583
+	mother=71584
+
+	religion=catholic
+	culture="aragonese"
+
+	1099.1.1={
+		birth=yes
+	}
+	1151.3.21={
+		death=yes
+	}
+}
+71586={
+	name="Lope"
+	dynasty=442
+
+	father=71583
+	mother=71584
+
+	religion=catholic
+	culture="aragonese"
+
+	1097.1.1={
+		birth=yes
+	}
+	1124.1.1={
+		death=yes
+	}
+}
+71588={
+	name="Beatriz"
+	female=yes
+	dynasty=442
+
+	father=110515
+	mother=71587
+
+	religion=catholic
+	culture="aragonese"
+
+	1072.1.1={
+		birth=yes
+	}
+	1116.1.1={
+		death=yes
+	}
+}
+71590 = {
+	name="Isabel"
+	dynasty=442
+	female=yes
+	religion="catholic"
+	culture="aragonese"
+	father=70231
+	mother=127036
+	1092.1.1 = {
+		birth="1092.1.1"
+	}
+	1104.1.1 = {
+		death="1104.1.1"
+	}
+}
+71591 = {
+	name="Ferrando"
+	dynasty=442
+	religion="catholic"
+	culture="aragonese"
+	father=110500
+	mother=71589
+	1080.1.1 = {
+		birth="1080.1.1"
+	}
+	1086.1.1 = {
+		death="1086.1.1"
+	}
+}
+71592 = {
+	name="García"
+	dynasty=442
+	religion="catholic"
+	culture="aragonese"
+	trait="bastard"
+	trait="detached_priest"
+	father=110500
+	1078.1.1 = {
+		birth="1078.1.1"
+	}
+	1133.1.1 = {
+		death="1133.1.1"
+	}
+}
+110500 = {
+	name="Sancho"
+	dynasty=442
+	martial=6
+	diplomacy=7
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="aragonese"
+	trait="flamboyant_schemer"
+	father=110510
+	mother=1077
+	1042.1.1 = {
+		birth="1042.1.1"
+	}
+	1065.1.1 = {
+		add_spouse=110501
+	}
+	1070.1.1 = {
+		remove_spouse=110501
+	}
+	1076.1.1 = {
+		add_spouse=71589
+	}
+	1094.6.4 = {
+		death="1094.6.4"
+	}
+}
+
+110510 = {
+	name="Remiro"
+	dynasty=442
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=5
+	religion="catholic"
+	culture="aragonese"
+	trait="bastard"
+	trait="deceitful"
+	trait="envious"
+	trait="misguided_warrior"
+	father=106030
+	mother=106031
+	1011.1.1 = {
+		birth="1011.1.1"
+	}
+	1036.8.22 = {
+		add_spouse=1077
+	}
+	1063.5.8 = {
+		death="1063.5.8"
+	}
+}
+110511 = {
+	name="García"
+	dynasty=442
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=8
+	religion="catholic"
+	culture="aragonese"
+	trait="scholarly_theologian"
+	father=110510
+	mother=1077
+	1046.1.1 = {
+		birth="1046.1.1"
+	}
+	1086.7.17 = {
+		death="1086.7.17"
+	}
+}
+110512 = {
+	name="Teresa"
+	female = yes
+	dynasty=442
+	martial=4
+	diplomacy=4
+	intrigue=8
+	stewardship=8
+	religion="catholic"
+	culture="aragonese"
+	trait="charitable"
+	trait="thrifty_clerk"
+	father=110510
+	mother=1077
+	1037.1.1 = {
+		birth="1037.1.1"
+	}
+	1065.1.1 = {
+		death="1065.1.1"
+	}
+}
+110513 = {
+	name="Urraca"
+	female = yes
+	dynasty=442
+	martial=5
+	diplomacy=8
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="aragonese"
+	trait="proud"
+	trait="underhanded_rogue"
+	father=110510
+	mother=1077
+	1047.1.1 = {
+		birth="1047.1.1"
+	}
+	1066.1.1 = {
+		employer=110500
+	}
+	1077.1.1 = {
+		death="1077.1.1"
+	}
+}
+110514 = {
+	name="Sancha"
+	female = yes
+	dynasty=442
+	martial=7
+	diplomacy=5
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="aragonese"
+	trait="patient"
+	trait="underhanded_rogue"
+	father=110510
+	mother=1077
+	1048.1.1 = {
+		birth="1048.1.1"
+	}
+	1097.8.16 = {
+		death="1097.8.16"
+	}
+}
+110515={
+	name="Sancho"
+	dynasty=442
+
+	father=110510
+	trait=bastard
+
+	religion=catholic
+	culture="aragonese"
+
+	1042.1.1={
+		birth=yes
+	}
+	1060.1.1={
+		add_spouse=71580
+	}
+	1066.1.1={
+		employer=110500
+	}
+	1069.1.1={
+		add_spouse=71587
+	}
+	1117.1.1={
+		death=yes
+	}
+}
+210507 = {
+	name="Peironela" #AKA: Petronila I
+	female=yes
+	dynasty=442
+	martial=6
+	diplomacy=8
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="aragonese"
+	trait="amateurish_plotter"	
+	trait="proud"
+	trait="kind"
+	trait="content"
+	trait="honest"
+	disallow_random_traits = yes
+
+	father=70233
+	mother=7623
+	1136.7.29 = {
+		birth="1136.7.29"
+	}
+	1174.10.16 = {
+		death="1174.10.16"
+	}
+}

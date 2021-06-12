@@ -1,0 +1,18 @@
+# 1708 - Perugia
+
+# County title
+title = c_perugia
+
+# Settlements
+max_settlements = 3
+b_fratta = castle
+b_perugia = city
+b_assisi = temple
+
+# Misc
+culture = italian
+religion = catholic
+
+# History
+476.9.4 = { culture = "gothic" }
+556.1.1 = { culture = "italian" }

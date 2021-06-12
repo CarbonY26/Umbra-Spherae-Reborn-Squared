@@ -1,0 +1,36 @@
+k_iceland = {
+        color = { 0 86 147 }
+        color2 = { 220 220 220 }
+        culture = icelandic
+        capital = 1258
+        catholic = 100
+        norse_pagan_reformed = 400
+
+k_canarias = { # Canarias
+		color = { 182 198 176 }
+		color2 = { 255 255 255 }
+		capital = 1365 # Tenerife
+
+                bedouin_arabic = "Jazayir Alsueada'"
+                levantine_arabic = "Jazayir Alsueada'"
+                egyptian_arabic = "Jazayir Alsueada'"
+                andalusian_arabic = "Jazayir Alsueada'"
+                sicilian_arabic = "Jazayir Alsueada'"
+		castillan = "Canarias"
+		basque = "Kanariak"
+		aragonese = "Canarias"
+		catalan = "Canàries"
+		leonese = "Canaries"
+                asturian = "Canaries"
+                cantabrian = "Canaries"
+		zanata = "Kanar"
+		galician = "Canárias"
+		portuguese = "Canárias"
+                norman = "Canâries"
+                extremaduran = "Canárias"
+                gothic = "Hulms Kanarjo"
+                crimean_gothic = "Hulms Kanarjo"
+                roman = "Insulae Fortunatae"
+                greek = "Makaron Nesoi"
+
+		culture = guanche

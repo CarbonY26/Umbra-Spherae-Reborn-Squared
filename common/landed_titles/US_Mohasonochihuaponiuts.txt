@@ -1,0 +1,759 @@
+e_mohasonochihuaponiuts = {
+
+	color={ 85 144 229 }
+	color2={ 220 220 220 }
+
+	norse = "Mohasonochihuaponiuts"
+	norwegian = "Mohasonochihuaponiuts"
+	danish = "Mohasonochihuaponiuts"
+	swedish = "Mohasonochihuaponiuts"
+	english = "Mohasonochihuaponiuts"
+	saxon = "Mohasonochihuaponiuts"
+	old_saxon = "Mohasonochihuaponiuts"
+	german = "Mohasonochihuaponiuts"
+
+	capital = 4109 # Maricopa
+
+	k_arizona = {
+
+		color={ 55 54 179 }
+		color2={ 220 220 220 }
+
+		capital = 4109 # Maricopa
+
+		d_utah  = {
+
+			color={ 135 111 23 }
+			color2={ 220 220 220 }
+			
+			capital = 4354 # hidatao
+			
+			c_cokarni = {
+
+				color={ 165 19 63 }
+				color2={ 220 220 220 }
+				
+				b_cokarni = {
+				}
+				b_titsapa = {
+				}
+				b_yankota = {
+			              }
+				b_wasatchcache = {
+				}
+				b_tooele = {
+				}
+				b_timpanagos = {
+				}
+				b_papadsoki = {
+				}
+			}
+			c_cecashone = {
+
+				color={ 135 94 219 }
+				color2={ 220 220 220 }
+				
+				b_oromprovo = {
+				}
+				b_dhugway = {
+				}
+				b_caaocallo = {
+				}
+				b_santaquin = {
+				}
+				b_cecashone = {
+				}
+				b_ephraimanti = {
+				}
+			c_utah = {
+
+				color={ 135 94 219 }
+				color2={ 220 220 220 }
+				
+				b_utah = {
+				}
+				b_wasacatch = {
+				}
+				b_oromprotah = {
+				}
+				b_juntaherapta = {
+				}
+				
+			}
+			c_uintah = {
+
+				color={ 135 94 219 }
+				color2={ 220 220 220 }
+				
+				b_uintah = {
+				}
+				b_tavaputayampa = {
+				}
+				b_uintahyapur = {
+				}
+			}
+			c_monticello = {
+
+				color={ 195 111 136 }
+				color2={ 220 220 220 }
+				
+				b_monticello = {
+				}
+				b_altonah = {
+				}
+				b_tabionauch = {
+				}
+				b_mantilasal = {
+				}
+				b_novorcoda = {
+				}
+			}
+			c_sunrestshone = {
+
+				color={ 195 111 136 }
+				color2={ 220 220 220 }
+				
+				b_laverkrin = {
+				}
+				b_kolobziona = {
+				}
+				b_parowan = {
+				}
+				b_panguitch = {
+				}
+			}
+		}
+		d_arizona = {
+
+			color={ 185 31 73 }
+			color2={ 220 220 220 }
+			
+			capital = 4109 #maricopa 
+			
+			c_maricopa = {
+
+				color={ 55 137 56 }
+				color2={ 220 220 220 }
+				
+				b_maricopa = {
+				}
+				b_phoenizona = {
+				}
+				b_arizoan = {
+				}
+				b_ludashoshone = {
+				}
+				b_faudashone = {
+				}
+			}
+			c_lapaz = {
+
+				color={ 185 14 21 }
+				color2={ 220 220 220 }
+				
+				b_paukeshon= {
+				}
+				b_laupafaurnia = {
+				}
+				b_lapanodiji = {
+				}
+			}
+			c_yuma = {
+
+				color={ 55 137 56 }
+				color2={ 220 220 220 }
+				
+				b_yuma = {
+				}
+				b_yumaxico = {
+				}
+				b_yumicalif = {
+				}
+			}
+			c_pinal = {
+
+				color={ 185 14 21 }
+				color2={ 220 220 220 }
+				
+				b_pinal = {
+				}
+				b_pinalcopa = {
+				}
+				b_fluroshoshone = {
+				}
+			}
+			c_pima = {
+
+				color={ 185 14 21 }
+				color2={ 220 220 220 }
+				
+				b_pima = {
+				}
+				b_pimpina = {
+				}
+				b_pimacaricopa = {
+				}
+			}
+			c_santacruz = {
+
+				color={ 55 137 56 }
+				color2={ 220 220 220 }
+				
+				b_santacruz = {
+				}
+				b_cruzarinoaz = {
+				}
+				b_santamixcio = {
+				}
+			}
+		}
+		d_mohave = {
+
+			color={ 115 41 113 }
+			color2={ 220 220 220 }
+			
+			capital = 4111 # mohave
+			
+			c_mohave = {
+
+				color={ 75 176 86 }
+				color2={ 220 220 220 }
+				
+				b_mohave = {
+				}
+				b_mohayava = {
+				}
+				b_movajova = {
+				}
+				b_eigohave = {
+				}
+			}
+			c_yavapal = {
+
+				color={ 75 176 86 }
+				color2={ 220 220 220 }
+				
+				b_yavapal = {
+				}
+				b_aruitorado = {
+				}
+				b_torozona = {
+				}
+				b_uitorad = {
+				}
+				b_azonmohav = {
+				}
+			}
+			c_coconino = {
+
+				color={ 75 176 86 }
+				color2={ 220 220 220 }
+				
+				b_coconino = {
+				}
+				b_arblirizona = {
+				}
+				b_arbliliz = {
+				}
+				b_arbzapal = {
+				}
+			}
+			c_arblirizona = {
+
+				color={ 95 11 49 }
+				color2={ 220 220 220 }
+				
+				b_arblirizona = {
+				}
+				b_arblicali = {
+				}
+				b_aribaja = {
+				}
+			}
+		}
+		d_paiute = {
+
+			color={ 115 41 113 }
+			color2={ 220 220 220 }
+			
+			capital = 4112 # paiute
+			
+			c_apache = {
+
+				color={ 75 177 76 }
+				color2={ 220 220 220 }
+				
+				b_apache = {
+				}
+				b_apachamamanche = {
+				}
+				b_augustapache = {
+				}
+				b_apasioux = {
+				}
+				b_apashoshone = {
+				}
+				b_apapocatela = {
+				}
+				b_apacholorada = {
+				}
+			}
+			c_mohave = {
+
+				color={ 75 176 86 }
+				color2={ 220 220 220 }
+				
+				b_mohapa = {
+				}
+				b_mohave = {
+				}
+				b_monamevico = {
+				}
+			}
+			c_navajo = {
+
+				color={ 75 176 86 }
+				color2={ 220 220 220 }
+				
+				b_navajo = {
+				}
+				b_navohave = {
+				}
+				b_vajopacha = {
+				}
+			}
+			c_gila = {
+
+				color={ 75 176 86 }
+				color2={ 220 220 220 }
+				
+				b_gila = {
+				}
+				b_gilaglob = {
+				}
+				b_gilishoshone = {
+				}
+			}
+			c_graham = {
+
+				color={ 75 176 86 }
+				color2={ 220 220 220 }
+				
+				b_graham = {
+				}
+				b_safforoch = {
+				}
+				b_crackagram = {
+				}
+			}
+			c_cochise = {
+
+				color={ 95 11 49 }
+				color2={ 220 220 220 }
+				
+				b_cochise = {
+				}
+				b_cocimex = {
+				}
+				b_risbeechochise = {
+				}
+			}
+		}
+	}
+	k_colorado = {
+
+		color={ 60 94 176 }
+		color2={ 220 220 220 }
+
+		capital = 4356 # Omahokansas
+		d_anasasi = {
+
+			color={ 215 71 163 }
+			color2={ 220 220 220 }
+			
+			capital = 4375 # shirstrawnee
+			
+			c_shirstrawnee = {
+
+				color={ 95 137 96 }
+				color2={ 220 220 220 }
+				
+				b_denver = {
+				}
+				b_shirstrawnee = {
+				}
+				b_bihujantee = {
+				}
+				b_arapahoe = {
+				}
+				b_bahldrador = {
+				}
+				b_southpark = {
+				}
+				b_telcracrips = {
+				}
+			}
+			c_anasasi = {
+
+				color={ 166 193 114 }
+				color2={ 220 220 220 }
+				
+				b_anasasi = {
+				}
+				b_montezasi = {
+				}
+				b_duplazyum = {
+				}
+				b_ourcoloray = {
+				}
+				b_mahnontrose = {
+				}
+			}
+			c_ute = {
+
+				color={ 166 193 114 }
+				color2={ 220 220 220 }
+				
+				b_ute = {
+				}
+				b_moffaroutt = {
+				}
+				b_mesaegle = {
+				}
+				b_aspenikin = {
+				}
+			}
+			c_duranrado = {
+
+				color={ 188 14 68 }
+				color2={ 220 220 220 }
+				
+				b_duranrado = {
+				}
+				b_saguache = {
+			              }
+				b_alamosaconejos = {
+				}
+				b_huerfapueblo = {
+				}
+			}
+			c_jicarilla = {
+
+				color={ 195 94 137 }
+				color2={ 220 220 220 }
+				
+				b_jicarilla = {
+				}
+				b_lajuntapinocha = {
+				}
+				b_tenkwatawa = {
+				}
+				b_bacaminsal = {
+				}
+			}
+			c_jicarilla = {
+
+				color={ 195 94 137 }
+				color2={ 220 220 220 }
+				
+				b_jicarilla = {
+				}
+				b_lajuntapinocha = {
+				}
+				b_tenkwatawa = {
+				}
+				b_bacaminsal = {
+				}
+			}
+			c_commanche = {
+
+				color={ 195 94 137 }
+				color2={ 220 220 220 }
+				
+				b_commanche = {
+				}
+				b_kiowads = {
+				}
+				b_cheyiowka = {
+				}
+				b_kitymyuma = {
+				}
+			}
+			c_ arapaha = {
+
+				color={ 195 94 137 }
+				color2={ 220 220 220 }
+				
+				b_arapaha = {
+				}
+				b_sedwick = {
+				}
+				b_akronweiy = {
+				}
+			}
+		}
+		d_sierhidalgomex = {
+
+			color={ 155 61 56 }
+			color2={ 220 220 220 }
+			
+			capital = 4095 # albuquerque
+			
+			c_albuquerque = {
+
+				color={ 35 137 26 }
+				color2={ 220 220 220 }
+				
+				b_albaquerque = {
+				}
+				b_fesantaque = {
+				}
+				b_eletenmex = {
+				}
+				b_querquexicomex = {
+				}
+			}
+			c_santafe = {
+
+				color={ 45 223 83 }
+				color2={ 220 220 220 }
+				
+				b_santafe = {
+				}
+				b_toaspriger = {
+				}
+				b_amarillerra = {
+				}
+				b_tucumcarque = {
+				}
+				b_taosafetas = {
+				}
+				b_cleyfeant = {
+				}
+				b_logonesse = {
+				}
+			}
+			c_clovis = {
+
+				color={ 66 38 71 }
+				color2={ 220 220 220 }
+				
+				b_clovis = {
+				}
+				b_cloveyemnes = {
+			              }
+				b_cloybacadras = {
+				}
+				b_gualupiuel = {
+				}
+			}
+			c_pawkan = {
+
+				color={ 35 134 164 }
+				color2={ 220 220 220 }
+				
+				b_pawkan = {
+				}
+				b_braskansas = {
+				}
+				b_mankatocha = {
+				}
+				b_wakeenyul = {
+				}
+			}
+			c_roswell = {
+
+				color={ 37 130 174 }
+				color2={ 220 220 220 }
+				
+				b_roswell = {
+				}
+				b_ledacarls = {
+				}
+				b_fraudelrooshorrun = {
+				}
+			}
+			c_alamogordo = {
+
+				color={ 95 91 132 }
+				color2={ 220 220 220 }
+				
+				b_alamogordo = {
+				}
+				b_hidaluge = {
+				}
+				b_socorocaltro = {
+				}
+			}
+			c_truthorconsequenses = {
+
+				color={ 15 231 48 }
+				color2={ 220 220 220 }
+				
+				b_truuthexic = {
+				}
+				b_sierdonrant = {
+				}
+				b_otercaront = {
+				}
+			}
+		}
+	}
+		k_nevada = {
+
+		color={ 60 94 176 }
+		color2={ 220 220 220 }
+
+		capital = 4230 # Omahokansas
+		d_rentacarson = {
+
+			color={ 215 71 163 }
+			color2={ 220 220 220 }
+			
+			capital = 4230 # rentacar
+			
+			c_rentacar = {
+
+				color={ 95 137 96 }
+				color2={ 220 220 220 }
+				
+				b_rentacarvina = {
+				}
+				b_vyagerlash = {
+				}
+				b_renospash = {
+				}
+				b_ferfelluit = {
+				}
+				b_yerlingtern = {
+				}
+				b_midagarsho = {
+				}
+				b_mithigaursh = {
+				}
+			}
+			c_ashbabbithor = {
+
+				color={ 166 193 114 }
+				color2={ 220 220 220 }
+				
+				b_ashbabbithor = {
+				}
+				b_asbabitt = {
+				}
+				b_awthermina = {
+				}
+				b_mogomershone = {
+				}
+			}
+			c_paiute = {
+
+				color={ 75 177 76 }
+				color2={ 220 220 220 }
+				
+				b_paiute = {
+				}
+				b_canabrizo = {
+				}
+				b_mohaiut = {
+				}
+				b_javmojaz = {
+				}
+				b_chiuajove = {
+				}
+				b_xecsiut = {
+				}
+				b_xecalinorious = {
+				}
+			}
+			c_kamangandakittsih = {
+
+				color={ 188 14 68 }
+				color2={ 220 220 220 }
+				
+				b_imlashone = {
+				}
+				b_falloshonk = {
+			              }
+				b_ruthelly = {
+				}
+				b_kamangandakittsih = {
+				}
+			}
+		}
+		d_tonammutahni = {
+
+			color={ 155 61 56 }
+			color2={ 220 220 220 }
+			
+			capital = 4709 # tonammutahni
+			
+			c_tonammutahni = {
+
+				color={ 35 137 26 }
+				color2={ 220 220 220 }
+				
+				b_tonammutahni = {
+				}
+				b_piamutahni = {
+				}
+				b_eletenmex = {
+				}
+				b_eurkututni = {
+				}
+			}
+			c_pahromp = {
+
+				color={ 45 223 83 }
+				color2={ 220 220 220 }
+				
+				b_tonopahromp = {
+				}
+				b_gabhrompa = {
+				}
+				b_baankapampibui = {
+				}
+				b_pahromp = {
+				}
+			}
+			c_elko = {
+
+				color={ 66 38 71 }
+				color2={ 220 220 220 }
+				
+				b_elkarliee = {
+				}
+				b_mowelltello = {
+			              }
+				b_tuscarleko = {
+				}
+			}
+			c_havaaupai = {
+
+				color={ 35 134 164 }
+				color2={ 220 220 220 }
+				
+				b_logashaon = {
+				}
+				b_overishinshon = {
+				}
+				b_havaaupai = {
+				}
+			}
+			c_gosiute = {
+
+				color={ 37 130 174 }
+				color2={ 220 220 220 }
+				
+				b_gosiute = {
+				}
+				b_piocpanac = {
+				}
+				b_havaaupaiute = {
+				}
+				b_alamsquith = {
+				}
+			}
+		}
+	}
+}

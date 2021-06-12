@@ -1,0 +1,22 @@
+# 4116 - Petsamo
+
+# County Title
+title = c_petsamo
+
+# Settlements
+max_settlements = 7
+
+b_petsamo = tribal
+
+#b_kolosjoki = tribal
+#b_kolttaköngäs = tribal
+#b_rajakoski = tribal
+#b_salmijarvi = tribal
+#b_luostari = tribal
+#b_vaitolahti = tribal
+
+# Misc
+culture = lappish
+religion = finnish_pagan
+
+# History

@@ -1,0 +1,573 @@
+# Visigothic character may convert to Leonese
+convert_to_leonese = {
+		only_playable = yes
+		
+		filter = self
+		ai_target_filter = self
+		ai_check_interval = 60
+		
+		potential = {
+			is_playable = yes
+			culture = visigothic
+                        religion_group = christian
+			capital_scope = {
+				region = custom_leonese
+			}
+			any_realm_province = {
+				culture = leonese
+			}
+			NOT = { government = chinese_imperial_government }
+			NOT = {
+				has_alternate_start_parameter = { key = culture_names value = random }
+			}
+		}
+		allow = {
+			culture = visigothic
+		}
+		effect = {
+			any_courtier = {
+				limit = {
+					culture = ROOT
+					employer = { character = ROOT }
+					dynasty = ROOT
+				}
+				culture = leonese
+			}
+			culture = leonese
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0.5 # Slow it down a bit
+			}
+			
+			modifier = {
+				factor = 0.01
+				capital_scope = {
+					NOT = { culture = leonese }
+				}
+			}
+			modifier = {
+				factor = 2.0
+				liege = { culture = leonese }
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 2
+					culture = leonese
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 4
+					culture = leonese
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 6
+					culture = leonese
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 8
+					culture = leonese
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 10
+					culture = leonese
+				}
+			}
+		}
+	}	
+# Visigothic character may convert to Extremaduran
+convert_to_extremaduran = {
+		only_playable = yes
+		
+		filter = self
+		ai_target_filter = self
+		ai_check_interval = 60
+		
+		potential = {
+			is_playable = yes
+			culture = visigothic
+                        religion_group = christian
+			capital_scope = {
+				region = custom_extremaduran
+			}
+			any_realm_province = {
+				culture = extremaduran
+			}
+			NOT = { government = chinese_imperial_government }
+			NOT = {
+				has_alternate_start_parameter = { key = culture_names value = random }
+			}
+		}
+		allow = {
+			culture = visigothic
+		}
+		effect = {
+			any_courtier = {
+				limit = {
+					culture = ROOT
+					employer = { character = ROOT }
+					dynasty = ROOT
+				}
+				culture = extremaduran
+			}
+			culture = extremaduran
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0.5 # Slow it down a bit
+			}
+			
+			modifier = {
+				factor = 0.01
+				capital_scope = {
+					NOT = { culture = extremaduran }
+				}
+			}
+			modifier = {
+				factor = 2.0
+				liege = { culture = extremaduran }
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 2
+					culture = extremaduran
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 4
+					culture = extremaduran
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 6
+					culture = extremaduran
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 8
+					culture = extremaduran
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 10
+					culture = extremaduran
+				}
+			}
+		}
+	}	
+# Visigothic character may convert to Andalusian Romance
+convert_to_andalusian_romance = {
+		only_playable = yes
+		
+		filter = self
+		ai_target_filter = self
+		ai_check_interval = 60
+		
+		potential = {
+			is_playable = yes
+			culture = visigothic
+			capital_scope = {
+				region = custom_mozarabic
+			}
+			any_realm_province = {
+				culture = andalusian_romance
+			}
+                        OR = {
+                                religion_group = christian
+                                religion_group = muslim
+                        }
+			NOT = { government = chinese_imperial_government }
+			NOT = {
+				has_alternate_start_parameter = { key = culture_names value = random }
+			}
+		}
+		allow = {
+			culture = visigothic
+		}
+		effect = {
+			any_courtier = {
+				limit = {
+					culture = ROOT
+					employer = { character = ROOT }
+					dynasty = ROOT
+				}
+				culture = andalusian_romance
+			}
+			culture = andalusian_romance
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0.5 # Slow it down a bit
+			}
+			
+			modifier = {
+				factor = 0.01
+				capital_scope = {
+					NOT = { culture = andalusian_romance }
+				}
+			}
+			modifier = {
+				factor = 2.0
+				liege = { culture = andalusian_romance }
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 2
+					culture = andalusian_romance
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 4
+					culture = andalusian_romance
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 6
+					culture = andalusian_romance
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 8
+					culture = andalusian_romance
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 10
+					culture = andalusian_romance
+				}
+			}
+		}
+	}	
+# Visigothic character may convert to Asturian
+convert_to_asturian = {
+		only_playable = yes
+		
+		filter = self
+		ai_target_filter = self
+		ai_check_interval = 60
+		
+		potential = {
+			is_playable = yes
+			culture = visigothic
+			religion_group = christian
+			capital_scope = {
+				region = custom_asturian
+			}
+			any_realm_province = {
+				culture = asturian
+			}
+			NOT = { government = chinese_imperial_government }
+			NOT = {
+				has_alternate_start_parameter = { key = culture_names value = random }
+			}
+		}
+		allow = {
+			culture = visigothic
+		}
+		effect = {
+			any_courtier = {
+				limit = {
+					culture = ROOT
+					employer = { character = ROOT }
+					dynasty = ROOT
+				}
+				culture = asturian
+			}
+			culture = asturian
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0.5 # Slow it down a bit
+			}
+			
+			modifier = {
+				factor = 0.01
+				capital_scope = {
+					NOT = { culture = asturian }
+				}
+			}
+			modifier = {
+				factor = 2.0
+				liege = { culture = asturian }
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 2
+					culture = asturian
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 4
+					culture = asturian
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 6
+					culture = asturian
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 8
+					culture = asturian
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 10
+					culture = asturian
+				}
+			}
+		}
+	}	
+# Visigothic character may convert to Aragonese
+convert_to_aragonese = {
+		only_playable = yes
+		
+		filter = self
+		ai_target_filter = self
+		ai_check_interval = 60
+		
+		potential = {
+			is_playable = yes
+			culture = visigothic
+			religion_group = christian
+			capital_scope = {
+				region = custom_aragonese
+			}
+			any_realm_province = {
+				culture = aragonese
+			}
+			NOT = { government = chinese_imperial_government }
+			NOT = {
+				has_alternate_start_parameter = { key = culture_names value = random }
+			}
+		}
+		allow = {
+			culture = visigothic
+		}
+		effect = {
+			any_courtier = {
+				limit = {
+					culture = ROOT
+					employer = { character = ROOT }
+					dynasty = ROOT
+				}
+				culture = aragonese
+			}
+			culture = aragonese
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0.5 # Slow it down a bit
+			}
+			
+			modifier = {
+				factor = 0.01
+				capital_scope = {
+					NOT = { culture = aragonese }
+				}
+			}
+			modifier = {
+				factor = 2.0
+				liege = { culture = aragonese }
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 2
+					culture = aragonese
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 4
+					culture = aragonese
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 6
+					culture = aragonese
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 8
+					culture = aragonese
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 10
+					culture = aragonese
+				}
+			}
+		}
+	}	
+# Suebi or Visigothic character may convert to Galician
+	convert_to_galician = {
+		only_playable = yes
+		
+		filter = self
+		ai_target_filter = self
+		ai_check_interval = 60
+		
+		potential = {
+			is_playable = yes
+			OR = {
+				culture = suebi
+				culture = visigothic
+			}
+			religion_group = christian
+			capital_scope = {
+				region = custom_galician
+			}
+			any_realm_province = {
+				culture = galician
+			}
+			NOT = { government = chinese_imperial_government }
+			NOT = {
+				has_alternate_start_parameter = { key = culture_names value = random }
+			}
+		}
+		allow = {
+			OR = {
+				culture = suebi
+				culture = visigothic
+			}
+		}
+		effect = {
+			any_courtier = {
+				limit = {
+					culture = ROOT
+					employer = { character = ROOT }
+					dynasty = ROOT
+				}
+				culture = galician
+			}
+			culture = galician
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			
+			modifier = {
+				factor = 0.5 # Slow it down a bit
+			}
+			
+			modifier = {
+				factor = 0.01
+				capital_scope = {
+					NOT = { culture = galician }
+				}
+			}
+			modifier = {
+				factor = 2.0
+				liege = { culture = galician }
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 2
+					culture = galician
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 4
+					culture = galician
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 6
+					culture = galician
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 8
+					culture = galician
+				}
+			}
+			modifier = {
+				factor = 1.1
+				num_culture_realm_provs = {
+					value = 10
+					culture = galician
+				}
+			}
+		}
+	}

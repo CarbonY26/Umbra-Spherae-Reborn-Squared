@@ -1,0 +1,23 @@
+# 4074 - Gatchina
+
+# County Title
+title = c_gatchina
+
+# Settlements
+max_settlements = 7
+
+b_gatchina = tribal
+#b_koprino = tribal
+#b_annino = tribal
+#b_bolsije_kolpany = tribal
+#b_malen'kij_kolpany = tribal
+#b_krasnoje_selo = tribal
+#b_oranienbaum = tribal
+
+# Misc
+culture = ingrian
+religion = finnish_pagan
+
+# History
+1150.1.1 = { religion = orthodox }
+1620.1.1 = { culture = finnish }

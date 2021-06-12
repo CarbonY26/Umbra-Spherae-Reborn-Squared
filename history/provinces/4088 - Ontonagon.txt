@@ -1,0 +1,13 @@
+# 4088 - Ontonagon 
+
+# County Title
+title = c_
+
+# Settlements
+max_settlements = 
+
+# Misc
+culture = 
+religion = 
+
+# History

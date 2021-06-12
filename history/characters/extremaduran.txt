@@ -1,0 +1,160 @@
+73167={
+	name="Fernandu"
+
+	religion=catholic
+	culture="extremaduran"
+
+	trait=martial_cleric
+
+	1231.1.1={
+		birth=yes
+	}
+	1249.1.1={
+		employer=73161
+	}
+	1254.1.1={
+		employer=73166
+	}
+	1284.1.1={
+		employer=0
+	}
+	1292.1.1={
+		death=yes
+	}
+}
+73171 = {
+	name="Sueru"
+	dynasty = 12191
+	religion="catholic"
+	culture="extremaduran"
+	trait="martial_cleric"
+	father=73175
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1288.1.1 = {
+		employer=73167
+	}
+	1292.1.1 = {
+		employer=73168
+	}
+	1296.1.1 = {
+		employer=73169
+	}
+	1312.1.1 = {
+		employer=73170
+	}
+	1318.1.1 = {
+		employer=0
+	}
+	1334.1.1={
+		death="1334.1.1"
+	}
+}
+73172 = {
+	name="Rodrigu"
+	dynasty = 12191
+	religion="catholic"
+	culture="extremaduran"
+	trait="martial_cleric"
+	father=73175
+	1272.1.1={
+		birth="1272.1.1"
+	}
+	1290.1.1 = {
+		employer=73167
+	}
+	1292.1.1 = {
+		employer=73168
+	}
+	1296.1.1 = {
+		employer=73169
+	}
+	1312.1.1 = {
+		employer=73170
+	}
+	1318.1.1 = {
+		employer=73171
+	}
+	1334.1.1 = {
+		employer=0
+	}
+	1335.1.1={
+		death="1335.1.1"
+	}
+}
+73173={
+	name="Fernandu"
+
+	religion=catholic
+	culture="extremaduran"
+
+	trait=martial_cleric
+
+	1280.1.1={
+		birth=yes
+	}
+	1298.1.1={
+		employer=73169
+	}
+	1312.1.1={
+		employer=73170
+	}
+	1318.1.1={
+		employer=73171
+	}
+	1334.1.1={
+		employer=73172
+	}
+	1335.1.1={
+		employer=0
+	}
+	1335.7.1={
+		death=yes
+	}
+}
+73174={
+	name="Sueru"
+
+	religion=catholic
+	culture="extremaduran"
+
+	trait=martial_cleric
+
+	1286.1.1={
+		birth=yes
+	}
+	1304.1.1={
+		employer=73169
+	}
+	1312.1.1={
+		employer=73170
+	}
+	1318.1.1={
+		employer=73171
+	}
+	1334.1.1={
+		employer=73172
+	}
+	1335.1.1={
+		employer=73173
+	}
+	1335.7.1={
+		employer=0
+	}
+	1337.1.1={
+		death=yes
+	}
+}
+73175 = {
+	name="Pedru"
+	dynasty = 12191
+	religion="catholic"
+	culture="extremaduran"
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}

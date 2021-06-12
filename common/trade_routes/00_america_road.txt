@@ -1,0 +1,156 @@
+america_road = {
+	wealth = 29			# Total base wealth of silk route
+	trade_post_display_trigger = {
+		OR = {
+			province_id = 3861
+			province_id = 3860
+			province_id = 3859
+			province_id = 3856
+			province_id = 3855
+			province_id = 3854
+			province_id = 3852
+			province_id = 3848
+                        		province_id = 3755
+                       	 	province_id = 3754
+                       		province_id = 3753
+                       		province_id = 3757
+                       		province_id = 3760
+                     		province_id = 3759
+                     		province_id = 3758
+                       		province_id = 3744
+                       		province_id = 3745
+                       		province_id = 3743
+                       		province_id = 3736
+                       		province_id = 3732
+                       		province_id = 3720
+                       		province_id = 3728
+                       		province_id = 3723
+                       		province_id = 3718
+                       		province_id = 3717
+                       		province_id = 3807
+                       		province_id = 3715
+                       		province_id = 3769
+                       		province_id = 3770
+                       		province_id = 3777
+                       		province_id = 3778
+                       		province_id = 3780
+                       		province_id = 3784
+                       		province_id = 3787
+                       		province_id = 3788
+                       		province_id = 3792
+                       		province_id = 3793
+                       		province_id = 3796
+                       		province_id = 3804
+                       		province_id = 3802
+                       		province_id = 3801
+                       		province_id = 3800
+                       		province_id = 3706
+                       		province_id = 3704
+                       		province_id = 3701
+                       		province_id = 3694
+                       		province_id = 3693
+                       		province_id = 3692
+                       		province_id = 3691
+                       		province_id = 3643
+                       		province_id = 3642
+                       		province_id = 3641
+                       		province_id = 3639
+                       		province_id = 3638
+                       		province_id = 3637
+                       		province_id = 3636
+                       		province_id = 3635
+                       		province_id = 3634
+                       		province_id = 3632
+                       		province_id = 3631
+                       		province_id = 3630
+                       		province_id = 3629
+                       		province_id = 3628
+                       		province_id = 3627
+                       		province_id = 3620
+                       		province_id = 3619
+                       		province_id = 3618
+                       		province_id = 3613
+                       		province_id = 3614
+                       		province_id = 3615
+                       		province_id = 3540
+                       		province_id = 3528
+                       		province_id = 3529
+                       		province_id = 3527
+                       		province_id = 3525
+                       		province_id = 3524
+                       		province_id = 3522
+                       		province_id = 3516
+                       		province_id = 3517
+		province_id = 3863
+		province_id = 3907
+		province_id = 3910
+		province_id = 3866
+		province_id = 3918
+		province_id = 3921
+		province_id = 3925
+		province_id = 3933
+		province_id = 3936
+		province_id = 3941
+		province_id = 3943
+		province_id = 3949
+		province_id = 3950
+		province_id = 3959
+		province_id = 3960
+#		province_id = 3870
+#		province_id = 3873
+#		province_id = 3896
+#		province_id = 3902
+#		province_id = 3894
+#		province_id = 3880
+#		province_id = 3884
+#		province_id = 3887
+#		province_id = 3968
+#		province_id = 3974
+#		province_id = 3980
+#		province_id = 4019
+#		province_id = 4008
+#		province_id = 4013
+#		province_id = 4017
+#		province_id = 4035
+#		province_id = 4040
+#		province_id = 4043
+#		province_id = 4047
+#		province_id = 4050		
+		
+
+		}
+	}
+
+	modifier = {			# How the trade route modifies the provinces it passes
+		castle_tax_modifier = 0.10
+		city_tax_modifier = 0.10
+		temple_tax_modifier = 0.10
+		tribal_tax_modifier = 0.20
+		trade_route_value = 15
+		local_movement_speed = 0.25
+		tech_growth_modifier = 0.15
+		icon = 4
+	}
+
+	start = {				# Start provinces of trade route
+		3861 
+		3778
+		3517	
+		3960	
+#		4050
+	}
+
+	# Northern Silk Route
+	path = {	# Jiuquan-Anxi-Dunhuang
+		3861 3860 3859 3856 3855 3854 3852 3848 3755 3754 3753 3757 3760 3759 3758 3744 3745 3743 3736 3732 3720 3728 3723 3718 3717 3807 3715 3769 3770 3777 3778
+	}
+	path = {	
+		3778 3780 3784 3787 3788 3792 3793 3796 3804 3802 3801 3800 3706 3704 3701 3694 3693 3692 3691 3643 3642 3641 3639 3638 3637 3636 3635 3634 3632 3631 3630 3629 3628 3627 3620 3619 3618 3613 3614 3615 3540 3528 3529 3527 3525 3524 3522 3516 3517		
+	}
+	path = {	
+		3861 3862 3863 3864 3910 3907 3912 3866 3867 3918 3920 3921 3923 3925 3927 3930 3933 3935 3936 3939 3941 3943 3945 3947 3949 3950 3954 3959 3960
+	}
+#	path = {	
+#		3861 3862 3863 3868 3869 3870 3871 3873 3874 3897 3898 3903 3902 3900 3899 3896 3894 3879 3880 3881 3891 3887 3884 3885 3968 3969 3970 3974 3973 3978 3980 3985 3986 4019 3997 4008 4011 4013 4014 4012 4017 4035 4036 4040 4041 4043 4046 4047 4048 4050
+#	}	
+}

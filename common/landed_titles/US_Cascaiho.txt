@@ -1,0 +1,485 @@
+e_cascaiho = {
+
+	color={ 85 144 229 }
+	color2={ 220 220 220 }
+
+	norse = "Mohasonochihuaponiuts"
+	norwegian = "Mohasonochihuaponiuts"
+	danish = "Mohasonochihuaponiuts"
+	swedish = "Mohasonochihuaponiuts"
+	english = "Mohasonochihuaponiuts"
+	saxon = "Mohasonochihuaponiuts"
+	old_saxon = "Mohasonochihuaponiuts"
+	german = "Mohasonochihuaponiuts"
+
+	capital = 4437 # Goxiute
+
+	k_idaho = {
+
+		color={ 55 54 179 }
+		color2={ 220 220 220 }
+
+		capital = 4437 # Goxiute
+
+		d_idaho  = {
+
+			color={ 135 111 23 }
+			color2={ 220 220 220 }
+			
+			capital = 4437 # Goxiute
+			
+			c_goxiute = {
+
+				color={ 165 19 63 }
+				color2={ 220 220 220 }
+				
+				b_goxiute = {
+				}
+				b_adaboise = {
+				}
+				b_owyhiux = {
+			              }
+				b_idauite = {
+				}
+				b_goxiucade = {
+				}
+				b_goxicore = {
+				}
+				b_payedaboi = {
+				}
+			}
+			c_bannock = {
+
+				color={ 135 94 219 }
+				color2={ 220 220 220 }
+				
+				b_bannack = {
+				}
+				b_bannevada = {
+				}
+				b_baugoix = {
+				}
+				b_bauical = {
+				}
+			}
+			c_nexperc = {
+
+				color={ 195 111 136 }
+				color2={ 220 220 220 }
+				
+				b_nexpercado = {
+				}
+				b_idanexpec = {
+				}
+				b_idamontapec = {
+				}
+			}
+			c_naashashon = {
+
+				color={ 195 111 136 }
+				color2={ 220 220 220 }
+				
+				b_naashashon = {
+				}
+				b_naashasalt = {
+				}
+				b_shashanaas = {
+				}
+			}
+			c_lemni = {
+
+				color={ 195 111 136 }
+				color2={ 220 220 220 }
+				
+				b_lemni = {
+				}
+				b_leminniess = {
+				}
+				b_swyodriggs = {
+				}
+			}
+			c_idaho = {
+
+				color={ 195 111 136 }
+				color2={ 220 220 220 }
+				
+				b_idaho = {
+				}
+				b_idahauxite = {
+				}
+				b_idabashason = {
+				}
+			}
+			c_spokane = {
+
+				color={ 195 111 136 }
+				color2={ 220 220 220 }
+				
+				b_idahospoka = {
+				}
+				b_spokane = {
+				}
+				b_nezpercane = {
+				}
+			}
+				c_kalinpal = {
+
+				color={ 195 111 136 }
+				color2={ 220 220 220 }
+				
+				b_kalinpal = {
+				}
+				b_palikanada = {
+				}
+				b_colinpowl = {
+				}
+			}
+		}
+		d_idaogon = {
+
+			color={ 185 31 73 }
+			color2={ 220 220 220 }
+			
+			capital = 4448 #walatpu
+			
+			c_nordshone = {
+
+				color={ 55 137 56 }
+				color2={ 220 220 220 }
+				
+				b_nordshone = {
+				}
+				b_shodokidaho = {
+				}
+				b_malhueiaho = {
+				}
+				b_malhuvalneda = {
+				}
+
+			}
+			c_bakashosh = {
+
+				color={ 185 14 21 }
+				color2={ 220 220 220 }
+				
+				b_bakashosh= {
+				}
+				b_bakagransho = {
+				}
+				b_klamathso = {
+				}
+			}
+			c_walatpu = {
+
+				color={ 55 137 56 }
+				color2={ 220 220 220 }
+				
+				b_walatpu = {
+				}
+				b_walatpushosho = {
+				}
+				b_walihdao = {
+				}
+			}
+			c_tenina = {
+
+				color={ 185 14 21 }
+				color2={ 220 220 220 }
+				
+				b_tenina = {
+				}
+				b_tenishaosh = {
+				}
+				b_tenawheel = {
+				}
+			}
+			c_umitilla = {
+
+				color={ 185 14 21 }
+				color2={ 220 220 220 }
+				
+				b_umtilla = {
+				}
+				b_umtillashona = {
+				}
+				b_umtilera = {
+				}
+			}
+			c_yakima = {
+
+				color={ 55 137 56 }
+				color2={ 220 220 220 }
+				
+				b_yakimashosone = {
+				}
+				b_yakima = {
+				}
+				b_yakawallla = {
+				}
+			}
+		}
+		d_washacadia = {
+
+			color={ 115 41 113 }
+			color2={ 220 220 220 }
+			
+			capital = 4466 # methow
+			
+			c_methow = {
+
+				color={ 75 177 76 }
+				color2={ 220 220 220 }
+				
+				b_methowsho = {
+				}
+				b_methow = {
+				}
+				b_methoskane = {
+				}
+				b_methanada = {
+				}
+				b_pendorielle = {
+				}
+				b_okanogan = {
+				}
+				b_cheladroug = {
+				}
+			}
+			c_palun = {
+
+				color={ 75 176 86 }
+				color2={ 220 220 220 }
+				
+				b_palun = {
+				}
+				b_palunmeth = {
+				}
+				b_palalinko = {
+				}
+			}
+			c_walawala = {
+
+				color={ 75 176 86 }
+				color2={ 220 220 220 }
+				
+				b_walakada = {
+				}
+				b_walorega = {
+				}
+				b_bentowagon = {
+				}
+				b_walakliklat = {
+				}
+			}
+			c_qually = {
+
+				color={ 75 176 86 }
+				color2={ 220 220 220 }
+				
+				b_qually = {
+				}
+				b_whatacomshin = {
+				}
+				b_snohomish = {
+				}
+			}
+			c_chenaliu = {
+
+				color={ 95 11 49 }
+				color2={ 220 220 220 }
+				
+				b_chenaliu = {
+				}
+				b_chenaligeron = {
+				}
+				b_cheylimpian = {
+				}
+			}
+			c_chenaliu = {
+
+				color={ 95 11 49 }
+				color2={ 220 220 220 }
+				
+				b_chenaliu = {
+				}
+				b_chenaligeron = {
+				}
+				b_cheylimpian = {
+				}
+			}
+		}
+	}
+	k_orecadia = {
+
+		color={ 60 94 176 }
+		color2={ 220 220 220 }
+
+		capital = 4461 # ninqually
+		d_washicascoregon = {
+
+			color={ 215 71 163 }
+			color2={ 220 220 220 }
+			
+			capital = 4461 # ninqually
+			
+			c_ninqually = {
+
+				color={ 95 137 96 }
+				color2={ 220 220 220 }
+				
+				b_olympiash = {
+				}
+				b_seatsap = {
+				}
+				b_kitsap = {
+				}
+				b_thrushosho = {
+				}
+				b_skagitspa = {
+				}
+				b_washorca = {
+				}
+				b_pacijuan = {
+				}
+			}
+			c_hastalblahat = {
+
+				color={ 166 193 114 }
+				color2={ 220 220 220 }
+				
+				b_hastablahat = {
+				}
+				b_clallam = {
+				}
+				c_lallambia = {
+				}
+			}
+			c_nootka = {
+
+				color={ 166 193 114 }
+				color2={ 220 220 220 }
+				
+				b_nootka = {
+				}
+				b_nootpacica = {
+				}
+				b_nootesano = {
+				}
+				b_noowahkiakum = {
+				}
+				b_komliztark = {
+				}
+			}
+			c_wahkiakum = {
+
+				color={ 166 193 114 }
+				color2={ 220 220 220 }
+				
+				b_wahkiakum = {
+				}
+				b_kiakumwah = {
+				}
+				b_wahioregon = {
+				}
+			}
+			c_ouinault = {
+
+				color={ 166 193 114 }
+				color2={ 220 220 220 }
+				
+				b_ouinault = {
+				}
+				b_kiakumwah = {
+				}
+				b_ouinurego = {
+				}
+			}
+		}
+		d_multnomah = {
+
+			color={ 155 61 56 }
+			color2={ 220 220 220 }
+			
+			capital = 4453 # aasalem
+			
+			c_chinosk = {
+
+				color={ 35 137 26 }
+				color2={ 220 220 220 }
+				
+				b_chinosk = {
+				}
+				b_chinsho = {
+				}
+				b_multnochin = {
+				}
+			}
+			c_cosolitz = {
+
+				color={ 45 223 83 }
+				color2={ 220 220 220 }
+				
+				b_multnomah = {
+				}
+				b_oregramult = {
+				}
+				b_coscoreg = {
+				}
+				b_kirklahn = {
+				}
+				b_antifosoo = {
+				}
+			}
+			c_aasalem = {
+
+				color={ 66 38 71 }
+				color2={ 220 220 220 }
+				
+				b_aasalem = {
+				}
+				b_hoorivawas = {
+			              }
+				b_clackamas = {
+				}
+				b_yamsalarion = {
+				}
+			}
+			c_tillamask = {
+
+				color={ 37 130 174 }
+				color2={ 220 220 220 }
+				
+				b_tillamask = {
+				}
+				b_tilliuthium = {
+				}
+				b_tilimooklacka = {
+				}
+			}
+			c_silera = {
+
+				color={ 95 91 132 }
+				color2={ 220 220 220 }
+				
+				b_silera = {
+				}
+				b_sileruth = {
+				}
+				b_coosdaga = {
+				}
+			}
+			c_kalopuya = {
+
+				color={ 15 231 48 }
+				color2={ 220 220 220 }
+				
+				b_kalopuya = {
+				}
+				b_kalojack = {
+				}
+				b_kaloklamphine = {
+				}
+			}
+		}
+	}
+}

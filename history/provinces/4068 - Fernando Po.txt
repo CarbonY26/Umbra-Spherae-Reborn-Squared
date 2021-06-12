@@ -1,0 +1,22 @@
+# 4068 - Fernando Po
+
+# County Title
+title = c_fernando_po
+
+# Settlements
+max_settlements = 7
+
+b_malabo = tribal
+
+#b_rebola = tribal
+#b_luba = tribal
+#b_palea = tribal
+#b_riaba = tribal
+#b_baney = tribal
+#b_ureca = tribal
+
+# Misc
+culture = bubi
+religion = west_african_pagan
+
+# History

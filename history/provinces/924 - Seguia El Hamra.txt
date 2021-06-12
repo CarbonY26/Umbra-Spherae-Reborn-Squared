@@ -1,0 +1,28 @@
+# 924 - Seguia El Hamra
+
+# County Title
+title = c_seguia_el_hamra
+
+# Settlements
+max_settlements = 3
+
+b_laayoune = castle
+
+#b_bojador = city
+#b_smara = temple
+#b_hawza = castle
+#b_mahbas = city
+#b_bir_lehlou = temple
+#b_tifariti = castle
+
+# Misc
+culture = tashellhit
+religion = shiite
+
+# History
+767.1.1 = { religion = ibadi }
+867.1.1 = {
+	religion = shiite        
+}
+947.1.1 = { religion = sunni }
+1750.1.1 = { culture = bedouin_arabic }

@@ -1,0 +1,36 @@
+# 911 - Timbuktu
+
+# County Title
+title = c_timbuktu
+
+# Settlements
+max_settlements = 5
+b_tirakka = tribal
+b_sankore = temple
+
+#b_timbuktu = city
+#b_safanqu = castle
+#b_kabara = castle
+#b_tendirma = castle #Tendirma
+#b_dire = castle
+#b_gundam = castle
+
+# Misc
+culture = soninke
+religion = west_african_pagan
+
+# History
+1050.1.1 = {
+	culture = maghreb_arabic
+	#culture = butr
+	religion = sunni 
+	b_tirakka = castle
+        b_safanqu = city
+	}
+1200.1.1 = {
+	b_timbuktu = castle
+	b_sankore = temple
+        b_safanqu = city
+}
+1300.1.1 = { b_safanqu = castle }
+#1312.1.1= { trade_post = b_timbun }

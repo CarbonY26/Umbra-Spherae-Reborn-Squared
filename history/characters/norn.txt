@@ -1,0 +1,335 @@
+7349 = {
+	name="Erlend"
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	father=7351
+	1114.1.1={
+		birth="1114.1.1"
+	}
+	1154.1.1={
+		death="1154.1.1"
+	}
+}
+
+7350 = {
+	name="Pål"
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	father=220036
+	1094.1.1={
+		birth="1094.1.1"
+	}
+	1137.1.1={
+		death="1137.1.1"
+	}
+}
+7351 = {
+	name="Harald"
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	father=220036
+	1094.1.1={
+		birth="1094.1.1"
+	}
+	1127.1.1={
+		death="1127.1.1"
+	}
+}
+7352 = {
+	name="Magnus"
+	#AKA Saint Magnus
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	trait="lustful"
+	trait="lisp"
+	trait="martial_cleric"
+	father=102539
+	mother=161327
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1117.4.16={
+		death="1117.4.16"
+	}
+}
+102538 = {
+	name="Pål"
+	dynasty=461
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	trait="zealous"
+	trait="hunchback"
+	trait="twin"
+	trait="tough_soldier"
+	father=102537
+	mother=102505
+	1043.1.1={
+		birth=yes
+	}
+	1076.1.1={
+		add_spouse=220035
+	}
+	1098.1.1={
+		death=yes
+	}
+}
+102539 = {
+	name="Erlend"
+	dynasty=461
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="norwegian"
+	trait="lustful"
+	trait="lisp"
+	trait="twin"
+	trait="martial_cleric"
+	father=102537
+	mother=102505
+	1043.1.1={
+		birth=yes
+	}
+	1058.1.1={
+		add_spouse=161327
+	}
+	1099.1.1={
+		death=yes
+	}
+}
+161297 = {
+	name="Erling"
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	father=102539
+	mother=161327
+	1059.1.1={
+		birth="1059.1.1"
+	}
+	1103.1.1={
+		death="1103.1.1"
+	}
+}
+161298 = {
+	name="Gunhild"
+	female=yes
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	father=102539
+	mother=161327
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+161299 = {
+	name="Cecilia"
+	female=yes
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	father=102539
+	mother=161327
+	1072.1.1={
+		birth="1072.1.1"
+	}
+	1122.1.1={
+		death="1122.1.1"
+	}
+}
+161300 = {
+	name="Jaddvor"
+	female=yes
+	dynasty=461
+	religion="catholic"
+	culture="norwegian"
+	trait="bastard"
+	father=102539
+	1068.1.1={
+		birth="1068.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+203077 = {
+	name="Ingibjørg"
+	# AKA: Ingibjorg
+	female = yes
+	martial=7
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="just"
+	trait="proud"
+	trait="lustful"
+	trait="charitable"
+	trait="elusive_shadow"
+	1156.1.2={
+		birth="1156.1.2"
+	}
+	1183.1.2={
+		death="1183.1.2"
+	}
+}
+203080 = {
+	name="Magnus"
+	dynasty=20083
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="norwegian"
+	trait="temperate"
+	trait="diligent"
+	trait="tough_soldier"
+	father=203007
+	mother=203077
+	1181.1.1={
+		birth="1181.1.1"
+	}
+	1239.7.1={
+		death="1239.7.1"
+	}
+}
+220020 = {
+	name="Harald"
+	# AKA: Harald Maddadarson
+	dynasty=100044
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="just"
+	trait="grey_eminence"
+	father = 7390
+	mother=220037
+	1134.1.1={
+		birth="1134.1.1"
+	}
+	1150.1.1={
+		add_spouse=220039
+	}
+	1175.1.1={
+		add_spouse = 220038
+	}
+	1206.1.1={
+		death="1206.1.1"
+	}
+}
+220025 = {
+	name="Ingebjørg"
+	female = yes
+	dynasty=461
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="norwegian"
+	father=220036
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1119.1.1={
+		death="1119.1.1"
+	}
+}
+220036 = {
+	name="Håkon"
+	# AKA: Haakon Paulsson
+	dynasty=461
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	father=102538
+	mother=220035
+	1080.1.2={
+		birth="1080.1.2"
+	}
+	1146.1.2={
+		death="1146.1.2"
+	}
+}
+220037 = {
+	name="Margaret"
+	female = yes
+	dynasty=461
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="norwegian"
+	father=220036
+	1097.1.2={
+		birth="1097.1.2"
+	}
+	1113.1.1={
+			add_spouse = 7390
+	}
+	1149.1.2={
+		death="1149.1.2"
+	}
+}
+220040 = {
+	name="Henrik"
+	dynasty=100044
+	martial=2
+	diplomacy=4
+	intrigue=4
+	stewardship=3
+	religion="catholic"
+	culture="norwegian"
+	trait="cynical"
+	trait="amateurish_plotter"
+	father=220020
+	mother=220039
+	1157.1.1={
+		birth="1157.1.1"
+	}
+	1231.1.1={
+		death="1231.1.1"
+	}
+}
+220041 = {
+	name="Thorfinn"
+	dynasty=100044
+	martial=8
+	diplomacy=7
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="norwegian"
+	trait="wroth"
+	trait="tough_soldier"
+	father=220020
+	mother=220038
+	1176.1.1={
+		birth="1176.1.1"
+	}
+	1216.1.1={
+		death="1216.1.1"
+	}
+}

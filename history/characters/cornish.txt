@@ -1,0 +1,630 @@
+161281 = {
+	name="Kadok"
+	dynasty=1029042
+	religion="catholic"
+	culture="cornish"
+	father=161282
+	
+	1031.1.1={
+		birth="1031.1.1"
+	}
+	1057.1.1={
+		add_spouse=161283
+	}
+	1081.1.1={
+		death="1081.1.1"
+	}
+}
+161282 = {
+	name="Kador"
+	dynasty=1029042 #
+	religion="catholic"
+	culture="cornish"
+	father= 159741
+	
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1055.1.1={
+		death="1055.1.1"
+	}
+}
+161283 = {
+	name="Marguarite"
+	female=yes
+	dynasty=0
+	religion="catholic"
+	culture="cornish"
+	
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+161284 = {
+	name="Rioantdrek"
+	female=yes
+	dynasty=1029042
+	religion="catholic"
+	culture="cornish"
+	father=161281
+	mother=161283
+	1058.1.1={
+		birth="1058.1.1"
+	}
+	
+	1108.1.1={
+		death="1108.1.1"
+	}
+}
+161285 = {
+	name="Enoguen"
+	female=yes
+	dynasty=1029042
+	religion="catholic"
+	culture="cornish"
+	father=161281
+	mother=161283
+	1059.1.1={
+		birth="1059.1.1"
+	}
+	
+	1109.1.1={
+		death="1109.1.1"
+	}
+}
+161286 = {
+	name="Downerth"
+	dynasty=1029042
+	religion="catholic"
+	culture="cornish"
+	father=161282
+	
+	1034.1.1={
+		birth="1034.1.1"
+	}
+	1056.1.1={
+		add_spouse=161287
+	}
+	1084.1.1={
+		death="1084.1.1"
+	}
+}
+161287 = {
+	name="Tanetbiu"
+	dynasty=0
+	female=yes
+	religion="catholic"
+	culture="cornish"
+	
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+161288 = {
+	name="Konan"
+	dynasty=1029042
+	religion="catholic"
+	culture="cornish"
+	father=161286
+	mother=161287
+	1062.1.1={
+		birth="1062.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+161289 = {
+	name="Alan"
+	dynasty=1029042
+	religion="catholic"
+	culture="cornish"
+	father=161286
+	mother=161287
+	1063.1.1={
+		birth="1063.1.1"
+	}
+	
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+161290 = {
+	name="Hoel"
+	dynasty=1029042
+	religion="catholic"
+	culture="cornish"
+	father=161286
+	mother=161287
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+161291 = {
+	name="Jowanet"
+	female=yes
+	dynasty=1029042
+	religion="catholic"
+	culture="cornish"
+	father=161286
+	mother=161287
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+159445 = {
+	name="Klemen" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029041
+	father=159444
+	580.1.1={
+		birth="580.1.1"
+	}
+	630.1.1={
+		death="630.1.1"
+	}
+}
+159446 = {
+	name="Petrek" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029041
+	father=159445
+	600.1.1={
+		birth="600.1.1"
+	}
+	658.1.1={
+		death="658.1.1"
+	}
+}
+159447 = {
+	name="Kulmin" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029041
+	father= 159745
+	631.1.1={
+		birth="631.1.1"
+	}
+	682.1.1={
+		death="682.1.1"
+	}
+}
+159448 = {
+	name=Downerth" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029041
+	father=159447
+	647.1.1={
+		birth="647.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+159449 = {
+	name="Gerens" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029041
+	father=159448
+	670.1.1={
+		birth="670.1.1"
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+159450 = {
+	name="Iudhael" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #For tree appearance
+	father=159448
+	671.1.1={
+		birth="671.1.1"
+	}
+	715.1.1={
+		death="715.1.1"
+	}
+}
+159451 = {
+	name="Donual" # Boifunall
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159450
+	689.1.1={
+		birth="689.1.1"
+	}
+	742.1.1={
+		death="742.1.1"
+	}
+}
+159452 = {
+	name="Kawrdolli" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159451
+	705.1.1={
+		birth="705.1.1"
+	}
+	775.1.1={
+		death="775.1.1"
+	}
+}
+159453 = {
+	name="Oswallt" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159452
+	725.1.1={
+		birth="725.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+159454 = {
+	name="Hernam" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159453
+	740.1.1={
+		birth="740.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+159455 = {
+	name="Hopkin" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159454
+	760.1.1={
+		birth="760.1.1"
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+159456 = {
+	name="Mordaf" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159455
+	780.1.1={
+		birth="780.1.1"
+	}
+	850.1.1={
+		death="850.1.1"
+	}
+}
+159457 = {
+	name="Ferverdyn" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159456
+	800.1.1={
+		birth="800.1.1"
+	}
+	865.1.1={
+		death="865.1.1"
+	}
+}
+159458 = {
+	name="Downerth" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159457
+	830.1.1={
+		birth="830.1.1"
+	}
+	875.1.1={
+		death="875.1.1"
+	}
+}
+159459 = {
+	name="Eluid" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159457
+	840.1.1={
+		birth="840.1.1"
+	}
+	889.1.1={
+		death="889.1.1"
+	}
+}
+159460 = {
+	name="Alan" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159459
+	860.1.1={
+		birth="860.1.1"
+	}
+	902.1.1={
+		death="902.1.1"
+	}
+}
+159461 = {
+	name="Hoel" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159460
+	878.1.1={
+		birth="878.1.1"
+	}
+	932.1.1={
+		death="932.1.1"
+	}
+}
+159462 = {
+	name="Rolope" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159460
+	890.1.1={
+		birth="890.1.1"
+	}
+	950.1.1={
+		death="950.1.1"
+	}
+}
+159463 = {
+	name="Vortegyn Helin" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159462
+	920.1.1={
+		birth="920.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+159464 = {
+	name="Veffyne"
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159463
+	950.1.1={
+		birth="950.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+159466 = {
+	name="Konan" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159461
+	900.1.1={
+		birth="900.1.1"
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+159467 = {
+	name="Rikat" #Ricatus, Rygys
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159458
+	866.1.1={
+		birth="866.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+159468 = {
+	name="Alef" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159467
+	905.1.1={
+		birth="905.1.1"
+	}
+	958.1.1={
+		death="958.1.1"
+	}
+}
+159739 = {
+	name="Salomon" #Selyf
+	dynasty=1029042 #
+	religion="catholic"
+	culture="cornish"
+	father=159466
+	
+	919.1.1={
+		birth="919.1.1"
+	}
+	975.1.1={
+		death="975.1.1"
+	}
+}
+159740 = {
+	name="Magalatutus"
+	dynasty=1029042 #
+	religion="catholic"
+	culture="cornish"
+	father=159739
+	
+	936.1.1={
+		birth="936.1.1"
+	}
+	1015.1.1={
+		death="1015.1.1"
+	}
+}
+159741 = {
+	name="Riwal"
+	dynasty=1029042 #
+	religion="catholic"
+	culture="cornish"
+	father=159740
+	
+	986.1.1={
+		birth="986.1.1"
+	}
+	1036.1.1={
+		death="1036.1.1"
+	}
+}
+159742 = {
+	name="Avike"
+	female=yes
+	dynasty=1029042 #
+	religion="catholic"
+	culture="cornish"
+	father=161281 # source?
+	mother=161283
+	1081.6.1={
+		birth=yes
+	}
+	1130.1.1={
+		death=yes
+	}
+}
+159744 = {
+	name="Hoel" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029041
+	father=159448
+	668.1.1={
+		birth="668.1.1"
+	}
+	697.1.1={
+		death="697.1.1"
+	}
+}
+159745 = {
+	name="Progamel" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029041
+	father=159446
+	616.1.1={
+		birth="616.1.1"
+	}
+	657.1.1={
+		death="657.1.1"
+	}
+}
+159746 = {
+	name="Aedaf" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159460
+	892.1.1={
+		birth="892.1.1"
+	}
+	942.1.1={
+		death="942.1.1"
+	}
+}
+159747 = {
+	name="Iudhael" 
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159456
+	835.1.1={
+		birth="835.1.1"
+	}
+	865.1.1={
+		death="865.1.1"
+	}
+}
+159748 = {
+	name="Hoel"
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159450
+	692.1.1={
+		birth="692.1.1"
+	}
+	715.1.1={
+		death="715.1.1"
+	}
+}
+159749 = {
+	name="Rodrik"
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029042 #Corneu
+	father=159450
+	698.1.1={
+		birth="698.1.1"
+	}
+	747.1.1={
+		death="747.1.1"
+	}
+}
+159750 = {
+	name="Blethin" #Bleddyn
+	religion="catholic"
+	culture="cornish"
+	dynasty=1029041
+	father=159444
+	583.1.1={
+		birth="583.1.1"
+	}
+	628.1.1={
+		death="628.1.1"
+	}
+}
+252346 = {
+	name="Deniel" # Deniel Unua
+	dynasty=105946 # Kernev
+	religion="catholic"
+	culture="cornish"
+	father=252345
+	550.1.1={
+		birth=yes
+	}
+	625.1.1={
+		death=yes
+	}
+}

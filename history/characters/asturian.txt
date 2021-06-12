@@ -1,0 +1,1187 @@
+72723 = {
+	name="Diegu"
+	dynasty = 12159
+	religion="catholic"
+	culture="asturian"
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1085.1.1 = {
+		add_spouse=72724
+	}
+	1094.1.1 = {
+		death="1094.1.1"
+	}
+}
+72724={
+	name="Gotina"
+	female=yes
+
+	religion=catholic
+	culture="asturian"
+
+	1068.1.1={
+		birth=yes
+	}
+	1115.1.1={
+		death=yes
+	}
+}
+72725 = {
+	name="Pedru"
+	dynasty = 12159
+	religion="catholic"
+	culture="asturian"
+	father=72723
+	mother=72724
+	1086.1.1 = {
+		birth="1086.1.1"
+	}
+	1106.1.1 = {
+		add_spouse=71350
+	}
+	1141.1.1 = {
+		death="1141.1.1"
+	}
+}
+72726 = {
+	name="Fernandu"
+	dynasty = 12159
+	religion="catholic"
+	culture="asturian"
+	father=72723
+	mother=72724
+	1088.1.1 = {
+		birth="1088.1.1"
+	}
+	1096.5.31 = {
+		death="1096.5.31"
+	}
+}
+72727 = {
+	name="Facundu"
+	dynasty = 12159
+	religion="catholic"
+	culture="asturian"
+	father=72723
+	mother=72724
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1092.1.1 = {
+		death="1092.1.1"
+	}
+}
+72728 = {
+	name="Gontroda"
+	dynasty = 12159
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=72723
+	mother=72724
+	1092.1.1 = {
+		birth="1092.1.1"
+	}
+	1094.1.1 = {
+		death="1094.1.1"
+	}
+}
+72729 = {
+	name="Rodrigu"
+	dynasty = 12159
+	religion="catholic"
+	culture="asturian"
+	father=72723
+	mother=72724
+	1094.1.1 = {
+		birth="1094.1.1"
+	}
+	1115.11.26 = {
+		death="1115.11.26"
+	}
+}
+72730 = {
+	name="Ordoñu"
+	dynasty = 12159
+	religion="catholic"
+	culture="asturian"
+	father=72725
+	mother=71350
+	1107.1.1 = {
+		birth="1107.1.1"
+	}
+	1130.1.1 = {
+		add_spouse=72739
+	}
+	1192.1.1 = {
+		death="1192.1.1"
+	}
+}
+72731 = {
+	name="Diegu"
+	dynasty = 12159
+	religion="catholic"
+	culture="asturian"
+	father=72725
+	mother=71350
+	1109.1.1 = {
+		birth="1109.1.1"
+	}
+	1137.1.1 = {
+		dynasty=401
+	}
+	1150.1.1 = {
+		add_spouse=72756
+	}
+	1186.1.1 = {
+		death="1186.1.1"
+	}
+}
+72732 = {
+	name="Gonzalu"
+	dynasty = 12159
+	religion="catholic"
+	culture="asturian"
+	father=72725
+	mother=71350
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1130.1.1 = {
+		add_spouse=72741
+	}
+	1158.1.1 = {
+		add_spouse=72742
+	}
+	1189.1.1 = {
+		death="1189.1.1"
+	}
+}
+72733 = {
+	name="Rodrigu"
+	dynasty = 12159
+	religion="catholic"
+	culture="asturian"
+	father=72725
+	mother=71350
+	1111.1.1 = {
+		birth="1111.1.1"
+	}
+	1131.1.1 = {
+		add_spouse=72743
+	}
+	1186.6.29 = {
+		death="1186.6.29"
+	}
+}
+72734 = {
+	name="Gontroda"
+	dynasty = 12159
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=72725
+	mother=71350
+	1113.1.1 = {
+		birth="1113.1.1"
+	}
+	1186.6.29 = {
+		death="1186.6.29"
+	}
+}
+72735 = {
+	name="Urraca"
+	dynasty = 12159
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=72725
+	mother=71350
+	1114.1.1 = {
+		birth="1114.1.1"
+	}
+	1158.1.1 = {
+		death="1158.1.1"
+	}
+}
+72736 = {
+	name="Sancha"
+	dynasty = 12159
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=72725
+	mother=71350
+	1116.1.1 = {
+		birth="1116.1.1"
+	}
+	1160.1.1 = {
+		death="1160.1.1"
+	}
+}
+72737 = {
+	name="Estefanía"
+	dynasty = 12159
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=72725
+	mother=71350
+	1117.1.1 = {
+		birth="1117.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+72738 = {
+	name="María"
+	dynasty = 12159
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=72725
+	mother=71350
+	1119.1.1 = {
+		birth="1119.1.1"
+	}
+	1157.1.1 = {
+		death="1157.1.1"
+	}
+}
+72739 = {
+	name="Sancha"
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	1112.1.1 = {
+		birth="1112.1.1"
+	}
+	1168.1.1 = {
+		death="1168.1.1"
+	}
+}
+72740 = {
+	name="Pelayu"
+	dynasty = 12159
+	religion="catholic"
+	culture="asturian"
+	father=72730
+	mother=72739
+	1131.1.1 = {
+		birth="1131.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+72741 = {
+	name="Xuliana"
+	female=yes
+	religion="catholic"
+	culture="castillan"
+	1113.1.1 = {
+		birth="1113.1.1"
+	}
+	1157.1.1 = {
+		death="1157.1.1"
+	}
+}
+72742 = {
+	name="Sancha"
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+72743 = {
+	name="María"
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	1114.1.1 = {
+		birth="1114.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+72744 = {
+	name="Gutierre"
+	dynasty = 12160
+	religion="catholic"
+	culture="asturian"
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1129.1.1 = {
+		add_spouse=72734
+	}
+	1137.1.1 = {
+		death="1137.1.1"
+	}
+}
+72744 = {
+	name="Gutierre"
+	dynasty = 12160
+	religion="catholic"
+	culture="asturian"
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1129.1.1 = {
+		add_spouse=72734
+	}
+	1137.1.1 = {
+		death="1137.1.1"
+	}
+}
+72745 = {
+	name="Sebastián"
+	dynasty = 12160
+	religion="catholic"
+	culture="asturian"
+	father=72744
+	mother=72734
+	1130.1.1 = {
+		birth="1130.1.1"
+	}
+	1169.1.1 = {
+		death="1169.1.1"
+	}
+}
+72746 = {
+	name="Diegu"
+	dynasty = 12160
+	religion="catholic"
+	culture="asturian"
+	father=72744
+	mother=72734
+	1132.1.1 = {
+		birth="1132.1.1"
+	}
+	1148.1.1 = {
+		add_spouse=72750
+	}
+	1175.1.1 = {
+		death="1175.1.1"
+	}
+}
+72747 = {
+	name="Aldonza"
+	dynasty = 12160
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=72744
+	mother=72734
+	1134.1.1 = {
+		birth="1134.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+72748 = {
+	name="Gutierre"
+	dynasty = 12160
+	religion="catholic"
+	culture="asturian"
+	father=72745
+	1159.1.1 = {
+		birth="1159.1.1"
+	}
+	1212.1.1 = {
+		death="1212.1.1"
+	}
+}
+72749 = {
+	name="Sebastián"
+	dynasty = 12160
+	religion="catholic"
+	culture="asturian"
+	father=72748
+	1190.1.1 = {
+		birth="1190.1.1"
+	}
+	1240.1.1 = {
+		death="1240.1.1"
+	}
+}
+72750 = {
+	name="María"
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	1132.1.1 = {
+		birth="1132.1.1"
+	}
+	1153.1.1 = {
+		death="1153.1.1"
+	}
+}
+72751 = {
+	name="Sanchu"
+	dynasty = 12160
+	religion="catholic"
+	culture="asturian"
+	father=72746
+	mother=72750
+	1149.1.1 = {
+		birth="1149.1.1"
+	}
+	1199.1.1 = {
+		death="1199.1.1"
+	}
+}
+72752={
+	name="Muniu"
+	dynasty=12160
+
+	father=72746
+	mother=72750
+
+	religion=catholic
+	culture="asturian"
+
+	1150.1.1={
+		birth=yes
+	}
+	1208.1.1={
+		death=yes
+	}
+}
+72753 = {
+	name="María"
+	dynasty = 12160
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=72746
+	mother=72750
+	1151.1.1 = {
+		birth="1151.1.1"
+	}
+	1204.1.1 = {
+		death="1204.1.1"
+	}
+}
+72754 = {
+	name="Elvira"
+	dynasty = 12160
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=72746
+	mother=72750
+	1152.1.1 = {
+		birth="1152.1.1"
+	}
+	1216.1.1 = {
+		death="1216.1.1"
+	}
+}
+72755 = {
+	name="Velsquita"
+	dynasty = 12160
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=72746
+	mother=72750
+	1153.1.1 = {
+		birth="1153.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+72756 = {
+	name="Elvira"
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	1134.1.1 = {
+		birth="1134.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+72757 = {
+	name="Rodrigu"
+	dynasty = 401
+	trait="detached_priest"
+	religion="catholic"
+	culture="asturian"
+	father=72731
+	mother=72756
+	1151.1.1 = {
+		birth="1151.1.1"
+	}
+	1221.1.1 = {
+		death="1221.1.1"
+	}
+}
+72758 = {
+	name="Álvaru"
+	dynasty = 401
+	religion="catholic"
+	culture="asturian"
+	father=72731
+	mother=72756
+	1153.1.1 = {
+		birth="1153.1.1"
+	}
+	1212.1.1 = {
+		add_spouse=72992
+	}
+	1218.1.1 = {
+		death="1218.1.1"
+	}
+}
+72759 = {
+	name="Ordoñu"
+	dynasty = 401
+	religion="catholic"
+	culture="asturian"
+	father=72758
+	mother=72992
+	1213.1.1 = {
+		birth="1213.1.1"
+	}
+	1217.1.1 = {
+		death="1217.1.1"
+	}
+}
+72760 = {
+	name="Pedru"
+	dynasty = 401
+	religion="catholic"
+	culture="asturian"
+	father=72758
+	mother=72992
+	1214.1.1 = {
+		birth="1214.1.1"
+	}
+	1260.1.1 = {
+		add_spouse=72531
+	}
+	1286.10.25 = {
+		death="1286.10.25"
+	}
+}
+72761 = {
+	name="Alfonsu"
+	dynasty = 401
+	religion="catholic"
+	culture="asturian"
+	father=72758
+	mother=72992
+	1215.1.1 = {
+		birth="1215.1.1"
+	}
+	1258.1.1 = {
+		add_spouse=72530
+	}
+	1270.1.1 = {
+		death="1270.1.1"
+	}
+}
+72762 = {
+	name="Álvaru"
+	dynasty = 401
+	religion="catholic"
+	culture="asturian"
+	father=72758
+	mother=72992
+	1216.1.1 = {
+		birth="1216.1.1"
+	}
+	1249.1.1 = {
+		add_spouse=72767
+	}
+	1276.1.1 = {
+		death="1276.1.1"
+	}
+}
+72763 = {
+	name="Mayor"
+	dynasty = 401
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=72758
+	mother=72992
+	1217.1.1 = {
+		birth="1217.1.1"
+	}
+	1289.1.1 = {
+		death="1289.1.1"
+	}
+}
+72764 = {
+	name="Nicor"
+	dynasty = 401
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=72758
+	mother=72992
+	1218.1.1 = {
+		birth="1218.1.1"
+	}
+	1280.1.1 = {
+		death="1280.1.1"
+	}
+}
+72766 = {
+	name="Teresa"
+	dynasty = 401
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=72761
+	mother=72530
+	1265.1.1 = {
+		birth="1265.1.1"
+	}
+	1310.1.1 = {
+		death="1310.1.1"
+	}
+}
+72767 = {
+	name="Xuana"
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1293.1.1 = {
+		death="1293.1.1"
+	}
+}
+72768 = {
+	name="Teresa"
+	dynasty = 401
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=72762
+	mother=72767
+	1249.1.1 = {
+		birth="1249.1.1"
+	}
+	1289.1.1 = {
+		death="1289.1.1"
+	}
+}
+72769 = {
+	name="Pedru"
+	dynasty = 401
+	religion="catholic"
+	culture="asturian"
+	father=72760
+	mother=72531
+	1261.1.1 = {
+		birth="1261.1.1"
+	}
+	1280.1.1 = {
+		add_spouse=72771
+	}
+	1300.1.1 = {
+		death="1300.1.1"
+	}
+}
+72770 = {
+	name="Rodrigu"
+	dynasty = 401
+	religion="catholic"
+	culture="asturian"
+	father=72760
+	mother=72531
+	1263.1.1 = {
+		birth="1263.1.1"
+	}
+	1279.1.1 = {
+		add_spouse=72772
+	}
+	1299.1.1 = {
+		death="1299.1.1"
+	}
+}
+72771 = {
+	name="Mencía"
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	1262.1.1 = {
+		birth="1262.1.1"
+	}
+	1320.1.1 = {
+		death="1320.1.1"
+	}
+}
+72772 = {
+	name="Xuana"
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	1263.1.1 = {
+		birth="1263.1.1"
+	}
+	1329.1.1 = {
+		death="1329.1.1"
+	}
+}
+72773 = {
+	name="Rodrigu"
+	dynasty = 401
+	religion="catholic"
+	culture="asturian"
+	father=72770
+	mother=72772
+	1281.1.1 = {
+		birth="1281.1.1"
+	}
+	1330.1.1 = {
+		add_spouse=71505
+	}
+	1334.1.1 = {
+		death="1334.1.1"
+	}
+}
+108510 = {
+	name="Diegu"
+	dynasty=402
+	religion="catholic"
+	culture="asturian"
+	trait="tough_soldier"
+	father=70092
+	mother=70093
+	1027.1.1 = {
+		birth=yes
+	}
+	1057.1.1 = {
+		add_spouse=108511
+	}
+	1077.1.1 = {
+		death=yes
+	}
+}
+108512 = {
+	name="Rodrigu"
+	dynasty=402
+	religion="catholic"
+	culture="asturian"
+	trait="tough_soldier"
+	father=108510
+	mother=108511
+	1058.1.1 = {
+		birth=yes
+	}
+	1074.1.1 = {
+		add_spouse=72706
+	}
+	1085.1.1 = {
+		death=yes
+	}
+}
+108514 = {
+	name="Fernandu"
+	dynasty=402
+	religion="catholic"
+	culture="asturian"
+	trait="amateurish_plotter"
+	father=108510
+	mother=108511
+	1060.1.1 = {
+		birth=yes
+	}
+	1076.1.1 = {
+		add_spouse=70255
+	}
+	1089.1.1 = {
+		add_spouse=71355
+	}
+	1108.5.1 = {
+		death=yes
+	}
+}
+108519 = {
+	name="Ximena"
+	female = yes
+	dynasty=402
+	religion="catholic"
+	culture="asturian"
+	trait="wroth"
+	trait="thrifty_clerk"
+	father=108510
+	mother=108511
+	1059.1.1 = {
+		birth=yes
+	}
+	1106.1.1 = {
+		death=yes
+	}
+}
+70091 = {
+	name="Elvira"
+	female=yes
+	dynasty=402
+	religion="catholic"
+	culture="castillan"
+	trait="cynical"
+	trait="proud"
+	trait="amateurish_plotter"
+	father=108510
+	mother=108511
+	1061.1.1 = {
+		birth=yes
+	}
+	1111.1.1 = {
+		death=yes
+	}
+}
+71354 = {
+	name="María"
+	dynasty=402
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=108514
+	mother=71355
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1160.1.1 = {
+		death="1160.1.1"
+	}
+}
+72706 = {
+	name="Gontroda"
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1100.1.1 = {
+		death="1100.1.1"
+	}
+}
+72707 = {
+	name="Álvaru"
+	dynasty = 12156
+	religion="catholic"
+	culture="asturian"
+	1081.1.1 = {
+		birth="1081.1.1"
+	}
+	1116.1.1 = {
+		add_spouse=72705
+	}
+	1145.9.16 = {
+		death="1145.9.16"
+	}
+}
+72708={
+	name="Pedru"
+
+	religion=catholic
+	culture=asturian
+
+	1090.1.1={
+		birth=yes
+	}
+	1125.1.1={
+		add_matrilineal_spouse=72704
+	}
+	1137.1.1={
+		death=yes
+	}
+}
+72709={
+	name="Gonzalu"
+	dynasty=402
+
+	father=72708
+	mother=72704
+
+	religion=catholic
+	culture=asturian
+
+	1130.1.1={
+		birth=yes
+	}
+	1148.1.1={
+		add_spouse=72738
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+72710={
+	name="Urraca"
+	female=yes
+	dynasty=402
+
+	father=72709
+	mother=72738
+
+	religion=catholic
+	culture=asturian
+	1149.1.1={
+		birth=yes
+	}
+	1192.1.1={
+		death=yes
+	}
+}
+72712={
+	name="Diegu"
+	dynasty=402
+
+	father=72709
+	mother=72738
+
+	religion=catholic
+	culture=asturian
+
+	1152.1.1={
+		birth=yes
+	}
+	1185.1.1={
+		death=yes
+	}
+}
+72713={
+	name="Aldonza"
+	female=yes
+	dynasty=402
+
+	father=72709
+	mother=72738
+
+	religion=catholic
+	culture=asturian
+
+	1154.1.1={
+		birth=yes
+	}
+	1200.1.1={
+		death=yes
+	}
+}
+72714={
+	name="Gutierre"
+	dynasty=402
+
+	father=72709
+	mother=72738
+
+	religion=catholic
+	culture="asturian"
+
+	1155.1.1={
+		birth=yes
+	}
+	1188.1.1={
+		death=yes
+	}
+}
+72715={
+	name="Gómez"
+	dynasty=402
+
+	father=72709
+	mother=72738
+
+	religion=catholic
+	culture="asturian"
+
+	1157.1.1={
+		birth=yes
+	}
+	1189.1.1={
+		death=yes
+	}
+}
+72716 = {
+	name="Sanchu"
+	dynasty = 402
+	religion="catholic"
+	culture="asturian"
+	father=72701
+	1120.1.1 = {
+		birth="1120.1.1"
+	}
+	1137.1.1 = {
+		death="1137.1.1"
+	}
+}
+72717={
+	name="Muniu"
+	dynasty=402
+
+	father=72701
+
+	religion=catholic
+	culture="asturian"
+
+	1122.1.1={
+		birth=yes
+	}
+	1130.1.1={
+		death=yes
+	}
+}
+72718 = {
+	name="Mayor"
+	dynasty = 402
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=72701
+	1124.1.1 = {
+		birth="1124.1.1"
+	}
+	1136.1.1 = {
+		death="1136.1.1"
+	}
+}
+72719 = {
+	name="Sancha"
+	dynasty = 402
+	female=yes
+	religion="catholic"
+	culture="asturian"
+	father=72701
+	1126.1.1 = {
+		birth="1126.1.1"
+	}
+	1134.1.1 = {
+		death="1134.1.1"
+	}
+}
+72787 = {
+	name="Sancha"
+	female=yes
+	dynasty=12180
+	religion="catholic"
+	culture="asturian"
+	father=73066
+	mother=73063
+	1087.1.1={
+		birth="1087.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+73066 = {
+	name="Gonzalu"
+	dynasty = 12180
+	religion="catholic"
+	culture="asturian"
+	1056.1.1={
+		birth="1056.1.1"
+	}
+	1080.1.1 = {
+		add_spouse=73063
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+73067 = {
+	name="Pedru"
+	dynasty = 12180
+	religion="catholic"
+	culture="asturian"
+	father=73066
+	mother=73063
+	1081.1.1={
+		birth="1081.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+73068 = {
+	name="Rodrigu"
+	dynasty = 12180
+	religion="catholic"
+	culture="asturian"
+	father=73066
+	mother=73063
+	1083.1.1={
+		birth="1083.1.1"
+	}
+	1134.1.1={
+		death="1134.1.1"
+	}
+}
+73069 = {
+	name="Cristina"
+	female=yes
+	dynasty = 12180
+	religion="catholic"
+	culture="asturian"
+
+	father=73066
+	mother=73063
+	1085.1.1={
+		birth="1085.1.1"
+	}
+	1136.1.1={
+		death="1136.1.1"
+	}
+}
+458006 = {
+	name="Gonzalu"
+	dynasty=101910
+	martial=8
+	diplomacy=6
+	intrigue=9
+	stewardship=7
+	religion="catholic"
+	culture="asturian"
+	trait="wroth"
+	trait="martial_cleric"
+	1291.1.1={
+		birth="1291.1.1"
+	}
+	1309.1.1={
+		employer=73169
+	}
+	1312.1.1={
+		employer=73170
+	}
+	1318.1.1={
+		employer=73171
+	}
+	1334.1.1={
+		employer=73172
+	}
+	1335.1.1={
+		employer=73173
+	}
+	1335.7.1={
+		employer=73174
+	}
+	1337.1.1={
+		employer=0
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+

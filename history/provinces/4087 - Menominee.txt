@@ -1,0 +1,13 @@
+# 4087 - Menominee 
+
+# County Title
+title = c_
+
+# Settlements
+max_settlements = 
+
+# Misc
+culture = 
+religion = 
+
+# History

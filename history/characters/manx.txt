@@ -1,0 +1,234 @@
+131524 = {
+	name="Gorree"
+	dynasty=20084
+	martial=4
+	diplomacy=4
+	intrigue=5
+	stewardship=8
+	religion="catholic"
+	culture="scottish"
+	trait="patient"
+	trait="charitable"
+	trait="gluttonous"
+	father=131523
+	1004.1.2={
+		birth="1004.1.2"
+	}
+	1074.1.1={
+		death="1074.1.1"
+	}
+}
+131525 = {
+	name="Fingal"
+	dynasty=20084
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=3
+	religion="catholic"
+	culture="scottish"
+	trait="charitable"
+	trait="tough_soldier"
+	father=131524
+	1022.1.2={
+		birth="1022.1.2"
+	}
+	1072.1.1={
+		death="1072.1.1"
+	}
+}
+159026 = {
+	name="Gwriad" # 
+	dynasty=101922 #Manaw
+	religion="catholic"
+	culture="manx"
+	father=159028 # Elidyr
+	760.1.1={
+		birth="760.1.1"
+	}
+	790.1.2={
+	add_spouse=159025
+	}
+	825.1.1={
+		death="825.1.1"
+	}
+}
+159028 = {
+	name="Elidyr" # 
+	dynasty=101922 #Manaw
+	religion="catholic"
+	culture="manx"
+	father=159029 # Sandde
+	mother=159933 # Celeinion
+
+	730.1.1={
+		birth="730.1.1"
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+159029 = {
+	name="Sandde" # 
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="manx"
+	father=159030 # Alcwn
+	680.1.1={
+		birth="680.1.1"
+	}
+	720.1.1={
+		add_spouse = 159933
+	}
+	730.1.1={
+		death="730.1.1"
+	}
+}
+
+159933 = {
+	name="Celeinion" # 
+	female = yes
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="manx"
+	father=159934
+	685.1.1={
+		birth="685.1.1"
+	}
+	720.1.1={
+		add_spouse = 159029
+	}
+	740.1.1={
+		death="740.1.1"
+	}
+}
+159934 = {
+	name="Tudwal" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="manx"
+	father=159943
+	654.1.1={
+		birth="654.1.1"
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+159935 = {
+	name="Dingad" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="manx"
+	father=159813
+	401.1.1={
+		birth="401.1.1"
+	}
+	481.1.1={
+		death="481.1.1"
+	}
+}
+159936 = {
+	name="Senyllt" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="manx"
+	father=159935
+	441.1.1={
+		birth="441.1.1"
+	}
+	501.1.1={
+		death="501.1.1"
+	}
+}
+159937 = {
+	name="Neithon" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="manx"
+	father=159936
+	480.1.1={
+		birth="480.1.1"
+	}
+	549.1.1={
+		death="549.1.1"
+	}
+}
+159938 = {
+	name="Rhun" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="manx"
+	father=159937
+	512.1.1={
+		birth="512.1.1"
+	}
+	577.1.1={
+		death="577.1.1"
+	}
+}
+159939 = {
+	name="Tudwal" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="manx"
+	father=159938
+	537.1.1={
+		birth="537.1.1"
+	}
+	598.1.1={
+		death="598.1.1"
+	}
+}
+159940 = {
+	name="Anllech" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="manx"
+	father=159939
+	562.1.1={
+		birth="562.1.1"
+	}
+	634.1.1={
+		death="634.1.1"
+	}
+}
+159941 = {
+	name="Cynin" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="manx"
+	father=159940
+	587.1.1={
+		birth="587.1.1"
+	}
+	650.1.1={
+		death="650.1.1"
+	}
+}
+159942 = {
+	name="Merfyn" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="manx"
+	father=159941
+	610.1.1={
+		birth="610.1.1"
+	}
+	681.1.1={
+		death="681.1.1"
+	}
+}
+159943 = {
+	name="Anarawd" # 
+	dynasty=1029131 #Manaw
+	religion="catholic"
+	culture="manx"
+	father=159942
+	632.1.1={
+		birth="632.1.1"
+	}
+	691.1.1={
+		death="691.1.1"
+	}
+}

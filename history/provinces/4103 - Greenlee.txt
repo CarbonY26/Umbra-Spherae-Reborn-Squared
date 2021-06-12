@@ -1,0 +1,13 @@
+# 4103 - Greenlee
+
+# County Title
+title = c_
+
+# Settlements
+max_settlements = 
+
+# Misc
+culture = 
+religion = 
+
+# History

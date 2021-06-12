@@ -1,0 +1,424 @@
+#aztecx = {
+	#graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
+              #
+	#nahuatl = {
+	#	graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
+	#	color = { 1.0 0.5 0.0 }
+	#	
+	#	horde = yes
+	#	
+	#	used_for_random = no
+	#	
+	#	male_names = {
+	#		Acalan Acacitli Acamapichtli Acolmiztli Aculnahuacatl Ahuiliztli Ahuitzotl Atl Axayacatl Cacamatzin Chimalli Chimalpilli Chimalpopoca Cipac Coanacoch Coatl Cozahtli Cuauhtemoc Cuauhtl Cuetlachtli Cuetzpalli Cuixtli Cuitlahuac 
+	#		Huitzilin Huitzilihuitl Huitzitl Huitztecol Iquehuacatzin Itzcoatl Itzli Itzcuintli Ixtlilxochitl Mahchimaleh Matlal Mazatl Matlalihuitl Matlatzincatzin Maxtla Miztli Moctezuma Moquihuix Necuametl Nezahualcoyotl Nezahualpilli Nochehuatl 
+	#		Ocuil Olli Opochtli Ozomatli Quauhtli Tapayaxi Tecocoltzin Tecolotl Tetlepanquetzaltzin Tezozomoc Tizoc Tizocic Tlacaelel Tlacaeleltzin Tlalli Tlaloc Tochtli Tototl Tzompantzin Tlilpotonqui Topiltzin Totoquihuaztli 
+	#		Ueman Yaotl Yayauhqui Yolotli Yolyamanitzin Xicohtencatl Xiuhpilli Xihuitl Xipil Xipilli Xochitl Xochipepe Xochipilli Zipactonal Zolin
+	#	}
+	#	female_names = {
+	#		Achcauhtli Acxocueitl Ahuiliztli Amoxtli Atl Atotoztli Ayauhcihuatl Azcalxochitzin Centehua Cihuaton Chalchiuitl Chicahua Chichimecacihuatzin Chipahua Chicomecoatl Chimalma Citlali Citlalli Citlalmina Coaxoch Coszcatl 
+	#		Cozamalotl Cuicatl Eleuia Eloxochitl Etalpalli Eztli Huehue-Zaca Itotia Iuitl Ixcatzin Izel Malinalxochitl Manauia Matlalatzin Mecatl Meztli Miahuaxiuitl Miyaoaxochitl Mizquixahual Momoztli Nahuatl Necahual Nelli Ohtli Papa Patli
+	#		Quiauhxochitl Sacnite Techichpotzin Tezozomoc Tziquetzalpoztectzin Teiuc Teicuih Teyacapan Tepin Tezcatlan Tlacotl Tlahco Tlahcoehua Toltecatl Tonalnan Tlazozomizqui
+	#		Yoltzin Xilonen Xiloxoch Xiuhtomiyauhtzin Xochitl Xocoh Xocoyotl Yaretzi Zeltzin Zyanya
+	#	}
+	#	
+	#	#from_dynasty_prefix = "of "
+	#	founder_named_dynasties = yes
+	#	
+	#	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	#	pat_grf_name_chance = 50
+	#	mat_grf_name_chance = 0
+	#	father_name_chance = 0
+	#	
+	#	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	#	pat_grm_name_chance = 25
+	#	mat_grm_name_chance = 25
+	#	mother_name_chance = 0
+              #
+	#	allow_looting = yes
+              #
+	#	modifier = default_culture_modifier
+	#}
+              #
+	#totonac = {
+	#	graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
+	#	color = { 0.12 0.32 0.53 }
+	#	
+	#	horde = yes
+	#	
+	#	used_for_random = no
+	#	
+	#	male_names = {
+	#		Acalan Acacitli Acamapichtli Acolmiztli Aculnahuacatl Ahuiliztli Ahuitzotl Atl Axayacatl Cacamatzin Chimalli Chimalpilli Chimalpopoca Cipac Coanacoch Coatl Cozahtli Cuauhtemoc Cuauhtl Cuetlachtli Cuetzpalli Cuixtli Cuitlahuac 
+	#		Huitzilin Huitzilihuitl Huitzitl Huitztecol Iquehuacatzin Itzcoatl Itzli Itzcuintli Ixtlilxochitl Mahchimaleh Matlal Mazatl Matlalihuitl Matlatzincatzin Maxtla Miztli Moctezuma Moquihuix Necuametl Nezahualcoyotl Nezahualpilli Nochehuatl 
+	#		Ocuil Olli Opochtli Ozomatli Quauhtli Tapayaxi Tecocoltzin Tecolotl Tetlepanquetzaltzin Tezozomoc Tizoc Tizocic Tlacaelel Tlacaeleltzin Tlalli Tlaloc Tochtli Tototl Tzompantzin Tlilpotonqui Topiltzin Totoquihuaztli 
+	#		Ueman Yaotl Yayauhqui Yolotli Yolyamanitzin Xicohtencatl Xiuhpilli Xihuitl Xipil Xipilli Xochitl Xochipepe Xochipilli Zipactonal Zolin
+	#	}
+	#	female_names = {
+	#		Achcauhtli Acxocueitl Ahuiliztli Amoxtli Atl Atotoztli Ayauhcihuatl Azcalxochitzin Centehua Cihuaton Chalchiuitl Chicahua Chichimecacihuatzin Chipahua Chicomecoatl Chimalma Citlali Citlalli Citlalmina Coaxoch Coszcatl 
+	#		Cozamalotl Cuicatl Eleuia Eloxochitl Etalpalli Eztli Huehue-Zaca Itotia Iuitl Ixcatzin Izel Malinalxochitl Manauia Matlalatzin Mecatl Meztli Miahuaxiuitl Miyaoaxochitl Mizquixahual Momoztli Nahuatl Necahual Nelli Ohtli Papa Patli
+	#		Quiauhxochitl Sacnite Techichpotzin Tezozomoc Tziquetzalpoztectzin Teiuc Teicuih Teyacapan Tepin Tezcatlan Tlacotl Tlahco Tlahcoehua Toltecatl Tonalnan Tlazozomizqui
+	#		Yoltzin Xilonen Xiloxoch Xiuhtomiyauhtzin Xochitl Xocoh Xocoyotl Yaretzi Zeltzin Zyanya
+	#	}
+	#	
+	#	#from_dynasty_prefix = "of "
+	#	founder_named_dynasties = yes
+	#	
+	#	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	#	pat_grf_name_chance = 50
+	#	mat_grf_name_chance = 0
+	#	father_name_chance = 0
+	#	
+	#	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	#	pat_grm_name_chance = 25
+	#	mat_grm_name_chance = 25
+	#	mother_name_chance = 0
+              #
+	#	allow_looting = yes
+              #
+	#	modifier = default_culture_modifier
+	#}
+#}
+
+otomanguean = {
+	graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
+
+	tlapanec = {
+		graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
+		color = { 0.88 0.11 0.34 }
+		
+		horde = yes
+		
+		used_for_random = no
+		
+		male_names = {
+			Acalan Acacitli Acamapichtli Acolmiztli Aculnahuacatl Ahuiliztli Ahuitzotl Atl Axayacatl Cacamatzin Chimalli Chimalpilli Chimalpopoca Cipac Coanacoch Coatl Cozahtli Cuauhtemoc Cuauhtl Cuetlachtli Cuetzpalli Cuixtli Cuitlahuac 
+			Huitzilin Huitzilihuitl Huitzitl Huitztecol Iquehuacatzin Itzcoatl Itzli Itzcuintli Ixtlilxochitl Mahchimaleh Matlal Mazatl Matlalihuitl Matlatzincatzin Maxtla Miztli Moctezuma Moquihuix Necuametl Nezahualcoyotl Nezahualpilli Nochehuatl 
+			Ocuil Olli Opochtli Ozomatli Quauhtli Tapayaxi Tecocoltzin Tecolotl Tetlepanquetzaltzin Tezozomoc Tizoc Tizocic Tlacaelel Tlacaeleltzin Tlalli Tlaloc Tochtli Tototl Tzompantzin Tlilpotonqui Topiltzin Totoquihuaztli 
+			Ueman Yaotl Yayauhqui Yolotli Yolyamanitzin Xicohtencatl Xiuhpilli Xihuitl Xipil Xipilli Xochitl Xochipepe Xochipilli Zipactonal Zolin
+		}
+		female_names = {
+			Achcauhtli Acxocueitl Ahuiliztli Amoxtli Atl Atotoztli Ayauhcihuatl Azcalxochitzin Centehua Cihuaton Chalchiuitl Chicahua Chichimecacihuatzin Chipahua Chicomecoatl Chimalma Citlali Citlalli Citlalmina Coaxoch Coszcatl 
+			Cozamalotl Cuicatl Eleuia Eloxochitl Etalpalli Eztli Huehue-Zaca Itotia Iuitl Ixcatzin Izel Malinalxochitl Manauia Matlalatzin Mecatl Meztli Miahuaxiuitl Miyaoaxochitl Mizquixahual Momoztli Nahuatl Necahual Nelli Ohtli Papa Patli
+			Quiauhxochitl Sacnite Techichpotzin Tezozomoc Tziquetzalpoztectzin Teiuc Teicuih Teyacapan Tepin Tezcatlan Tlacotl Tlahco Tlahcoehua Toltecatl Tonalnan Tlazozomizqui
+			Yoltzin Xilonen Xiloxoch Xiuhtomiyauhtzin Xochitl Xocoh Xocoyotl Yaretzi Zeltzin Zyanya
+		}
+		
+		#from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+
+	mixtec = {
+		graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
+		color = { 0.44 0.66 0.23 }
+		
+		horde = yes
+		
+		used_for_random = no
+		
+		male_names = {
+			Acalan Acacitli Acamapichtli Acolmiztli Aculnahuacatl Ahuiliztli Ahuitzotl Atl Axayacatl Cacamatzin Chimalli Chimalpilli Chimalpopoca Cipac Coanacoch Coatl Cozahtli Cuauhtemoc Cuauhtl Cuetlachtli Cuetzpalli Cuixtli Cuitlahuac 
+			Huitzilin Huitzilihuitl Huitzitl Huitztecol Iquehuacatzin Itzcoatl Itzli Itzcuintli Ixtlilxochitl Mahchimaleh Matlal Mazatl Matlalihuitl Matlatzincatzin Maxtla Miztli Moctezuma Moquihuix Necuametl Nezahualcoyotl Nezahualpilli Nochehuatl 
+			Ocuil Olli Opochtli Ozomatli Quauhtli Tapayaxi Tecocoltzin Tecolotl Tetlepanquetzaltzin Tezozomoc Tizoc Tizocic Tlacaelel Tlacaeleltzin Tlalli Tlaloc Tochtli Tototl Tzompantzin Tlilpotonqui Topiltzin Totoquihuaztli 
+			Ueman Yaotl Yayauhqui Yolotli Yolyamanitzin Xicohtencatl Xiuhpilli Xihuitl Xipil Xipilli Xochitl Xochipepe Xochipilli Zipactonal Zolin
+		}
+		female_names = {
+			Achcauhtli Acxocueitl Ahuiliztli Amoxtli Atl Atotoztli Ayauhcihuatl Azcalxochitzin Centehua Cihuaton Chalchiuitl Chicahua Chichimecacihuatzin Chipahua Chicomecoatl Chimalma Citlali Citlalli Citlalmina Coaxoch Coszcatl 
+			Cozamalotl Cuicatl Eleuia Eloxochitl Etalpalli Eztli Huehue-Zaca Itotia Iuitl Ixcatzin Izel Malinalxochitl Manauia Matlalatzin Mecatl Meztli Miahuaxiuitl Miyaoaxochitl Mizquixahual Momoztli Nahuatl Necahual Nelli Ohtli Papa Patli
+			Quiauhxochitl Sacnite Techichpotzin Tezozomoc Tziquetzalpoztectzin Teiuc Teicuih Teyacapan Tepin Tezcatlan Tlacotl Tlahco Tlahcoehua Toltecatl Tonalnan Tlazozomizqui
+			Yoltzin Xilonen Xiloxoch Xiuhtomiyauhtzin Xochitl Xocoh Xocoyotl Yaretzi Zeltzin Zyanya
+		}
+		
+		#from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+
+	zapotek = {
+		graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
+		color = { 0.62 0.82 0.97 }
+		
+		horde = yes
+		
+		used_for_random = no
+		
+		male_names = {
+			Acalan Acacitli Acamapichtli Acolmiztli Aculnahuacatl Ahuiliztli Ahuitzotl Atl Axayacatl Cacamatzin Chimalli Chimalpilli Chimalpopoca Cipac Coanacoch Coatl Cozahtli Cuauhtemoc Cuauhtl Cuetlachtli Cuetzpalli Cuixtli Cuitlahuac 
+			Huitzilin Huitzilihuitl Huitzitl Huitztecol Iquehuacatzin Itzcoatl Itzli Itzcuintli Ixtlilxochitl Mahchimaleh Matlal Mazatl Matlalihuitl Matlatzincatzin Maxtla Miztli Moctezuma Moquihuix Necuametl Nezahualcoyotl Nezahualpilli Nochehuatl 
+			Ocuil Olli Opochtli Ozomatli Quauhtli Tapayaxi Tecocoltzin Tecolotl Tetlepanquetzaltzin Tezozomoc Tizoc Tizocic Tlacaelel Tlacaeleltzin Tlalli Tlaloc Tochtli Tototl Tzompantzin Tlilpotonqui Topiltzin Totoquihuaztli 
+			Ueman Yaotl Yayauhqui Yolotli Yolyamanitzin Xicohtencatl Xiuhpilli Xihuitl Xipil Xipilli Xochitl Xochipepe Xochipilli Zipactonal Zolin
+		}
+		female_names = {
+			Achcauhtli Acxocueitl Ahuiliztli Amoxtli Atl Atotoztli Ayauhcihuatl Azcalxochitzin Centehua Cihuaton Chalchiuitl Chicahua Chichimecacihuatzin Chipahua Chicomecoatl Chimalma Citlali Citlalli Citlalmina Coaxoch Coszcatl 
+			Cozamalotl Cuicatl Eleuia Eloxochitl Etalpalli Eztli Huehue-Zaca Itotia Iuitl Ixcatzin Izel Malinalxochitl Manauia Matlalatzin Mecatl Meztli Miahuaxiuitl Miyaoaxochitl Mizquixahual Momoztli Nahuatl Necahual Nelli Ohtli Papa Patli
+			Quiauhxochitl Sacnite Techichpotzin Tezozomoc Tziquetzalpoztectzin Teiuc Teicuih Teyacapan Tepin Tezcatlan Tlacotl Tlahco Tlahcoehua Toltecatl Tonalnan Tlazozomizqui
+			Yoltzin Xilonen Xiloxoch Xiuhtomiyauhtzin Xochitl Xocoh Xocoyotl Yaretzi Zeltzin Zyanya
+		}
+		
+		#from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+}
+
+maya = {
+	graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
+
+	chontales = {
+		graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
+		color = { 0.67 0.92 0.23 }
+		
+		horde = yes
+		
+		used_for_random = no
+		
+		male_names = {
+			"Te Kab Chaak" "Kakh Ujol Kinich" "Yajaw Te K'inich" "Kan" "Ti Hun" "Tzayaj Kakh'" "Tum Yohl Kinich" "Kinich Toobil Yopaat" "Uxwitza Ajaw" "Kan" "Kan" "Bahlam Oi Kinich" "Hol Kinich Sak Witz Baal" "Naol K'inich" "Bahlam Aj Sak" "Yopaat Kinich" "Sak Tzas Kan" "Junpik Took" "Kahk Chitam" "Ux Maan" "Kawiil" "Yopaat Taaj Nah" "Kaak Yopaat" "Chaak Bahlam" "Kaloomte" "Xaman Kawiil" "Ajaw Lahun" "Ajaw Buluc" "Ajaw Lacha" "Ajaw Oxlahun" "Ajaw Kanlahun" "Ajaw Holahun" "Ajaw Uaxaclajuun" "Kinich Yax Kuk Mo" "Kinich Popol Hol" "Kakh Ajaw" "Ku Ix" "Kinich Yukuah" 
+			"Muyal Jol" "Wil Ohl Kinich" "Sak Lu" "Tzi Bahlam" "Kinich Bahlam Nehn" "Kak Chan Yopaat" "Chan Imix Kawiil" "Waxaklajuun Ubaah Kawiil" "Kakh Joplaj Chan Yopaat" "Kakh Yipyaj Chan Yopaat" "Yax Pasaj Chan Yopaat" "Pak U Chan" "Tayel Chan Kinich" "Chaanal Chaak Chapaat" "Kaan Ajaw" "Ahkab Ohl Bahlam" "Yuknoom Cheen" "Kaltuun Hix" "Kakh Ti Chich" "Il Chan" "Yax Yopaat" "Hun Chan" "Yuknoom Ti Chan" "Tajoom Ukab Kakh " "Yuknoom Il Jol" "Yuknoom Yichaak Kakh " "Jatz Chab" "Yuknoom Took Kawiil" "Wamaw Kawiil" "Bolon Kawiil" "Yax Chil Naht K'aan" "Chan Pet" 
+			"Aj Took" "Tz'ikin Bahlam" "Sa'aal Ajaw" "Naatz Chan Akh" "K'inich Tajal Chaak " "Aj Wosal Chan K'inich" "Ah Numsaaj" "K'uxaj" "K'akh Xiw Chan Chaak" "Yax Muyuy Chan Chaak" "K'akh Yipyay Chan Chaak " "K'akh Ukalaw Chan Chaak" "K'ejil K'awiil" "Itzamnaaj K'awiil" "Waxaklajuun Ubaah K'awiil" "Janab Pakal" "K'uk Bahlam" "Casper" "Butz'aj Sak Chiik" "Ahk'al Mo Nahb" "K'an Joy Chitam" "Kan Bahlam" "Ajen Yohl Mat" "K'an Mo Hix" "Bajlaj Chan K'awiil" "Itzamnaaj Bahlam Itzan" "Itzamnaaj K'awiil" "K'awiil Chan K'inich" "Ucha'an K'in Bahlam" "Yich'aak Bahlam" 
+			"Tahn Te' K'inich " "Chaak Lakumtuun" "Ajaw Bot" "Wat'ul Chatel" "Yok'ib Ajaw" "K'an Akh" "Yat Akh" "Yo'nal Akh" "Ha'Kiin Xook"  "Tok Casper" "Tutuum Johl K'inich" "Yax Jolom" "Mih Toh" "K'awiil Yopaat" "K'akh Tiliw Chan Yopaat'" "Chak Xul" "Yax Chaak" "Jasaw Chan K'awiil" "Nuun Ujol Chaak" "Yax Ehb Xook" "Mutal Ajaw" "Siyaj Chan K'awiil Chak Ichaak" "Yax Chak'tel Xook" "Bahlam Ajaw" "Kinich Ehb" "Sihyaj Chan K'awiil" "K'inich Muwaan Jol" "Chak Tok Ichaak" "Yax Nuun Ahiin" "K'an Chitam" "Kaloomte' Bahlam" "Ete" "Yikin Chan K'awiil" "Nuun Ujol K'inich" 
+			"Tz'an Cheen" "K'awiil Li" "Itzamnaaj Bahlam" "Yaxuun Bahlam" "Muwaan Jol" "Yopaat Bahlam"
+		}
+		female_names = {
+			"Ix Yopaat" "Ix Kal Kinich" "Ix Chekaj Kinich" "Ix Batz Ek " "Ix Xultun" "Ix Kinich" "Ix Chel Chan" "Ix Chan Kan" "Ix Acac Mo' " "Ix Maxina " "Ix Te Yajaw" "Ix ik Yopaat" "Ix Kinich" "Ix Ik Yopaat Chan" "Ix Ik Coba Chan Acac"  "Ix Ti Kan" "Ix Tzibnal" "Ix Naah Ek" "Ix Acac Chan Ajaw" "Ix Bulu' " "Unen Bahlam " "Xel Xatz" "Yaxhaj" "Ix Rawabaj Bal" "Ix Atzaal Baaj" "Bahlaj Itznal" "Ix Mak' Tznal " "Ix Chan K'an" "Ix Batz Ek" "Ix Atzakak Chaj" "Muwaan Mat" "Ix Yohl Ik'nal" "Ix Tzakabu Ajaw" "Ix Kinuw" "Ix Men Nik" "Huntaan Aah" "Ix Kaloomte' Ix I K'in"
+		}
+		
+		#from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+
+	lacandon = {
+		graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
+		color = { 0.21 0.74 0.14 }
+		
+		horde = yes
+		
+		used_for_random = no
+		
+		male_names = {
+			"Te Kab Chaak" "Kakh Ujol Kinich" "Yajaw Te K'inich" "Kan" "Ti Hun" "Tzayaj Kakh'" "Tum Yohl Kinich" "Kinich Toobil Yopaat" "Uxwitza Ajaw" "Kan" "Kan" "Bahlam Oi Kinich" "Hol Kinich Sak Witz Baal" "Naol K'inich" "Bahlam Aj Sak" "Yopaat Kinich" "Sak Tzas Kan" "Junpik Took" "Kahk Chitam" "Ux Maan" "Kawiil" "Yopaat Taaj Nah" "Kaak Yopaat" "Chaak Bahlam" "Kaloomte" "Xaman Kawiil" "Ajaw Lahun" "Ajaw Buluc" "Ajaw Lacha" "Ajaw Oxlahun" "Ajaw Kanlahun" "Ajaw Holahun" "Ajaw Uaxaclajuun" "Kinich Yax Kuk Mo" "Kinich Popol Hol" "Kakh Ajaw" "Ku Ix" "Kinich Yukuah" 
+			"Muyal Jol" "Wil Ohl Kinich" "Sak Lu" "Tzi Bahlam" "Kinich Bahlam Nehn" "Kak Chan Yopaat" "Chan Imix Kawiil" "Waxaklajuun Ubaah Kawiil" "Kakh Joplaj Chan Yopaat" "Kakh Yipyaj Chan Yopaat" "Yax Pasaj Chan Yopaat" "Pak U Chan" "Tayel Chan Kinich" "Chaanal Chaak Chapaat" "Kaan Ajaw" "Ahkab Ohl Bahlam" "Yuknoom Cheen" "Kaltuun Hix" "Kakh Ti Chich" "Il Chan" "Yax Yopaat" "Hun Chan" "Yuknoom Ti Chan" "Tajoom Ukab Kakh " "Yuknoom Il Jol" "Yuknoom Yichaak Kakh " "Jatz Chab" "Yuknoom Took Kawiil" "Wamaw Kawiil" "Bolon Kawiil" "Yax Chil Naht K'aan" "Chan Pet" 
+			"Aj Took" "Tz'ikin Bahlam" "Sa'aal Ajaw" "Naatz Chan Akh" "K'inich Tajal Chaak " "Aj Wosal Chan K'inich" "Ah Numsaaj" "K'uxaj" "K'akh Xiw Chan Chaak" "Yax Muyuy Chan Chaak" "K'akh Yipyay Chan Chaak " "K'akh Ukalaw Chan Chaak" "K'ejil K'awiil" "Itzamnaaj K'awiil" "Waxaklajuun Ubaah K'awiil" "Janab Pakal" "K'uk Bahlam" "Casper" "Butz'aj Sak Chiik" "Ahk'al Mo Nahb" "K'an Joy Chitam" "Kan Bahlam" "Ajen Yohl Mat" "K'an Mo Hix" "Bajlaj Chan K'awiil" "Itzamnaaj Bahlam Itzan" "Itzamnaaj K'awiil" "K'awiil Chan K'inich" "Ucha'an K'in Bahlam" "Yich'aak Bahlam" 
+			"Tahn Te' K'inich " "Chaak Lakumtuun" "Ajaw Bot" "Wat'ul Chatel" "Yok'ib Ajaw" "K'an Akh" "Yat Akh" "Yo'nal Akh" "Ha'Kiin Xook"  "Tok Casper" "Tutuum Johl K'inich" "Yax Jolom" "Mih Toh" "K'awiil Yopaat" "K'akh Tiliw Chan Yopaat'" "Chak Xul" "Yax Chaak" "Jasaw Chan K'awiil" "Nuun Ujol Chaak" "Yax Ehb Xook" "Mutal Ajaw" "Siyaj Chan K'awiil Chak Ichaak" "Yax Chak'tel Xook" "Bahlam Ajaw" "Kinich Ehb" "Sihyaj Chan K'awiil" "K'inich Muwaan Jol" "Chak Tok Ichaak" "Yax Nuun Ahiin" "K'an Chitam" "Kaloomte' Bahlam" "Ete" "Yikin Chan K'awiil" "Nuun Ujol K'inich" 
+			"Tz'an Cheen" "K'awiil Li" "Itzamnaaj Bahlam" "Yaxuun Bahlam" "Muwaan Jol" "Yopaat Bahlam"
+		}
+		female_names = {
+			"Ix Yopaat" "Ix Kal Kinich" "Ix Chekaj Kinich" "Ix Batz Ek " "Ix Xultun" "Ix Kinich" "Ix Chel Chan" "Ix Chan Kan" "Ix Acac Mo' " "Ix Maxina " "Ix Te Yajaw" "Ix ik Yopaat" "Ix Kinich" "Ix Ik Yopaat Chan" "Ix Ik Coba Chan Acac"  "Ix Ti Kan" "Ix Tzibnal" "Ix Naah Ek" "Ix Acac Chan Ajaw" "Ix Bulu' " "Unen Bahlam " "Xel Xatz" "Yaxhaj" "Ix Rawabaj Bal" "Ix Atzaal Baaj" "Bahlaj Itznal" "Ix Mak' Tznal " "Ix Chan K'an" "Ix Batz Ek" "Ix Atzakak Chaj" "Muwaan Mat" "Ix Yohl Ik'nal" "Ix Tzakabu Ajaw" "Ix Kinuw" "Ix Men Nik" "Huntaan Aah" "Ix Kaloomte' Ix I K'in"
+		}
+		
+		#from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+
+	highland_mayan = {
+		graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
+		color = { 0.17 0.55 0.34 }
+		
+		horde = yes
+		
+		used_for_random = no
+		
+		male_names = {
+			"Te Kab Chaak" "Kakh Ujol Kinich" "Yajaw Te K'inich" "Kan" "Ti Hun" "Tzayaj Kakh'" "Tum Yohl Kinich" "Kinich Toobil Yopaat" "Uxwitza Ajaw" "Kan" "Kan" "Bahlam Oi Kinich" "Hol Kinich Sak Witz Baal" "Naol K'inich" "Bahlam Aj Sak" "Yopaat Kinich" "Sak Tzas Kan" "Junpik Took" "Kahk Chitam" "Ux Maan" "Kawiil" "Yopaat Taaj Nah" "Kaak Yopaat" "Chaak Bahlam" "Kaloomte" "Xaman Kawiil" "Ajaw Lahun" "Ajaw Buluc" "Ajaw Lacha" "Ajaw Oxlahun" "Ajaw Kanlahun" "Ajaw Holahun" "Ajaw Uaxaclajuun" "Kinich Yax Kuk Mo" "Kinich Popol Hol" "Kakh Ajaw" "Ku Ix" "Kinich Yukuah" 
+			"Muyal Jol" "Wil Ohl Kinich" "Sak Lu" "Tzi Bahlam" "Kinich Bahlam Nehn" "Kak Chan Yopaat" "Chan Imix Kawiil" "Waxaklajuun Ubaah Kawiil" "Kakh Joplaj Chan Yopaat" "Kakh Yipyaj Chan Yopaat" "Yax Pasaj Chan Yopaat" "Pak U Chan" "Tayel Chan Kinich" "Chaanal Chaak Chapaat" "Kaan Ajaw" "Ahkab Ohl Bahlam" "Yuknoom Cheen" "Kaltuun Hix" "Kakh Ti Chich" "Il Chan" "Yax Yopaat" "Hun Chan" "Yuknoom Ti Chan" "Tajoom Ukab Kakh " "Yuknoom Il Jol" "Yuknoom Yichaak Kakh " "Jatz Chab" "Yuknoom Took Kawiil" "Wamaw Kawiil" "Bolon Kawiil" "Yax Chil Naht K'aan" "Chan Pet" 
+			"Aj Took" "Tz'ikin Bahlam" "Sa'aal Ajaw" "Naatz Chan Akh" "K'inich Tajal Chaak " "Aj Wosal Chan K'inich" "Ah Numsaaj" "K'uxaj" "K'akh Xiw Chan Chaak" "Yax Muyuy Chan Chaak" "K'akh Yipyay Chan Chaak " "K'akh Ukalaw Chan Chaak" "K'ejil K'awiil" "Itzamnaaj K'awiil" "Waxaklajuun Ubaah K'awiil" "Janab Pakal" "K'uk Bahlam" "Casper" "Butz'aj Sak Chiik" "Ahk'al Mo Nahb" "K'an Joy Chitam" "Kan Bahlam" "Ajen Yohl Mat" "K'an Mo Hix" "Bajlaj Chan K'awiil" "Itzamnaaj Bahlam Itzan" "Itzamnaaj K'awiil" "K'awiil Chan K'inich" "Ucha'an K'in Bahlam" "Yich'aak Bahlam" 
+			"Tahn Te' K'inich " "Chaak Lakumtuun" "Ajaw Bot" "Wat'ul Chatel" "Yok'ib Ajaw" "K'an Akh" "Yat Akh" "Yo'nal Akh" "Ha'Kiin Xook"  "Tok Casper" "Tutuum Johl K'inich" "Yax Jolom" "Mih Toh" "K'awiil Yopaat" "K'akh Tiliw Chan Yopaat'" "Chak Xul" "Yax Chaak" "Jasaw Chan K'awiil" "Nuun Ujol Chaak" "Yax Ehb Xook" "Mutal Ajaw" "Siyaj Chan K'awiil Chak Ichaak" "Yax Chak'tel Xook" "Bahlam Ajaw" "Kinich Ehb" "Sihyaj Chan K'awiil" "K'inich Muwaan Jol" "Chak Tok Ichaak" "Yax Nuun Ahiin" "K'an Chitam" "Kaloomte' Bahlam" "Ete" "Yikin Chan K'awiil" "Nuun Ujol K'inich" 
+			"Tz'an Cheen" "K'awiil Li" "Itzamnaaj Bahlam" "Yaxuun Bahlam" "Muwaan Jol" "Yopaat Bahlam"
+		}
+		female_names = {
+			"Ix Yopaat" "Ix Kal Kinich" "Ix Chekaj Kinich" "Ix Batz Ek " "Ix Xultun" "Ix Kinich" "Ix Chel Chan" "Ix Chan Kan" "Ix Acac Mo' " "Ix Maxina " "Ix Te Yajaw" "Ix ik Yopaat" "Ix Kinich" "Ix Ik Yopaat Chan" "Ix Ik Coba Chan Acac"  "Ix Ti Kan" "Ix Tzibnal" "Ix Naah Ek" "Ix Acac Chan Ajaw" "Ix Bulu' " "Unen Bahlam " "Xel Xatz" "Yaxhaj" "Ix Rawabaj Bal" "Ix Atzaal Baaj" "Bahlaj Itznal" "Ix Mak' Tznal " "Ix Chan K'an" "Ix Batz Ek" "Ix Atzakak Chaj" "Muwaan Mat" "Ix Yohl Ik'nal" "Ix Tzakabu Ajaw" "Ix Kinuw" "Ix Men Nik" "Huntaan Aah" "Ix Kaloomte' Ix I K'in"
+		}
+		
+		#from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+
+	putun = {
+		graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
+		color = { 0.21 0.14 0.92 }
+		
+		horde = yes
+		
+		used_for_random = no
+		
+		male_names = {
+			"Te Kab Chaak" "Kakh Ujol Kinich" "Yajaw Te K'inich" "Kan" "Ti Hun" "Tzayaj Kakh'" "Tum Yohl Kinich" "Kinich Toobil Yopaat" "Uxwitza Ajaw" "Kan" "Kan" "Bahlam Oi Kinich" "Hol Kinich Sak Witz Baal" "Naol K'inich" "Bahlam Aj Sak" "Yopaat Kinich" "Sak Tzas Kan" "Junpik Took" "Kahk Chitam" "Ux Maan" "Kawiil" "Yopaat Taaj Nah" "Kaak Yopaat" "Chaak Bahlam" "Kaloomte" "Xaman Kawiil" "Ajaw Lahun" "Ajaw Buluc" "Ajaw Lacha" "Ajaw Oxlahun" "Ajaw Kanlahun" "Ajaw Holahun" "Ajaw Uaxaclajuun" "Kinich Yax Kuk Mo" "Kinich Popol Hol" "Kakh Ajaw" "Ku Ix" "Kinich Yukuah" 
+			"Muyal Jol" "Wil Ohl Kinich" "Sak Lu" "Tzi Bahlam" "Kinich Bahlam Nehn" "Kak Chan Yopaat" "Chan Imix Kawiil" "Waxaklajuun Ubaah Kawiil" "Kakh Joplaj Chan Yopaat" "Kakh Yipyaj Chan Yopaat" "Yax Pasaj Chan Yopaat" "Pak U Chan" "Tayel Chan Kinich" "Chaanal Chaak Chapaat" "Kaan Ajaw" "Ahkab Ohl Bahlam" "Yuknoom Cheen" "Kaltuun Hix" "Kakh Ti Chich" "Il Chan" "Yax Yopaat" "Hun Chan" "Yuknoom Ti Chan" "Tajoom Ukab Kakh " "Yuknoom Il Jol" "Yuknoom Yichaak Kakh " "Jatz Chab" "Yuknoom Took Kawiil" "Wamaw Kawiil" "Bolon Kawiil" "Yax Chil Naht K'aan" "Chan Pet" 
+			"Aj Took" "Tz'ikin Bahlam" "Sa'aal Ajaw" "Naatz Chan Akh" "K'inich Tajal Chaak " "Aj Wosal Chan K'inich" "Ah Numsaaj" "K'uxaj" "K'akh Xiw Chan Chaak" "Yax Muyuy Chan Chaak" "K'akh Yipyay Chan Chaak " "K'akh Ukalaw Chan Chaak" "K'ejil K'awiil" "Itzamnaaj K'awiil" "Waxaklajuun Ubaah K'awiil" "Janab Pakal" "K'uk Bahlam" "Casper" "Butz'aj Sak Chiik" "Ahk'al Mo Nahb" "K'an Joy Chitam" "Kan Bahlam" "Ajen Yohl Mat" "K'an Mo Hix" "Bajlaj Chan K'awiil" "Itzamnaaj Bahlam Itzan" "Itzamnaaj K'awiil" "K'awiil Chan K'inich" "Ucha'an K'in Bahlam" "Yich'aak Bahlam" 
+			"Tahn Te' K'inich " "Chaak Lakumtuun" "Ajaw Bot" "Wat'ul Chatel" "Yok'ib Ajaw" "K'an Akh" "Yat Akh" "Yo'nal Akh" "Ha'Kiin Xook"  "Tok Casper" "Tutuum Johl K'inich" "Yax Jolom" "Mih Toh" "K'awiil Yopaat" "K'akh Tiliw Chan Yopaat'" "Chak Xul" "Yax Chaak" "Jasaw Chan K'awiil" "Nuun Ujol Chaak" "Yax Ehb Xook" "Mutal Ajaw" "Siyaj Chan K'awiil Chak Ichaak" "Yax Chak'tel Xook" "Bahlam Ajaw" "Kinich Ehb" "Sihyaj Chan K'awiil" "K'inich Muwaan Jol" "Chak Tok Ichaak" "Yax Nuun Ahiin" "K'an Chitam" "Kaloomte' Bahlam" "Ete" "Yikin Chan K'awiil" "Nuun Ujol K'inich" 
+			"Tz'an Cheen" "K'awiil Li" "Itzamnaaj Bahlam" "Yaxuun Bahlam" "Muwaan Jol" "Yopaat Bahlam"
+		}
+		female_names = {
+			"Ix Yopaat" "Ix Kal Kinich" "Ix Chekaj Kinich" "Ix Batz Ek " "Ix Xultun" "Ix Kinich" "Ix Chel Chan" "Ix Chan Kan" "Ix Acac Mo' " "Ix Maxina " "Ix Te Yajaw" "Ix ik Yopaat" "Ix Kinich" "Ix Ik Yopaat Chan" "Ix Ik Coba Chan Acac"  "Ix Ti Kan" "Ix Tzibnal" "Ix Naah Ek" "Ix Acac Chan Ajaw" "Ix Bulu' " "Unen Bahlam " "Xel Xatz" "Yaxhaj" "Ix Rawabaj Bal" "Ix Atzaal Baaj" "Bahlaj Itznal" "Ix Mak' Tznal " "Ix Chan K'an" "Ix Batz Ek" "Ix Atzakak Chaj" "Muwaan Mat" "Ix Yohl Ik'nal" "Ix Tzakabu Ajaw" "Ix Kinuw" "Ix Men Nik" "Huntaan Aah" "Ix Kaloomte' Ix I K'in"
+		}
+		
+		#from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+
+	mayanx = {
+		graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
+		color = { 0.37 0.6 0.81 }
+		
+		horde = yes
+		
+		used_for_random = no
+		
+		male_names = {
+			"Te Kab Chaak" "Kakh Ujol Kinich" "Yajaw Te K'inich" "Kan" "Ti Hun" "Tzayaj Kakh'" "Tum Yohl Kinich" "Kinich Toobil Yopaat" "Uxwitza Ajaw" "Kan" "Kan" "Bahlam Oi Kinich" "Hol Kinich Sak Witz Baal" "Naol K'inich" "Bahlam Aj Sak" "Yopaat Kinich" "Sak Tzas Kan" "Junpik Took" "Kahk Chitam" "Ux Maan" "Kawiil" "Yopaat Taaj Nah" "Kaak Yopaat" "Chaak Bahlam" "Kaloomte" "Xaman Kawiil" "Ajaw Lahun" "Ajaw Buluc" "Ajaw Lacha" "Ajaw Oxlahun" "Ajaw Kanlahun" "Ajaw Holahun" "Ajaw Uaxaclajuun" "Kinich Yax Kuk Mo" "Kinich Popol Hol" "Kakh Ajaw" "Ku Ix" "Kinich Yukuah" 
+			"Muyal Jol" "Wil Ohl Kinich" "Sak Lu" "Tzi Bahlam" "Kinich Bahlam Nehn" "Kak Chan Yopaat" "Chan Imix Kawiil" "Waxaklajuun Ubaah Kawiil" "Kakh Joplaj Chan Yopaat" "Kakh Yipyaj Chan Yopaat" "Yax Pasaj Chan Yopaat" "Pak U Chan" "Tayel Chan Kinich" "Chaanal Chaak Chapaat" "Kaan Ajaw" "Ahkab Ohl Bahlam" "Yuknoom Cheen" "Kaltuun Hix" "Kakh Ti Chich" "Il Chan" "Yax Yopaat" "Hun Chan" "Yuknoom Ti Chan" "Tajoom Ukab Kakh " "Yuknoom Il Jol" "Yuknoom Yichaak Kakh " "Jatz Chab" "Yuknoom Took Kawiil" "Wamaw Kawiil" "Bolon Kawiil" "Yax Chil Naht K'aan" "Chan Pet" 
+			"Aj Took" "Tz'ikin Bahlam" "Sa'aal Ajaw" "Naatz Chan Akh" "K'inich Tajal Chaak " "Aj Wosal Chan K'inich" "Ah Numsaaj" "K'uxaj" "K'akh Xiw Chan Chaak" "Yax Muyuy Chan Chaak" "K'akh Yipyay Chan Chaak " "K'akh Ukalaw Chan Chaak" "K'ejil K'awiil" "Itzamnaaj K'awiil" "Waxaklajuun Ubaah K'awiil" "Janab Pakal" "K'uk Bahlam" "Casper" "Butz'aj Sak Chiik" "Ahk'al Mo Nahb" "K'an Joy Chitam" "Kan Bahlam" "Ajen Yohl Mat" "K'an Mo Hix" "Bajlaj Chan K'awiil" "Itzamnaaj Bahlam Itzan" "Itzamnaaj K'awiil" "K'awiil Chan K'inich" "Ucha'an K'in Bahlam" "Yich'aak Bahlam" 
+			"Tahn Te' K'inich " "Chaak Lakumtuun" "Ajaw Bot" "Wat'ul Chatel" "Yok'ib Ajaw" "K'an Akh" "Yat Akh" "Yo'nal Akh" "Ha'Kiin Xook"  "Tok Casper" "Tutuum Johl K'inich" "Yax Jolom" "Mih Toh" "K'awiil Yopaat" "K'akh Tiliw Chan Yopaat'" "Chak Xul" "Yax Chaak" "Jasaw Chan K'awiil" "Nuun Ujol Chaak" "Yax Ehb Xook" "Mutal Ajaw" "Siyaj Chan K'awiil Chak Ichaak" "Yax Chak'tel Xook" "Bahlam Ajaw" "Kinich Ehb" "Sihyaj Chan K'awiil" "K'inich Muwaan Jol" "Chak Tok Ichaak" "Yax Nuun Ahiin" "K'an Chitam" "Kaloomte' Bahlam" "Ete" "Yikin Chan K'awiil" "Nuun Ujol K'inich" 
+			"Tz'an Cheen" "K'awiil Li" "Itzamnaaj Bahlam" "Yaxuun Bahlam" "Muwaan Jol" "Yopaat Bahlam"
+		}
+		female_names = {
+			"Ix Yopaat" "Ix Kal Kinich" "Ix Chekaj Kinich" "Ix Batz Ek " "Ix Xultun" "Ix Kinich" "Ix Chel Chan" "Ix Chan Kan" "Ix Acac Mo' " "Ix Maxina " "Ix Te Yajaw" "Ix ik Yopaat" "Ix Kinich" "Ix Ik Yopaat Chan" "Ix Ik Coba Chan Acac"  "Ix Ti Kan" "Ix Tzibnal" "Ix Naah Ek" "Ix Acac Chan Ajaw" "Ix Bulu' " "Unen Bahlam " "Xel Xatz" "Yaxhaj" "Ix Rawabaj Bal" "Ix Atzaal Baaj" "Bahlaj Itznal" "Ix Mak' Tznal " "Ix Chan K'an" "Ix Batz Ek" "Ix Atzakak Chaj" "Muwaan Mat" "Ix Yohl Ik'nal" "Ix Tzakabu Ajaw" "Ix Kinuw" "Ix Men Nik" "Huntaan Aah" "Ix Kaloomte' Ix I K'in"
+		}
+		
+		#from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+	wastek = {
+		graphical_cultures = { mesoamericangfx mongolgfx muslimgfx }
+		color = { 0.17 0.88 0.93 }
+		
+		used_for_random = no
+		
+		male_names = {
+			"Can Ek" "Balam Quitze" "Kan Boar" "Yax Kuk Mok" "Ah Can" "Vahxaqui Caam" "Ah Cacao" "Cham Bahlun" 
+			"Pacal Balam" "Yaxum Balam" "Butz Chan" "Chaan Muan" "Yax Pac" "Ahpop-Achi" "Kan Bahlun Mo" Cocom 
+			Pacal Ahmok Arana Bakan Bor Cocaib Cocoja Conache Cotuja Gucamatz Hnuyg Kayom Kukumatz 
+			Mochcouoh Nohochacyum Oxib Queh Tecunuman Tutul Xiu Tziquin Vataki Yumcaaz Zotz Ahkinxok "Cu Ix" 
+		}
+		female_names = {
+			Sacnite Adsila Aiyana Ayasha Ayita Bly Dena Halona Kimi Magena Nayeli Kisa Eme
+		}
+		
+		#from_dynasty_prefix = "of "
+		founder_named_dynasties = yes
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 25
+		mother_name_chance = 0
+
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}	
+}

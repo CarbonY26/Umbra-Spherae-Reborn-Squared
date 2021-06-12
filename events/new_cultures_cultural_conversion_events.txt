@@ -1,0 +1,1706 @@
+# Visigothic province converts to Aragonese
+province_event = {
+	id = NC.1
+	desc = EVTDESC_NC_1
+	picture = GFX_evt_stone_church
+
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		culture = visigothic
+		NOT = { religion_group = muslim }
+		OR = {
+			region = custom_aragonese
+			owner = { culture = aragonese }
+		}
+		any_province_holding = {
+			NOT = { holding_type = nomad }
+		}
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = visigothic 
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = visigothic }
+			}
+		}
+		year = 850
+	}
+	
+	mean_time_to_happen = {
+		months = 3600
+		modifier = {
+			factor = 0.5
+			owner = {
+				culture = aragonese
+			}
+		}
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_1
+		culture = aragonese
+	}
+}
+# Visigothic province converts to Leonese
+province_event = {
+	id = NC.2
+	desc = EVTDESC_NC_2
+	picture = GFX_evt_stone_church
+
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		culture = visigothic
+		NOT = { religion_group = muslim }
+		OR = {
+			region = custom_leonese
+			owner = { culture = leonese }
+		}
+		any_province_holding = {
+			NOT = { holding_type = nomad }
+		}
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = visigothic 
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = visigothic }
+			}
+		}
+		year = 850
+	}
+	
+	mean_time_to_happen = {
+		months = 3600
+		modifier = {
+			factor = 0.5
+			owner = {
+				culture = leonese
+			}
+		}
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_2
+		culture = leonese
+	}
+}
+# Visigothic province converts to Asturian
+province_event = {
+	id = NC.3
+	desc = EVTDESC_NC_3
+	picture = GFX_evt_stone_church
+
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		culture = visigothic
+		NOT = { religion_group = muslim }
+		OR = {
+			region = custom_asturian
+			owner = { culture = asturian }
+		}
+		any_province_holding = {
+			NOT = { holding_type = nomad }
+		}
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = visigothic 
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = visigothic }
+			}
+		}
+		year = 850
+	}
+	
+	mean_time_to_happen = {
+		months = 3600
+		modifier = {
+			factor = 0.5
+			owner = {
+				culture = asturian
+			}
+		}
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_3
+		culture = asturian
+	}
+}
+# Visigothic province converts to Cantabrian
+province_event = {
+	id = NC.4
+	desc = EVTDESC_NC_4
+	picture = GFX_evt_stone_church
+
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		culture = visigothic
+		NOT = { religion_group = muslim }
+		OR = {
+			region = custom_cantabrian
+			owner = { culture = cantabrian }
+		}
+		any_province_holding = {
+			NOT = { holding_type = nomad }
+		}
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = visigothic 
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = visigothic }
+			}
+		}
+		year = 850
+	}
+	
+	mean_time_to_happen = {
+		months = 3600
+		modifier = {
+			factor = 0.5
+			owner = {
+				culture = cantabrian
+			}
+		}
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_4
+		culture = cantabrian
+	}
+}
+# Visigothic province converts to Extremaduran
+province_event = {
+	id = NC.5
+	desc = EVTDESC_NC_5
+	picture = GFX_evt_stone_church
+
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		culture = visigothic
+		NOT = { religion_group = muslim }
+		OR = {
+			region = custom_extremaduran
+			owner = { culture = extremaduran }
+		}
+		any_province_holding = {
+			NOT = { holding_type = nomad }
+		}
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = visigothic 
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = visigothic }
+			}
+		}
+		year = 850
+	}
+	
+	mean_time_to_happen = {
+		months = 3600
+		modifier = {
+			factor = 0.5
+			owner = {
+				culture = extremaduran 
+			}
+		}
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_5
+		culture = extremaduran 
+	}
+}
+# Visigothic province converts to Andalusian Romance
+province_event = {
+	id = NC.6
+	desc = EVTDESC_NC_6
+	picture = GFX_evt_monk_muslim
+
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		culture = visigothic
+		OR = {
+			region = custom_mozarabic
+			owner = { culture = andalusian_romance }
+		}
+		any_province_holding = {
+			NOT = { holding_type = nomad }
+		}
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = visigothic 
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = visigothic }
+			}
+		}
+		year = 850
+	}
+	
+	mean_time_to_happen = {
+		months = 3600
+		modifier = {
+			factor = 0.5
+			owner = {
+				culture = andalusian_romance
+			}
+		}
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_6
+		culture = andalusian_romance
+	}
+}
+# Suebi province converts to Galician
+province_event = {
+	id = NC.7
+	desc = EVTDESC_NC_7
+	picture = GFX_evt_stone_church
+
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		culture = suebi
+		NOT = { religion_group = muslim }
+		OR = {
+			region = custom_galician
+			owner = { culture = galician }
+		}
+		any_province_holding = {
+			NOT = { holding_type = nomad }
+		}
+		year = 850
+	}
+	
+	mean_time_to_happen = {
+		months = 3600
+		modifier = {
+			factor = 0.5
+			owner = {
+				culture = galician
+			}
+		}
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_7
+		culture = galician
+	}
+}
+# Province culture changes from Norse to Icelandic
+province_event = {
+	id = NC.8
+	desc = EVTDESC_NC_8
+	picture = GFX_evt_viking_throneroom_oldgods
+	border = GFX_event_normal_frame_diplomacy
+	
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		year = 950
+		culture = norse
+		region = custom_icelandic
+		NOT = { year = 1150 }
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = norse 
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = norse }
+			}
+		}
+		OR = {
+			AND = {
+				owner = { top_liege = { culture = norse } }
+				region = custom_icelandic
+			}
+			owner = { top_liege = { culture = icelandic } }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 2800
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_8
+		trigger = {
+			NOT = {
+				owner = { culture = icelandic }
+			}
+		}
+		culture = icelandic
+	}
+	option = {
+		name = EVTOPTB_NC_8
+		trigger = {
+			owner = { culture = icelandic }
+		}
+		culture = icelandic
+	}
+}
+# Province culture changes from Norse to Norn
+province_event = {
+	id = NC.9
+	desc = EVTDESC_NC_9
+	picture = GFX_evt_viking_throneroom_oldgods
+	border = GFX_event_normal_frame_diplomacy
+	
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		year = 950
+		culture = norse
+		region = custom_norn
+		NOT = { year = 1150 }
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = norse 
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = norse }
+			}
+		}
+		OR = {
+			AND = {
+				owner = { top_liege = { culture = norse } }
+				region = custom_norn
+			}
+			owner = { top_liege = { culture = norn } }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 2800
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_9
+		trigger = {
+			NOT = {
+				owner = { culture = norn }
+			}
+		}
+		culture = norn
+	}
+	option = {
+		name = EVTOPTB_NC_9
+		trigger = {
+			owner = { culture = norn }
+		}
+		culture = norn
+	}
+}
+# Province culture changes from Norse to Faroese
+province_event = {
+	id = NC.10
+	desc = EVTDESC_NC_10
+	picture = GFX_evt_viking_throneroom_oldgods
+	border = GFX_event_normal_frame_diplomacy
+	
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		year = 950
+		culture = norse
+		region = custom_faroe
+		NOT = { year = 1150 }
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = norse 
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = norse }
+			}
+		}
+		OR = {
+			AND = {
+				owner = { top_liege = { culture = norse } }
+				region = custom_faroe
+			}
+			owner = { top_liege = { culture = faroe } }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 2800
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_10
+		trigger = {
+			NOT = {
+				owner = { culture = faroese }
+			}
+		}
+		culture = faroe
+	}
+	option = {
+		name = EVTOPTB_NC_10
+		trigger = {
+			owner = { culture = faroese }
+		}
+		culture = faroe
+	}
+}
+# Province culture changes from Norwegian to Greenlandic Norse
+province_event = {
+	id = NC.11
+	desc = EVTDESC_NC_11
+	picture = GFX_evt_viking_throneroom_oldgods
+	border = GFX_event_normal_frame_diplomacy
+	
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		year = 950
+		culture = norse
+		region = custom_greenland
+		NOT = { year = 1150 }
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = norse 
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = norse }
+			}
+		}
+		OR = {
+			AND = {
+				owner = { top_liege = { culture = norse } }
+				region = custom_greenland
+			}
+			owner = { top_liege = { culture = greenlandic_norse } }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_11
+		trigger = {
+			NOT = {
+				owner = { culture = greenlandic_norse }
+			}
+		}
+		culture = greenlandic_norse
+	}
+	option = {
+		name = EVTOPTB_NC_11
+		trigger = {
+			owner = { culture = greenlandic_norse }
+		}
+		culture = greenlandic_norse
+	}
+}
+# Polish Converts to Silesian
+province_event = {
+	id = NC.12
+	desc = EVTDESC_NC_12
+	picture = GFX_evt_stone_church
+
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		culture = "polish"
+                region = custom_silesian
+                year = "1200"
+                NOT = {
+			owner = { 
+				top_liege = { 
+					culture = polish
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = polish }
+			}
+		}
+		owner = {
+			OR = {
+				culture = silesian				
+                                NOT = { 
+                                      owner = {
+                                              top_liege = { 
+					      culture = polish
+                                              } 
+					}
+                                }
+				NOT = { religion_group = pagan_group }
+				AND = {
+					religion_group = pagan_group
+					is_reformed_religion = yes
+					NOT = {
+						religion_head = { culture = THIS }
+					}
+				}
+			}
+		}
+		any_province_holding = {
+			NOT = { holding_type = nomad }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_12
+		culture = silesian
+	}
+}
+#Province adopts Masurian culture 
+province event = {
+           id = NC.13
+	   desc = EVTDESC_NC_13
+	   picture = GFX_evt_stone_church
+           trigger = {
+		should_evolve_cultures_trigger = yes
+                region = custom_masurian
+                year = {1300}
+		OR = {
+		      culture = "polish"
+                      owner = {
+                              religion = "waldensian"
+			}
+		}
+                NOT = { religion_group = pagan_group }
+				AND = {
+					religion_group = pagan_group
+					is_reformed_religion = yes
+					NOT = {
+						religion_head = { culture = THIS }
+					}
+				}
+	}
+	
+	mean_time_to_happen = {
+		months = 600
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_13
+		trigger = {
+			NOT = {
+				owner = { culture = masurian }
+			}
+		}
+		culture = masurian
+	}
+	option = {
+		name = EVTOPTB_NC_13
+		trigger = {
+			owner = { culture = masurian }
+		}
+		culture = masurian
+	}
+}
+#Province Culture changes from Pomeranian to Slovincian
+province event = {
+           id = NC.14
+	   desc = EVTDESC_NC_14
+	   picture = GFX_evt_stone_church
+           trigger = {
+		should_evolve_cultures_trigger = yes
+                region = custom_slovincian
+                year = {1100}
+                culture = "pommeranian"
+                NOT = {
+			owner = { 
+				top_liege = { 
+					culture = pommeranian
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = pommeranian }
+			}
+		}
+      		NOT = { religion_group = pagan_group }
+				AND = {
+					religion_group = pagan_group
+					is_reformed_religion = yes
+					NOT = {
+						religion_head = { culture = THIS }
+					}
+				}
+	
+	    mean_time_to_happen = {
+		months = 600
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_14
+		trigger = {
+			NOT = {
+				owner = { culture = slovincian }
+			}
+		}
+		culture = slovincian
+	}
+}
+#Province Culture Changes from Pomeranian to Kashubian
+province event = {
+           id = NC.15
+	   desc = EVTDESC_NC_15
+	   picture = GFX_evt_stone_church
+           trigger = {
+		should_evolve_cultures_trigger = yes
+                region = custom_kashubian
+                year = {1100}
+                culture = "pommeranian"
+                 NOT = {
+			owner = { 
+				top_liege = { 
+					culture = pommeranian
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = pommeranian }
+			}
+		}
+      		NOT = { religion_group = pagan_group }
+				AND = {
+					religion_group = pagan_group
+					is_reformed_religion = yes
+					NOT = {
+						religion_head = { culture = THIS }
+					}
+				}
+	
+	    mean_time_to_happen = {
+		months = 600
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_15
+		culture = kashubian
+	}
+}
+#Carantanian province converts to Slovene
+province event = {
+           id = NC.16
+	   desc = EVTDESC_NC_16
+	   picture = GFX_evt_stone_church
+           trigger = {
+		should_evolve_cultures_trigger = yes
+                region = custom_slovene
+                year = {1150}
+                culture = "carantanian"
+                NOT = {
+			owner = { 
+				top_liege = { 
+					culture = carantanian
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = carantanian }
+			}
+		}
+      		NOT = { religion_group = pagan_group }
+				AND = {
+					religion_group = pagan_group
+					is_reformed_religion = yes
+					NOT = {
+						religion_head = { culture = THIS }
+					}
+				}
+	
+	    mean_time_to_happen = {
+		months = 600
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_16
+		trigger = {
+			NOT = {
+				owner = { culture = slovene }
+			}
+		}
+		culture = slovene
+	}
+	option = {
+		name = EVTOPTB_NC_16
+		trigger = {
+			owner = { culture = slovene }
+		}
+		culture = slovene
+	}
+}
+#Province adopts Israeli Culture
+province event = {
+                 id = ND.17
+                 desc = EVTDESC_NC_17
+                 picture = GFX_evt_jerusalem_captured_jews
+                 trigger = {
+                 should_evolve_cultures_trigger = yes
+                 region = custom_israeli 
+                 OR = {
+                       culture = ashkenazi
+                       culture = sephardic
+                       culture = mizrahi
+                       culture = italki
+                       culture = juhuro
+                       culture = gruzi
+                       culture = romaniote
+                       }
+                 }
+                 mean_time_to_happen = {
+		 months = 600
+		 modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_17
+		trigger = {
+			NOT = {
+				owner = { culture = israeli }
+			}
+		}
+		culture = israeli
+	}
+	option = {
+		name = EVTOPTB_NC_17
+		trigger = {
+			owner = { culture = israeli }
+		}
+		culture = israeli
+	}
+}
+
+#Province adopts Britonian Culture
+province event = {
+                 id = NC.18
+                 desc = EVTDESC_NC_18
+	         picture = GFX_evt_stone_church
+                 trigger = {
+		 should_evolve_cultures_trigger = yes
+                 region = custom_britonian
+                 OR = {
+                      culture = welsh
+                      culture = cumbrian
+		 
+                 NOT = { religion_group = pagan_group }
+				AND = {
+					religion_group = pagan_group
+					is_reformed_religion = yes
+					NOT = {
+						religion_head = { culture = THIS }
+					}
+				}
+	         }
+	
+	mean_time_to_happen = {
+		months = 600
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_18
+		trigger = {
+			NOT = {
+				owner = { culture = britonian }
+			}
+		}
+		culture = britonian
+	}
+	option = {
+		name = EVTOPTB_NC_18
+		trigger = {
+			owner = { culture = britonian }
+		}
+		culture = britonian
+	}
+}
+#Province converts from Sicilian Arabic to Maltese           
+id = NC.19
+	   desc = EVTDESC_NC_19
+	   picture = GFX_evt_stone_church
+           trigger = {
+		should_evolve_cultures_trigger = yes
+                region = custom_maltese
+                year = {1200}
+                culture = "sicilian_arabic"
+                owner = { 
+                              culture_group = latin
+                }
+		NOT = {
+			owner = { 
+				religion_head = { culture = sicilian_arabic }
+			}
+		}
+	
+	    mean_time_to_happen = {
+		months = 600
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_19
+		trigger = {
+			owner = { culture_group = latin }
+		}
+		culture = maltese
+	}
+}           
+#Anglo-Saxon Province converts to Scottish
+province_event = {
+	id = NC.20
+	desc = EVTDESC_CM_1
+	picture = GFX_evt_stone_church
+
+	trigger = {
+		should_evolve_cultures_trigger = yes
+                year = {1100}
+		culture = saxon
+                region = custom_scottish
+		owner = {
+			NOT = {	culture = saxon }
+		}
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = saxon
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_20
+		culture = scottish
+	}
+}
+#English Province converts to Scottish           
+province_event = {
+	id = NC.21
+	desc = EVTDESC_NC_21
+	picture = GFX_evt_stone_church
+
+	trigger = {
+		should_evolve_cultures_trigger = yes
+                year = {1100}
+		culture = english
+                region = custom_scottish
+		owner = {
+			NOT = {	culture = english }
+		}
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = english
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_21
+		culture = scottish
+	}
+}
+#Anglo-Saxon Province converts to Briton           
+province_event = {
+	id = NC.22
+	desc = EVTDESC_NC_22
+	picture = GFX_evt_stone_church
+
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		culture = saxon
+                owner = { 
+		top_liege = { 
+		culture = briton
+                } 
+                }
+		OR = {
+			region = custom_england
+			owner = { culture = briton }
+		}
+		any_province_holding = {
+			NOT = { holding_type = nomad }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 3600
+		modifier = {
+			factor = 0.5
+			owner = {
+				culture = briton
+			}
+		}
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_22
+		culture = briton
+	}
+}           
+#English Province converts to Briton           
+province_event = {
+	id = NC.23
+	desc = EVTDESC_NC_23
+	picture = GFX_evt_stone_church
+
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		culture = english
+                owner = { 
+		top_liege = { 
+		culture = english
+                } 
+                }
+		OR = {
+			region = custom_england
+			owner = { culture = briton }
+		}
+		any_province_holding = {
+			NOT = { holding_type = nomad }
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 3600
+		modifier = {
+			factor = 0.5
+			owner = {
+				culture = briton
+			}
+		}
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_23
+		culture = briton
+	}
+}                      
+# Dutch Province converts to Afrikaner #Easteregg
+province_event = {
+	id = NC.24
+	desc = EVTDESC_NC_24
+	picture = GFX_evt_stone_church
+
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		culture = dutch
+	        region = custom_afrikaner 
+		any_province_holding = {
+			NOT = { holding_type = nomad }
+		}
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = dutch 
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+		NOT = {
+			owner = { 
+				religion_head = { culture = dutch }
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 3600
+		modifier = {
+			factor = 0.5
+			owner = {
+				culture = dutch
+			}
+		}
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_NC_24
+		trigger = {
+			NOT = {
+				owner = { culture = afrikaner }
+			}
+		}
+		culture = afrikaner
+	}
+	option = {
+		name = EVTOPTB_NC_24
+		trigger = {
+			owner = { culture = afrikaner }
+		}
+		culture = afrikaner
+	}
+}
+
+#Inuit Province Converts to Greenlandic
+province_event = {
+	id = NC.25
+	desc = EVTDESC_NC_25
+	picture = GFX_evt_india_temple
+
+	trigger = {
+                region = custom_greenland
+		culture = inuit
+		any_province_holding = {
+			NOT = { holding_type = nomad }
+		}
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = inuit 
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 300
+	}
+
+	option = {
+		name = EVTOPTA_NC_25
+		culture = greenlandic
+	}
+}
+#Tuniq Culture Replaced by Greenlandic
+province_event = {
+	id = NC.26
+	desc = EVTDESC_NC_26
+	picture = GFX_evt_india_temple
+
+	trigger = {
+                region = custom_greenland
+		culture = tuniq
+                year = 1200
+		any_province_holding = {
+			NOT = { holding_type = nomad }
+		}
+		NOT = {
+			owner = { 
+				top_liege = { 
+					culture = tuniq
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1200
+	}
+
+	option = {
+		name = EVTOPTA_NC_26
+		culture = greenlandic
+	}
+}
+#Greenlandic Norse Dies Out
+province_event = {
+        id = NC.27 
+        desc = EVTDESC_NC_27
+	picture = GFX_evt_stone_church
+
+	trigger = {
+                region = custom_greenland
+		culture = greenlandic_norse
+                year = 1400
+                NOT = { year = 1600 }
+		NOT = {
+			owner = { 
+				top_liege = { 
+                                        OR = {
+					culture_group = north_germanic
+                                        culture = finnish
+                                        culture = ugricbaltic
+                                        culture = livonian
+                                        culture = lettigallish
+                                        culture = veps
+                                        culture = karelian
+                                        culture = ingrian
+                                        culture = votic
+                                        culture = lappish
+                                        }
+					OR = {
+						tier = emperor
+						num_of_king_titles = 2
+					}
+				} 
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 600
+	}
+
+	option = {
+		name = EVTOPTA_NC_27
+                trigger = {
+			OR = {
+				owner = { 
+                                          culture = icelandic 
+                                          culture = norn
+                                          culture = faroese
+                                          culture = norse
+                                          culture = swedish
+                                          culture = norwegian
+                                          culture = danish
+                                          culture = finnish
+                                          culture = karelian
+                                          culture = veps
+                                          culture = ingrian
+                                          culture = votic
+                                          culture = ugricbaltic
+                                          culture = lettigallish
+                                          culture = livonian
+                                }
+			}
+		}
+		culture = greenlandic
+                religion = inuit_pagan
+	}
+        option = {
+		name = EVTOPTB_NC_27
+                trigger = {
+		owner = { 
+                culture = greenlandic_norse 
+                }
+		}
+                owner = {
+					character_event = { id = NC.28 }
+				}
+		culture = greenlandic
+                religion = inuit_pagan
+	}
+        option = {
+		name = EVTOPTC_NC_27
+                trigger = {
+			NOT = {
+				owner = { 
+                                        culture = icelandic 
+                                        culture = norn
+                                        culture = faroese
+                                        culture = norse
+                                        culture = swedish
+                                        culture = norwegian
+                                        culture = danish
+                                        culture = finnish
+                                        culture = karelian
+                                        culture = veps
+                                        culture = ingrian
+                                        culture = votic
+                                        culture = ugricbaltic
+                                        culture = lettigallish
+                                        culture = livonian
+                                        culture = greenlandic_norse 
+                                }
+			}
+		}
+		culture = greenlandic
+                religion = inuit_pagan
+	}
+}
+
+character_event = {
+	id = NC.28
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = {
+		ai = yes
+		NOR = {
+			any_title = { is_landless_type_title = yes }
+			any_title = { NOT = { region = custom_greenland } }
+			any_demesne_province = { culture = greenlandic_norse }
+		}
+	}
+	immediate = {
+		create_character = {
+			age = 30
+			is_female = no
+			dynasty = none
+			random_traits = yes
+			culture = greenlandic
+			religion = inuit_pagan
+		}
+		new_character = { save_event_target_as = newruler }
+		transfer_scaled_wealth = {
+			to = event_target:newruler
+			value = all
+		}
+		any_artifact = {
+			transfer_artifact = {
+				from = PREV
+				to =  event_target:newruler
+			}
+		}
+		abdicate_to = event_target:newruler
+		death = { death_reason = death_vanished }
+	}
+}
+#Old Ruthenian breaks off from Old East Slavic
+province_event = {
+        id = NC.28
+        desc = EVTDESC_NC_28
+	picture = GFX_evt_stone_church
+}
+#Russian Culture emerges from Old East Slavic
+province_event = {
+        id = NC.29
+        desc = EVTDESC_NC_29
+	picture = GFX_evt_stone_church
+}
+#Ukrainian Culture emerges from Old Ruthenian 
+province_event = {
+        id = NC.30
+        desc = EVTDESC_NC_30
+	picture = GFX_evt_stone_church
+}
+#Rusyn Culture emerges from Old Ruthenian 
+province_event = {
+        id = NC.31
+        desc = EVTDESC_NC_31
+	picture = GFX_evt_stone_church
+}
+#Belarusian Culture emerges from Old Ruthenian
+province_event = {
+        id = NC.32
+        desc = EVTDESC_NC_32
+        picture = GFX_evt_stone_church
+}

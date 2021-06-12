@@ -1,0 +1,19 @@
+# 1611 - Vaud
+
+#County Title
+
+title = c_vaud
+max_settlements = 4
+
+b_lausanne = castle
+b_echallens = city
+b_romainmotier = temple
+
+
+# Misc
+culture = arpitan
+religion = catholic
+
+# History
+443.1.1 = { culture = "burgundian" }
+534.1.1 = { culture = "arpitan" }

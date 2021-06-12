@@ -1,0 +1,22 @@
+# 4075 - Vepsia
+
+# County Title
+title = c_vepsia
+
+# Settlements
+max_settlements = 7
+
+b_podporozhje = tribal
+#b_voznesenje = tribal
+#b_nemeckoje = tribal
+#b_vazhiny = tribal
+#b_posad = tribal
+#b_grishino = tribal
+#b_kupetskoje = tribal
+
+# Misc
+culture = veps
+religion = finnish_pagan
+
+# History
+1150.1.1 = { religion = orthodox }

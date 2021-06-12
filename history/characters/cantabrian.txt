@@ -1,0 +1,795 @@
+70265={
+	name="Muniu"
+	dynasty=776
+
+	father=107641
+
+	religion=catholic
+	culture=cantabrian
+
+	1000.1.1={
+		birth=yes
+	}
+	1082.1.1={
+		death=yes
+	}
+}
+70266={
+	name="Rodrigu"
+	dynasty=776
+
+	father=70265
+
+	religion=catholic
+	culture=cantabrian
+	
+	1030.1.1={
+		birth=yes
+	}
+	1081.1.1={
+		death=yes
+	}
+}
+70267={
+	name="Gutierre"
+	dynasty=776
+
+	father=70265
+
+	religion=catholic
+	culture=cantabrian
+	
+	1032.1.1={
+		birth=yes
+	}
+	1075.1.1={
+		death=yes
+	}
+}
+70268={
+	name="Ximena"
+	female=yes
+	dynasty=776
+
+	father=70265
+
+	religion=catholic
+	culture=cantabrian
+	
+	1034.1.1={
+		birth=yes
+	}
+	1085.1.1={
+		death=yes
+	}
+}
+72523 = {
+	name="Sancha"
+	female=yes
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72917
+	mother=72924
+	1221.1.1 = {
+		birth="1221.1.1"
+	}
+	1266.1.1 = {
+		death="1266.1.1"
+	}
+}
+72620 = {
+	name="Pedru"
+	dynasty=781
+	religion="catholic"
+	culture="cantabrian"
+	father=72621
+	mother=72763
+	1240.1.1 = {
+		birth="1240.1.1"
+	}
+	1293.1.1 = {
+		add_spouse=72616
+	}
+	1302.1.1 = {
+		death="1302.1.1"
+	}
+}
+72621 = {
+	name="Diegu"
+	dynasty=781
+	religion="catholic"
+	culture="cantabrian"
+	father=72622
+	mother=72623
+	1219.1.1 = {
+		birth="1219.1.1"
+	}
+	1239.1.1 = {
+		add_spouse=72763
+	}
+	1271.1.1 = {
+		death="1271.1.1"
+	}
+}
+72622 = {
+	name="Gómez"
+	dynasty=781
+	religion="catholic"
+	culture="cantabrian"
+	1180.1.1 = {
+		birth="1180.1.1"
+	}
+	1218.1.1 = {
+		add_spouse=72623
+	}
+	1229.1.1 = {
+		death="1229.1.1"
+	}
+}
+72623 = {
+	name="María"
+	female=yes
+	religion="catholic"
+	culture="cantabrian"
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1260.1.1 = {
+		death="1260.1.1"
+	}
+}
+72624 = {
+	name="Nuñu"
+	dynasty=781
+	religion="catholic"
+	culture="cantabrian"
+	father=72622
+	mother=72623
+	1221.1.1 = {
+		birth="1221.1.1"
+	}
+	1275.1.1 = {
+		death="1275.1.1"
+	}
+}
+72625 = {
+	name="Nuñu"
+	dynasty=781
+	religion="catholic"
+	culture="cantabrian"
+	father=72621
+	mother=72763
+	1242.1.1 = {
+		birth="1242.1.1"
+	}
+	1272.1.1 = {
+		add_spouse=72023
+	}
+	1292.1.1 = {
+		death="1292.1.1"
+	}
+}
+72626 = {
+	name="Álvaru"
+	dynasty=781
+	religion="catholic"
+	culture="cantabrian"
+	father=72621
+	mother=72763
+	1244.1.1 = {
+		birth="1244.1.1"
+	}
+	1268.1.1 = {
+		add_spouse=72776
+	}
+	1300.1.1 = {
+		death="1300.1.1"
+	}
+}
+72627 = {
+	name="Teresa"
+	dynasty=781
+	female=yes
+	religion="catholic"
+	culture="cantabrian"
+	father=72626
+	mother=72776
+	1270.1.1 = {
+		birth="1270.1.1"
+	}
+	1344.1.1 = {
+		death="1344.1.1"
+	}
+}
+72628 = {
+	name="Elvira"
+	female=yes
+	dynasty=781
+	religion="catholic"
+	culture="cantabrian"
+	father=72621
+	mother=72763
+	1246.1.1 = {
+		birth="1246.1.1"
+	}
+	1320.1.1 = {
+		death="1320.1.1"
+	}
+}
+72629 = {
+	name="Diegu"
+	dynasty=781
+	religion="catholic"
+	culture="cantabrian"
+	father=72620
+	mother=72616
+	1294.1.1 = {
+		birth="1294.1.1"
+	}
+	1334.1.1 = {
+		death="1334.1.1"
+	}
+}
+72630 = {
+	name="Alfonsu"
+	dynasty=781
+	religion="catholic"
+	culture="cantabrian"
+	father=72620
+	mother=72616
+	1295.1.1 = {
+		birth="1295.1.1"
+	}
+	1338.1.1 = {
+		death="1338.1.1"
+	}
+}
+72631 = {
+	name="Berenguela"
+	dynasty=781
+	female=yes
+	religion="catholic"
+	culture="cantabrian"
+	father=72620
+	mother=72616
+	1296.1.1 = {
+		birth="1296.1.1"
+	}
+	1342.1.1 = {
+		death="1342.1.1"
+	}
+}
+72632 = {
+	name="Mayor"
+	female=yes
+	dynasty=781
+	religion="catholic"
+	culture="cantabrian"
+	father=72629
+	1321.1.1={
+		birth="1321.1.1"
+	}
+	1390.1.1={
+		death="1390.1.1"
+	}
+}
+72633 = {
+	name="Sancha"
+	female=yes
+	dynasty=781
+	religion="catholic"
+	culture="cantabrian"
+	father=72629
+	1323.1.1={
+		birth="1323.1.1"
+	}
+	1385.1.1={
+		death="1385.1.1"
+	}
+}
+72776 = {
+	name="Teresa"
+	female=yes
+	religion="catholic"
+	culture="cantabrian"
+	1250.1.1 = {
+		birth="1250.1.1"
+	}
+	1315.1.1 = {
+		death="1315.1.1"
+	}
+}
+72894 = {
+	name="Fruela"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72892
+	mother=72893
+	1039.1.1 = {
+		birth="1039.1.1"
+	}
+	1087.9.11 = {
+		add_spouse=70135
+	}
+	1121.12.2 = {
+		death="1121.12.2"
+	}
+}
+72896 = {
+	name="Constanza"
+	female=yes
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72894
+	mother=70135
+	1089.1.1 = {
+		birth="1089.1.1"
+	}
+	1111.1.1 = {
+		death="1111.1.1"
+	}
+}
+72897 = {
+	name="Diegu"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72894
+	mother=70135
+	1090.1.1 = {
+		birth="1090.1.1"
+	}
+	1140.6.26 = {
+		death="1140.6.26"
+	}
+}
+72898 = {
+	name="María"
+	female=yes
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72894
+	mother=70135
+	1092.1.1 = {
+		birth="1092.1.1"
+	}
+	1161.11.23 = {
+		death="1161.11.23"
+	}
+}
+72899 = {
+	name="Ramiru"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72894
+	mother=70135
+	1093.1.1 = {
+		birth="1093.1.1"
+	}
+	1124.1.1 = {
+		add_spouse=72903
+	}
+	1134.1.1 = {
+		add_spouse=72904
+	}
+	1144.1.1 = {
+		add_spouse=71390
+	}
+	1154.1.1 = {
+		add_spouse=72397
+	}
+	1172.9.13 = {
+		death="1172.9.13"
+	}
+}
+72900 = {
+	name="Estefanía"
+	dynasty=12165
+	female=yes
+	religion="catholic"
+	culture=cantabrian
+	father=72897
+	1130.1.1 = {
+		birth="1130.1.1"
+	}
+	1198.1.1 = {
+		death="1198.1.1"
+	}
+}
+72903 = {
+	name="Inés"
+	female=yes
+	religion="catholic"
+	culture=cantabrian
+	1106.1.1 = {
+		birth="1106.1.1"
+	}
+	1133.1.1 = {
+		death="1133.1.1"
+	}
+}
+72905 = {
+	name="Diegu"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72899
+	mother=72903
+	1126.1.1 = {
+		birth="1126.1.1"
+	}
+	1180.1.1 = {
+		add_spouse=71943
+	}
+	1185.8.1 = {
+		death="1185.8.1"
+	}
+}
+72906 = {
+	name="Fruela"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72899
+	mother=72903
+	1128.1.1 = {
+		birth="1128.1.1"
+	}
+	1160.1.1 = {
+		add_spouse=72884
+	}
+	1193.1.1 = {
+		add_spouse=72914
+	}
+	1202.9.9 = {
+		death="1202.9.9"
+	}
+}
+72907 = {
+	name="García"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72899
+	mother=72904
+	1135.1.1 = {
+		birth="1135.1.1"
+	}
+	1178.1.1 = {
+		death="1178.1.1"
+	}
+}
+72908 = {
+	name="Estefanía"
+	female=yes
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72899
+	mother=72904
+	1137.1.1 = {
+		birth="1137.1.1"
+	}
+	1183.1.1 = {
+		death="1183.1.1"
+	}
+}
+72912 = {
+	name="Inés"
+	female=yes
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	trait="detached_priest"
+	father=72905
+	mother=71943
+	1181.1.1 = {
+		birth="1181.1.1"
+	}
+	1232.1.1 = {
+		death="1232.1.1"
+	}
+}
+72913 = {
+	name="Rodrigu"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72905
+	mother=71943
+	1183.1.1 = {
+		birth="1183.1.1"
+	}
+	1185.1.1 = {
+		death="1185.1.1"
+	}
+}
+72915 = {
+	name="Nuñu"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72906
+	mother=72914
+	1194.1.1 = {
+		birth="1194.1.1"
+	}
+	1217.1.1 = {
+		death="1217.1.1"
+	}
+}
+72916 = {
+	name="Ramiru"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72906
+	mother=72914
+	1195.1.1 = {
+		birth="1195.1.1"
+	}
+	1222.1.1 = {
+		add_spouse=73007
+	}
+	1240.1.1 = {
+		death="1240.1.1"
+	}
+}
+72917 = {
+	name="Diegu"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72906
+	mother=72914
+	1196.1.1 = {
+		birth="1196.1.1"
+	}
+	1216.1.1 = {
+		add_spouse=72924
+	}
+	1246.1.1 = {
+		death="1246.1.1"
+	}
+}
+72918 = {
+	name="María"
+	dynasty=12165
+	female=yes
+	religion="catholic"
+	culture=cantabrian
+	father=72906
+	mother=72914
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1264.1.1 = {
+		death="1264.1.1"
+	}
+}
+72919 = {
+	name="Rodrigu"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72906
+	mother=72914
+	1200.1.1 = {
+		birth="1200.1.1"
+	}
+	1264.1.1 = {
+		death="1264.1.1"
+	}
+}
+72920 = {
+	name="Bernardu"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72906
+	mother=72914
+	1202.1.1 = {
+		birth="1202.1.1"
+	}
+	1230.8.29 = {
+		death="1230.8.29"
+	}
+}
+72921 = {
+	name="Gonzalu"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72916
+	mother=73007
+	1223.1.1 = {
+		birth="1223.1.1"
+	}
+	1251.1.1 = {
+		add_spouse=71435
+	}
+	1259.1.1 = {
+		death="1259.1.1"
+	}
+}
+72922 = {
+	name="Teresa"
+	dynasty=12165
+	female=yes
+	religion="catholic"
+	culture=cantabrian
+	father=72916
+	mother=73007
+	1225.1.1 = {
+		birth="1225.1.1"
+	}
+	1276.1.1 = {
+		death="1276.1.1"
+	}
+}
+72923 = {
+	name="Aldonza"
+	dynasty=12165
+	female=yes
+	religion="catholic"
+	culture=cantabrian
+	trait="detached_priest"
+	father=72916
+	mother=73007
+	1227.1.1 = {
+		birth="1227.1.1"
+	}
+	1295.4.19 = {
+		death="1295.4.19"
+	}
+}
+72924 = {
+	name="Aldonza"
+	female=yes
+	religion="catholic"
+	culture=cantabrian
+	1190.1.1 = {
+		birth="1190.1.1"
+	}
+	1232.1.1 = {
+		death="1232.1.1"
+	}
+}
+72925 = {
+	name="Ramiru"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72917
+	mother=72924
+	1217.1.1 = {
+		birth="1217.1.1"
+	}
+	1250.1.1 = {
+		add_spouse=72536
+	}
+	1268.1.1 = {
+		death="1268.1.1"
+	}
+}
+72926 = {
+	name="Rodrigu"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72917
+	mother=72924
+	1219.1.1 = {
+		birth="1219.1.1"
+	}
+	1240.1.1 = {
+		death="1240.1.1"
+	}
+}
+72927 = {
+	name="Diegu"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72925
+	mother=72536
+	1251.1.1 = {
+		birth="1251.1.1"
+	}
+	1276.1.1 = {
+		add_spouse=72930
+	}
+	1330.1.1 = {
+		death="1330.1.1"
+	}
+}
+72928 = {
+	name="María"
+	female=yes
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72925
+	mother=72536
+	1253.1.1 = {
+		birth="1253.1.1"
+	}
+	1338.1.1 = {
+		death="1338.1.1"
+	}
+}
+72930 = {
+	name="Leonor"
+	female=yes
+	religion="catholic"
+	culture=cantabrian
+	1260.1.1 = {
+		birth="1260.1.1"
+	}
+	1336.1.1 = {
+		death="1336.1.1"
+	}
+}
+72931 = {
+	name="Xuan"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72927
+	mother=72930
+	1277.1.1 = {
+		birth="1277.1.1"
+	}
+	1330.1.1 = {
+		death="1330.1.1"
+	}
+}
+72932 = {
+	name="Inés"
+	female=yes
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72927
+	mother=72930
+	1279.1.1 = {
+		birth="1279.1.1"
+	}
+	1343.1.1 = {
+		death="1343.1.1"
+	}
+}
+72933 = {
+	name="Rodrigu"
+	dynasty=12165
+	religion="catholic"
+	culture=cantabrian
+	father=72927
+	mother=72930
+	1281.1.1 = {
+		birth="1281.1.1"
+	}
+	1311.1.1 = {
+		add_spouse=72935
+	}
+	1342.1.1 = {
+		death="1342.1.1"
+	}
+}
+72935 = {
+	name="María"
+	female=yes
+	religion="catholic"
+	culture=cantabrian
+	1292.1.1 = {
+		birth="1292.1.1"
+	}
+	1365.1.1 = {
+		death="1365.1.1"
+	}
+}

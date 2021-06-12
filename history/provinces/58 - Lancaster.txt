@@ -1,0 +1,28 @@
+# 58 - Lancaster
+
+# County Title
+title = c_lancaster
+
+# Settlements
+max_settlements = 4
+b_lancaster = castle
+
+#b_salford = castle
+b_preston = city
+#b_sawley = castle
+b_furness = temple
+#b_gisburn = castle
+#b_clitheroe = castle
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+1.1.1 = { culture = briton
+          religion = pagan }
+300.1.1 = { religion = catholic }
+550.1.1 = { culture = cumbrian }
+650.1.1 = { culture = saxon }
+1100.11.11 = { culture = english }
+1305.1.1 = { b_clitheroe = castle }

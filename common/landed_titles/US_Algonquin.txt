@@ -1,0 +1,1459 @@
+e_wabanaki = {
+
+	color={ 85 144 229 }
+	color2={ 220 220 220 }
+
+	norse = "Vinland"
+	norwegian = "Vinland"
+	danish = "Vinland"
+	swedish = "Vinland"
+	english = "Vinland"
+	saxon = "Winland"
+	old_saxon = "Winland"
+	german = "Winland"
+
+	capital = 3631 # Manhattan
+
+	k_mahican = {
+
+		color={ 55 54 179 }
+		color2={ 220 220 220 }
+
+		capital = 3631 # Manhattan
+
+		d_iroquoisia = {
+
+			color={ 135 111 23 }
+			color2={ 220 220 220 }
+			
+			capital = 3623 # Adirondack
+			c_adirondack = {
+
+				color={ 135 94 219 }
+				color2={ 220 220 220 }
+				
+				b_adirondack = {
+				}
+				b_heylaenopa = {
+				}
+				b_qionlenperrint = {
+				}
+				b_azelanmentiki = {
+				}
+				b_poyutlanmens = {
+				}
+			}
+			c_mohawk = {
+
+				color={ 195 111 136 }
+				color2={ 220 220 220 }
+				
+				b_mohawk = {
+				}
+				b_galenmenten = {
+				}
+				b_utlanmenjan = {
+				}
+				b_puklentetha = {
+				}
+				b_manmalenyat = {
+				}
+			}
+			c_oneida = {
+
+				color={ 45 223 83 }
+				color2={ 220 220 220 }
+				
+				b_oneida = {
+				}
+				b_snahoriara = {
+				}
+				b_mibagnemono = {
+				}
+				b_gochemakema = {
+				}
+				b_garihesipaga = {
+				}
+			}
+			c_loup = {
+
+				color={ 165 19 63 }
+				color2={ 220 220 220 }
+				
+				b_loup = {
+				}
+				b_danlenaeon = {
+			              }
+				b_huylentaja = {
+				}
+				b_verhanlinnat = {
+				}
+				b_osolanmanlente = {
+				}
+			}
+
+		}
+		d_mahican = {
+
+			color={ 185 31 73 }
+			color2={ 220 220 220 }
+			
+			capital = 3625 # Mahican Quinnipiac moved here
+			
+			c_mahican = {
+
+				color={ 55 137 56 }
+				color2={ 220 220 220 }
+				
+				b_mahican = {
+				}
+				b_dehidericana = {
+				}
+				b_vinterenteje = {
+				}
+				b_viskintirenke = {
+				}
+				b_lektintereno = {
+				}
+			}
+			c_quinnipiac = {
+
+				color={ 185 14 21 }
+				color2={ 220 220 220 }
+				
+				b_quinnipiac = {
+				}
+				b_senhlenteh = {
+				}
+				b_kiumniguah = {
+				}
+				b_zigahmoah = {
+				}
+				b_hunymaoppu = {
+				}
+			}
+			c_espachomy = {
+
+				color={ 66 38 71 }
+				color2={ 220 220 220 }
+				
+				b_espachomy = {
+				}
+				b_iakouominto = {
+			              }
+				b_egoikandora = {
+				}
+				b_trwiosiquiho = {
+				}
+				b_ipuinmekihak = {
+				}
+			}
+			c_munsee = {
+
+				color={ 35 134 164 }
+				color2={ 220 220 220 }
+				
+				b_munsee = {
+				}
+				b_ceylekkeqije = {
+				}
+				b_dacaglehcosin = {
+				}
+				b_yonainorgau = {
+				}
+				b_eiihkoulemas = {
+				}
+			}
+			c_mensiw = {
+
+				color={ 37 130 174 }
+				color2={ 220 220 220 }
+				
+				b_mensiw = {
+				}
+				b_lenamaen = {
+				}
+				b_minisink = {
+				}
+				b_lehigh = {
+				}
+				b_wappinger = {
+				}
+			}
+		}
+		d_onondaga = {
+
+			color={ 155 61 56 }
+			color2={ 220 220 220 }
+			
+			capital = 3668 # Onondaga
+			c_onondaga = {
+
+				color={ 35 137 26 }
+				color2={ 220 220 220 }
+				
+				b_onondaga = {
+				}
+				b_homsiskokup = {
+				}
+				b_kougatonee = {
+				}
+				b_hiohawkoetche = {
+				}
+				b_ennbougane = {
+				}
+			}
+			c_cayuga = {
+
+				color={ 95 91 132 }
+				color2={ 220 220 220 }
+				
+				b_cayuga = {
+				}
+				b_otngongalhas = {
+				}
+				b_cagenahawhi = {
+				}
+				b_nagihkemsiaw = {
+				}
+				b_ekalmohicape = {
+				}
+			}
+			c_wenro = {
+
+				color={ 15 231 48 }
+				color2={ 220 220 220 }
+				
+				b_wenro = {
+				}
+				b_dendizehesising = {
+				}
+				b_tosnimonouqin = {
+				}
+				b_caowaihsehcen = {
+				}
+				b_onepinkemtikitaw = {
+				}
+			}
+			c_chautauqua = {
+
+				color={ 15 231 48 }
+				color2={ 220 220 220 }
+				
+				b_chautauqua = {
+				}
+				b_cattaraugus = {
+				}
+				b_conewango = {
+				}
+				b_chattartauqua = {
+				}
+			}
+			c_chenango = {
+
+				color={ 15 231 48 }
+				color2={ 220 220 220 }
+				
+				b_chenango = {
+				}
+				b_otsego = {
+				}
+				b_tiogawego = {
+				}
+				b_cayauga = {
+				}
+			}
+			c_chittenango = {
+
+				color={ 15 231 48 }
+				color2={ 220 220 220 }
+				
+				b_chittenango = {
+				}
+				b_cazenovia = {
+				}
+				b_canastotawam = {
+				}
+				b_oneichitten = {
+				}
+			}
+		d_manhattan = {
+
+			color={ 115 41 113 }
+			color2={ 220 220 220 }
+			
+			capital = 3631 # Manhattan
+			
+			c_manhattan = {
+
+				holy_site=algic_pagan
+				holy_site=algic_pagan_reformed
+
+				color={ 75 177 76 }
+				color2={ 220 220 220 }
+				
+				b_manhattan = {
+				}
+				b_vhlajjenteo = {
+				}
+				b_qunpikkiqqio = {
+				}
+				b_timeolanshe = {
+				}
+				b_bvalneje = {
+				}
+				b_aquehongamanacknong = {
+				}
+				b_hagowahgo = {
+				}
+			}
+			c_massareik = {
+
+				color={ 75 176 86 }
+				color2={ 220 220 220 }
+				
+				b_merrick = {
+				}
+				b_massapequa = {
+				}
+				b_matinecock = {
+				}
+				b_secotoag = {
+				}
+				b_unquachog = {
+				}
+				b_patchogue = {
+				}
+				b_yegowahgo = {
+				}
+			}
+			c_montauk = {
+
+				color={ 75 176 86 }
+				color2={ 220 220 220 }
+				
+				b_montauk = {
+				}
+				b_manhasset = {
+				}
+				b_poospatuck = {
+				}
+				b_nesquake = {
+				}
+				b_corchaug = {
+				}
+				b_shinnecock = {
+				}
+				b_setauket = {
+				}
+			}
+			c_bronx = {
+
+				color={ 75 176 86 }
+				color2={ 220 220 220 }
+				
+				b_ramapough = {
+				}
+				b_mahwah = {
+				}
+				b_pompton = {
+				}
+				b_tappenzi = {
+				}
+				b_unalami = {
+				}
+				b_navasink = {
+				}
+				b_nahwattan = {
+				}
+			}
+			c_gajisdaye = {
+
+				color={ 95 11 49 }
+				color2={ 220 220 220 }
+				
+				b_gajisdaye = {
+				}
+				b_awebyahsaohwetsatebyo = {
+				}
+				b_renakayo = {
+				}
+				b_gksgwksganyonots = {
+				}
+				b_hwistanoonego = {
+				}
+				b_owodedzagea = {
+				}
+				b_atrahkotniyononet = {
+				}
+			}
+			c_hatgaeosogyoedzadenyo = {
+
+				color={ 95 11 49 }
+				color2={ 220 220 220 }
+				
+				b_hatgaeosogyoedzadenyo = {
+				}
+				b_maspetha = {
+				}
+				b_hadowanigowagaonosga = {
+				}
+				b_oskrhesneyote = {
+				}
+				b_agadaweshnehs = {
+				}
+				b_thotayethwen = {
+				}
+				b_onosgaotgwesha = {
+				}
+			}
+		}
+		d_newarkami = {
+
+			color={ 115 41 113 }
+			color2={ 220 220 220 }
+			
+			capital = 3631 # Jersey
+			
+			c_ramapough = {
+
+				color={ 75 176 86 }
+				color2={ 220 220 220 }
+				
+				b_ramapough = {
+				}
+				b_mahwah = {
+				}
+				b_pompton = {
+				}
+				b_tappenzi = {
+				}
+				b_unalami = {
+				}
+				b_navasink = {
+				}
+				b_nahwattan = {
+				}
+			}
+			c_secaucus = {
+
+				color={ 75 176 86 }
+				color2={ 220 220 220 }
+				
+				b_secaucas = {
+				}
+				b_hoboke = {
+				}
+				b_raneke = {
+				}
+				b_tsadewahsenohshratek = {
+				}
+				b_passaic = {
+				}
+				b_wanaque = {
+				}
+				b_dawadejishajenojisa = {
+				}
+			}
+			c_wehymethell = {
+
+				color={ 95 11 49 }
+				color2={ 220 220 220 }
+				
+				b_wehymethell = {
+				}
+				b_ohohoshogaowugeh = {
+				}
+				b_gaoyohadiasheo = {
+				}
+				b_gagadeganonet = {
+				}
+				b_dewadagwedehnotawhet = {
+				}
+				b_absecon = {
+				}
+				b_deyosgwathakasa = {
+				}
+			}
+			c_yekwetsatenyo = {
+
+				color={ 95 11 49 }
+				color2={ 220 220 220 }
+				
+				b_yekwetsatenyo = {
+				}
+				b_onegowanesyekwet = {
+				}
+				b_gajihsodota = {
+				}
+				b_yeodagwasusohiyo = {
+				}
+				b_yehsineyehganah = {
+				}
+				b_daikuneoke = {
+				}
+				b_khahshneoke = {
+				}
+			}
+		}
+	}
+	k_delaware = {
+
+		color={ 60 94 176 }
+		color2={ 220 220 220 }
+
+		capital = 4762 # lakeyushinkaskunk
+		d_delaware = {
+
+			color={ 215 71 163 }
+			color2={ 220 220 220 }
+			
+			capital = 3635 # Delaware
+			
+			c_delaware = {
+
+				color={ 95 137 96 }
+				color2={ 220 220 220 }
+				
+				b_delaware = {
+				}
+				b_topalendenlen = {
+				}
+				b_bihujantee = {
+				}
+				b_centilentenpeo = {
+				}
+				b_alebenetee = {
+				}
+			}
+			c_naticoke = {
+
+				color={ 166 193 114 }
+				color2={ 220 220 220 }
+				
+				b_naticoke = {
+				}
+				b_neoiqua = {
+				}
+				b_denhinpino = {
+				}
+				b_uzzalnetio = {
+				}
+				b_gtenjujae = {
+				}
+			}
+			c_choptank= {
+
+				color={ 166 193 114 }
+				color2={ 220 220 220 }
+				
+				b_choptank = {
+				}
+				b_saponitulelo = {
+				}
+				b_matapeake = {
+				}
+				b_susquehannock = {
+				}
+			}
+			c_teckwogh = {
+
+				color={ 95 137 96 }
+				color2={ 220 220 220 }
+				
+				b_teckwogh = {
+				}
+				b_unalachtigo = {
+				}
+				b_patoxmoyana = {
+				}
+				b_ozinalachit = {
+				}
+			}
+			c_ozwikomis = {
+
+				color={ 166 193 114 }
+				color2={ 220 220 220 }
+				
+				b_ozwikomis= {
+				}
+				b_tranquaking = {
+				}
+				b_ocahanpeak = {
+				}
+				b_uzzalnetio = {
+				}
+				b_appoconomink = {
+				}
+			}
+		}
+		d_lakeyushinkaskunk = {
+
+			color={ 215 71 163 }
+			color2={ 220 220 220 }
+			
+			capital = 4762 # lakeyushinkaskunk
+			
+			c_conoy = {
+
+				color={ 188 14 68 }
+				color2={ 220 220 220 }
+				
+				b_conoy = {
+				}
+				b_mondawin = {
+			              }
+				b_wikhatuwikaon = {
+				}
+				b_ntupaluachchu				= {
+				}
+				b_askasakikwamankahtene = {
+				}
+				b_chinquapin				= {
+				}
+				b_patapsco = {
+				}
+			}
+			c_lakeyushinkaskunk = {
+
+				color={ 188 14 68 }
+				color2={ 220 220 220 }
+				
+				b_lakeyushinkaskunk = {
+				}
+				b_bethesda = {
+			    }
+				b_nihelatamwokan = {
+				}
+				b_wihuntewakan				= {
+				}
+				b_mixpunktayhoke = {
+				}
+				b_naxkuntewaken				= {
+				}
+				b_achimulsinkitakim = {
+				}
+			}
+			c_wicomoco = {
+
+				color={ 188 14 68 }
+				color2={ 220 220 220 }
+				
+				b_wicomoco = {
+				}
+				b_patuxxant = {
+			    }
+				b_salahona = {
+				}
+				b_linthicum				= {
+				}
+			}
+			c_wenutemao = {
+
+				color={ 188 14 68 }
+				color2={ 220 220 220 }
+				
+				b_wenutemao = {
+				}
+				b_plighgarnorc = {
+			    }
+				b_kelimikklan = {
+				}
+			}
+			c_yeohoberan = {
+
+				color={ 188 14 68 }
+				color2={ 220 220 220 }
+				
+				b_yeohoberan = {
+				}
+				b_susquedoeg = {
+			    }
+				b_nacocheog = {
+				}
+			}
+		}
+		d_powhatan = {
+
+			color={ 165 81 53 }
+			color2={ 220 220 220 }
+			
+			capital = 3639 # Powhatan
+			
+			c_powhatan = {
+
+				color={ 5 57 66 }
+				color2={ 220 220 220 }
+				
+				b_powhatan = {
+				}
+				b_lisenpitun = {
+				}
+				b_dibunheyn = {
+				}
+				b_vequkruah = {
+				}
+				b_piquinpaa = {
+				}
+			}
+			c_chesapeake = {
+
+				color={ 58 84 58 }
+				color2={ 220 220 220 }
+				
+				b_chesapeake = {
+				}
+				b_dirzunyunta = {
+			              }
+				b_sektemeugra = {
+				}
+				b_zahemoyta = {
+				}
+				b_vabbejaenee = {
+				}
+			}
+			c_shenandoah = {
+
+				color={ 195 94 137 }
+				color2={ 220 220 220 }
+				
+				b_shenandoah = {
+				}
+				b_compshena = {
+				}
+				b_ownarron = {
+				}
+				b_parnnassus = {
+				}
+			}
+			c_doeg = {
+
+				color={ 195 94 137 }
+				color2={ 220 220 220 }
+				
+				b_doeg = {
+				}
+				b_huntienpekh = {
+				}
+				b_aarentleik = {
+				}
+				b_fujenteqqen = {
+				}
+				b_immaopuroa = {
+				}
+			}
+			c_rappahannock = {
+
+				color={ 58 84 58 }
+				color2={ 220 220 220 }
+				
+				b_rappahannock = {
+				}
+				b_machodoe = {
+			              }
+				b_toppahannock = {
+				}
+				b_anpacia = {
+				}
+				b_ozeanna = {
+				}
+			}
+			c_accomack = {
+
+				color={ 195 94 137 }
+				color2={ 220 220 220 }
+				
+				b_accomack = {
+				}
+				b_pokomoke = {
+				}
+				b_nasauuwadox = {
+				}
+				b_kiptopeke = {
+				}
+				b_ramshorna = {
+				}
+			}
+		}
+	}
+	k_kitutenayelont = {
+
+		color={ 60 94 176 }
+		color2={ 220 220 220 }
+
+		capital = 4691 # Kitutenayelont
+		}
+		d_susquehanna = {
+
+			color={ 185 34 79 }
+			color2={ 220 220 220 }
+			
+			capital = 3674 # Susquehanna
+			
+			c_susquehanna = {
+
+				color={ 135 157 36 }
+				color2={ 220 220 220 }
+				
+				b_susquehanna = {
+				}
+				b_anaacsojun = {
+				}
+				b_iaromarioahn = {
+				}
+				b_orokacawenti = {
+				}
+				b_dizleinpirikntew = {
+				}
+			}
+			c_juniata = {
+
+				color={ 65 213 13 }
+				color2={ 220 220 220 }
+				
+				b_juniata = {
+				}
+				b_sekzenterenktew = {
+				}
+				b_shemorcherono = {
+				}
+				b_potmasaranro = {
+				}
+				b_gonlentekwekve = {
+				}
+			}
+			c_oneijuniata = {
+
+				color={ 135 157 36 }
+				color2={ 220 220 220 }
+				
+				b_oneijuniata = {
+				}
+				b_altoonalegahy = {
+				}
+				b_connemaugha = {
+				}
+				b_armmamithin = {
+		 		}
+			}
+			c_pakjekhun = {
+
+				color={ 65 213 13 }
+				color2={ 220 220 220 }
+				
+				b_pakjekhun = {
+				}
+				b_makkonmeij = {
+				}
+				b_punxutahnay = {
+				}
+				b_makkopakpunx = {
+				}
+			}
+		}
+		d_tyoteoke = {
+
+			color={ 185 34 79 }
+			color2={ 220 220 220 }
+			
+			capital = 3677 #Tyoteoke
+			
+			c_tyoteoke = {
+
+				color={ 135 44 24 }
+				color2={ 220 220 220 }
+				
+				b_tyoteoke = {
+				}
+				b_ririmirlenseent = {
+				}
+				b_neawailentekw = {
+				}
+				b_ododotoranti = {
+				}
+				b_eokiniyesint = {
+				}
+			}
+			c_honniasont = {
+
+				color={ 96 148 51 }
+				color2={ 220 220 220 }
+				
+				b_honniasont = {
+				}
+				b_eggilanpeksent = {
+			              }
+				b_neilektionreap = {
+				}
+				b_virgelentekense = {
+				}
+				b_efferanatawarre = {
+				}
+			}
+			c_tionnessta = {
+
+				color={ 135 44 24 }
+				color2={ 220 220 220 }
+				
+				b_tinonnesta = {
+				}
+				b_venengonesta = {
+				}
+				b_subbeimahoning = {
+				}
+				b_sinnemashoning = {
+				}
+			}
+			c_kowanshaunn = {
+
+				color={ 96 148 51 }
+				color2={ 220 220 220 }
+				
+				b_kowanshaunn = {
+				}
+				b_avamorhana = {
+			    }
+				b_liegonigal = {
+				}
+				b_serubgrehas = {
+				}
+				b_kithanmohnin = {
+				}
+			}
+			c_shaunnopia = {
+
+				color={ 96 148 51 }
+				color2={ 220 220 220 }
+				
+				b_shaunnopia = {
+				}
+				b_ohilleghan = {
+			              }
+				b_ohishaunelware = {
+				}
+			
+			}
+		}
+		d_raritan = {
+
+			color={ 245 2 99 }
+			color2={ 220 220 220 }
+			
+			capital = 4691 # Philidelphia
+			c_kitutenayelont = {
+
+				color={ 165 74 106 }
+				color2={ 220 220 220 }
+				
+				b_kitutenayelont = {
+				}
+				b_keluneskitutenay = {
+				}
+				b_nkulweshumwiseyok = {
+				}
+				b_wissleming = {
+				}
+				b_lepweinhakihe = {
+				}
+				b_welankuntewakanentlawsink = {
+				}
+				b_netamilenu = {
+				}
+			}
+			c_sheshequin = {
+
+				color={ 165 74 106 }
+				color2={ 220 220 220 }
+				
+				b_sheshequin = {
+				}
+				b_towandaquin = {
+				}
+				b_wyalussing = {
+				}
+				b_makomgangha = {
+				}
+			}
+			c_mahantoganoy = {
+
+				color={ 165 74 106 }
+				color2={ 220 220 220 }
+				
+				b_mahantoganoy = {
+				}
+				b_schuylkill = {
+				}
+				b_tamaraquahan = {
+				}
+				b_mahoninmostour = {
+				}
+				b_mahoninmostour = {
+				}
+			}
+			c_atrakwaye = {
+
+				color={ 165 74 106 }
+				color2={ 220 220 220 }
+				
+				b_atrakwaye = {
+				}
+				b_hohipiggilenner = {
+				}
+				b_doanenggejelene = {
+				}
+				b_buziizlenjjerew = {
+				}
+				b_senkenkleantepkiee = {
+				}
+			}
+			c_raritan = {
+
+				color={ 15 41 89 }
+				color2={ 220 220 220 }
+				
+				b_raritan = {
+				}
+				b_ofkinelen = {
+				}
+				b_azgunpinee = {
+				}
+				b_yamlennenth = {
+				}
+				b_eybionduse = {
+				}
+			}
+			c_lenape = {
+
+				color={ 75 91 221 }
+				color2={ 220 220 220 }
+				
+				b_lenape = {
+				}
+				b_sonlenbith = {
+				}
+				b_eybiokobba = {
+				}
+				b_miniksinpeqqi = {
+				}
+				b_beyidisaklee = {
+				}
+			}
+		}
+	}
+	k_massachusets = {
+
+		color={ 45 74 156 }
+		color2={ 220 220 220 }
+
+		capital = 3620 # Massachusetts
+		d_massachusets = {
+
+			color={ 135 31 123 }
+			color2={ 220 220 220 }
+			
+			capital = 3620 # Massachusetts
+			c_narraganset = {
+
+				color={ 15 153 134 }
+				color2={ 220 220 220 }
+				
+				b_narraganset = {
+				}
+				b_duylansemeo = {
+				}
+				b_siqelenbois = {
+				}
+				b_haiibnena = {
+				}
+				b_tuslendiqee = {
+				}
+			}
+			c_nantucket = {
+
+				color={ 15 153 134 }
+				color2={ 220 220 220 }
+				
+				b_nantucket = {
+				}
+				b_aquinnah = {
+				}
+				b_aquinnatucket = {
+				}
+				b_nauset = {
+				}
+			}
+			c_massachusetts = {
+
+				color={ 135 11 79 }
+				color2={ 220 220 220 }
+				
+				b_massachusetts = {
+				}
+				b_aolentekkiq = {
+				}
+				b_quylhipinteo = {
+				}
+				b_yuakgentrae = {
+				}
+				b_tussujleppan = {
+				}
+			}
+			c_wampanoag = {
+
+				color={ 65 61 81 }
+				color2={ 220 220 220 }
+				
+				b_wampanoag = {
+				}
+				b_teaolennepe = {
+				}
+				b_ouylanjuao = {
+				}
+				b_minsleontrantha = {
+				}
+				b_mnaylejjine = {
+				}
+			}
+			c_connecticut = {
+
+				color={ 168 64 28 }
+				color2={ 220 220 220 }
+				
+				b_connecticut = {
+				}
+				b_nejinqeke = {
+			              }
+				b_quelensqee = {
+				}
+				b_benheityla = {
+				}
+				b_omlenjenee = {
+				}
+			}
+			c_aquathneck = {
+
+				color={ 168 64 28 }
+				color2={ 220 220 220 }
+				
+				b_aquathneck = {
+				}
+				b_canonicus = {
+			              }
+				b_aquidneck = {
+				}
+				b_metacomet = {
+				}
+				b_scituate = {
+				}
+			}
+			c_nipmuc = {
+
+				color={ 68 34 18 }
+				color2={ 220 220 220 }
+				
+				b_nipmuc = {
+				}
+				b_nejjeleanteo = {
+			              }
+				b_auqlanentep = {
+				}
+				b_dujlanqek = {
+				}
+				b_plenkelanteree = {
+				}
+			}
+		}
+		d_kennebec = {
+
+			color={ 185 214 39 }
+			color2={ 220 220 220 }
+			
+			capital = 3612 # Kennebec
+			
+			c_kennebec = {
+
+				color={ 65 124 154 }
+				color2={ 220 220 220 }
+				
+				b_kennebec = {
+				}
+				b_veslaerento = {
+				}
+				b_qujqunki = {
+				}
+				b_zilabinti = {
+				}
+				b_vurrlattitko = {
+				}
+			}
+			c_aroostook = {
+
+				color={ 15 214 89 }
+				color2={ 220 220 220 }
+				
+				b_aroostook = {
+				}
+				b_qutrlamene = {
+				}
+				b_tenlokla = {
+				}
+				b_lopilante = {
+				}
+				b_funtulam = {
+				}
+			}
+			c_passamaquoddy = {
+
+				color={ 75 91 16 }
+				color2={ 220 220 220 }
+				
+				b_passamaquoddy = {
+				}
+				b_wekkinotoro = {
+				}
+				b_mazinsejja = {
+				}
+				b_kaelloma = {
+				}
+				b_jenlelame = {
+				}
+			}
+			c_penobscott = {
+
+				color={ 15 84 94 }
+				color2={ 220 220 220 }
+				
+				b_penobscott = {
+				}
+				b_cuhjajele = {
+				}
+				b_ponklantur = {
+				}
+				b_chilantpin = {
+				}
+				b_wenlentiren = {
+				}
+			}
+			c_androscoggin = {
+
+				color={ 135 189 43 }
+				color2={ 220 220 220 }
+				
+				b_androscoggin = {
+				}
+				b_zbalentenk = {
+			              }
+				b_sensikentae = {
+				}
+				b_kursmantorn = {
+				}
+				b_dualujjamana = {
+				}
+			}
+		}
+		d_madawaska = {
+
+			color={ 165 144 159 }
+			color2={ 220 220 220 }
+			
+			capital = 3606 # Madawaska
+			
+			c_madawaska = {
+
+				holy_site=inuit_pagan
+				holy_site=inuit_pagan_reformed
+				holy_site=algic_pagan
+				holy_site=algic_pagan_reformed
+
+				color={ 35 144 119 }
+				color2={ 220 220 220 }
+				
+				b_madawaska = {
+				}
+				b_mesalapa = {
+				}
+				b_vukipulla = {
+				}
+				b_klanener = {
+				}
+				b_quklemmle = {
+				}
+			}
+			c_maliseet = {
+
+				color={ 135 24 219 }
+				color2={ 220 220 220 }
+				
+				b_maliseet = {
+				}
+				b_ghilampan = {
+				}
+				b_veringlang = {
+				}
+				b_tyalamunta = {
+				}
+				b_psilajura = {
+				}
+				b_qyajment = {
+                }
+			}
+			c_wolystoq = {
+
+				color={ 185 14 59 }
+				color2={ 220 220 220 }
+				
+				b_wolystoq = {
+				}
+				b_popunlant = {
+				}
+				b_terejlemen = {
+				}
+				b_jehlaqyas = {
+				}
+				b_dfalamana = {
+				}
+			}
+			c_arsigantegok = {
+
+				color={ 175 234 189 }
+				color2={ 220 220 220 }
+				
+				b_arsigantegok = {
+				}
+				b_jantalamanoa = {
+				}
+				b_qujkenlat = {
+				}
+				b_ziddajeme = {
+				}
+				b_finfunlantona = {
+				}
+			}
+			c_etchemins = {
+
+				color={ 35 11 36 }
+				color2={ 220 220 220 }
+				
+				b_etchemins = {
+				}
+				b_massijlento = {
+				}
+				b_stalanjan = {
+				}
+				b_terrimalano = {
+				}
+				b_quqqujquka = {
+				}
+			}
+		}
+		d_merrimack = {
+
+			color={ 188 31 63 }
+			color2={ 220 220 220 }
+			
+			capital = 3622 # VtNH
+			c_pocumtuk = {
+
+				color={ 35 135 146 }
+				color2={ 220 220 220 }
+				
+				b_pocumtuk = {
+				}
+				b_yanknelant = {
+				}
+				b_duamlebnaeo = {
+				}
+				b_suplanmenlraje = {
+				}
+				b_dejahlanteramen = {
+				}
+			}
+			c_depra = {
+
+				color={ 35 135 146 }
+				color2={ 220 220 220 }
+				
+				b_depra = {
+				}
+				b_burlingred = {
+				}
+				b_yaroslavont = {
+				}
+				b_cowasuck = {
+				}
+				b_bernshevik = {
+				}
+				b_winseyeuki = {
+				}
+			}
+			c_piscataquia = {
+
+				color={ 35 135 146 }
+				color2={ 220 220 220 }
+				
+				b_piscataquia = {
+				}
+				b_dawtuckett = {
+				}
+				b_pennacook = {
+				}
+				b_nashua = {
+				}
+				b_waynepiseogee = {
+				}
+				b_pecoutiquic = {
+				}
+				b_ossipee = {
+				}
+			}
+			c_merrimack = {
+
+				color={ 15 24 37 }
+				color2={ 220 220 220 }
+				
+				b_merrimack = {
+				}
+				b_senoflenterph = {
+				}
+				b_buynajjaqek = {
+				}
+				b_teyyalentenki = {
+				}
+				b_alklentinao = {
+				}
+			}
+			c_sokoki = {
+
+				color={ 25 174 104 }
+				color2={ 220 220 220 }
+				
+				b_sokoki = {
+				}
+				b_solanmenthe = {
+				}
+				b_nublanent = {
+				}
+				b_cazlantonpa = {
+				}
+				b_qunlemantop = {
+				}
+			}
+			c_missisquoi = {
+
+				color={ 95 101 199 }
+				color2={ 220 220 220 }
+				
+				b_missisquoi = {
+				}
+				b_lnelenoa = {
+				}
+				b_punlantarenja = {
+				}
+				b_lusntajanao = {
+				}
+				b_defvaleana = {
+				}
+			}
+		}
+	}
+}

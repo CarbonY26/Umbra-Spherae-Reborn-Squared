@@ -1,0 +1,27 @@
+# 849 - Canarias
+
+# County Title
+title = c_canarias
+
+# Settlements
+max_settlements = 3
+
+b_arrecife = tribal #b_lanzarote
+
+#b_santa_cruz_de_tenerife = city #b_tenerife
+#b_b_san_sebastian_de_la_gomera = temple #b_lagomera
+#b_puerto_del_rosario = castle #b_fuerteventura
+#b_las_palmas = castle #b_lagraciosa
+#b_teguise = castle #b_alegranza
+#b_los_llanos = castle #b_lapalma
+
+# Misc
+culture = guanche
+religion = west_african_pagan
+
+# History
+1062.1.1 = {
+	b_lanzarote = castle
+}
+1198.1.1 = { trade_post = b_doria }
+1500.1.1 = { culture = castillan }

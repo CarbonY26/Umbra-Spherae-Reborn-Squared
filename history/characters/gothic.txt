@@ -1,0 +1,1660 @@
+70000={
+	name="Pailajo" #AKA: Pelayo I
+	dynasty=8600
+
+	father=200252
+
+	religion=catholic
+	culture="gothic"
+
+	martial=9
+	diplomacy=4
+	intrigue=5
+	stewardship=5
+
+	trait=brave
+	trait=temperate
+	trait=brilliant_strategist
+
+	681.1.1={
+		birth=yes
+	}
+	704.1.1={
+		add_spouse=70001
+	}
+	737.1.1={
+		death=yes
+	}
+}
+
+70001={
+	name="Gaudiosa"
+	female=yes
+
+	religion=catholic
+	culture="gothic"
+
+	688.1.1={
+		birth=yes
+	}
+	743.1.1={
+		death=yes
+	}
+}
+
+70002={
+	name="Airmanisinþa"
+	female=yes
+	dynasty=8600
+
+	father=70000
+	mother=70001
+
+	religion=catholic
+	culture="gothic"
+
+	706.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+
+70003={
+	name="Aþalfuns" # AKA: Alfonso I 'el Catolico'
+	dynasty=8601
+
+	father=70010
+
+	religion=catholic
+	culture="gothic"
+
+	martial=6
+	diplomacy=5
+	intrigue=8
+	stewardship=6
+
+	trait=quick
+	trait=mystic
+	trait=tough_soldier
+
+	693.1.1={
+		birth=yes
+	}
+	721.1.1={
+		add_spouse=70002
+	}
+	757.1.1={
+		death=yes
+	}
+}
+
+70010={
+	name="Paitrus"
+	dynasty=8601
+	
+	father=200237
+	mother=200257
+
+	religion=catholic
+	culture="gothic"
+	
+	670.1.1={
+		birth=yes
+	}
+	720.1.1={
+		death=yes
+	}
+}
+
+70011={
+	name="Froila"
+	dynasty=8601
+
+	father=70010
+
+	religion=catholic
+	culture="gothic"
+	
+	695.1.1={
+		birth=yes
+	}
+	757.1.1={
+		death=yes
+	}
+}
+
+70115={
+	name="Fafila" #AKA: Favila I
+	dynasty=8600
+
+	father=70000
+	mother=70001
+
+	religion=catholic
+	culture="gothic"
+
+	martial=6
+	diplomacy=5
+	intrigue=3
+	stewardship=5
+
+	trait=greedy
+	trait=hunter
+	trait=misguided_warrior
+
+	705.1.1={
+		birth=yes
+	}
+	727.1.1={
+		add_spouse=200056
+	}
+	739.6.15={
+		death={
+			death_reason=death_accident
+		}
+	}
+}
+
+73901={
+	name="Þiudamers"
+	dynasty=12295
+
+	religion=catholic
+	culture="gothic"
+
+	670.1.1={
+		birth=yes
+	}
+	743.1.1={
+		death=yes
+	}
+}
+
+73902={
+	name="Aþalgunþi"
+	female=yes
+	dynasty=12295
+
+	father=73901
+
+	religion=catholic
+	culture="gothic"
+
+	700.1.1={
+		birth=yes
+	}
+	782.1.1={
+		death=yes
+	}
+}
+
+73980={
+	name="Julianus"
+	dynasty=12312
+
+	religion=catholic
+	culture="gothic"
+
+	672.1.1={
+		birth=yes
+	}
+	710.1.1={
+		add_spouse=168733
+	}
+	747.1.1={
+		death=yes
+	}
+}
+
+91392={
+	name="Friþunanþa" #Friþunanþa, used as wife of Riculfe, the fantasy brother of Fulrad
+	female=yes
+
+	religion="catholic"
+	culture=""gothic""
+	
+	705.1.1={
+		birth=yes
+	}
+	760.1.1={
+		death=yes
+	}
+}
+
+168716 = {
+	name="Airmanagilds" 
+	dynasty=1046033
+
+	father=200273
+
+	religion="catholic"
+	culture="gothic"
+
+	550.1.1={
+		birth=yes
+	}
+	583.1.1={
+		add_spouse=168717
+	}
+	585.4.13={
+		death={
+			death_reason=death_execution
+			killer=200273
+		}
+	}
+}
+
+168718 = {
+	name="Aþanagilds" 
+	dynasty=1046033
+
+	father=168716
+	mother=168717
+
+	religion="catholic"
+	culture="gothic"
+
+	583.1.1 = {
+		birth=yes
+	}
+	599.1.1={
+		add_spouse=168715
+	}
+	634.1.1={
+		death=yes
+	}
+}
+
+168730={
+	name="Rekkimers" 
+	dynasty=1046033
+	religion="catholic"
+	culture="gothic"
+	father=200256
+	mother=200260
+	622.1.1={
+		birth=yes
+	}
+	
+	640.1.1 = {
+		death=yes
+	}
+}
+
+168733={
+	name="Faldrina" 
+	female=yes
+	dynasty=1046032
+
+	father=200243
+	mother=200236
+
+	religion="catholic"
+	culture=""gothic""
+
+	694.1.1={
+		birth=yes
+	}	
+	750.1.1={
+		death=yes
+	}
+}
+
+168734={
+	name="Brunihildi" 
+	female=yes
+	dynasty=1044409
+
+	father=200276
+
+	religion="catholic"
+	culture=""gothic""
+
+	549.1.1 = {
+		birth=yes
+	}
+	590.1.1 = {
+		death=yes
+	}
+}
+
+168735 = {
+	name="Rikkibairga"
+	female=yes
+
+	religion="catholic"
+	culture=""gothic""
+
+	620.1.1 = {
+		birth=yes
+	}	
+	665.1.1 = {
+		death=yes
+	}
+}
+
+168725={
+	name="Baddo"
+	female=yes
+
+	religion="catholic"
+	culture=""gothic""
+
+	555.1.1={
+		birth=yes
+	}	
+	592.1.1={
+		death=yes
+	}
+}
+
+168760 = {
+	name="Agiwulf" 
+	dynasty=9617
+	religion="norse_pagan"
+	culture="gothic"
+	240.1.1 = {
+		birth=yes
+	}
+	
+	290.1.1 = {
+		death=yes
+	}
+}
+
+168761 = {
+	name="Airmanareiks" 
+	dynasty=9617
+	religion="norse_pagan"
+	culture="gothic"
+	father=168760
+	266.1.1 = {
+		birth=yes
+	}
+	
+	376.1.1 = {
+		death=yes
+	}
+}
+
+168762 = {
+	name="Hunimunþs" 
+	dynasty=9617
+	religion="norse_pagan"
+	culture="gothic"
+	father=168761
+	300.1.1 = {
+		birth=yes
+	}
+	
+	350.1.1 = {
+		death=yes
+	}
+}
+
+
+
+
+
+
+168763 = {
+	name="Þorismunþs" 
+	dynasty=9617
+	religion="norse_pagan"
+	culture="gothic"
+	father=168762
+	340.1.1 = {
+		birth=yes
+	}
+	
+	400.1.1 = {
+		death=yes
+	}
+}
+
+168764 = {
+	name="Bairamoþs" 
+	dynasty=9617
+	religion="norse_pagan"
+	culture="gothic"
+	father=168763
+	390.1.1 = {
+		birth=yes
+	}
+	
+	450.1.1 = {
+		death=yes
+	}
+}
+
+168765 = {
+	name="Weitireiks" 
+	dynasty=9617
+	religion="norse_pagan"
+	culture="gothic"
+	father=168764
+	440.1.1 = {
+		birth=yes
+	}
+	
+	490.1.1 = {
+		death=yes
+	}
+}
+
+168766 = {
+	name="Euþareiks" 
+	dynasty=9617
+	religion="catholic"
+	culture="gothic"
+	father=168765
+	480.1.1 = {
+		birth=yes
+	}
+	515.1.1 = {
+		add_spouse=168784
+	}
+	522.1.1 = {
+		death=yes
+	}
+}
+
+
+
+
+168767 = {
+	name="Wultwulf" 
+	dynasty=9617
+	religion="norse_pagan"
+	culture="gothic"
+	father=168760
+	280.1.1 = {
+		birth=yes
+	}
+	
+	350.1.1 = {
+		death=yes
+	}
+}
+
+
+
+168768 = {
+	name="Winiþar" 
+	dynasty=9617
+	religion="norse_pagan"
+	culture="gothic"
+	father=168767
+	320.1.1 = {
+		birth=yes
+	}
+	
+	376.1.1 = {
+		death=yes
+	}
+}
+168769 = {
+	name="Wandalar" 
+	dynasty=9617
+	religion="norse_pagan"
+	culture="gothic"
+	father=168768
+	370.1.1 = {
+		birth=yes
+	}
+	
+	440.1.1 = {
+		death=yes
+	}
+}
+168770 = {
+	name="Walamers" 
+	dynasty=9617
+	religion="norse_pagan"
+	culture="gothic"
+	father=168769
+	425.1.1 = {
+		birth=yes
+	}
+	
+	470.1.1 = {
+		death=yes
+	}
+}
+
+168771 = {
+	name="Widumers" 
+	dynasty=9617
+	religion="norse_pagan"
+	culture="gothic"
+	father=168769
+	427.1.1 = {
+		birth=yes
+	}
+	
+	473.1.1 = {
+		death=yes
+	}
+}
+168772 = {
+	name="Widumers" 
+	dynasty=9617
+	religion="catholic"
+	culture="gothic"
+	father=168771
+	450.1.1 = {
+		birth=yes
+	}
+	
+	500.1.1 = {
+		death=yes
+	}
+}
+168773 = {
+	name="Þiudamers" 
+	dynasty=9617
+	religion="norse_pagan"
+	culture="gothic"
+	father=168769
+	429.1.1 = {
+		birth=yes
+	}
+	
+	475.1.1 = {
+		death=yes
+	}
+}
+168774 = {
+	name="Þiudeis" 
+	dynasty=9617
+	religion="catholic"
+	culture="gothic"
+	father=168773
+	450.1.1 = {
+		birth=yes
+	}
+	
+	481.1.1 = {
+		death=yes
+	}
+}
+168775 = {
+	name="Þiudareiks" 
+	dynasty=9617
+	religion="catholic"
+	culture="gothic"
+	father=168773
+	454.1.1 = {
+		birth=yes
+	}
+	493.1.1 = {
+		add_spouse=168783
+	}
+	520.1.1 = {
+		give_nickname=nick_the_great
+	}
+	526.8.30 = {
+		death=yes
+	}
+}
+168776 = {
+	name="Þiudamunds" 
+	dynasty=9617
+	religion="catholic"
+	culture="gothic"
+	father=168773
+	451.1.1 = {
+		birth=yes
+	}
+	
+	479.1.1 = {
+		death=yes
+	}
+}
+168777 = {
+	name="Amalfriþa" 
+	female=yes
+	dynasty=9617
+	religion="catholic"
+	culture="gothic"
+	father=168773
+	455.1.1 = {
+		birth=yes
+	}
+	500.1.1 = {
+		add_spouse=168803
+	}
+	525.1.1 = {
+		death=yes
+	}
+}
+168778 = {
+	name="Þiudahaþus" 
+	dynasty=9617
+	religion="catholic"
+	culture="gothic"
+	mother=168777
+	480.1.1 = {
+		birth=yes
+	}
+	
+	536.12.1 = {
+		death=yes
+	}
+}
+168779 = {
+	name="Amalabairga" 
+	female=yes
+	dynasty=9617
+	religion="catholic"
+	culture="gothic"
+	mother=168777
+	495.1.1 = {
+		birth=yes
+	}
+	
+	540.1.1 = {
+		death=yes
+	}
+}
+168780 = {
+	name="Þiudageisls" 
+	dynasty=9617
+	religion="catholic"
+	culture="gothic"
+	father=168778
+	510.1.1 = {
+		birth=yes
+	}
+	
+	549.1.1 = {
+		death=yes
+	}
+}
+168781 = {
+	name="Þiudananþa" 
+	female=yes
+	dynasty=9617
+	religion="catholic"
+	culture="gothic"
+	father=168778
+	512.1.1 = {
+		birth=yes
+	}
+	
+	550.1.1 = {
+		death=yes
+	}
+}
+168782 = {
+	name="Amalafriþa" 
+	dynasty=9617
+	religion="catholic"
+	culture="gothic"
+	mother=168779
+	511.1.1 = {
+		birth=yes
+	}
+	
+	540.1.1 = {
+		death=yes
+	}
+}
+168809 = {
+	name="Þiudaguto" 
+	dynasty=9617
+	female=yes
+	religion="catholic"
+	culture="gothic"
+	add_trait="bastard"
+	father=168775
+	475.1.1 = {
+		birth=yes
+	}
+	
+	505.1.1 = {
+		death=yes
+	}
+
+}
+
+200236={
+	name="Kiksilo"
+	female=yes
+	dynasty=1046033
+
+	father=200237
+	mother=200257
+
+	religion=catholic
+	culture="gothic"
+
+	669.1.1={
+		birth=yes
+	}
+	721.1.1={
+		death=yes
+	}
+}
+
+200237={
+	name="Erwig"
+	dynasty=1046033
+
+	father=200238
+	mother=200239
+
+	religion=catholic
+	culture="gothic"
+	
+	trait = ill
+
+	652.1.1={
+		birth=yes
+	}
+	668.1.1={
+		add_spouse=200257
+	}
+	687.11.15={
+		death={
+			death_reason=death_trait
+		}
+	}
+}
+
+200239={
+	name="Gado"
+	female=yes
+	dynasty=1046033
+
+	father=200242
+
+	religion=catholic
+	culture="gothic"
+
+	634.1.1={
+		birth=yes
+	}
+	688.1.1={
+		death=yes
+	}
+}
+
+200240={
+	name="Kinþaswinþs"
+	dynasty=1046033
+
+	father=200241
+
+	religion=catholic
+	culture="gothic"
+
+	615.1.1={
+		birth=yes
+	}
+	638.1.1={
+		add_spouse=168735
+	}
+	653.9.30={
+		death=yes
+	}
+}
+200241={
+	name="Geila"
+	dynasty=1046033
+
+	father=200272
+	mother=168726
+
+	religion=catholic
+	culture="gothic"
+
+	597.1.1={
+		birth=yes
+	}
+	640.1.1={
+		death=yes
+	}
+}
+200242={
+	name="Amalamunds"
+	dynasty=1046033
+
+	father=200241
+
+	religion=catholic
+	culture="gothic"
+
+	617.1.1={
+		birth=yes
+	}
+	669.1.1={
+		death=yes
+	}
+}
+200243={
+	name="Egika"
+	dynasty=1046032
+
+	father=200247
+	mother=200246
+
+	religion=catholic
+	culture="gothic"
+
+	650.1.1={
+		birth=yes
+	}
+	685.1.1={
+		add_spouse=200236
+	}
+	702.1.1={
+		death=yes
+	}
+}
+200244={
+	name="Witiza"
+	dynasty=1046032
+
+	father=200243
+	mother=200236
+
+	religion=catholic
+	culture="gothic"
+
+	686.1.1={
+		birth=yes
+	}
+	710.1.1={
+		death={
+			death_reason=death_murder
+		}
+	}
+}
+200245={
+	name="Agila"
+	dynasty=1046032
+
+	father=200244
+
+	religion=catholic
+	culture="gothic"
+
+	702.1.1={
+		birth=yes
+	}
+	713.1.1={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+200246={
+	name="Aribairga"
+	female=yes
+	dynasty=1046032
+
+	father=200255
+
+	religion=catholic
+	culture="gothic"
+
+	627.1.1={
+		birth=yes
+	}
+	680.1.1={
+		death=yes
+	}
+}
+200247={
+	name="Witiza"
+
+	religion=catholic
+	culture="gothic"
+
+	620.1.1={
+		birth=yes
+	}
+	649.1.1={
+		add_spouse=200246
+	}
+	672.1.1={
+		death=yes
+	}
+}
+200248={
+	name="Wamba"
+	dynasty=1046032
+
+	father=200255
+
+	religion=catholic
+	culture="gothic"
+
+	622.1.1={
+		birth=yes
+	}
+	688.1.1={
+		death=yes
+	}
+}
+200249={
+	name="Reikiswinþs"
+	dynasty=1046033
+
+	father=200240
+	mother=168735
+
+	religion=catholic
+	culture="gothic"
+
+	640.1.1={
+		birth=yes
+	}
+	672.9.1={
+		death=yes
+	}
+}
+200250={
+	name="Þiudafriþus"
+	dynasty=1046033
+
+	father=200240
+	mother=168735
+
+	religion=catholic
+	culture="gothic"
+
+	645.1.1={
+		birth=yes
+	}
+	702.1.1={
+		death=yes
+	}
+}
+200251={
+	name="Hroþareiks"
+	dynasty=1046033
+
+	father=200250
+
+	religion=catholic
+	culture="gothic"
+
+	688.1.1={
+		birth=yes
+	}
+	705.1.1={
+		add_spouse=200063
+	}
+	711.7.20={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+200252={
+	name="Fafila"
+	dynasty=1046033
+
+	father=200240
+	mother=168735
+
+	religion=catholic
+	culture="gothic"
+
+	650.1.1={
+		birth=yes
+	}
+	702.1.1={
+		death=yes
+	}
+}
+200253={
+	name="Ardonus"
+
+	religion=catholic
+	culture="gothic"
+
+	678.1.1={
+		birth=yes
+	}
+	720.1.1={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+200254={
+	name="Kinþila"
+
+	dynasty=1046032
+
+	religion=catholic
+	culture="gothic"
+
+	573.1.1={
+		birth=yes
+	}
+	639.12.20={
+		death=yes
+	}
+}
+200255={
+	name="Tulga"
+	dynasty=1046032
+
+	father=200254
+
+	religion=catholic
+	culture="gothic"
+	
+	trait = ill
+
+	598.1.1={
+		birth=yes
+	}
+	642.4.16={
+		death={
+			death_reason=death_trait
+		}
+	}
+}
+200256={
+	name="Swinþila"
+	dynasty=1046033
+
+	father=200272
+	mother=168726
+
+	religion=catholic
+	culture="gothic"
+
+	595.1.1={
+		birth=yes
+	}
+	621.1.1={
+		add_spouse=200260
+	}
+	634.1.1={
+		death=yes
+	}
+}
+200257={
+	name="Liubaguto"
+	female=yes
+	dynasty=1046033
+
+	father=200256
+	mother=200260
+
+	religion=catholic
+	culture="gothic"
+
+	633.1.1={
+		birth=yes
+	}
+	680.1.1={
+		death=yes
+	}
+}
+200258={
+	name="Rekkareþ"
+	dynasty=1046034
+
+	father=200259
+
+	religion=catholic
+	culture="gothic"
+
+	600.1.1={
+		birth=yes
+	}
+	621.3.1={
+		death={
+			death_reason=death_murder
+		}
+	}
+}
+200259={
+	name="Sisibots"
+	dynasty=1046034
+
+	religion=catholic
+	culture="gothic"
+
+	568.1.1={
+		birth=yes
+	}
+	621.2.1={
+		death={
+			death_reason=death_murder
+		}
+	}
+}
+200260={
+	name="Þeodora"
+	female=yes
+	dynasty=1046034
+
+	father=200259
+
+	religion=catholic
+	culture="gothic"
+
+	605.1.1={
+		birth=yes
+	}
+	666.1.1={
+		death=yes
+	}
+}
+200269={
+	name="Gunþimers"
+
+	religion=catholic
+	culture="gothic"
+
+	558.1.1={
+		birth=yes
+	}
+	612.2.1={
+		death=yes
+	}
+}
+200270={
+	name="Weitireiks"
+
+	religion=catholic
+	culture="gothic"
+
+	562.1.1={
+		birth=yes
+	}
+	610.4.1={
+		death={
+			death_reason=death_murder
+			killer=200269
+		}
+	}
+}
+200271={
+	name="Liuba"
+	dynasty=1046033
+
+	father=200272
+	mother=168725
+
+	religion=catholic
+	culture="gothic"
+
+	583.1.1={
+		birth=yes
+	}
+	603.7.1={
+		death={
+			death_reason=death_execution
+			killer=200270
+		}
+	}
+}
+200272={
+	name="Rekkareþ"
+	dynasty=1046033
+
+	father=200273
+
+	religion=catholic
+	culture="gothic"
+
+	555.1.1={
+		birth=yes
+	}
+	575.1.1={
+		add_spouse=168725
+	}
+	592.1.1={
+		add_spouse=168726
+	}
+	601.12.21={
+		death=yes
+	}
+}
+200273={
+	name="Liubagilds"
+	dynasty=1046033
+
+	father=200274
+
+	religion=catholic
+	culture="gothic"
+
+	525.1.1={
+		birth=yes
+	}
+	586.4.1={
+		death=yes
+	}
+}
+200274={
+	name="Liubareiks"
+	dynasty=1046033
+
+	religion=catholic
+	culture="gothic"
+
+	498.1.1={
+		birth=yes
+	}
+	550.1.1={
+		death=yes
+	}
+}
+200275={
+	name="Liuba"
+	dynasty=1046033
+
+	father=200274
+
+	religion=catholic
+	culture="gothic"
+
+	523.1.1={
+		birth=yes
+	}
+	572.1.1={
+		death=yes
+	}
+}
+200276={
+	name="Aþanagilds"
+	dynasty=1044409
+
+	religion=catholic
+	culture="gothic"
+
+	520.1.1={
+		birth=yes
+	}
+	568.1.1={
+		death=yes
+	}
+}
+
+200277={
+	name="Agila"
+
+	religion=catholic
+	culture="gothic"
+
+	516.1.1={
+		birth=yes
+	}
+	554.3.1={
+		death={
+			death_reason=death_murder
+			killer=70512
+		}
+	}
+}
+200278={
+	name="Sisinanþs"
+
+	religion=catholic
+	culture="gothic"
+
+	605.1.1={
+		birth=yes
+	}
+	636.3.12={
+		death=yes
+	}
+}
+200279={
+	name="Þiudageisls"
+
+	religion=catholic
+	culture="gothic"
+
+	500.1.1={
+		birth=yes
+	}
+	549.12.1={
+		death={
+			death_reason=death_murder
+		}
+	}
+}
+200280={
+	name="Þiudeis"
+
+	religion=catholic
+	culture="gothic"
+
+	498.1.1={
+		birth=yes
+	}
+	548.1.1={
+		death={
+			death_reason=death_murder
+		}
+	}
+}
+200281={
+	name="Amalareiks"
+	dynasty=1046035
+
+	father=200283
+	mother=168809
+
+	religion=catholic
+	culture="gothic"
+
+	500.1.1={
+		birth=yes
+	}
+	531.1.1={
+		death={
+			death_reason=death_murder
+		}
+	}
+}
+200282={
+	name="Gaisalaiks"
+	dynasty=1046035
+
+	father=200283
+	trait=bastard
+
+	religion=catholic
+	culture="gothic"
+
+	489.1.1={
+		birth=yes
+	}
+	511.1.1={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+200283={
+	name="Alareiks"
+	dynasty=1046035
+
+	father=200284
+
+	religion=catholic
+	culture="gothic"
+
+	463.1.1={
+		birth=yes
+	}
+	492.1.1={
+		add_spouse=168809
+	}
+	507.1.1={
+		death=yes
+	}
+}
+200284={
+	name="Aiwareiks"
+	dynasty=1046035
+
+	father=200287
+	mother=200293
+
+	religion=catholic
+	culture="gothic"
+
+	440.1.1={
+		birth=yes
+	}
+	484.1.1={
+		death=yes
+	}
+}
+200285={
+	name="Þiudareiks"
+	dynasty=1046035
+
+	father=200287
+	mother=200293
+
+	religion=catholic
+	culture="gothic"
+
+	428.1.1={
+		birth=yes
+	}
+	466.1.1={
+		death={
+			death_reason=death_murder
+			killer=200284
+		}
+	}
+}
+200286={
+	name="Þaurismoþs"
+	dynasty=1046035
+
+	father=200287
+	mother=200293
+
+	religion=catholic
+	culture="gothic"
+
+	423.1.1={
+		birth=yes
+	}
+	453.1.1={
+		death={
+			death_reason=death_murder
+			killer=200285
+		}
+	}
+}
+200287={
+	name="Þiudareiks"
+	dynasty=1046035
+
+	father=200297
+
+	religion=catholic
+	culture="gothic"
+
+	379.1.1={
+		birth=yes
+	}
+	418.1.1={
+		add_spouse=200293
+	}
+	451.6.20={
+		death={
+			death_reason=death_battle
+		}
+	}
+}
+200288={
+	name="Walja"
+	dynasty=1046035
+
+	father=200296
+
+	religion=catholic
+	culture="gothic"
+
+	374.1.1={
+		birth=yes
+	}
+	419.1.1={
+		death=yes
+	}
+}
+200289={
+	name="Sigireiks"
+
+	religion=catholic
+	culture="gothic"
+
+	370.1.1={
+		birth=yes
+	}
+	415.7.7={
+		death={
+			death_reason=death_murder
+			killer=200288
+		}
+	}
+}
+200290={
+	name="Aþawulf"
+	dynasty=1046035
+
+	father=200296
+
+	religion=catholic
+	culture="gothic"
+
+	372.1.1={
+		birth=yes
+	}
+	415.7.1={
+		death={
+			death_reason=death_murder
+			killer=200289
+		}
+	}
+}
+200291={
+	name="Alareiks"
+	dynasty=1046035
+
+	father=200292
+
+	religion=catholic
+	culture="gothic"
+
+	370.1.1={
+		birth=yes
+	}
+	388.1.1={
+		add_spouse=200294
+	}
+	410.1.1={
+		death=yes
+	}
+}
+200292={
+	name="Roþesþius"
+	dynasty=1046035
+
+	father=200295
+
+	religion=catholic
+	culture="gothic"
+
+	341.1.1={
+		birth=yes
+	}
+	387.1.1={
+		death=yes
+	}
+}
+200293={
+	name="Ingunþi"
+	female=yes
+	dynasty=1046035
+
+	father=200291
+	mother=200294
+
+	religion=catholic
+	culture="gothic"
+
+	402.1.1={
+		birth=yes
+	}
+	450.1.1={
+		death=yes
+	}
+}
+200294={
+	name="Airmanbairga"
+	female=yes
+	dynasty=1046035
+
+	father=200296
+
+	religion=catholic
+	culture="gothic"
+
+	372.1.1={
+		birth=yes
+	}
+	415.1.1={
+		death=yes
+	}
+}
+200295={
+	name="Aoreiks"
+	dynasty=1046035
+
+	religion=catholic
+	culture="gothic"
+
+	311.1.1={
+		birth=yes
+	}
+	365.1.1={
+		death=yes
+	}
+}
+200296={
+	name="Aþanareiks"
+	dynasty=1046035
+
+	father=200295
+
+	religion=catholic
+	culture="gothic"
+
+	334.1.1={
+		birth=yes
+	}
+	381.1.25={
+		death=yes
+	}
+}
+200297={
+	name="Alaþius"
+	dynasty=1046035
+
+	father=200295
+
+	religion=catholic
+	culture="gothic"
+
+	350.1.1={
+		birth=yes
+	}
+	391.1.1={
+		death=yes
+	}
+}
+214107={
+	name="Wittigeis"
+	religion="catholic"
+	culture="german"
+	500.1.1={
+		birth=yes
+	}
+	536.1.1={
+		add_spouse = 168789
+	}
+	540.1.1={
+		death=yes
+	}
+}

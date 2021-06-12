@@ -1,0 +1,23 @@
+# 4115 - Shjoltozero
+
+# County Title
+title = c_shjoltozero
+
+# Settlements
+max_settlements = 7
+
+b_shjoltozero = tribal
+
+#b_vehruchej = tribal
+#b_ishanino = tribal
+#b_matvejeva_selga = tribal
+#b_gornoje_shjoltozero = tribal
+#b_zalesje = tribal
+#b_surd = tribal
+
+# Misc
+culture = veps
+religion = finnish_pagan
+
+# History
+1150.1.1 = { religion = orthodox }

@@ -1,0 +1,362 @@
+3900 = {
+	name="Abu-Bakr"
+	dynasty=573
+	martial=4
+	diplomacy=2
+	intrigue=6
+	stewardship=4
+	religion="sunni"
+	culture="andalusian_romance"
+	trait="charitable"
+	trait="wroth"
+	trait="arbitrary"
+	trait="honest"
+	trait="amateurish_plotter"
+	father= 45007
+	1018.1.1={
+		birth="1018.1.1"
+	}
+	1067.1.1={
+		death="1067.1.1"
+	}
+}
+
+3901 = {
+	name="Yahya"
+	dynasty=573
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=4
+	religion="sunni"
+	culture="andalusian_romance"
+	trait="honest"
+	trait="tough_soldier"
+	father=3900
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1079.1.1={
+		death="1079.1.1"
+	}
+}
+
+3902 = {
+	name="Muhammad"
+	dynasty=573
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=5
+	religion="sunni"
+	culture="andalusian_romance"
+	trait="wroth"
+	trait="skilled_tactician"
+	father=3900
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1067.1.1={
+		add_claim = d_badajoz
+	}
+	1079.1.1={
+		remove_claim = d_badajoz
+		add_claim = d_zaragoza
+		add_claim = d_valencia
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_toledo
+		add_claim = d_cordoba
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1080.1.1={
+		remove_claim = d_toledo
+	}
+	1081.11.1={
+		add_claim = d_toledo
+	}
+	1085.5.25={
+		remove_claim = d_toledo
+	}
+	1094.1.1={
+		death="1094.1.1"
+	}
+}
+
+20876 = {
+	name="Muhammad"
+	dynasty=101608
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="sunni"
+	culture=""andalusian_romance""
+	trait="humble"
+	trait="zealous"
+	trait="wroth"
+	982.1.1={
+		birth="982.1.1"
+	}
+	1014.1.1={
+		add_spouse=4876
+	}
+	1047.1.1={
+		death="1047.1.1"
+	}
+}
+
+20877 = {
+	name="Ma'n"
+	dynasty=101608
+	martial=5
+	diplomacy=7
+	intrigue=4
+	stewardship=7
+	religion="sunni"
+	culture=""andalusian_romance""
+	trait="wroth"
+	trait="tough_soldier"
+	father=20876
+	mother=4876
+	1015.1.1={
+		birth="1015.1.1"
+	}
+	1052.1.1={
+		death="1052.1.1"
+	}
+}
+
+45006 = {
+	name="Yahya" #AKA: al-Mustasim
+	dynasty=101608
+	martial=2
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="sunni"
+	culture=""andalusian_romance""
+	trait="tough_soldier"
+	father=20877
+	1042.1.1={
+		birth="1042.1.1"
+	}
+	1091.6.1={
+		death="1091.6.1"
+	}
+}
+
+45007 = {
+	name="Abdallah"
+	dynasty=573
+	martial=4
+	diplomacy=2
+	intrigue=6
+	stewardship=4
+	religion="sunni"
+	culture="andalusian_romance"
+	trait="charitable"
+	trait="wroth"
+	trait="arbitrary"
+	trait="honest"
+	trait="amateurish_plotter"
+	991.1.1={
+		birth="991.1.1"
+	}
+	1045.1.1={
+		death="1045.1.1"
+	}
+}
+
+45008 = {
+	name="Fadl"
+	dynasty=573
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=5
+	religion="sunni"
+	culture="andalusian_romance"
+	father=3902
+	1063.1.1={
+		birth="1063.1.1"
+	}
+	1094.1.1={
+		death="1094.1.1"
+	}
+}
+
+45009 = {
+	name="Abbas"
+	dynasty=573
+	martial=6
+	diplomacy=8
+	intrigue=8
+	stewardship=5
+	religion="sunni"
+	culture="andalusian_romance"
+	father=3902
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	1094.1.1={
+		death="1094.1.1"
+	}
+}
+
+73196 = {
+	name="Umar"
+	dynasty = 573
+	religion="sunni"
+	culture="andalusian_romance"
+	father=3902
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1117.1.1={
+		death="1117.1.1"
+	}
+}
+
+73196 = {
+	name="Umar"
+	dynasty = 573
+	religion="sunni"
+	culture=""andalusian_romance""
+	father=3902
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1117.1.1={
+		death="1117.1.1"
+	}
+}
+
+73197 = {
+	name="Yahaff"
+	dynasty = 12195
+	religion="sunni"
+	culture=""andalusian_romance""
+	1008.1.1={
+		birth="1008.1.1"
+	}
+	1067.1.1={
+		death="1067.1.1"
+	}
+}
+
+73198 = {
+	name="Abdallah"
+	dynasty = 12195
+	religion="sunni"
+	culture=""andalusian_romance""
+	father=73197
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1075.1.1 = {
+		add_claim = d_toledo
+	}
+	1080.1.1 = {
+		remove_claim = d_toledo
+	}
+	1086.1.1={
+		death="1086.1.1"
+	}
+}
+
+73199 = {
+	name="Ya'far"
+	dynasty = 12195
+	religion="sunni"
+	culture=""andalusian_romance""
+	father=73198
+	1055.1.1={
+		birth="1055.1.1"
+	}
+	1092.10.28 = {
+		add_claim = d_zaragoza
+		add_claim = d_mallorca
+		add_claim = d_murcia
+		add_claim = d_cordoba
+		add_claim = d_badajoz
+		add_claim = d_sevilla
+		add_claim = d_granada
+	}
+	1108.1.1={
+		death="1108.1.1"
+	}
+}
+
+73249 = {
+	name="Ahmad"
+	dynasty = 101608
+	religion="sunni"
+	culture=""andalusian_romance""
+	father=45006
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+73250 = {
+	name="Ya'far"
+	dynasty = 101608
+	religion="sunni"
+	culture=""andalusian_romance""
+	father=45006
+	1067.1.1={
+		birth="1067.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+73251 = {
+	name="Ubaid"
+	dynasty = 101608
+	religion="sunni"
+	culture=""andalusian_romance""
+	father=45006
+	1069.1.1={
+		birth="1069.1.1"
+	}
+	1116.1.1={
+		death="1116.1.1"
+	}
+}
+
+73252 = {
+	name="Raf"
+	dynasty = 101608
+	religion="sunni"
+	culture=""andalusian_romance""
+	father=45006
+	1071.1.1={
+		birth="1071.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+73253 = {
+	name="Umm"
+	female=yes
+	dynasty = 101608
+	religion="sunni"
+	culture=""andalusian_romance""
+	father=45006
+	1073.1.1={
+		birth="1073.1.1"
+	}
+	1124.1.1={
+		death="1124.1.1"
+	}
+}
+

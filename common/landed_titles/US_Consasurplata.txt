@@ -1,0 +1,1310 @@
+e_consasurplata = {
+
+	color={ 254 223 0 }
+	color2={ 220 220 220 }
+
+	capital = 4013 # Santiago
+
+	k_bolivay = { 
+
+		color={ 151 132 0 }
+		color2={ 220 220 220 }
+
+		capital = 4249 # canichana
+
+		d_chuqiyapu = {
+
+			color={ 45 64 71 }
+			color2={ 220 220 220 }
+			
+			capital = 4013 # chuqiyapu
+			
+			c_chuqiyapu = {
+
+				color={ 85 44 169 }
+				color2={ 220 220 220 }
+
+				holy_site=south_american
+				holy_site=south_american_reformed
+				
+				b_chuqiyapu = {
+				}
+				b_aymara = {
+				}
+				b_achocallaliz = {
+				}
+				b_viacha = {
+				}
+				b_mecapaca = {
+				}
+				b_choqueyapu = {
+				}
+			}
+			c_pandoliva = {
+
+				color={ 35 44 89 }
+				color2={ 220 220 220 }
+				
+				b_riberalta = {
+				}
+				b_coijiba = {
+				}
+				b_pandoliva-iii = {
+				}
+			}
+			c_pacayuaca = {
+
+				color={ 125 177 143 }
+				color2={ 220 220 220 }
+				
+				b_pacayuaca = {
+				}
+				b_yacuban = {
+				}
+				b_goemferah = {
+				}
+			}
+			c_eseeija = {
+
+				color={ 135 124 218 }
+				color2={ 220 220 220 }
+				
+				b_trindabena = {
+				}
+				b_benicura = {
+				}
+				b_cumaya = {
+				}
+			}
+			c_cavineno = {
+
+				color={ 115 144 118 }
+				color2={ 220 220 220 }
+				
+				b_oruro = {
+				}
+				b_lagoopa = {
+				}
+				b_cavineno = {
+				}
+			}
+
+		}
+		d_canichana = {
+
+			color={ 57 13 92 }
+			color2={ 220 220 220 }
+
+			capital = 4249 # Canichana
+			
+			c_canichana = {
+
+				color={ 45 39 195 }
+				color2={ 220 220 220 }
+				
+				b_surcoli = {
+				}
+				b_chuquibaca = {
+				}
+				b_oropeza = {
+				}
+				b_charcus = {
+				}
+			}
+			c_tacana = {
+
+				color={ 75 194 159 }
+				color2={ 220 220 220 }
+				
+				b_uyunitac = {
+				}
+				b_tacapotosi = {
+				}
+				b_tacazon = {
+				}
+			}
+			c_mosetan = {
+
+				color={ 51 27 199 }
+				color2={ 220 220 220 }
+				
+				b_chimortan = {
+				}
+				b_cochabambamose = {
+				}
+				b_aiquileose = {
+				}
+			}
+			c_camiribore = {
+
+				color={ 125 84 159 }
+				color2={ 220 220 220 }
+				
+				b_camiribore = {
+				}
+				b_robiquetos = {
+				}
+				b_camtarijaria = {
+				}
+			}
+		}
+		d_pernambuco = {
+
+			color={ 117 173 21 }
+			color2={ 220 220 220 }
+
+			capital = 4003 # Itamaraca
+			
+			c_itamaraca = {
+
+				color={ 145 79 125 }
+				color2={ 220 220 220 }
+				
+				b_itamaraca = {
+				}
+				b_itamaraca-ii = {
+				}
+				b_itamaraca-iii = {
+				}
+				b_itamaraca-iv = {
+				}
+			}
+			c_paraiba = {
+
+				color={ 5 94 139 }
+				color2={ 220 220 220 }
+				
+				b_paraiba = {
+				}
+				b_paraiba-ii = {
+				}
+				b_paraiba-iii = {
+				}
+			}
+			c_boroborema = {
+
+				color={ 191 27 79 }
+				color2={ 220 220 220 }
+				
+				b_boroborema = {
+				}
+				b_boroborema-ii = {
+				}
+				b_boroborema-iii = {
+				}
+			}
+			c_alagoas = {
+
+				color={ 175 84 39 }
+				color2={ 220 220 220 }
+				
+				b_alagoas = {
+				}
+				b_alagoas-ii = {
+				}
+				b_alagoas-iii = {
+				}
+			}
+			c_sergipe = {
+
+				color={ 95 115 55 }
+				color2={ 220 220 220 }
+				
+				b_sergipe = {
+				}
+				b_sergipe-ii = {
+				}
+				b_sergipe-iii = {
+				}
+			}
+		}
+		d_pontal = {
+
+			color={ 214 186 81 }
+			color2={ 220 220 220 }
+			
+			capital = 4019 # Pontal
+			
+			c_pontal = {
+
+				color={ 165 67 151 }
+				color2={ 220 220 220 }	
+	
+				b_pontal = {
+				}
+				b_pontal-ii = {
+				}
+				b_pontal-iii = {
+				}
+				b_pontal-iv = {
+				}
+			}
+			c_natividad = {
+
+				color={ 135 178 119 }
+				color2={ 220 220 220 }
+				
+				b_natividad = {
+				}
+				b_natividad-ii = {
+				}
+				b_natividad-iii = {
+				}
+			}
+			c_conceicao = {
+
+				color={ 95 164 52 }
+				color2={ 220 220 220 }
+				
+				b_conceicao = {
+				}
+				b_conceicao-ii = {
+				}
+				b_conceicao-iii = {
+				}
+			}
+		}
+		d_piaui = {
+
+			color={ 164 126 64 }
+			color2={ 220 220 220 }
+			
+			capital = 3995 # Parnaiba
+			
+			c_parnaiba = {
+
+				color={ 98 17 163 }
+				color2={ 220 220 220 }
+				
+				b_parnaiba = {
+				}
+				b_parnaiba-ii = {
+				}
+				b_parnaiba-iii = {
+				}
+				b_parnaiba-iv = {
+				}
+			}
+			c_oeiras = {
+
+				color={ 195 24 6 }
+				color2={ 220 220 220 }
+				
+				b_oeiras = {
+				}
+				b_oeiras-ii = {
+				}
+				b_oeiras-iii = {
+				}
+			}
+			c_parnagua = {
+
+				color={ 198 154 211 }
+				color2={ 220 220 220 }
+				
+				b_parnagua = {
+				}
+				b_parnagua-ii = {
+				}
+				b_parnagua-iii = {
+				}
+			}
+		}
+		d_ceara = {
+
+			color={ 34 46 164 }
+			color2={ 220 220 220 }
+			
+			capital = 3998 # Ceara
+			
+			c_ceara = {
+
+				color={ 168 147 65 }
+				color2={ 220 220 220 }
+				
+				b_ceara = {
+				}
+				b_ceara-ii = {
+				}
+				b_ceara-iii = {
+				}
+				b_ceara-iv = {
+				}
+			}
+			c_rio_grande = {
+
+				color={ 145 49 123 }
+				color2={ 220 220 220 }
+				
+				b_rio_grande = {
+				}
+				b_rio_grande-ii = {
+				}
+				b_rio_grande-iii = {
+				}
+			}
+			c_crato = {
+
+				color={ 199 58 139 }
+				color2={ 220 220 220 }
+				
+				b_crato1 = {
+				}
+				b_crato-ii = {
+				}
+				b_crato-iii = {
+				}
+			}
+		}
+		d_maranhao = {
+
+			color={ 114 176 64 }
+			color2={ 220 220 220 }
+			
+			capital = 3991 # Maranhao
+			
+			c_maranhao = {
+
+				color={ 188 147 125 }
+				color2={ 220 220 220 }
+				
+				b_maranhao = {
+				}
+				b_maranhao-ii = {
+				}
+				b_maranhao-iii = {
+				}
+				b_maranhao-iv = {
+				}
+			}
+			c_alcantara1 = {
+
+				color={ 19 139 105 }
+				color2={ 220 220 220 }
+				
+				b_alcantara1 = {
+				}
+				b_alcantara-ii = {
+				}
+				b_alcantara-iii = {
+				}
+			}
+			c_timon = {
+
+				color={ 149 18 39 }
+				color2={ 220 220 220 }
+				
+				b_timon = {
+				}
+				b_timon-ii = {
+				}
+				b_timon-iii = {
+				}
+			}
+			c_grajau = {
+
+				color={ 219 58 89 }
+				color2={ 220 220 220 }
+				
+				b_grajau = {
+				}
+				b_grajau-ii = {
+				}
+				b_grajau-iii = {
+				}
+			}
+			c_pastos_bons = {
+
+				color={ 99 88 39 }
+				color2={ 220 220 220 }
+				
+				b_pastos_bons = {
+				}
+				b_pastos_bons-ii = {
+				}
+				b_pastos_bons-iii = {
+				}
+			}
+		}
+    }
+
+	k_paraguay = {
+
+		color={ 106 85 0 }
+		color2={ 220 220 220 }
+
+		capital =  # 
+
+		d_paraguay = {
+
+			color={ 185 58 149 }
+			color2={ 220 220 220 }
+			
+			capital = 4254 # paraguay
+			
+			c_capfeurolim = {
+
+				color={ 177 64 161 }
+				color2={ 220 220 220 }
+
+				
+				b_pabascap = {
+				}
+				b_bahianegor = {
+				}
+				b_fuertlimp = {
+				}
+			}
+			c_yuquieron = {
+
+				color={ 125 191 134 }
+				color2={ 220 220 220 }
+				
+				b_eugisgar = {
+				}
+				b_estigarrim = {
+				}
+				b_pedpanp = {
+				}
+			}
+			c_guarani = {
+
+				color={ 135 89 43 }
+				color2={ 220 220 220 }
+				
+				b_pocolorad = {
+				}
+				b_pinpuersco = {
+				}
+				b_hayailla = {
+				}
+			}
+		}
+		d_amambay = {
+
+			color={ 195 112 157 }
+			color2={ 220 220 220 }
+			
+			capital = 4253 # Ayorecocembay
+			
+			c_ayorecocembay = {
+
+				color={ 87 67 76 }
+				color2={ 220 220 220 }
+				
+				b_ayorecocembay = {
+				}
+				b_porapontax = {
+				}
+				b_amambia = {
+				}
+				b_concepia = {
+				}
+			}
+			c_sapredo = {
+
+				color={ 55 189 135 }
+				color2={ 220 220 220 }
+				
+				b_saguapeda = {
+				}
+				b_riojejuigua = {
+				}
+				b_rosaquapeda = {
+				}
+			}
+			c_canindeyalt = {
+
+				color={ 149 18 183 }
+				color2={ 220 220 220 }
+				
+				b_guairadeyal = {
+				}
+				b_canindeyu = {
+				}
+				b_salogotoaira = {
+				}
+			}
+			c_ciudaeste = {
+
+				color={ 55 189 135 }
+				color2={ 220 220 220 }
+				
+				b_ciudaeste = {
+				}
+				b_chelareblas = {
+				}
+				b_isidrosito = {
+				}
+			}
+			c_canindeyalt = {
+
+				color={ 149 18 183 }
+				color2={ 220 220 220 }
+				
+				b_guairadeyal = {
+				}
+				b_canindeyu = {
+				}
+				b_salogotoaira = {
+				}
+			}
+			c_pokzahalt = {
+
+				color={ 149 18 183 }
+				color2={ 220 220 220 }
+				
+				b_abai = {
+				}
+				b_cahzapa = {
+				}
+				b_tavaiga = {
+				}
+			}
+		}
+		d_asunciocaacu = {
+
+			color={ 155 111 12 }
+			color2={ 220 220 220 }
+			
+			capital = 4215 # Asunciocaacu
+			
+			c_caaguazaguaria = {
+
+				color={ 175 147 16 }
+				color2={ 220 220 220 }
+				
+				b_caazapa = {
+				}
+				b_kaaguyjeh = {
+				}
+				b_jehasapa = {
+				}
+			}
+			c_asunciocaacu = {
+
+				color={ 52 71 179 }
+				color2={ 220 220 220 }
+				
+				b_sscuncion = {
+				}
+				b_vietelas = {
+				}
+				b_caacube = {
+				}
+				b_sscuncionora = {
+				}
+				b_vietelasla = {
+				}
+				b_caacubia = {
+				}
+			}
+			c_paraguari = {
+
+				color={ 61 75 26 }
+				color2={ 220 220 220 }
+				
+				b_pirayu = {
+				}
+				b_escosis = {
+				}
+				b_carapegua = {
+				}
+			}
+			c_itapuat = {
+
+				color={ 188 51 40 }
+				color2={ 220 220 220 }
+				
+				b_encarnacitapuat = {
+				}
+				b_positapuat = {
+				}
+				b_itaparana = {
+				}
+			}
+		}
+	}
+	k_uruguay = {
+
+		color={ 88 183 32 }
+		color2={ 220 220 220 }
+
+		capital = 3980 # 
+
+		d_suthurgay = {
+
+			color={ 45 14 31 }
+			color2={ 220 220 220 }
+			
+			capital = 4300 # Urflorican
+			
+			c_Urflorican = {
+
+				color={ 15 24 189 }
+				color2={ 220 220 220 }
+
+				b_montevideo = {
+				}
+				b_canelones = {
+				}
+				b_sarandiyica = {
+				}
+				b_canenando = {
+				}
+				b_lucaiando = {
+				}
+				b_yiyoridia = {
+				}
+			}
+			c_sorlenia = {
+
+				color={ 65 124 159 }
+				color2={ 220 220 220 }
+				
+				b_sorlenia = {
+				}
+				b_carmecolonia = {
+				}
+				b_jualacaze = {
+				}
+				b_mercesalvador = {
+				}
+				b_doloresrio = {
+				}
+				b_ardonriano = {
+				}
+				b_analomelo = {
+				}
+			}
+			c_ysangrochuti = {
+
+				color={ 135 117 43 }
+				color2={ 220 220 220 }
+				
+				b_fraybencardos = {
+				}
+				b_negyoun = {
+				}
+				b_guichogro = {
+				}
+				b_quoguam = {
+				}
+				b_sandusay = {
+				}
+				b_paysurgay = {
+				}
+			}
+			c_molrolva = {
+
+				color={ 75 54 1 }
+				color2={ 220 220 220 }
+				
+				b_minaslava = {
+				}
+				b_varelalleja = {
+				}
+				b_maldonadeste = {
+				}
+				b_chuyroch = {
+				}
+				b_amolapal = {
+				}
+				b_cebollati = {
+				}
+				b_ordepesoj = {
+				}
+			}
+		}
+		d_uruartiga = {
+
+			color={ 187 33 93 }
+			color2={ 220 220 220 }
+
+			capital = 4295 # Tacuarembo
+			
+			c_tacuarembo = {
+
+				color={ 55 29 85 }
+				color2={ 220 220 220 }
+				
+				b_uruguay = {
+				}
+				b_bianquillo = {
+				}
+				b_arogeergnas = {
+				}
+				b_tranqueras = {
+				}
+				b_liviramento = {
+				}
+				b_durazuni = {
+				}
+				b_ortrogerg = {
+				}
+			}
+			c_arkaltotikac = {
+
+				color={ 35 224 153 }
+				color2={ 220 220 220 }
+				
+				b_saltodayma = {
+				}
+				b_artigacuareim = {
+				}
+				b_embasalta = {
+				}
+				b_quaraigas = {
+				}
+				b_allebnoinu = {
+				}
+				b_casaromenta = {
+				}
+				b_gasalt = {
+				}
+			}
+			c_melo = {
+
+				color={ 141 57 89 }
+				color2={ 220 220 220 }
+				
+				b_meltacua = {
+				}
+				b_vergaracua = {
+				}
+				b_trietreganada = {
+				}
+				b_nerinanuga = {
+				}
+				b_ogralorrec = {
+				}
+				b_oimatres = {
+				}
+				b_larcatatrez = {
+				}
+			}
+		}
+    }
+		k_chile = {
+
+		color={ 106 85 0 }
+		color2={ 220 220 220 }
+
+		capital =  # 
+
+		d_magalasysen = {
+
+			color={ 185 58 149 }
+			color2={ 220 220 220 }
+			
+			capital = 4278 # chonos
+			
+			c_kawesqar = {
+
+				color={ 177 64 161 }
+				color2={ 220 220 220 }
+
+				
+				b_puntare = {
+				}
+				b_yaganes = {
+				}
+				b_magallahilena = {
+				}
+			}
+			c_chonos = {
+
+				color={ 125 191 134 }
+				color2={ 220 220 220 }
+				
+				b_coihaique = {
+				}
+				b_carlibanez = {
+				}
+				b_pincoiquet = {
+				}
+			}
+			c_loslag = {
+
+				color={ 135 89 43 }
+				color2={ 220 220 220 }
+				
+				b_loslag = {
+				}
+				b_puermontt = {
+				}
+				b_chiloe = {
+				}
+			}
+			c_atacamenos = {
+
+				color={ 135 89 43 }
+				color2={ 220 220 220 }
+				
+				b_atacamenos = {
+				}
+				b_valcricam = {
+				}
+				b_valkaro = {
+				}
+			}
+			c_huilliches = {
+
+				color={ 135 89 43 }
+				color2={ 220 220 220 }
+				
+				b_huilliches = {
+				}
+				b_temuco = {
+				}
+				b_araucania = {
+				}
+			}
+		}
+	d_antofagasta = {
+
+			color={ 165 182 137 }
+			color2={ 220 220 220 }
+			
+			capital = 3959 # Antofagasta
+			
+			c_antofagasta = {
+
+				color={ 97 67 46 }
+				color2={ 220 220 220 }
+
+				holy_site=inti
+				holy_site=inti_reformed
+				
+				b_antofagasta = {
+				}
+				b_antofagasta-ii = {
+				}
+				b_antofagasta-iii = {
+				}
+				b_antofagasta-iv = {
+				}
+			}
+			c_arika = {
+
+				color={ 155 75 6 }
+				color2={ 220 220 220 }
+				
+				b_arika = {
+				}
+				b_arika-ii = {
+				}
+				b_arika-iii = {
+				}
+			}
+			c_iquique = {
+
+				color={ 78 44 148 }
+				color2={ 220 220 220 }
+				
+				b_iquique = {
+				}
+				b_iquique-ii = {
+			              }
+				b_iquique-iii = {
+				}
+			}
+			c_calama = {
+
+				color={ 58 194 161 }
+				color2={ 220 220 220 }
+				
+				b_calama = {
+				}
+				b_calama-ii = {
+			              }
+				b_calama-iii = {
+				}
+			}
+			c_qhupiyapu = {
+
+				color={ 158 174 71 }
+				color2={ 220 220 220 }
+				
+				b_qhupiyapu = {
+				}
+				b_qhupiyapu-ii = {
+			              }
+				b_qhupiyapu-iii = {
+				}
+			}
+			c_kukimpu = {
+
+				color={ 48 224 141 }
+				color2={ 220 220 220 }
+				
+				b_kukimpu = {
+				}
+				b_kukimpu-ii = {
+			              }
+				b_kukimpu-iii = {
+				}
+			}
+			c_picunche = {
+
+				color={ 68 94 171 }
+				color2={ 220 220 220 }
+				
+				b_picunche = {
+				}
+				b_picunche-ii = {
+			              }
+				b_picunche-iii = {
+				}
+			}
+		}
+	}
+	k_argentina = {
+
+		color={ 88 183 32 }
+		color2={ 220 220 220 }
+
+		capital = 4305 # euairakahakial
+
+		d_mesogentina = {
+
+			color={ 45 14 31 }
+			color2={ 220 220 220 }
+			
+			capital = 4314 # Sahorodacal
+			
+			c_posadasina = {
+
+				color={ 15 24 189 }
+				color2={ 220 220 220 }
+
+				b_posadasina = {
+				}
+				b_misaposadas = {
+				}
+				b_ocasusocano = {
+				}
+				b_vancsikorn = {
+				}
+				b_ianomessera = {
+				}
+				b_brientriazel = {
+				}
+			}
+			c_sahorodacal = {
+
+				color={ 65 124 159 }
+				color2={ 220 220 220 }
+				
+				b_sahorodacal = {
+				}
+				b_corrientiana = {
+				}
+				b_guarani = {
+				}
+			}
+			c_entreriotrina = {
+
+				color={ 135 117 43 }
+				color2={ 220 220 220 }
+				
+				b_entreriotina = {
+				}
+				b_parana = {
+				}
+				b_comodoro = {
+				}
+			}
+		}
+		d_chacargia = {
+
+			color={ 187 33 93 }
+			color2={ 220 220 220 }
+
+			capital = 4292 # chocarga
+			
+			c_chocarga = {
+
+				color={ 55 29 85 }
+				color2={ 220 220 220 }
+				
+				b_chocargo = {
+				}
+				b_resistencia = {
+				}
+				b_guaycuru = {
+				}
+				b_tobagua = {
+				}
+			}
+			c_fomochargenta = {
+
+				color={ 35 224 153 }
+				color2={ 220 220 220 }
+				
+				b_fomochargenta = {
+				}
+				b_beremejo = {
+				}
+				b_pilgarane = {
+				}
+				b_lagyemas = {
+				}
+				b_clorinda = {
+				}
+				b_pirane = {
+				}
+			}
+		}
+		d_saljucumcata = {
+
+			color={ 127 193 51 }
+			color2={ 220 220 220 }
+
+			capital = 4225 # Saltirg
+			
+			c_saltirg = {
+
+				color={ 145 219 25 }
+				color2={ 220 220 220 }
+				
+				b_saltirg = {
+				}
+				b_camquilja = {
+				}
+				b_mercluiaza = {
+				}
+				b_lacaldran = {
+				}
+			}
+			c_juyjuyarg = {
+
+				color={ 175 54 39 }
+				color2={ 220 220 220 }
+				
+				b_humahuaca = {
+				}
+				b_xibixibarg = {
+				}
+				b_gobernardo = {
+				}
+			}
+		}
+		d_vesargia = {
+
+			color={ 177 68 178 }
+			color2={ 220 220 220 }
+			
+			capital = 4256 # Cumayarga
+			
+			c_taplete = {
+
+				color={ 85 167 50 }
+				color2={ 220 220 220 }	
+	
+				b_rojasaucha = {
+				}
+				b_talampaychas = {
+				}
+				b_diaguicapayan = {
+				}
+				b_olonghaoja = {
+				}
+			}
+			c_ catamacovi= {
+
+				color={ 15 48 149 }
+				color2={ 220 220 220 }
+				
+				b_andalmarc = {
+				}
+				b_tinoghash = {
+				}
+				b_vallanan = {
+				}
+			}
+			c_cumayarga = {
+
+				color={ 145 184 32 }
+				color2={ 220 220 220 }
+				
+				b_curruyac = {
+				}
+				b_chicligstla = {
+				}
+				b_bauilules = {
+				}
+			}
+			c_cuenca = {
+
+				color={ 165 24 127 }
+				color2={ 220 220 220 }
+				
+				b_santianatuya = {
+				}
+				b_choyagrandbanda = {
+				}
+				b_guasyrivadas = {
+				}
+			}
+		}
+		d_pampasartina = {
+
+			color={ 139 182 126 }
+			color2={ 220 220 220 }
+			
+			capital = 4305 # Euairakahakial
+			#Pahimpita
+			c_camamcal = {
+
+				color={ 168 137 61 }
+				color2={ 220 220 220 }
+				
+				b_gahelvec = {
+				}
+				b_iriongom = {
+				}
+				b_casercastel = {
+				}
+				b_verjavia = {
+				}
+			}
+			c_euairakahakial = {
+
+				color={ 155 139 183 }
+				color2={ 220 220 220 }
+				
+				b_bueno_aires = {
+				}
+				b_laplatina = {
+				}
+				b_pilarbah = {
+				}
+				b_blacavic = {
+				}
+				b_ituzaing = {
+				}
+				b_berazategui = {
+				}
+				b_merpajos = {
+				}
+			}
+			c_pahimpita = {
+
+				color={ 29 198 219 }
+				color2={ 220 220 220 }
+				
+				b_concarluis = {
+				}
+				b_gobernadupu = {
+				}
+				b_pedernarch = {
+				}
+			}
+			c_cordarch = {
+
+				color={ 29 198 219 }
+				color2={ 220 220 220 }
+				
+				b_concarluis = {
+				}
+				b_gobernadupu = {
+				}
+				b_pedernarch = {
+				}
+			}
+		}
+		d_patagonochi = {
+
+			color={ 174 166 54 }
+			color2={ 220 220 220 }
+			
+			capital = 4307 # Mendonzachuti
+			
+			c_heuque = {
+
+				color={ 148 27 195 }
+				color2={ 220 220 220 }
+				
+				b_viedmonz = {
+				}
+				b_barilochita = {
+				}
+				b_ocapichi = {
+				}
+				b_nochquincas = {
+				}
+			}
+			c_riomoro = {
+
+				color={ 45 139 65 }
+				color2={ 220 220 220 }
+				
+				b_chuybuyu = {
+				}
+				b_rawrcian = {
+				}
+				b_cushameia = {
+				}
+				b_tehuelches = {
+				}
+			}
+			c_mendonzachuti = {
+
+				color={ 29 198 139 }
+				color2={ 220 220 220 }
+				
+				b_mapudungun = {
+				}
+				b_tehuelche = {
+				}
+				b_pehuenche = {
+				}
+			}
+				c_aonikenk  = {
+
+				color={ 29 198 139 }
+				color2={ 220 220 220 }
+				
+				b_aonikenk = {
+				}
+				b_aiocrakruz = {
+				}
+				b_gallegcha = {
+				}
+			}
+		}
+		d_falkfuego = {
+
+			color={ 174 166 54 }
+			color2={ 220 220 220 }
+			
+			capital = 4308 # 
+			
+			c_selknam = {
+
+				color={ 148 27 195 }
+				color2={ 220 220 220 }
+				
+				b_ushuala = {
+				}
+				b_antartida = {
+				}
+				b_selknam = {
+				}
+			}
+			c_falklands = {
+
+				color={ 45 139 65 }
+				color2={ 220 220 220 }
+				
+				b_stanliah = {
+				}
+				b_nothrum = {
+				}
+				b_cesalvaor = {
+				}
+			}
+		}
+    }
+}

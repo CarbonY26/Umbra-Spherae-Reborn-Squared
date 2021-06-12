@@ -1,0 +1,63 @@
+technology = {
+	titles = {
+		d_geralkun
+		d_pernors
+		d_northern_territory
+		d_south_australia
+		d_queensland
+		d_victoria
+	}
+	
+	769 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.5
+	}
+		
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}
+
+technology = {
+	titles = {
+                            d_winglath
+                            d_carnbro
+                            d_southern_territory
+
+	}
+	
+	769 = {
+		military = 1.2
+		economy = 0.8
+		culture = 1.4
+	}
+		
+	1337 = {
+		military = 4.2
+		economy = 3.8
+		culture = 3.8
+	}
+}
+
+technology = {
+	titles = {
+		d_chridun
+		d_wellauck
+
+	}
+	
+	769 = {
+		military = 0.9
+		economy = 1.5
+		culture = 1.3
+	}
+		
+	1337 = {
+		military = 3.5
+		economy = 4.5
+		culture = 3.5
+	}
+}

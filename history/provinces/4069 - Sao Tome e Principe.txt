@@ -1,0 +1,24 @@
+# 4069 - Sao Tome e Principe
+
+# County Title
+title = c_sao_tome_e_principe
+
+# Settlements
+max_settlements = 7
+
+b_sao_tome_2 = tribal
+
+#b_santo_antonio_do_principe = tribal
+#b_guadalupe_2 = tribal
+#b_neves = tribal
+#b_trinidade = tribal
+#b_santana = tribal
+#b_sao_joao_dos_angolares = tribal
+
+# Misc
+culture = bubi
+religion = west_african_pagan
+
+# History
+1493.1.1 = { culture = portuguese 
+             religion = catholic }

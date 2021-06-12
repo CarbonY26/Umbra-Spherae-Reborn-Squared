@@ -1,0 +1,335 @@
+technology = {
+	titles = {
+		d_beothuk
+		d_akadie
+		d_epekwitk
+		d_kespek
+	}
+	
+	769 = {
+		military = 0.2
+		economy = 0.2
+		culture = 0.2
+		
+	}
+	
+	1337 = {
+		military = 3.6
+		economy = 3.6
+		culture = 3.6
+	}
+}
+
+technology = {
+	titles = {
+		d_qikiqtaaluk
+		d_nunavik
+		d_eeyou_istchee
+		d_nunatsiavut
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.3
+		
+	}
+	
+	1337 = {
+		military = 3.3
+		economy = 3.6
+		culture = 3.8
+	}
+}
+
+technology = {
+	titles = {
+		d_nitassinan
+		d_neenoilno
+		d_tabadabor
+		d_kakapakho
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.4
+		culture = 0.1
+		
+	}
+	
+	1337 = {
+		military = 3.1
+		economy = 4.1
+		culture = 3.3
+	}
+}
+
+technology = {
+	titles = {
+		d_abitibi
+		d_ontario
+		d_huronia
+	}
+	
+	769 = {
+		military = 0.2
+		economy = 0.4
+		culture = 0.1
+		
+	}
+	
+	1337 = {
+		military = 3.3
+		economy = 4.1
+		culture = 3.3
+	}
+}
+
+technology = {
+	titles = {
+		d_madawaska
+		d_kennebec
+		d_iroquoisia
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.5
+		culture = 0.1
+		
+	}
+	
+	1337 = {
+		military = 3.2
+		economy = 4.3
+		culture = 3.3
+	}
+}
+
+technology = {
+	titles = {
+		d_mahican
+		d_onondaga
+	}
+	
+	769 = {
+		military = 0.2
+		economy = 0.3
+		culture = 0.2
+		
+	}
+	
+	1337 = {
+		military = 3.4
+		economy = 4.3
+		culture = 3.5
+	}
+}
+
+technology = {
+	titles = {
+		d_manhattan
+		d_delaware
+		d_powhatan
+	}
+	
+	769 = {
+		military = 0.2
+		economy = 0.5
+		culture = 0.2
+		
+	}
+	
+	1337 = {
+		military = 3.4
+		economy = 4.3
+		culture = 3.5
+	}
+}
+
+technology = {
+	titles = {
+		d_ohio
+		d_susquehanna
+	}
+	
+	769 = {
+		military = 0.2
+		economy = 0.4
+		culture = 0.3
+		
+	}
+	
+	1337 = {
+		military = 3.4
+		economy = 4.1
+		culture = 3.7
+	}
+}
+
+technology = {
+	titles = {
+		d_georgia2
+		d_florida
+	}
+	
+	769 = {
+		military = 0.1
+		economy = 0.5
+		culture = 0.4
+		
+	}
+	
+	1337 = {
+		military = 3.2
+		economy = 4.3
+		culture = 3.9
+	}
+}
+
+technology = {
+	titles = {
+		d_carolina
+		d_piedmont
+	}
+	
+	769 = {
+		military = 0.3
+		economy = 0.2
+		culture = 0.4
+		
+	}
+	
+	1337 = {
+		military = 3.5
+		economy = 4
+		culture = 3.9
+	}
+}
+
+technology = {
+	titles = {
+		d_vandalia
+	}
+	
+	769 = {
+		military = 0.5
+		economy = 0.1
+		culture = 0.2
+		
+	}
+	
+	1337 = {
+		military = 3.9
+		economy = 3.8
+		culture = 3.5
+	}
+}
+
+technology = {
+	titles = {
+		d_alabama
+		d_coahuila
+		d_louisiana
+	}
+	
+	769 = {
+		military = 0.3
+		economy = 0.1
+		culture = 0.4
+		
+	}
+	
+	1337 = {
+		military = 3.5
+		economy = 3.8
+		culture = 3.9
+	}
+}
+
+technology = {
+	titles = {
+		d_mississippi
+		d_tennessee
+		d_west_florida
+	}
+	
+	769 = {
+		military = 0.2
+		economy = 0.2
+		culture = 0.4
+		
+	}
+	
+	1337 = {
+		military = 3.4
+		economy = 4
+		culture = 3.9
+	}
+}
+
+technology = {
+	titles = {
+		d_tamaulipas
+		d_tejas
+		d_tejas_plains
+	}
+	
+	769 = {
+		military = 0.3
+		economy = 0.3
+		culture = 0.4
+		
+	}
+	
+	1337 = {
+		military = 3.6
+		economy = 4.1
+		culture = 3.9
+	}
+}
+
+
+technology = {
+	titles = {
+		d_west_cuba
+		d_east_cuba
+		d_haiti
+		d_dominica
+	}
+	
+	769 = {
+		military = 0.2
+		economy = 0.2
+		culture = 0.3
+		
+	}
+	
+	1337 = {
+		military = 3.5
+		economy = 3.9
+		culture = 3.8
+	}
+}
+
+technology = {
+	titles = {
+		d_antilles
+		d_leeward
+		d_windward
+		d_south_caribbean
+	}
+	
+	769 = {
+		military = 0.2
+		economy = 0.3
+		culture = 0.3
+		
+	}
+	
+	1337 = {
+		military = 3.5
+		economy = 4.1
+		culture = 3.8
+	}
+}

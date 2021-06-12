@@ -1,0 +1,22 @@
+# 4072 - Votia
+
+# County Title
+title = c_votia
+
+# Settlements
+max_settlements = 7
+
+b_jama = tribal
+b_ust-luga = city 
+#b_ivangorod = temple
+#b_vistino = castle
+#b_jogopera = castle
+#b_nezhnovo = castle
+#b_koskolovo = castle
+
+# Misc
+culture = votic
+religion = finnish_pagan
+
+# History
+1150.1.1 = { religion = orthodox }

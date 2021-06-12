@@ -1,0 +1,268 @@
+144632 = {
+	name="Teitur"
+	dynasty=101891
+	religion="catholic"
+	culture="icelandic"
+	father = 20579
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+144633 = {
+	name="Hallur"
+	dynasty=101891
+	religion="catholic"
+	culture="icelandic"
+	father = 144632
+	1075.1.1={
+		birth="1075.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+144647 = {
+	name="Gissur"
+	dynasty=101891
+	religion="catholic"
+	culture="icelandic"
+	father=202012
+	1208.1.1={
+		birth="1208.1.1"
+	}
+	1268.1.12={
+		death="1268.1.12"
+	}
+}
+202011 = {
+	name="Gissur"
+	dynasty=101891
+	martial=6
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="icelandic"
+	trait="deceitful"
+	trait="underhanded_rogue"
+	father = 144633
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1206.6.27={
+		death="1206.6.27"
+	}
+}
+202012 = {
+	name="Þórvaldur"
+	dynasty=101891
+	martial=6
+	diplomacy=8
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="icelandic"
+	trait="charitable"
+	trait="patient"
+	trait="martial_cleric"
+	father=202011
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1235.9.1={
+		death="1235.9.1"
+	}
+}
+20579 = {
+	name="Ísleifur"
+	dynasty=101891
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="icelandic"
+	trait="diligent"
+	trait="flamboyant_schemer"
+	1006.1.1={
+		birth="1006.1.1"
+	}
+	1080.6.5={
+		death="1080.6.5"
+	}
+}
+202023 = {
+	name="Sigrid"
+	female = yes
+	dynasty=101892
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="icelandic"
+	trait="amateurish_plotter"
+	father=202024
+	mother=202025
+	1151.1.1={
+		birth="1151.1.1"
+	}
+	1183.1.1={
+		death="1183.1.1"
+	}
+}
+202024 = {
+	name="Jón"
+	# AKA: Jon
+	dynasty=101892
+	martial=6
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="icelandic"
+	trait="patient"
+	trait="just"
+	#trait="wroth"
+	trait="martial_cleric"
+	father=202026
+	mother=202027
+	1124.1.1={
+		birth="1124.1.1"
+	}
+	1146.1.1={
+		add_spouse = 202025
+	}
+	1171.1.1={
+		add_spouse = 202019
+	}
+	1197.1.1={
+		death="1197.1.1"
+	}
+}
+202025 = {
+	name="Halldóra"
+	female = yes
+	martial=5
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="catholic"
+	culture="icelandic"
+	trait="amateurish_plotter"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+202026 = {
+	name="Loftur"
+	dynasty=101892
+	martial=6
+	diplomacy=5
+	intrigue=7
+	stewardship=6
+	religion="catholic"
+	culture="icelandic"
+	trait="scholarly_theologian"
+	father = 20581
+	1076.1.1={
+		birth="1076.1.1"
+	}
+	1120.1.1={
+		add_spouse=202027
+	}
+	1133.1.1={
+		death="1133.1.1"
+	}
+}
+202028 = {
+	name="Sæmundur"
+	# AKA: Saemund
+	dynasty=101892
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="icelandic"
+	trait="humble"
+	trait="honest"
+	trait="patient"
+	trait="scholarly_theologian"
+	father=202024
+	mother=202025
+	1154.1.1={
+		birth="1154.1.1"
+	}
+	1222.11.7={
+		death="1222.11.7"
+	}
+}
+202029 = {
+	name="Páll"
+	# AKA: Pall
+	dynasty=101892
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="icelandic"
+	trait="bastard"
+	trait="honest"
+	trait="chaste"
+	trait="mastermind_theologian"
+	father=202024
+	mother=202019
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+20580 = {
+	name="Sigfús"
+	dynasty=101892
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="icelandic"
+	trait="greedy"
+	trait="arbitrary"
+	trait="patient"
+	trait="honest"
+	trait="martial_cleric"
+	1038.1.1={
+		birth="1038.1.1"
+	}
+	1088.1.1={
+		death="1088.1.1"
+	}
+}
+20581 = {
+	name="Sæmundur"
+	dynasty=101892
+	martial=7
+	diplomacy=8
+	intrigue=7
+	stewardship=7
+	religion="catholic"
+	culture="icelandic"
+	trait="martial_cleric"
+	father=20580
+	1056.1.1={
+		birth="1056.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}

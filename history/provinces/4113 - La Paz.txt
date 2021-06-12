@@ -1,0 +1,13 @@
+# 4113 - La Paz
+
+# County Title
+title = c_
+
+# Settlements
+max_settlements = 
+
+# Misc
+culture = 
+religion = 
+
+# History

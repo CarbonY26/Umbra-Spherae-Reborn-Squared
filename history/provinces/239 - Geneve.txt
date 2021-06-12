@@ -1,0 +1,19 @@
+# 239 - Geneve
+
+# County Title
+title = c_geneve
+
+# Settlements
+max_settlements = 4
+
+b_geneve = castle
+b_aubonne = temple
+b_nyon = city
+
+# Misc
+culture = arpitan
+religion = catholic
+
+# History
+443.1.1 = { culture = "burgundian" }
+534.1.1 = { culture = "arpitan" }

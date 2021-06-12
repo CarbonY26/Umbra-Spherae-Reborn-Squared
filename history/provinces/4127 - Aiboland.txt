@@ -1,0 +1,24 @@
+# 4127 - Aiboland
+
+# County Title
+title = c_aiboland
+
+# Settlements
+max_settlements = 7
+
+b_hullo = tribal
+#b_ruhnu = tribal
+#b_osmussaar = tribal
+#b_kuivastu = tribal
+#b_lounakula = tribal
+#b_muhu = tribal
+#b_koguva = tribal
+
+# Misc
+culture = ugricbaltic
+religion = finnish_pagan
+
+# History
+
+1240.1.1 = { religion = catholic }
+1270.1.1 = { culture = swedish }

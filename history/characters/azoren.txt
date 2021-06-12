@@ -1,0 +1,1384 @@
+1019931006={
+	name=Taffounnout
+	dynasty=1009990277
+	dna="gghcggckbof"
+	culture=azoren religion=animism
+	martial=5 diplomacy=4 stewardship=5 intrigue=7 learning=8
+	add_trait=martial_cleric add_trait=hunter add_trait=slothful add_trait=greedy add_trait=arbitrary 
+	640.8.22={ birth=yes }
+	716.2.13={ death=yes }
+}
+1019931007={
+	name=Izri
+	dynasty=1009990277
+	dna="hgclgickbof"
+	culture=azoren religion=animism
+	martial=6 diplomacy=6 stewardship=6 intrigue=5 learning=7
+	add_trait=mastermind_theologian add_trait=greedy add_trait=just add_trait=slothful add_trait=content 
+	add_trait=brave add_trait=cruel 
+	father=1019931006	#Taffounnout
+	664.1.17={ birth=yes }
+	722.3.16={ death=yes }
+}
+1019931008={
+	name=Badda
+	dynasty=1009990277
+	dna="ggbcgkcfnof"
+	culture=azoren religion=animism
+	martial=4 diplomacy=8 stewardship=7 intrigue=7 learning=6
+	add_trait=midas_touched add_trait=brave add_trait=arbitrary add_trait=diligent add_trait=cynical 
+	add_trait=depressed 
+	father=1019931006	#Taffounnout
+	669.5.20={ birth=yes }
+	734.3.13={ death=yes }
+}
+1019931009={
+	name=Badeea
+	female=yes
+	dynasty=1009990277
+	dna="ahhcdgcfbel"
+	culture=azoren religion=animism
+	father=1019931006	#Taffounnout
+	671.11.11={ birth=yes }
+	754.1.15={ death=yes }
+}
+1019931010={
+	name=Anwa
+	dynasty=1009990277
+	dna="dgclgilkpkf"
+	culture=azoren religion=animism
+	martial=8 diplomacy=5 stewardship=6 intrigue=5 learning=5
+	add_trait=scholarly_theologian add_trait=hunter add_trait=cruel add_trait=craven add_trait=cynical 
+	add_trait=shy add_trait=chaste add_trait=ill 
+	father=1019931007	#Izri
+	693.8.4={ birth=yes }
+	768.1.23={ death=yes }
+}
+1019931011={
+	name=Abidin
+	dynasty=1009990277
+	dna="hgkmmbpkcbo"
+	culture=azoren religion=animism
+	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=5
+	add_trait=charismatic_negotiator add_trait=impaler add_trait=gluttonous add_trait=humble add_trait=content 
+	add_trait=brave 
+	father=1019931007	#Izri
+	697.6.16={ birth=yes }
+	749.8.24={ death=yes }
+}
+1019931012={
+	name=Tafrara
+	female=yes
+	dynasty=1009990277
+	dna="agelmcckbdg"
+	culture=azoren religion=animism
+	father=1019931007	#Izri
+	701.8.6={ birth=yes }
+	763.2.16={ death=yes }
+}
+1019931013={
+	name=Meghighda
+	female=yes
+	dynasty=1009990277
+	dna="homdgickbif"
+	culture=azoren religion=animism
+	father=1019931007	#Izri
+	705.11.17={ birth=yes }
+	792.7.25={ death=yes }
+}
+1019931014={
+	name=Fahriya
+	female=yes
+	dynasty=1009990277
+	dna="aghggcjhgom"
+	culture=azoren religion=animism
+	father=1019931007	#Izri
+	709.6.15={ birth=yes }
+	764.6.1={ death=yes }
+}
+1019931015={
+	name=Tasa'fut
+	female=yes
+	dynasty=1009990277
+	dna="hajlgickbof"
+	culture=azoren religion=animism
+	father=1019931007	#Izri
+	712.9.9={ birth=yes }
+	782.5.7={ death=yes }
+}
+1019931016={
+	name=Masinissa
+	dynasty=1009990277
+	dna="hgolpickjif"
+	culture=azoren religion=animism
+	martial=8 diplomacy=8 stewardship=7 intrigue=4 learning=6
+	add_trait=midas_touched add_trait=arbitrary add_trait=proud add_trait=lustful add_trait=shy 
+	father=1019931007	#Izri
+	716.5.1={ birth=yes }
+	820.1.24={ death=yes }
+}
+1019931017={
+	name=Masgaba
+	dynasty=1009990277
+	dna="mlmeaimkpme"
+	culture=azoren religion=animism
+	martial=7 diplomacy=4 stewardship=4 intrigue=7 learning=6
+	add_trait=midas_touched add_trait=content add_trait=gregarious add_trait=brave add_trait=cruel 
+	add_trait=humble 
+	father=1019931010	#Anwa
+	721.7.14={ birth=yes }
+	791.6.10={ death=yes }
+}
+1019931018={
+	name=Z'diant
+	female=yes
+	dynasty=1009990277
+	dna="jggogplpoii"
+	culture=azoren religion=animism
+	father=1019931010	#Anwa
+	729.3.19={ birth=yes }
+	804.7.11={ death=yes }
+}
+1019931019={
+	name=Melek
+	female=yes
+	dynasty=1009990277
+	dna="jaalhilknkj"
+	culture=azoren religion=animism
+	father=1019931010	#Anwa
+	731.8.13={ birth=yes }
+	806.3.5={ death=yes }
+}
+1019931020={
+	name=Igider
+	dynasty=1009990277
+	dna="olmgaimpppd"
+	culture=azoren religion=animism
+	martial=5 diplomacy=4 stewardship=8 intrigue=4 learning=6
+	add_trait=indulgent_wastrel add_trait=craven add_trait=chaste add_trait=honest add_trait=gregarious 
+	father=1019931017	#Masgaba
+	747.6.3={ birth=yes }
+	830.10.31={ death=yes }
+}
+1019931021={
+	name=Adjan
+	female=yes
+	dynasty=1009990277
+	dna="mldebimkbpk"
+	culture=azoren religion=animism
+	father=1019931017	#Masgaba
+	750.11.20={ birth=yes }
+	793.2.13={ death=yes }
+}
+1019931022={
+	name=Himmi
+	dynasty=1009990277
+	dna="ohmgaipkfgd"
+	culture=azoren religion=animism
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=6
+	add_trait=charismatic_negotiator add_trait=envious add_trait=gluttonous add_trait=cynical 
+	father=1019931020	#Igider
+	777.10.24={ birth=yes }
+	828.10.10={ death=yes }
+}
+1019931023={
+	name=Tuh'r'ict
+	female=yes
+	dynasty=1009990277
+	dna="opmghbmldjp"
+	culture=azoren religion=animism
+	father=1019931020	#Igider
+	784.6.19={ birth=yes }
+	846.6.11={ death=yes }
+}
+1019931024={
+	name=Lunja
+	female=yes
+	dynasty=1009990277
+	dna="glmgfhipppd"
+	culture=azoren religion=animism
+	father=1019931020	#Igider
+	788.9.1={ birth=yes }
+	859.4.8={ death=yes }
+}
+1019931025={
+	name=Adergazuz
+	dynasty=1009990277
+	dna="chmfeahijgm"
+	culture=azoren religion=animism
+	martial=5 diplomacy=6 stewardship=8 intrigue=6 learning=8
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=slothful add_trait=wroth add_trait=paranoid 
+	add_trait=charitable 
+	father=1019931022	#Himmi
+	805.7.2={ birth=yes }
+	904.10.15={ death=yes }
+}
+1019931026={
+	name=Adiba
+	female=yes
+	dynasty=1009990277
+	dna="ohigaihlmld"
+	culture=azoren religion=animism
+	father=1019931022	#Himmi
+	808.12.1={ birth=yes }
+	882.8.15={ death=yes }
+}
+1019931027={
+	name=Masnsen
+	dynasty=1009990277
+	dna="phpghhhbfgd"
+	culture=azoren religion=animism
+	martial=7 diplomacy=7 stewardship=8 intrigue=4 learning=5
+	add_trait=detached_priest add_trait=gluttonous add_trait=envious 
+	father=1019931022	#Himmi
+	812.10.1={ birth=yes }
+	899.9.10={ death=yes }
+}
+1019931028={
+	name=Uzmir
+	dynasty=1009990277
+	dna="mhmgdbpkekc"
+	culture=azoren religion=animism
+	martial=6 diplomacy=4 stewardship=6 intrigue=8 learning=4
+	add_trait=thrifty_clerk add_trait=humble add_trait=kind add_trait=charitable add_trait=deceitful 
+	add_trait=lustful 
+	father=1019931022	#Himmi
+	817.10.2={ birth=yes }
+	903.1.5={ death=yes }
+}
+1019931029={
+	name=Izri
+	dynasty=1009990277
+	dna="lmgnppbkcgh"
+	culture=azoren religion=animism
+	martial=5 diplomacy=4 stewardship=6 intrigue=4 learning=5
+	add_trait=tough_soldier add_trait=kind add_trait=gluttonous add_trait=zealous add_trait=charitable 
+	add_trait=brave add_trait=weak 
+	father=1019931022	#Himmi
+	823.5.14={ birth=yes }
+	911.3.11={ death=yes }
+}
+1019931030={
+	name=Iken
+	dynasty=1009990277
+	dna="oamkhbpdlgd"
+	culture=azoren religion=animism
+	martial=7 diplomacy=6 stewardship=7 intrigue=8 learning=8
+	add_trait=grey_eminence add_trait=craven add_trait=lustful add_trait=humble add_trait=kind 
+	add_trait=cruel add_trait=diligent 
+	father=1019931022	#Himmi
+	827.12.13={ birth=yes }
+	913.11.15={ death=yes }
+}
+1019931031={
+	name=Awlagh
+	dynasty=1009990277
+	dna="ghmncipkcfd"
+	culture=azoren religion=animism
+	martial=5 diplomacy=4 stewardship=5 intrigue=7 learning=6
+	add_trait=scholarly_theologian add_trait=ambitious add_trait=just add_trait=honest add_trait=lustful 
+	add_trait=gluttonous 
+	father=1019931022	#Himmi
+	832.2.12={ birth=yes }
+	906.2.23={ death=yes }
+}
+1019931032={
+	name=Awdia
+	dynasty=1009990277
+	dna="jhmkhfiipgo"
+	culture=azoren religion=animism
+	martial=4 diplomacy=4 stewardship=6 intrigue=7 learning=4
+	add_trait=intricate_webweaver add_trait=trusting add_trait=craven add_trait=cruel 
+	father=1019931025	#Adergazuz
+	826.7.8={ birth=yes }
+	897.11.6={ death=yes }
+}
+1019931033={
+	name=Wenza
+	female=yes
+	dynasty=1009990277
+	dna="hhmnmjfdhae"
+	culture=azoren religion=animism
+	father=1019931025	#Adergazuz
+	830.12.15={ birth=yes }
+	909.8.11={ death=yes }
+}
+1019931034={
+	name=Kenwa
+	female=yes
+	dynasty=1009990277
+	dna="cbdffabjjgm"
+	culture=azoren religion=animism
+	father=1019931025	#Adergazuz
+	834.11.22={ birth=yes }
+	913.12.25={ death=yes }
+}
+1019931035={
+	name=Jdira
+	female=yes
+	dynasty=1009990277
+	dna="fholemhdfgm"
+	culture=azoren religion=animism
+	father=1019931025	#Adergazuz
+	840.11.11={ birth=yes }
+	894.5.24={ death=yes }
+}
+1019931036={
+	name=Taweckint
+	female=yes
+	dynasty=1009990277
+	dna="gomlefhiddl"
+	culture=azoren religion=animism
+	father=1019931025	#Adergazuz
+	844.5.20={ birth=yes }
+	944.3.2={ death=yes }
+}
+1019931037={
+	name=Itri
+	dynasty=1009990277
+	dna="chkihfpkpeo"
+	culture=azoren religion=animism
+	martial=5 diplomacy=6 stewardship=8 intrigue=5 learning=6
+	add_trait=skilled_tactician add_trait=temperate add_trait=wroth add_trait=slothful 
+	father=1019931032	#Awdia
+	853.6.12={ birth=yes }
+	918.2.20={ death=yes }
+}
+1019931038={
+	name=Amdegh
+	dynasty=1009990277
+	dna="fkmkokimine"
+	culture=azoren religion=animism
+	martial=6 diplomacy=5 stewardship=7 intrigue=5 learning=4
+	add_trait=detached_priest add_trait=cynical add_trait=trusting add_trait=humble 
+	father=1019931032	#Awdia
+	859.4.23={ birth=yes }
+	925.9.4={ death=yes }
+}
+1019931039={
+	name=Adjan
+	female=yes
+	dynasty=1009990277
+	dna="jnlchaiipgf"
+	culture=azoren religion=animism
+	father=1019931032	#Awdia
+	864.4.12={ birth=yes }
+	945.10.19={ death=yes }
+}
+1019931040={
+	name=Tadmut
+	female=yes
+	dynasty=1009990277
+	dna="ahmeokiidgm"
+	culture=azoren religion=animism
+	father=1019931032	#Awdia
+	868.5.16={ birth=yes }
+	944.4.21={ death=yes }
+}
+1019931041={
+	name=Anwa
+	dynasty=1009990277
+	dna="clbciffppbo"
+	culture=azoren religion=animism
+	martial=6 diplomacy=5 stewardship=7 intrigue=8 learning=7
+	add_trait=midas_touched add_trait=trusting add_trait=brave add_trait=arbitrary add_trait=depressed 
+	father=1019931037	#Itri
+	874.10.1={ birth=yes }
+	961.4.12={ death=yes }
+}
+1019931042={
+	name=Canh'a
+	female=yes
+	dynasty=1009990277
+	dna="cnkibfmdjej"
+	culture=azoren religion=animism
+	father=1019931037	#Itri
+	878.6.10={ birth=yes }
+	962.10.9={ death=yes }
+}
+1019931043={
+	name=Berkan
+	dynasty=1009990277
+	dna="bhfihhpkppo"
+	culture=azoren religion=animism
+	martial=5 diplomacy=4 stewardship=7 intrigue=6 learning=6
+	add_trait=naive_appeaser add_trait=cruel add_trait=craven add_trait=honest add_trait=humble 
+	father=1019931037	#Itri
+	884.4.10={ birth=yes }
+	965.8.13={ death=yes }
+}
+1019931044={
+	name=Medjan
+	dynasty=1009990277
+	dna="jhkccfpkgbe"
+	culture=azoren religion=animism
+	martial=8 diplomacy=6 stewardship=8 intrigue=8 learning=6
+	add_trait=grey_eminence add_trait=gardener add_trait=honest add_trait=chaste add_trait=kind 
+	add_trait=shy add_trait=greedy 
+	father=1019931037	#Itri
+	891.8.9={ birth=yes }
+	944.11.30={ death=yes }
+}
+1019931045={
+	name=Amellal
+	dynasty=1009990277
+	dna="jabciogjpbl"
+	culture=azoren religion=animism
+	martial=4 diplomacy=6 stewardship=6 intrigue=7 learning=8
+	add_trait=scholarly_theologian add_trait=mystic add_trait=gregarious add_trait=chaste add_trait=zealous 
+	add_trait=temperate add_trait=paranoid 
+	father=1019931041	#Anwa
+	900.11.5={ birth=yes }
+	955.3.18={ death=yes }
+}
+1019931046={
+	name=Z'effun
+	dynasty=1009990277
+	dna="cijaipdpppo"
+	culture=azoren religion=animism
+	martial=4 diplomacy=8 stewardship=6 intrigue=5 learning=5
+	add_trait=elusive_shadow add_trait=shy add_trait=wroth add_trait=kind 
+	father=1019931041	#Anwa
+	903.3.9={ birth=yes }
+	965.10.5={ death=yes }
+}
+1019931047={
+	name=Tabat
+	dynasty=1009990277
+	dna="iiadifeppbi"
+	culture=azoren religion=animism
+	martial=7 diplomacy=7 stewardship=4 intrigue=5 learning=5
+	add_trait=grey_eminence add_trait=deceitful add_trait=zealous add_trait=gregarious add_trait=cruel 
+	add_trait=brave add_trait=paranoid 
+	father=1019931041	#Anwa
+	909.6.26={ birth=yes }
+	1010.10.17={ death=yes }
+}
+1019931048={
+	name=Hussamaddin
+	dynasty=1009990277
+	dna="ccefgffjpbk"
+	culture=azoren religion=animism
+	martial=8 diplomacy=4 stewardship=4 intrigue=4 learning=4
+	add_trait=midas_touched add_trait=shy add_trait=humble add_trait=lustful add_trait=zealous 
+	add_trait=ambitious 
+	father=1019931041	#Anwa
+	913.10.4={ birth=yes }
+	970.12.2={ death=yes }
+}
+1019931049={
+	name=Timmi
+	female=yes
+	dynasty=1009990277
+	dna="cpbjikfppbo"
+	culture=azoren religion=animism
+	father=1019931041	#Anwa
+	919.1.9={ birth=yes }
+	974.11.4={ death=yes }
+}
+1019931050={
+	name=Jamal
+	dynasty=1009990277
+	dna="cebcjopbome"
+	culture=azoren religion=animism
+	martial=5 diplomacy=7 stewardship=7 intrigue=7 learning=6
+	add_trait=midas_touched add_trait=celibate add_trait=ambitious add_trait=proud add_trait=brave 
+	add_trait=kind add_trait=wounded 
+	father=1019931041	#Anwa
+	925.12.4={ birth=yes }
+	1003.1.29={ death=yes }
+}
+1019931051={
+	name=Aheyyad
+	dynasty=1009990277
+	dna="cphcaffhpbo"
+	culture=azoren religion=animism
+	martial=8 diplomacy=5 stewardship=4 intrigue=4 learning=4
+	add_trait=grey_eminence add_trait=duelist add_trait=proud add_trait=charitable add_trait=craven 
+	add_trait=cruel add_trait=envious 
+	father=1019931041	#Anwa
+	929.5.11={ birth=yes }
+	1003.11.30={ death=yes }
+}
+1019931052={
+	name=Xamida
+	dynasty=1009990277
+	dna="jejecddoljl"
+	culture=azoren religion=animism
+	martial=8 diplomacy=4 stewardship=5 intrigue=5 learning=7
+	add_trait=intricate_webweaver add_trait=hunter add_trait=honest add_trait=cruel add_trait=lustful 
+	add_trait=content add_trait=cynical add_trait=craven add_trait=depressed 
+	father=1019931045	#Amellal
+	929.12.3={ birth=yes }
+	993.4.15={ death=yes }
+}
+1019931053={
+	name=Akorakor
+	dynasty=1009990277
+	dna="jcbhifgpjgl"
+	culture=azoren religion=animism
+	martial=5 diplomacy=4 stewardship=6 intrigue=7 learning=6
+	add_trait=indulgent_wastrel add_trait=slothful add_trait=temperate add_trait=wroth add_trait=ambitious 
+	add_trait=drunkard 
+	father=1019931045	#Amellal
+	935.8.27={ birth=yes }
+	991.7.31={ death=yes }
+}
+1019931054={
+	name=Ixfensen
+	dynasty=1009990277
+	dna="jabaipakpkl"
+	culture=azoren religion=animism
+	martial=6 diplomacy=8 stewardship=7 intrigue=7 learning=8
+	add_trait=martial_cleric add_trait=temperate add_trait=humble add_trait=kind add_trait=wroth 
+	add_trait=trusting add_trait=cruel add_trait=ill 
+	father=1019931045	#Amellal
+	940.6.19={ birth=yes }
+	999.7.14={ death=yes }
+}
+1019931055={
+	name=Talalit
+	female=yes
+	dynasty=1009990277
+	dna="jejocfdnljl"
+	culture=azoren religion=animism
+	father=1019931052	#Xamida
+	957.1.5={ birth=yes }
+	1052.7.8={ death=yes }
+}
+1019931056={
+	name=Agwillul
+	dynasty=1009990277
+	dna="hejeckdoljl"
+	culture=azoren religion=animism
+	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=8
+	add_trait=indulgent_wastrel add_trait=poet add_trait=brave add_trait=wroth 
+	father=1019931052	#Xamida
+	960.6.21={ birth=yes }
+	1032.11.16={ death=yes }
+}
+1019931057={
+	name=Tifan
+	dynasty=1009990277
+	dna="jedjcdnjpjj"
+	culture=azoren religion=animism
+	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=4
+	add_trait=grey_eminence add_trait=hedonist add_trait=greedy add_trait=paranoid add_trait=cruel 
+	add_trait=brave add_trait=ill 
+	father=1019931052	#Xamida
+	964.3.26={ birth=yes }
+	1010.4.30={ death=yes }
+}
+1019931058={
+	name=Hamad
+	dynasty=1009990277
+	dna="aoniebdoeal"
+	culture=azoren religion=animism
+	martial=7 diplomacy=8 stewardship=4 intrigue=4 learning=8
+	add_trait=midas_touched add_trait=hedonist add_trait=gluttonous add_trait=paranoid add_trait=greedy 
+	father=1019931052	#Xamida
+	971.3.21={ birth=yes }
+	1041.11.14={ death=yes }
+}
+1019931059={
+	name=Amray
+	dynasty=1009990277
+	dna="bblocmdoljg"
+	culture=azoren religion=animism
+	martial=8 diplomacy=7 stewardship=7 intrigue=8 learning=7
+	add_trait=intricate_webweaver add_trait=content add_trait=chaste add_trait=slothful add_trait=lunatic 
+	father=1019931056	#Agwillul
+	986.5.9={ birth=yes }
+	1059.6.13={ death=yes }
+}
+1019931060={
+	name=Frawsen
+	dynasty=1009990277
+	dna="pepadkdolpm"
+	culture=azoren religion=animism
+	martial=5 diplomacy=4 stewardship=7 intrigue=4 learning=5
+	add_trait=martial_cleric add_trait=lustful add_trait=proud add_trait=honest add_trait=patient 
+	father=1019931056	#Agwillul
+	991.1.1={ birth=yes }
+	1049.12.8={ death=yes }
+}
+1019931061={
+	name=Najiba
+	female=yes
+	dynasty=1009990277
+	dna="nejeckgkljg"
+	culture=azoren religion=animism
+	father=1019931056	#Agwillul
+	997.10.19={ birth=yes }
+	1070.10.25={ death=yes }
+}
+1019931062={
+	name=Sa'id
+	dynasty=1009990277
+	dna="jejeckkcdjl"
+	culture=azoren religion=animism
+	martial=4 diplomacy=8 stewardship=7 intrigue=4 learning=8
+	add_trait=martial_cleric add_trait=cruel add_trait=ambitious add_trait=lustful add_trait=gregarious 
+	add_trait=ill add_trait=possessed 
+	father=1019931056	#Agwillul
+	1000.1.25={ birth=yes }
+	1080.11.27={ death=yes }
+}
+1019931063={
+	name=Az'ar
+	dynasty=1009990277
+	dna="mmjdjkdegjg"
+	culture=azoren religion=animism
+	martial=6 diplomacy=5 stewardship=5 intrigue=7 learning=8
+	add_trait=grey_eminence add_trait=kind add_trait=craven add_trait=arbitrary 
+	father=1019931056	#Agwillul
+	1007.10.3={ birth=yes }
+	1069.7.5={ death=yes }
+}
+1019931064={
+	name=Wahab
+	dynasty=1009990277
+	dna="nblopahdojp"
+	culture=azoren religion=animism
+	martial=4 diplomacy=5 stewardship=6 intrigue=4 learning=6
+	add_trait=grey_eminence add_trait=honest add_trait=charitable add_trait=chaste 
+	father=1019931059	#Amray
+	1010.4.14={ birth=yes }
+	1091.8.2={ death=yes }
+}
+1019931065={
+	name=Tudert
+	female=yes
+	dynasty=1009990277
+	dna="bbdkcmnoljm"
+	culture=azoren religion=animism
+	father=1019931059	#Amray
+	1016.5.18={ birth=yes }
+	1111.6.12={ death=yes }
+}
+1019931066={
+	name=Ilyas
+	dynasty=1009990277
+	dna="ibbfcmbcdhd"
+	culture=azoren religion=animism
+	martial=7 diplomacy=7 stewardship=6 intrigue=8 learning=4
+	add_trait=midas_touched add_trait=cynical add_trait=proud add_trait=patient add_trait=diligent 
+	add_trait=ill 
+	father=1019931059	#Amray
+	1023.2.15={ birth=yes }
+	1089.12.1={ death=yes }
+}
+1019931067={
+	name=N'Guna
+	dynasty=1009990277
+	dna="njkaaahdojp"
+	culture=azoren religion=animism
+	martial=6 diplomacy=6 stewardship=8 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=envious add_trait=trusting add_trait=zealous add_trait=lustful 
+	add_trait=honest add_trait=ill add_trait=possessed 
+	father=1019931064	#Wahab
+	1036.4.18={ birth=yes }
+	1089.5.16={ death=yes }
+}
+1019931068={
+	name=Misibsen
+	dynasty=1009990277
+	dna="nblkkainilp"
+	culture=azoren religion=animism
+	martial=6 diplomacy=6 stewardship=5 intrigue=6 learning=7
+	add_trait=scholarly_theologian add_trait=gregarious add_trait=humble add_trait=diligent add_trait=greedy 
+	add_trait=lisp 
+	father=1019931064	#Wahab
+	1040.7.19={ birth=yes }
+	1110.10.15={ death=yes }
+}
+1019931069={
+	name=Monica
+	female=yes
+	dynasty=1009990277
+	dna="mplecgpkoep"
+	culture=azoren religion=animism
+	father=1019931064	#Wahab
+	1044.9.24={ birth=yes }
+	1122.4.20={ death=yes }
+}
+1019931070={
+	name=Rahima
+	female=yes
+	dynasty=1009990277
+	dna="gbghplfdopb"
+	culture=azoren religion=animism
+	father=1019931064	#Wahab
+	1048.9.3={ birth=yes }
+	1128.1.13={ death=yes }
+}
+1019931071={
+	name=Aesha
+	female=yes
+	dynasty=1009990277
+	dna="nlkoibpdljp"
+	culture=azoren religion=animism
+	father=1019931064	#Wahab
+	1052.10.14={ birth=yes }
+	1112.11.22={ death=yes }
+}
+1019931072={
+	name=Ambay
+	dynasty=1009990277
+	dna="njnooafgmnk"
+	culture=azoren religion=animism
+	martial=5 diplomacy=7 stewardship=6 intrigue=7 learning=8
+	add_trait=midas_touched add_trait=arbitrary add_trait=honest add_trait=paranoid add_trait=ill 
+	father=1019931067	#N'Guna
+	1056.12.11={ birth=yes }
+	1102.10.24={ death=yes }
+}
+1019931073={
+	name=Wrina
+	female=yes
+	dynasty=1009990277
+	dna="ngkakaldnei"
+	culture=azoren religion=animism
+	father=1019931067	#N'Guna
+	1059.3.10={ birth=yes }
+	1134.4.18={ death=yes }
+}
+1019931074={
+	name=Jdira
+	female=yes
+	dynasty=1009990277
+	dna="ghkaaakdjjp"
+	culture=azoren religion=animism
+	father=1019931067	#N'Guna
+	1066.11.14={ birth=yes }
+	1134.7.11={ death=yes }
+}
+1019931075={
+	name=Ixfensen
+	dynasty=1009990277
+	dna="cjkeaahndjp"
+	culture=azoren religion=animism
+	martial=7 diplomacy=6 stewardship=4 intrigue=4 learning=7
+	add_trait=misguided_warrior add_trait=gardener add_trait=cruel add_trait=wroth 
+	father=1019931067	#N'Guna
+	1070.6.1={ birth=yes }
+	1154.5.1={ death=yes }
+}
+1019931076={
+	name=Awinagh
+	dynasty=1009990277
+	dna="gjkaeapdojk"
+	culture=azoren religion=animism
+	martial=7 diplomacy=7 stewardship=7 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=charitable add_trait=wroth add_trait=envious add_trait=gregarious 
+	father=1019931067	#N'Guna
+	1076.3.23={ birth=yes }
+	1152.11.12={ death=yes }
+}
+1019931077={
+	name=Abdul-Rahman
+	dynasty=1009990277
+	dna="ehnooaibmkk"
+	culture=azoren religion=animism
+	martial=4 diplomacy=6 stewardship=4 intrigue=4 learning=6
+	add_trait=misguided_warrior add_trait=paranoid add_trait=slothful add_trait=charitable add_trait=ill 
+	father=1019931072	#Ambay
+	1079.2.4={ birth=yes }
+	1150.8.26={ death=yes }
+}
+1019931078={
+	name=Herru
+	female=yes
+	dynasty=1009990277
+	dna="fjgnoafgmmo"
+	culture=azoren religion=animism
+	father=1019931072	#Ambay
+	1086.9.11={ birth=yes }
+	1168.11.5={ death=yes }
+}
+1019931079={
+	name=Ghani
+	dynasty=1009990277
+	dna="nhcgkamgmpc"
+	culture=azoren religion=animism
+	martial=5 diplomacy=7 stewardship=4 intrigue=5 learning=7
+	add_trait=tough_soldier add_trait=chaste add_trait=deceitful add_trait=gregarious add_trait=cruel 
+	father=1019931072	#Ambay
+	1090.1.10={ birth=yes }
+	1165.11.15={ death=yes }
+}
+1019931080={
+	name=Yattuy
+	dynasty=1009990277
+	dna="ncnoobegmdp"
+	culture=azoren religion=animism
+	martial=6 diplomacy=8 stewardship=5 intrigue=5 learning=6
+	add_trait=intricate_webweaver add_trait=diligent add_trait=temperate add_trait=cruel 
+	father=1019931072	#Ambay
+	1093.1.23={ birth=yes }
+	1169.8.27={ death=yes }
+}
+1019931081={
+	name=Tayri
+	female=yes
+	dynasty=1009990277
+	dna="njgaokelmnk"
+	culture=azoren religion=animism
+	father=1019931072	#Ambay
+	1098.6.21={ birth=yes }
+	1174.1.11={ death=yes }
+}
+1019931082={
+	name=Ifni
+	dynasty=1009990277
+	dna="hhnoogeemid"
+	culture=azoren religion=animism
+	martial=7 diplomacy=4 stewardship=4 intrigue=6 learning=8
+	add_trait=charismatic_negotiator add_trait=temperate add_trait=gregarious add_trait=wroth add_trait=greedy 
+	father=1019931077	#Abdul-Rahman
+	1112.4.8={ birth=yes }
+	1181.2.18={ death=yes }
+}
+1019931083={
+	name=Titrit
+	female=yes
+	dynasty=1009990277
+	dna="ennjoaimcpk"
+	culture=azoren religion=animism
+	father=1019931077	#Abdul-Rahman
+	1118.3.25={ birth=yes }
+	1171.1.19={ death=yes }
+}
+1019931084={
+	name=Tfit
+	female=yes
+	dynasty=1009990277
+	dna="eonohedbgkj"
+	culture=azoren religion=animism
+	father=1019931077	#Abdul-Rahman
+	1123.11.13={ birth=yes }
+	1214.7.30={ death=yes }
+}
+1019931085={
+	name=Aamina
+	female=yes
+	dynasty=1009990277
+	dna="khndomecmhd"
+	culture=azoren religion=animism
+	father=1019931082	#Ifni
+	1140.1.6={ birth=yes }
+	1206.7.24={ death=yes }
+}
+1019931086={
+	name=Kamila
+	female=yes
+	dynasty=1009990277
+	dna="ennohgfemdi"
+	culture=azoren religion=animism
+	father=1019931082	#Ifni
+	1147.7.17={ birth=yes }
+	1231.3.23={ death=yes }
+}
+1019931087={
+	name=Ghani
+	dynasty=1009990277
+	dna="ghnonpefmjd"
+	culture=azoren religion=animism
+	martial=8 diplomacy=4 stewardship=5 intrigue=4 learning=4
+	add_trait=detached_priest add_trait=impaler add_trait=deceitful add_trait=proud add_trait=lustful 
+	add_trait=gregarious add_trait=cruel add_trait=diligent 
+	father=1019931082	#Ifni
+	1150.6.5={ birth=yes }
+	1219.11.18={ death=yes }
+}
+1019931088={
+	name=Tisent
+	female=yes
+	dynasty=1009990277
+	dna="hpfofgjkmib"
+	culture=azoren religion=animism
+	father=1019931082	#Ifni
+	1156.11.26={ birth=yes }
+	1243.4.8={ death=yes }
+}
+1019931089={
+	name=Akateiaji
+	dynasty=1009990277
+	dna="ghnlacenppp"
+	culture=azoren religion=animism
+	martial=4 diplomacy=4 stewardship=8 intrigue=6 learning=5
+	add_trait=midas_touched add_trait=kind add_trait=chaste add_trait=shy 
+	father=1019931087	#Ghani
+	1172.2.13={ birth=yes }
+	1233.9.26={ death=yes }
+}
+1019931090={
+	name=Aeesha
+	female=yes
+	dynasty=1009990277
+	dna="ghnknieffjd"
+	culture=azoren religion=animism
+	father=1019931087	#Ghani
+	1176.10.15={ birth=yes }
+	1263.10.16={ death=yes }
+}
+1019931091={
+	name=Menza
+	female=yes
+	dynasty=1009990277
+	dna="ghbmejjapph"
+	culture=azoren religion=animism
+	father=1019931089	#Akateiaji
+	1200.4.24={ birth=yes }
+	1264.12.4={ death=yes }
+}
+1019931092={
+	name=Zubeyr
+	dynasty=1009990277
+	dna="gholaceckpp"
+	culture=azoren religion=animism
+	martial=4 diplomacy=5 stewardship=7 intrigue=8 learning=7
+	add_trait=martial_cleric add_trait=chaste add_trait=diligent add_trait=paranoid 
+	father=1019931089	#Akateiaji
+	1207.5.13={ birth=yes }
+	1290.3.8={ death=yes }
+}
+1019931093={
+	name=Sinbad
+	dynasty=1009990277
+	dna="goicacekpcm"
+	culture=azoren religion=animism
+	martial=8 diplomacy=5 stewardship=5 intrigue=4 learning=7
+	add_trait=tough_soldier add_trait=gregarious add_trait=chaste add_trait=paranoid add_trait=cynical 
+	father=1019931089	#Akateiaji
+	1214.11.11={ birth=yes }
+	1277.3.20={ death=yes }
+}
+1019931094={
+	name=Laysa
+	female=yes
+	dynasty=1009990277
+	dna="icolfpeepgk"
+	culture=azoren religion=animism
+	father=1019931089	#Akateiaji
+	1219.12.23={ birth=yes }
+	1286.1.23={ death=yes }
+}
+1019931095={
+	name=Tazirit
+	female=yes
+	dynasty=1009990277
+	dna="ghlmacccdpp"
+	culture=azoren religion=animism
+	father=1019931092	#Zubeyr
+	1235.9.27={ birth=yes }
+	1332.4.19={ death=yes }
+}
+1019931096={
+	name=TariqTegama
+	dynasty=1009990277
+	dna="jdolacgpklj"
+	culture=azoren religion=animism
+	martial=8 diplomacy=5 stewardship=8 intrigue=5 learning=5
+	add_trait=mastermind_theologian add_trait=patient add_trait=paranoid add_trait=stressed 
+	father=1019931092	#Zubeyr
+	1238.8.9={ birth=yes }
+	1316.1.21={ death=yes }
+}
+1019931097={
+	name=Az'ar
+	dynasty=1009990277
+	dna="ibolnclckpk"
+	culture=azoren religion=animism
+	martial=8 diplomacy=4 stewardship=6 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=paranoid add_trait=cruel add_trait=gregarious 
+	father=1019931092	#Zubeyr
+	1243.5.15={ birth=yes }
+	1307.6.5={ death=yes }
+}
+1019931098={
+	name=Silya
+	female=yes
+	dynasty=1009990277
+	dna="llolpfcilpp"
+	culture=azoren religion=animism
+	father=1019931092	#Zubeyr
+	1249.8.6={ birth=yes }
+	1313.3.20={ death=yes }
+}
+1019931099={
+	name=Iija
+	female=yes
+	dynasty=1009990277
+	dna="oiolaiemkpi"
+	culture=azoren religion=animism
+	father=1019931092	#Zubeyr
+	1254.5.20={ birth=yes }
+	1340.9.19={ death=yes }
+}
+1019931100={
+	name=Xamida
+	dynasty=1009990277
+	dna="pdofiogpkaj"
+	culture=azoren religion=animism
+	martial=4 diplomacy=4 stewardship=6 intrigue=4 learning=7
+	add_trait=martial_cleric add_trait=zealous add_trait=gregarious add_trait=kind add_trait=slow 
+	father=1019931096	#TariqTegama
+	1260.12.22={ birth=yes }
+	1317.3.23={ death=yes }
+}
+1019931101={
+	name=Abdul-Haleem
+	dynasty=1009990277
+	dna="kdolabglnij"
+	culture=azoren religion=animism
+	martial=8 diplomacy=7 stewardship=5 intrigue=4 learning=4
+	add_trait=elusive_shadow add_trait=humble add_trait=cynical add_trait=cruel add_trait=kind 
+	add_trait=arbitrary 
+	father=1019931096	#TariqTegama
+	1267.11.11={ birth=yes }
+	1317.1.6={ death=yes }
+}
+1019931102={
+	name=Ptolemee
+	dynasty=1009990277
+	dna="khelfhepkla"
+	culture=azoren religion=animism
+	martial=5 diplomacy=6 stewardship=5 intrigue=4 learning=7
+	add_trait=intricate_webweaver add_trait=hedonist add_trait=charitable add_trait=chaste add_trait=arbitrary 
+	add_trait=slow 
+	father=1019931096	#TariqTegama
+	1269.5.15={ birth=yes }
+	1327.3.25={ death=yes }
+}
+1019931103={
+	name=Aksel
+	dynasty=1009990277
+	dna="bdmlaaaokld"
+	culture=azoren religion=animism
+	martial=8 diplomacy=8 stewardship=5 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=celibate add_trait=patient add_trait=kind add_trait=arbitrary 
+	father=1019931096	#TariqTegama
+	1273.10.24={ birth=yes }
+	1345.8.18={ death=yes }
+}
+1019931104={
+	name=Meq'wran
+	dynasty=1009990277
+	dna="pdifiogpdib"
+	culture=azoren religion=animism
+	martial=6 diplomacy=8 stewardship=6 intrigue=8 learning=7
+	add_trait=tough_soldier add_trait=gregarious add_trait=cruel 
+	father=1019931100	#Xamida
+	1284.12.2={ birth=yes }
+	1359.10.7={ death=yes }
+}
+1019931105={
+	name=Abdul-Azeem
+	dynasty=1009990277
+	dna="pbofimlikan"
+	culture=azoren religion=animism
+	martial=8 diplomacy=5 stewardship=7 intrigue=6 learning=6
+	add_trait=charismatic_negotiator add_trait=trusting add_trait=humble add_trait=kind add_trait=just 
+	add_trait=diligent add_trait=cruel add_trait=stressed add_trait=lunatic 
+	father=1019931100	#Xamida
+	1289.8.18={ birth=yes }
+	1373.2.15={ death=yes }
+}
+1019931106={
+	name=Uzmir
+	dynasty=1009990277
+	dna="adjfaogekoj"
+	culture=azoren religion=animism
+	martial=6 diplomacy=6 stewardship=4 intrigue=8 learning=5
+	add_trait=elusive_shadow add_trait=celibate add_trait=craven add_trait=arbitrary add_trait=paranoid 
+	add_trait=greedy add_trait=envious add_trait=depressed 
+	father=1019931100	#Xamida
+	1295.5.12={ birth=yes }
+	1372.6.13={ death=yes }
+}
+1019931107={
+	name=Muh'end
+	dynasty=1009990277
+	dna="pdlbiofpkaj"
+	culture=azoren religion=animism
+	martial=8 diplomacy=6 stewardship=5 intrigue=6 learning=4
+	add_trait=grey_eminence add_trait=craven add_trait=slothful add_trait=arbitrary add_trait=content 
+	add_trait=zealous 
+	father=1019931100	#Xamida
+	1300.6.3={ birth=yes }
+	1356.5.15={ death=yes }
+}
+1019931108={
+	name=Afulay
+	dynasty=1009990277
+	dna="pmcfibjikak"
+	culture=azoren religion=animism
+	martial=5 diplomacy=4 stewardship=8 intrigue=4 learning=7
+	add_trait=midas_touched add_trait=gluttonous add_trait=craven add_trait=diligent add_trait=kind 
+	add_trait=slow 
+	father=1019931100	#Xamida
+	1303.2.13={ birth=yes }
+	1384.6.20={ death=yes }
+}
+1019931109={
+	name=Musa
+	dynasty=1009990277
+	dna="pjienogodkb"
+	culture=azoren religion=animism
+	martial=4 diplomacy=7 stewardship=5 intrigue=5 learning=5
+	add_trait=charismatic_negotiator add_trait=craven add_trait=greedy add_trait=diligent add_trait=possessed 
+	father=1019931104	#Meq'wran
+	1306.12.12={ birth=yes }
+	1368.10.22={ death=yes }
+}
+1019931110={
+	name=Tafsut
+	female=yes
+	dynasty=1009990277
+	dna="pdieijpedig"
+	culture=azoren religion=animism
+	father=1019931104	#Meq'wran
+	1311.12.4={ birth=yes }
+	1376.12.24={ death=yes }
+}
+1019931111={
+	name=Wrina
+	female=yes
+	dynasty=1009990277
+	dna="pdigiobklmb"
+	culture=azoren religion=animism
+	father=1019931104	#Meq'wran
+	1316.2.18={ birth=yes }
+	1370.12.2={ death=yes }
+}
+1019931112={
+	name=Meghighda
+	female=yes
+	dynasty=1009990277
+	dna="pdifingpeab"
+	culture=azoren religion=animism
+	father=1019931104	#Meq'wran
+	1320.9.17={ birth=yes }
+	1412.5.2={ death=yes }
+}
+1019931113={
+	name=Wnissa
+	female=yes
+	dynasty=1009990277
+	dna="nbefhofpdie"
+	culture=azoren religion=animism
+	father=1019931104	#Meq'wran
+	1325.6.2={ birth=yes }
+	1396.5.28={ death=yes }
+}
+1019931114={
+	name=Sammer
+	dynasty=1009990277
+	dna="pjlenoghbjn"
+	culture=azoren religion=animism
+	martial=7 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	add_trait=skilled_tactician add_trait=patient add_trait=shy add_trait=ambitious add_trait=charitable 
+	add_trait=possessed 
+	father=1019931109	#Musa
+	1330.5.1={ birth=yes }
+	1393.9.19={ death=yes }
+}
+1019931115={
+	name=Tawzalt
+	female=yes
+	dynasty=1009990277
+	dna="omhenogldab"
+	culture=azoren religion=animism
+	father=1019931109	#Musa
+	1337.6.5={ birth=yes }
+	1390.10.4={ death=yes }
+}
+1019931116={
+	name=Takama
+	female=yes
+	dynasty=1009990277
+	dna="pdiegcaoheb"
+	culture=azoren religion=animism
+	father=1019931109	#Musa
+	1342.3.23={ birth=yes }
+	1430.1.20={ death=yes }
+}
+1019931117={
+	name=Abbas
+	dynasty=1009990277
+	dna="piimmigopkd"
+	culture=azoren religion=animism
+	martial=6 diplomacy=5 stewardship=4 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=honest add_trait=humble add_trait=ambitious add_trait=arbitrary 
+	father=1019931109	#Musa
+	1348.1.13={ birth=yes }
+	1421.8.7={ death=yes }
+}
+1019931118={
+	name=Bajila
+	female=yes
+	dynasty=1009990277
+	dna="ajlpmoahbon"
+	culture=azoren religion=animism
+	father=1019931114	#Sammer
+	1356.5.24={ birth=yes }
+	1401.11.20={ death=yes }
+}
+1019931119={
+	name=Alyamas
+	dynasty=1009990277
+	dna="gjpenoahbje"
+	culture=azoren religion=animism
+	martial=8 diplomacy=6 stewardship=6 intrigue=6 learning=6
+	add_trait=grey_eminence add_trait=patient add_trait=honest add_trait=just 
+	father=1019931114	#Sammer
+	1363.5.6={ birth=yes }
+	1418.11.11={ death=yes }
+}
+1019931120={
+	name=Fath
+	dynasty=1009990277
+	dna="pjleeogkkpl"
+	culture=azoren religion=animism
+	martial=5 diplomacy=8 stewardship=7 intrigue=8 learning=7
+	add_trait=martial_cleric add_trait=charitable add_trait=trusting add_trait=humble 
+	father=1019931114	#Sammer
+	1369.3.10={ birth=yes }
+	1426.10.4={ death=yes }
+}
+1019931121={
+	name=Uregh
+	dynasty=1009990277
+	dna="djjbcdchfdo"
+	culture=azoren religion=animism
+	martial=6 diplomacy=4 stewardship=8 intrigue=7 learning=5
+	add_trait=midas_touched add_trait=gardener add_trait=gregarious add_trait=patient add_trait=honest 
+	father=1019931119	#Alyamas
+	1392.7.7={ birth=yes }
+	1454.6.19={ death=yes }
+}
+1019931122={
+	name=Fella
+	dynasty=1009990277
+	dna="gjppojahbjm"
+	culture=azoren religion=animism
+	martial=7 diplomacy=4 stewardship=7 intrigue=7 learning=6
+	add_trait=grey_eminence add_trait=cruel add_trait=proud add_trait=craven add_trait=wounded 
+	father=1019931119	#Alyamas
+	1396.12.2={ birth=yes }
+	1459.8.24={ death=yes }
+}
+1019931123={
+	name=Zafir
+	dynasty=1009990277
+	dna="gppfnoghojp"
+	culture=azoren religion=animism
+	martial=8 diplomacy=6 stewardship=4 intrigue=7 learning=4
+	add_trait=intricate_webweaver add_trait=cynical add_trait=brave add_trait=shy add_trait=chaste 
+	add_trait=diligent 
+	father=1019931119	#Alyamas
+	1399.3.17={ birth=yes }
+	1456.6.20={ death=yes }
+}
+1019931124={
+	name=Salomon
+	dynasty=1009990277
+	dna="hjppnoahlji"
+	culture=azoren religion=animism
+	martial=4 diplomacy=4 stewardship=6 intrigue=5 learning=4
+	add_trait=naive_appeaser add_trait=craven add_trait=diligent add_trait=temperate add_trait=humble 
+	add_trait=patient 
+	father=1019931119	#Alyamas
+	1404.3.25={ birth=yes }
+	1452.1.16={ death=yes }
+}
+1019931125={
+	name=Tadla
+	female=yes
+	dynasty=1009990277
+	dna="mnienoagbce"
+	culture=azoren religion=animism
+	father=1019931119	#Alyamas
+	1410.9.13={ birth=yes }
+	1462.10.4={ death=yes }
+}
+1019931126={
+	name=Amellal
+	dynasty=1009990277
+	dna="kbjbcdbefpl"
+	culture=azoren religion=animism
+	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=cynical add_trait=trusting add_trait=wroth add_trait=envious 
+	father=1019931121	#Uregh
+	1422.7.2={ birth=yes }
+	1483.6.30={ death=yes }
+}
+1019931127={
+	name=Amaz'uz'
+	dynasty=1009990277
+	dna="dijbndkhfck"
+	culture=azoren religion=animism
+	martial=7 diplomacy=7 stewardship=7 intrigue=7 learning=4
+	add_trait=tough_soldier add_trait=just add_trait=gluttonous add_trait=wroth 
+	father=1019931121	#Uregh
+	1429.12.11={ birth=yes }
+	1490.1.7={ death=yes }
+}
+1019931128={
+	name=Gildun
+	dynasty=1009990277
+	dna="idjbcdbdfkc"
+	culture=azoren religion=animism
+	martial=6 diplomacy=7 stewardship=8 intrigue=7 learning=8
+	add_trait=naive_appeaser add_trait=humble add_trait=patient add_trait=ambitious add_trait=paranoid 
+	add_trait=lustful add_trait=deceitful 
+	father=1019931126	#Amellal
+	1447.3.25={ birth=yes }
+	1524.8.6={ death=yes }
+}
+1019931129={
+	name=Taszellayt
+	female=yes
+	dynasty=1009990277
+	dna="kihcclbefpl"
+	culture=azoren religion=animism
+	father=1019931126	#Amellal
+	1453.12.13={ birth=yes }
+	1532.9.20={ death=yes }
+}
+1019931130={
+	name=Barakat
+	dynasty=1009990277
+	dna="kjjbgpbbhkm"
+	culture=azoren religion=animism
+	martial=4 diplomacy=5 stewardship=5 intrigue=7 learning=6
+	add_trait=mastermind_theologian add_trait=charitable add_trait=diligent add_trait=zealous add_trait=lustful 
+	add_trait=clubfooted 
+	father=1019931126	#Amellal
+	1456.2.6={ birth=yes }
+	1512.10.10={ death=yes }
+}
+1019931131={
+	name=Awdia
+	dynasty=1009990277
+	dna="oieicjbjfph"
+	culture=azoren religion=animism
+	martial=8 diplomacy=7 stewardship=5 intrigue=6 learning=4
+	add_trait=flamboyant_schemer add_trait=ambitious add_trait=envious add_trait=humble add_trait=charitable 
+	add_trait=wroth 
+	father=1019931126	#Amellal
+	1462.8.18={ birth=yes }
+	1548.5.4={ death=yes }
+}
+1019931132={
+	name=Galussa
+	dynasty=1009990277
+	dna="kbmbchbelpo"
+	culture=azoren religion=animism
+	martial=5 diplomacy=8 stewardship=6 intrigue=7 learning=6
+	add_trait=midas_touched add_trait=humble add_trait=just add_trait=possessed 
+	father=1019931126	#Amellal
+	1469.11.19={ birth=yes }
+	1534.3.12={ death=yes }
+}

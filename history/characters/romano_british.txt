@@ -1,0 +1,13 @@
+252139 = {
+	name="Sallustius Lucullus" #Sallustius Lucullus
+	dynasty=105920
+	religion="hellenic_pagan"
+	culture="romano_british"
+	father=252138
+	40.1.1={
+		birth=yes
+	}
+	97.1.1={
+		death=yes
+	}
+}

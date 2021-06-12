@@ -1,0 +1,24 @@
+# 4070 - Nyen
+
+# County Title
+title = c_nyen
+
+# Settlements
+max_settlements = 7
+
+b_nyen = tribal
+
+#b_kronstadt = tribal
+#b_pahkinalinna = tribal
+#b_pietarhovi = tribal
+#b_saari = tribal
+#b_hatsina = tribal
+#b_pauluskoi = tribal
+
+# Misc
+culture = ingrian
+religion = finnish_pagan
+
+# History
+1150.1.1 = { religion = orthodox }
+1620.1.1 = { culture = finnish }

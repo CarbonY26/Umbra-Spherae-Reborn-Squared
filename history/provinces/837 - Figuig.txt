@@ -1,0 +1,20 @@
+# 837 - Figuig
+
+# County Title
+title = c_figuig
+
+# Settlements
+max_settlements = 2
+
+b_figuig = castle
+
+#b_bouarfa
+#b_ich
+
+# Misc
+culture = riffian
+religion = kharijite
+
+# History
+947.1.1 = { religion = sunni }
+1100.1.1 = { culture = maghrebi_arabic }

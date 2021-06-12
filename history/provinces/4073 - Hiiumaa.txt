@@ -1,0 +1,24 @@
+#4073 - Hiiumaa
+
+#County Title
+title = c_hiiumaa
+
+#Settlements
+max_settlments = 7
+
+b_kardla
+#b_kaina
+#b_korgessaare
+#b_isabella
+#b_ole
+#b_kalgi
+#b_valgu
+
+#Misc 
+culture = ugricbaltic
+religion = finnish_pagan
+
+#History 
+
+1240.1.1 = { religion = catholic }
+1270.1.1 = { culture = swedish }

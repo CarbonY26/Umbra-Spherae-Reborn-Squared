@@ -1,0 +1,27 @@
+# 4071 - Channel Islands
+
+# County Title
+title = c_channel_islands
+
+# Settlements
+max_settlements = 7
+
+b_saint_peter_port = castle
+
+#b_saint_helier = city
+#b_sark = temple
+#b_saint brelade = castle
+#b_herm = city
+#b_saint_saviour = temple
+#b_saint_anne = castle
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History
+790.1.1 = { culture = frankish }
+911.1.1 = { culture = norse }
+936.1.1 = { culture = norman }
+1259.12.4 = { culture = frankish }
+            

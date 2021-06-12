@@ -1,0 +1,1485 @@
+1019930869={
+	name=Aggur
+	dynasty=1009990276
+	dna="bfcpiaihaka"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=7 stewardship=4 intrigue=5 learning=6
+	add_trait=tough_soldier add_trait=envious add_trait=cruel add_trait=lustful add_trait=charitable 
+	add_trait=craven 
+	639.9.16={ birth=yes }
+	717.8.14={ death=yes }
+}
+1019930870={
+	name=Hashim
+	dynasty=1009990276
+	dna="bfcdigjjala"
+	culture=madeiran religion=animism
+	martial=4 diplomacy=4 stewardship=5 intrigue=4 learning=8
+	add_trait=indulgent_wastrel add_trait=scholar add_trait=trusting add_trait=wroth add_trait=kind 
+	add_trait=craven 
+	father=1019930869	#Aggur
+	666.10.4={ birth=yes }
+	738.6.29={ death=yes }
+}
+1019930871={
+	name=Adelah
+	female=yes
+	dynasty=1009990276
+	dna="kafoiihhche"
+	culture=madeiran religion=animism
+	father=1019930869	#Aggur
+	672.12.14={ birth=yes }
+	729.3.14={ death=yes }
+}
+1019930872={
+	name=Badia
+	female=yes
+	dynasty=1009990276
+	dna="bfohldbiakd"
+	culture=madeiran religion=animism
+	father=1019930869	#Aggur
+	679.7.26={ birth=yes }
+	748.6.6={ death=yes }
+}
+1019930873={
+	name=Tadefi
+	female=yes
+	dynasty=1009990276
+	dna="bmcpgbdoeka"
+	culture=madeiran religion=animism
+	father=1019930869	#Aggur
+	682.11.6={ birth=yes }
+	745.3.14={ death=yes }
+}
+1019930874={
+	name=Z'diant
+	female=yes
+	dynasty=1009990276
+	dna="bfeiiggjmbh"
+	culture=madeiran religion=animism
+	father=1019930870	#Hashim
+	688.2.16={ birth=yes }
+	744.6.30={ death=yes }
+}
+1019930875={
+	name=Aghecher
+	dynasty=1009990276
+	dna="dfmiigkjbla"
+	culture=madeiran religion=animism
+	martial=7 diplomacy=5 stewardship=5 intrigue=6 learning=4
+	add_trait=detached_priest add_trait=duelist add_trait=lustful add_trait=diligent add_trait=temperate 
+	add_trait=ambitious 
+	father=1019930870	#Hashim
+	693.6.2={ birth=yes }
+	770.7.2={ death=yes }
+}
+1019930876={
+	name=Hiba
+	dynasty=1009990276
+	dna="hfadikijhfj"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=4 stewardship=5 intrigue=6 learning=5
+	add_trait=indulgent_wastrel add_trait=temperate add_trait=shy add_trait=brave add_trait=proud 
+	add_trait=lunatic 
+	father=1019930870	#Hashim
+	698.11.14={ birth=yes }
+	784.8.17={ death=yes }
+}
+1019930877={
+	name=Yugurthen
+	dynasty=1009990276
+	dna="fjhligjjjia"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=5 stewardship=6 intrigue=8 learning=5
+	add_trait=detached_priest add_trait=trusting add_trait=envious add_trait=cynical add_trait=cruel 
+	add_trait=just add_trait=wounded 
+	father=1019930870	#Hashim
+	701.11.3={ birth=yes }
+	779.6.16={ death=yes }
+}
+1019930878={
+	name=Guraya
+	female=yes
+	dynasty=1009990276
+	dna="bgcfigbcnga"
+	culture=madeiran religion=animism
+	father=1019930870	#Hashim
+	706.3.22={ birth=yes }
+	745.7.7={ death=yes }
+}
+1019930879={
+	name=Awzal
+	dynasty=1009990276
+	dna="idmnchkdmim"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=7 stewardship=6 intrigue=7 learning=8
+	add_trait=midas_touched add_trait=hedonist add_trait=content add_trait=paranoid add_trait=cruel 
+	add_trait=cynical 
+	father=1019930875	#Aghecher
+	717.8.1={ birth=yes }
+	773.7.20={ death=yes }
+}
+1019930880={
+	name=Amud
+	dynasty=1009990276
+	dna="doiiihoodba"
+	culture=madeiran religion=animism
+	martial=7 diplomacy=6 stewardship=4 intrigue=8 learning=4
+	add_trait=detached_priest add_trait=lustful add_trait=charitable add_trait=deceitful add_trait=just 
+	add_trait=slothful 
+	father=1019930875	#Aghecher
+	720.5.25={ birth=yes }
+	805.12.13={ death=yes }
+}
+1019930881={
+	name=Tarifa
+	female=yes
+	dynasty=1009990276
+	dna="oelimhkjbip"
+	culture=madeiran religion=animism
+	father=1019930875	#Aghecher
+	727.8.17={ birth=yes }
+	795.4.19={ death=yes }
+}
+1019930882={
+	name=Hussamaddin
+	dynasty=1009990276
+	dna="dfbijgpkici"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=5 stewardship=4 intrigue=8 learning=5
+	add_trait=detached_priest add_trait=scholar add_trait=gluttonous add_trait=cruel add_trait=proud 
+	add_trait=deceitful add_trait=charitable add_trait=zealous 
+	father=1019930875	#Aghecher
+	732.10.25={ birth=yes }
+	789.6.16={ death=yes }
+}
+1019930883={
+	name=Issam
+	dynasty=1009990276
+	dna="idmnchkdmgm"
+	culture=madeiran religion=animism
+	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=5
+	add_trait=flamboyant_schemer add_trait=gregarious add_trait=arbitrary add_trait=slothful 
+	father=1019930879	#Awzal
+	739.9.10={ birth=yes }
+	813.10.1={ death=yes }
+}
+1019930884={
+	name=Ameska
+	dynasty=1009990276
+	dna="ldmnamcahgm"
+	culture=madeiran religion=animism
+	martial=4 diplomacy=4 stewardship=8 intrigue=4 learning=5
+	add_trait=grey_eminence add_trait=lustful add_trait=brave add_trait=shy add_trait=diligent 
+	father=1019930879	#Awzal
+	744.3.26={ birth=yes }
+	829.7.11={ death=yes }
+}
+1019930885={
+	name=Iija
+	female=yes
+	dynasty=1009990276
+	dna="ipmncokdpep"
+	culture=madeiran religion=animism
+	father=1019930879	#Awzal
+	748.10.24={ birth=yes }
+	828.12.13={ death=yes }
+}
+1019930886={
+	name=Gulusa
+	dynasty=1009990276
+	dna="pocneakdail"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=5 stewardship=5 intrigue=6 learning=6
+	add_trait=flamboyant_schemer add_trait=honest add_trait=charitable add_trait=diligent add_trait=shy 
+	add_trait=harelip 
+	father=1019930879	#Awzal
+	751.6.11={ birth=yes }
+	787.7.7={ death=yes }
+}
+1019930887={
+	name=Yugurthen
+	dynasty=1009990276
+	dna="ideecjkemgg"
+	culture=madeiran religion=animism
+	martial=8 diplomacy=4 stewardship=6 intrigue=7 learning=6
+	add_trait=scholarly_theologian add_trait=just add_trait=shy add_trait=paranoid add_trait=cynical 
+	father=1019930883	#Issam
+	763.3.20={ birth=yes }
+	821.5.16={ death=yes }
+}
+1019930888={
+	name=Durra
+	female=yes
+	dynasty=1009990276
+	dna="hddbchaamai"
+	culture=madeiran religion=animism
+	father=1019930883	#Issam
+	766.10.4={ birth=yes }
+	841.1.20={ death=yes }
+}
+1019930889={
+	name=Tinzert
+	female=yes
+	dynasty=1009990276
+	dna="iimnclkcmjh"
+	culture=madeiran religion=animism
+	father=1019930883	#Issam
+	771.8.11={ birth=yes }
+	834.3.10={ death=yes }
+}
+1019930890={
+	name=Taffounnout
+	dynasty=1009990276
+	dna="idmnchkdpgm"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=6 stewardship=5 intrigue=4 learning=4
+	add_trait=charismatic_negotiator add_trait=slothful add_trait=chaste add_trait=arbitrary add_trait=envious 
+	add_trait=ill 
+	father=1019930883	#Issam
+	777.9.24={ birth=yes }
+	846.3.24={ death=yes }
+}
+1019930891={
+	name=Adilia
+	female=yes
+	dynasty=1009990276
+	dna="ihkehdkehgg"
+	culture=madeiran religion=animism
+	father=1019930887	#Yugurthen
+	790.3.27={ birth=yes }
+	832.4.28={ death=yes }
+}
+1019930892={
+	name=Mastanabal
+	dynasty=1009990276
+	dna="iieeejjemcg"
+	culture=madeiran religion=animism
+	martial=8 diplomacy=8 stewardship=4 intrigue=6 learning=4
+	add_trait=tough_soldier add_trait=deceitful add_trait=content add_trait=kind add_trait=slothful 
+	father=1019930887	#Yugurthen
+	796.7.18={ birth=yes }
+	856.2.11={ death=yes }
+}
+1019930893={
+	name=Beddis
+	dynasty=1009990276
+	dna="idcepnhomgm"
+	culture=madeiran religion=animism
+	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=4
+	add_trait=charismatic_negotiator add_trait=ambitious add_trait=patient add_trait=slothful add_trait=slow 
+	father=1019930887	#Yugurthen
+	800.10.22={ birth=yes }
+	862.5.14={ death=yes }
+}
+1019930894={
+	name=Fariza
+	female=yes
+	dynasty=1009990276
+	dna="edcedjkcdon"
+	culture=madeiran religion=animism
+	father=1019930887	#Yugurthen
+	805.6.3={ birth=yes }
+	878.10.23={ death=yes }
+}
+1019930895={
+	name=Melek
+	female=yes
+	dynasty=1009990276
+	dna="iieecimemfd"
+	culture=madeiran religion=animism
+	father=1019930887	#Yugurthen
+	809.2.25={ birth=yes }
+	877.7.1={ death=yes }
+}
+1019930896={
+	name=Luki
+	dynasty=1009990276
+	dna="odefcjloegp"
+	culture=madeiran religion=animism
+	martial=4 diplomacy=6 stewardship=8 intrigue=8 learning=8
+	add_trait=misguided_warrior add_trait=celibate add_trait=shy add_trait=content add_trait=brave 
+	add_trait=patient add_trait=genius 
+	father=1019930887	#Yugurthen
+	814.8.7={ birth=yes }
+	900.11.17={ death=yes }
+}
+1019930897={
+	name=Marwan
+	dynasty=1009990276
+	dna="cppaejjgpki"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=6 stewardship=8 intrigue=4 learning=7
+	add_trait=grey_eminence add_trait=slothful add_trait=humble add_trait=cruel add_trait=depressed 
+	father=1019930892	#Mastanabal
+	816.6.23={ birth=yes }
+	893.6.5={ death=yes }
+}
+1019930898={
+	name=Amaz'uz'
+	dynasty=1009990276
+	dna="iijpgokkmbg"
+	culture=madeiran religion=animism
+	martial=8 diplomacy=6 stewardship=6 intrigue=4 learning=8
+	add_trait=grey_eminence add_trait=hedonist add_trait=patient add_trait=trusting add_trait=zealous 
+	add_trait=just add_trait=stressed 
+	father=1019930892	#Mastanabal
+	823.6.25={ birth=yes }
+	893.3.2={ death=yes }
+}
+1019930899={
+	name=Itri
+	dynasty=1009990276
+	dna="pfbkejjeocn"
+	culture=madeiran religion=animism
+	martial=8 diplomacy=8 stewardship=5 intrigue=6 learning=6
+	add_trait=intricate_webweaver add_trait=proud add_trait=just add_trait=honest add_trait=ambitious 
+	father=1019930892	#Mastanabal
+	827.9.8={ birth=yes }
+	881.4.22={ death=yes }
+}
+1019930900={
+	name=Buwayh
+	dynasty=1009990276
+	dna="hppaejjileh"
+	culture=madeiran religion=animism
+	martial=4 diplomacy=5 stewardship=7 intrigue=6 learning=5
+	add_trait=grey_eminence add_trait=poet add_trait=slothful add_trait=ambitious add_trait=wroth 
+	father=1019930897	#Marwan
+	841.9.12={ birth=yes }
+	922.8.7={ death=yes }
+}
+1019930901={
+	name=Ghanim
+	dynasty=1009990276
+	dna="gnpneejgecp"
+	culture=madeiran religion=animism
+	martial=4 diplomacy=4 stewardship=6 intrigue=5 learning=5
+	add_trait=martial_cleric add_trait=envious add_trait=charitable add_trait=temperate 
+	father=1019930897	#Marwan
+	846.3.11={ birth=yes }
+	920.6.12={ death=yes }
+}
+1019930902={
+	name=Al'a'addin
+	dynasty=1009990276
+	dna="hppamheieeh"
+	culture=madeiran religion=animism
+	martial=4 diplomacy=6 stewardship=4 intrigue=5 learning=8
+	add_trait=midas_touched add_trait=mystic add_trait=ambitious add_trait=chaste add_trait=shy 
+	add_trait=slothful add_trait=patient add_trait=ill 
+	father=1019930900	#Buwayh
+	872.12.17={ birth=yes }
+	927.1.24={ death=yes }
+}
+1019930903={
+	name=Afalku
+	dynasty=1009990276
+	dna="dhpaojjideh"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=6 stewardship=4 intrigue=6 learning=8
+	add_trait=indulgent_wastrel add_trait=just add_trait=diligent add_trait=proud add_trait=charitable 
+	add_trait=gluttonous 
+	father=1019930900	#Buwayh
+	877.10.7={ birth=yes }
+	948.6.12={ death=yes }
+}
+1019930904={
+	name=Gulusa
+	dynasty=1009990276
+	dna="hjaagjjimlc"
+	culture=madeiran religion=animism
+	martial=4 diplomacy=8 stewardship=6 intrigue=8 learning=5
+	add_trait=scholarly_theologian add_trait=arbitrary add_trait=content add_trait=diligent add_trait=lustful 
+	add_trait=trusting 
+	father=1019930900	#Buwayh
+	882.9.24={ birth=yes }
+	967.7.28={ death=yes }
+}
+1019930905={
+	name=Afalku
+	dynasty=1009990276
+	dna="hppaejjildf"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=8 stewardship=5 intrigue=8 learning=7
+	add_trait=detached_priest add_trait=zealous add_trait=gluttonous add_trait=arbitrary add_trait=shy 
+	add_trait=cruel 
+	father=1019930900	#Buwayh
+	885.10.7={ birth=yes }
+	945.7.25={ death=yes }
+}
+1019930906={
+	name=Niptasan
+	dynasty=1009990276
+	dna="mppihgcilll"
+	culture=madeiran religion=animism
+	martial=7 diplomacy=8 stewardship=8 intrigue=5 learning=7
+	add_trait=tough_soldier add_trait=content add_trait=brave add_trait=cruel add_trait=just 
+	add_trait=honest 
+	father=1019930900	#Buwayh
+	892.11.17={ birth=yes }
+	978.9.9={ death=yes }
+}
+1019930907={
+	name=Watt'as
+	dynasty=1009990276
+	dna="hppakojileo"
+	culture=madeiran religion=animism
+	martial=8 diplomacy=6 stewardship=7 intrigue=7 learning=4
+	add_trait=mastermind_theologian add_trait=zealous add_trait=lustful 
+	father=1019930900	#Buwayh
+	897.1.20={ birth=yes }
+	951.4.20={ death=yes }
+}
+1019930908={
+	name=Durra
+	female=yes
+	dynasty=1009990276
+	dna="hjaleefepeh"
+	culture=madeiran religion=animism
+	father=1019930900	#Buwayh
+	902.3.1={ birth=yes }
+	973.8.23={ death=yes }
+}
+1019930909={
+	name=Watt'as
+	dynasty=1009990276
+	dna="hhgabhhcecp"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=6 stewardship=8 intrigue=7 learning=7
+	add_trait=grey_eminence add_trait=honest add_trait=chaste add_trait=wroth add_trait=diligent 
+	add_trait=ambitious 
+	father=1019930902	#Al'a'addin
+	903.1.24={ birth=yes }
+	983.5.13={ death=yes }
+}
+1019930910={
+	name=Lemta
+	female=yes
+	dynasty=1009990276
+	dna="noppmieiehh"
+	culture=madeiran religion=animism
+	father=1019930902	#Al'a'addin
+	907.11.15={ birth=yes }
+	961.8.23={ death=yes }
+}
+1019930911={
+	name=Abdul-Kareem
+	dynasty=1009990276
+	dna="hkfgbihjfcp"
+	culture=madeiran religion=animism
+	martial=4 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	add_trait=skilled_tactician add_trait=duelist add_trait=lustful add_trait=temperate add_trait=cruel 
+	add_trait=wroth add_trait=envious 
+	father=1019930909	#Watt'as
+	925.5.3={ birth=yes }
+	992.5.2={ death=yes }
+}
+1019930912={
+	name=Khanchla
+	dynasty=1009990276
+	dna="ahlcbhhceik"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=4 stewardship=7 intrigue=6 learning=7
+	add_trait=grey_eminence add_trait=lustful add_trait=brave 
+	father=1019930909	#Watt'as
+	930.12.16={ birth=yes }
+	985.10.20={ death=yes }
+}
+1019930913={
+	name=Ittû
+	female=yes
+	dynasty=1009990276
+	dna="jdlaaopcbcf"
+	culture=madeiran religion=animism
+	father=1019930909	#Watt'as
+	934.11.4={ birth=yes }
+	1017.3.29={ death=yes }
+}
+1019930914={
+	name=Rahima
+	female=yes
+	dynasty=1009990276
+	dna="bcgpbhhoepa"
+	culture=madeiran religion=animism
+	father=1019930909	#Watt'as
+	939.7.17={ birth=yes }
+	997.6.3={ death=yes }
+}
+1019930915={
+	name=Herru
+	female=yes
+	dynasty=1009990276
+	dna="hhlabkjcbip"
+	culture=madeiran religion=animism
+	father=1019930909	#Watt'as
+	943.2.1={ birth=yes }
+	1008.3.1={ death=yes }
+}
+1019930916={
+	name=Is'mail
+	dynasty=1009990276
+	dna="oogaoihjfnp"
+	culture=madeiran religion=animism
+	martial=7 diplomacy=7 stewardship=7 intrigue=5 learning=5
+	add_trait=intricate_webweaver add_trait=arbitrary add_trait=honest add_trait=slothful add_trait=greedy 
+	add_trait=gregarious add_trait=wroth 
+	father=1019930909	#Watt'as
+	948.1.3={ birth=yes }
+	1009.6.22={ death=yes }
+}
+1019930917={
+	name=Yeh'lem
+	dynasty=1009990276
+	dna="nhgleihkodp"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=5 stewardship=5 intrigue=5 learning=4
+	add_trait=charismatic_negotiator add_trait=chaste add_trait=slothful add_trait=honest add_trait=greedy 
+	add_trait=envious 
+	father=1019930909	#Watt'as
+	951.6.5={ birth=yes }
+	1029.7.13={ death=yes }
+}
+1019930918={
+	name=Ahamatu
+	dynasty=1009990276
+	dna="pbfgbihjfkp"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=7 stewardship=5 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=gregarious add_trait=envious add_trait=lustful add_trait=content 
+	father=1019930911	#Abdul-Kareem
+	953.6.25={ birth=yes }
+	1035.7.14={ death=yes }
+}
+1019930919={
+	name=Amud
+	dynasty=1009990276
+	dna="fkjgfiaefcp"
+	culture=madeiran religion=animism
+	martial=8 diplomacy=7 stewardship=8 intrigue=4 learning=6
+	add_trait=midas_touched add_trait=content add_trait=greedy add_trait=wroth add_trait=craven 
+	add_trait=wounded 
+	father=1019930911	#Abdul-Kareem
+	956.2.9={ birth=yes }
+	1040.11.20={ death=yes }
+}
+1019930920={
+	name=Bibya
+	female=yes
+	dynasty=1009990276
+	dna="ckegbihjfdc"
+	culture=madeiran religion=animism
+	father=1019930911	#Abdul-Kareem
+	964.6.4={ birth=yes }
+	1043.1.19={ death=yes }
+}
+1019930921={
+	name=Ugdada
+	dynasty=1009990276
+	dna="hfdibchcfke"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=6 stewardship=4 intrigue=7 learning=4
+	add_trait=detached_priest add_trait=cruel add_trait=lustful add_trait=diligent add_trait=honest 
+	father=1019930918	#Ahamatu
+	978.8.10={ birth=yes }
+	1073.1.10={ death=yes }
+}
+1019930922={
+	name=Taffounnout
+	dynasty=1009990276
+	dna="kbcighhfpkf"
+	culture=madeiran religion=animism
+	martial=8 diplomacy=8 stewardship=7 intrigue=4 learning=8
+	add_trait=charismatic_negotiator add_trait=ambitious add_trait=slothful add_trait=lustful 
+	father=1019930918	#Ahamatu
+	985.9.21={ birth=yes }
+	1046.7.30={ death=yes }
+}
+1019930923={
+	name=Tifan
+	dynasty=1009990276
+	dna="pbfablgiffp"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=6 stewardship=7 intrigue=8 learning=4
+	add_trait=indulgent_wastrel add_trait=paranoid add_trait=proud 
+	father=1019930918	#Ahamatu
+	992.12.8={ birth=yes }
+	1057.8.11={ death=yes }
+}
+1019930924={
+	name=Amin
+	dynasty=1009990276
+	dna="piigbihjfkp"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	add_trait=tough_soldier add_trait=patient add_trait=kind add_trait=gregarious add_trait=chaste 
+	father=1019930918	#Ahamatu
+	996.12.12={ birth=yes }
+	1101.2.9={ death=yes }
+}
+1019930925={
+	name=Mahtar
+	dynasty=1009990276
+	dna="hfdbkchjlkp"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=8 stewardship=5 intrigue=4 learning=4
+	add_trait=grey_eminence add_trait=zealous add_trait=humble add_trait=ambitious add_trait=cruel 
+	father=1019930921	#Ugdada
+	1001.5.9={ birth=yes }
+	1075.6.9={ death=yes }
+}
+1019930926={
+	name=Tadla
+	female=yes
+	dynasty=1009990276
+	dna="hpdibchjfkb"
+	culture=madeiran religion=animism
+	father=1019930921	#Ugdada
+	1005.1.8={ birth=yes }
+	1091.12.2={ death=yes }
+}
+1019930927={
+	name=Myassa
+	female=yes
+	dynasty=1009990276
+	dna="nfdobbhcfgk"
+	culture=madeiran religion=animism
+	father=1019930921	#Ugdada
+	1008.9.11={ birth=yes }
+	1109.7.7={ death=yes }
+}
+1019930928={
+	name=Basilie
+	female=yes
+	dynasty=1009990276
+	dna="nehibapcife"
+	culture=madeiran religion=animism
+	father=1019930921	#Ugdada
+	1012.8.18={ birth=yes }
+	1105.6.3={ death=yes }
+}
+1019930929={
+	name=Zaghwa
+	female=yes
+	dynasty=1009990276
+	dna="hpdbcghjgkp"
+	culture=madeiran religion=animism
+	father=1019930925	#Mahtar
+	1029.2.24={ birth=yes }
+	1072.12.12={ death=yes }
+}
+1019930930={
+	name=Titrit
+	female=yes
+	dynasty=1009990276
+	dna="hakbochjlmd"
+	culture=madeiran religion=animism
+	father=1019930925	#Mahtar
+	1035.4.7={ birth=yes }
+	1101.8.22={ death=yes }
+}
+1019930931={
+	name=Amayas
+	dynasty=1009990276
+	dna="hfdbcehjlip"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=5 stewardship=6 intrigue=4 learning=4
+	add_trait=grey_eminence add_trait=patient add_trait=envious add_trait=humble add_trait=brave 
+	father=1019930925	#Mahtar
+	1039.8.22={ birth=yes }
+	1126.3.16={ death=yes }
+}
+1019930932={
+	name=Adilah
+	female=yes
+	dynasty=1009990276
+	dna="fgnngghmjkp"
+	culture=madeiran religion=animism
+	father=1019930925	#Mahtar
+	1042.5.7={ birth=yes }
+	1121.3.10={ death=yes }
+}
+1019930933={
+	name=Niptasan
+	dynasty=1009990276
+	dna="hfdbcdcjlij"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=8 stewardship=5 intrigue=7 learning=5
+	add_trait=tough_soldier add_trait=craven add_trait=kind add_trait=slothful add_trait=ambitious 
+	father=1019930931	#Amayas
+	1061.7.1={ birth=yes }
+	1123.11.2={ death=yes }
+}
+1019930934={
+	name=Adilah
+	female=yes
+	dynasty=1009990276
+	dna="hfkmaccjoip"
+	culture=madeiran religion=animism
+	father=1019930931	#Amayas
+	1066.8.17={ birth=yes }
+	1144.7.17={ death=yes }
+}
+1019930935={
+	name=Ra'isa
+	female=yes
+	dynasty=1009990276
+	dna="acflfegcldd"
+	culture=madeiran religion=animism
+	father=1019930931	#Amayas
+	1071.7.15={ birth=yes }
+	1146.9.22={ death=yes }
+}
+1019930936={
+	name=Muh'end
+	dynasty=1009990276
+	dna="hfkacjgjlip"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=7 stewardship=8 intrigue=8 learning=4
+	add_trait=detached_priest add_trait=patient add_trait=shy add_trait=content add_trait=cruel 
+	father=1019930933	#Niptasan
+	1083.10.5={ birth=yes }
+	1145.12.1={ death=yes }
+}
+1019930937={
+	name=Gwejda
+	female=yes
+	dynasty=1009990276
+	dna="ofdibdcilij"
+	culture=madeiran religion=animism
+	father=1019930933	#Niptasan
+	1088.8.11={ birth=yes }
+	1174.3.12={ death=yes }
+}
+1019930938={
+	name=Tintifawin
+	female=yes
+	dynasty=1009990276
+	dna="nfdbaddjjfo"
+	culture=madeiran religion=animism
+	father=1019930933	#Niptasan
+	1095.11.14={ birth=yes }
+	1147.12.1={ death=yes }
+}
+1019930939={
+	name=Zaghwa
+	female=yes
+	dynasty=1009990276
+	dna="mfdbbdnlcij"
+	culture=madeiran religion=animism
+	father=1019930933	#Niptasan
+	1099.8.22={ birth=yes }
+	1170.3.26={ death=yes }
+}
+1019930940={
+	name=Ghanim
+	dynasty=1009990276
+	dna="hfkacjgjlgp"
+	culture=madeiran religion=animism
+	martial=8 diplomacy=8 stewardship=7 intrigue=5 learning=8
+	add_trait=flamboyant_schemer add_trait=deceitful add_trait=chaste add_trait=kind add_trait=clubfooted 
+	father=1019930936	#Muh'end
+	1115.9.18={ birth=yes }
+	1196.3.5={ death=yes }
+}
+1019930941={
+	name=Mamma
+	female=yes
+	dynasty=1009990276
+	dna="efkahjelhip"
+	culture=madeiran religion=animism
+	father=1019930936	#Muh'end
+	1118.11.10={ birth=yes }
+	1195.4.29={ death=yes }
+}
+1019930942={
+	name=Abdul-Kareem
+	dynasty=1009990276
+	dna="pmkfljkjcij"
+	culture=madeiran religion=animism
+	martial=8 diplomacy=8 stewardship=8 intrigue=7 learning=5
+	add_trait=tough_soldier add_trait=chaste add_trait=zealous add_trait=cruel 
+	father=1019930936	#Muh'end
+	1123.9.14={ birth=yes }
+	1179.11.17={ death=yes }
+}
+1019930943={
+	name=Menza
+	female=yes
+	dynasty=1009990276
+	dna="ffkbejgjjpn"
+	culture=madeiran religion=animism
+	father=1019930936	#Muh'end
+	1128.3.4={ birth=yes }
+	1218.7.10={ death=yes }
+}
+1019930944={
+	name=Adilah
+	female=yes
+	dynasty=1009990276
+	dna="heknccgmllc"
+	culture=madeiran religion=animism
+	father=1019930940	#Ghanim
+	1138.4.15={ birth=yes }
+	1196.9.15={ death=yes }
+}
+1019930945={
+	name=Yuva
+	dynasty=1009990276
+	dna="dfkajjpjfib"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=7 stewardship=4 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=duelist add_trait=slothful add_trait=cruel add_trait=paranoid 
+	add_trait=drunkard 
+	father=1019930940	#Ghanim
+	1143.7.16={ birth=yes }
+	1201.8.30={ death=yes }
+}
+1019930946={
+	name=Issam
+	dynasty=1009990276
+	dna="efkgcgkjejp"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=5 stewardship=8 intrigue=8 learning=8
+	add_trait=martial_cleric add_trait=impaler add_trait=charitable add_trait=envious add_trait=trusting 
+	add_trait=arbitrary add_trait=stressed 
+	father=1019930940	#Ghanim
+	1145.5.6={ birth=yes }
+	1214.11.12={ death=yes }
+}
+1019930947={
+	name=Az'ar
+	dynasty=1009990276
+	dna="hfkacahjjbp"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=6 stewardship=8 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=lustful add_trait=brave add_trait=patient add_trait=temperate 
+	add_trait=deceitful 
+	father=1019930940	#Ghanim
+	1150.8.7={ birth=yes }
+	1217.4.13={ death=yes }
+}
+1019930948={
+	name=Zwira
+	female=yes
+	dynasty=1009990276
+	dna="ihkbifgjlef"
+	culture=madeiran religion=animism
+	father=1019930940	#Ghanim
+	1152.6.11={ birth=yes }
+	1216.9.11={ death=yes }
+}
+1019930949={
+	name=Hawwa
+	female=yes
+	dynasty=1009990276
+	dna="hfkacjgmmgp"
+	culture=madeiran religion=animism
+	father=1019930940	#Ghanim
+	1158.12.11={ birth=yes }
+	1232.2.2={ death=yes }
+}
+1019930950={
+	name=Itri
+	dynasty=1009990276
+	dna="hodccpgjlhl"
+	culture=madeiran religion=animism
+	martial=4 diplomacy=4 stewardship=8 intrigue=4 learning=4
+	add_trait=naive_appeaser add_trait=just add_trait=content add_trait=gluttonous add_trait=craven 
+	father=1019930940	#Ghanim
+	1161.4.6={ birth=yes }
+	1241.4.11={ death=yes }
+}
+1019930951={
+	name=Tadmut
+	female=yes
+	dynasty=1009990276
+	dna="kfhfljljbmh"
+	culture=madeiran religion=animism
+	father=1019930945	#Yuva
+	1172.7.1={ birth=yes }
+	1242.9.7={ death=yes }
+}
+1019930952={
+	name=Magsen
+	dynasty=1009990276
+	dna="clogdkplfin"
+	culture=madeiran religion=animism
+	martial=4 diplomacy=7 stewardship=5 intrigue=6 learning=6
+	add_trait=charismatic_negotiator add_trait=greedy add_trait=zealous add_trait=envious add_trait=deceitful 
+	add_trait=lunatic 
+	father=1019930945	#Yuva
+	1177.1.24={ birth=yes }
+	1229.5.19={ death=yes }
+}
+1019930953={
+	name=Silya
+	female=yes
+	dynasty=1009990276
+	dna="flkapjpmfic"
+	culture=madeiran religion=animism
+	father=1019930945	#Yuva
+	1183.7.13={ birth=yes }
+	1263.11.26={ death=yes }
+}
+1019930954={
+	name=Zwina
+	female=yes
+	dynasty=1009990276
+	dna="pfkafjdjfjb"
+	culture=madeiran religion=animism
+	father=1019930945	#Yuva
+	1190.5.2={ birth=yes }
+	1251.1.1={ death=yes }
+}
+1019930955={
+	name=Agellid
+	dynasty=1009990276
+	dna="ddkajjpnfib"
+	culture=madeiran religion=animism
+	martial=4 diplomacy=4 stewardship=6 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=scholar add_trait=patient add_trait=cynical add_trait=lustful 
+	add_trait=honest add_trait=ambitious add_trait=paranoid 
+	father=1019930945	#Yuva
+	1195.4.24={ birth=yes }
+	1282.3.23={ death=yes }
+}
+1019930956={
+	name=Tanefzawit
+	female=yes
+	dynasty=1009990276
+	dna="biffajadfjl"
+	culture=madeiran religion=animism
+	father=1019930952	#Magsen
+	1195.9.11={ birth=yes }
+	1278.5.19={ death=yes }
+}
+1019930957={
+	name=Z'diant
+	female=yes
+	dynasty=1009990276
+	dna="mldgkkamolj"
+	culture=madeiran religion=animism
+	father=1019930952	#Magsen
+	1198.9.27={ birth=yes }
+	1278.10.8={ death=yes }
+}
+1019930958={
+	name=Tiljad
+	dynasty=1009990276
+	dna="cloglnpaeon"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=8 stewardship=7 intrigue=4 learning=4
+	add_trait=grey_eminence add_trait=diligent add_trait=cynical add_trait=proud add_trait=shy 
+	father=1019930952	#Magsen
+	1204.9.8={ birth=yes }
+	1271.10.2={ death=yes }
+}
+1019930959={
+	name=Tanefzawit
+	female=yes
+	dynasty=1009990276
+	dna="pldglgelpgn"
+	culture=madeiran religion=animism
+	father=1019930952	#Magsen
+	1210.5.6={ birth=yes }
+	1300.12.15={ death=yes }
+}
+1019930960={
+	name=Rahima
+	female=yes
+	dynasty=1009990276
+	dna="chilekocjoh"
+	culture=madeiran religion=animism
+	father=1019930952	#Magsen
+	1215.2.26={ birth=yes }
+	1268.3.26={ death=yes }
+}
+1019930961={
+	name=Tella
+	female=yes
+	dynasty=1009990276
+	dna="hfjhhnpaenn"
+	culture=madeiran religion=animism
+	father=1019930958	#Tiljad
+	1226.10.11={ birth=yes }
+	1290.12.7={ death=yes }
+}
+1019930962={
+	name=Ultafa
+	female=yes
+	dynasty=1009990276
+	dna="cfomlnjcogn"
+	culture=madeiran religion=animism
+	father=1019930958	#Tiljad
+	1228.7.7={ birth=yes }
+	1281.11.26={ death=yes }
+}
+1019930963={
+	name=Eleonorka
+	female=yes
+	dynasty=1009990276
+	dna="cpoglbhaion"
+	culture=madeiran religion=animism
+	father=1019930958	#Tiljad
+	1232.4.13={ birth=yes }
+	1285.6.14={ death=yes }
+}
+1019930964={
+	name=Yuba
+	dynasty=1009990276
+	dna="cgoblnlajjn"
+	culture=madeiran religion=animism
+	martial=7 diplomacy=8 stewardship=7 intrigue=8 learning=8
+	add_trait=tough_soldier add_trait=cruel add_trait=brave add_trait=cynical add_trait=arbitrary 
+	add_trait=lunatic add_trait=lisp 
+	father=1019930958	#Tiljad
+	1236.8.10={ birth=yes }
+	1320.11.20={ death=yes }
+}
+1019930965={
+	name=Zunagha
+	female=yes
+	dynasty=1009990276
+	dna="egojekkolpg"
+	culture=madeiran religion=animism
+	father=1019930964	#Yuba
+	1262.1.19={ birth=yes }
+	1318.4.17={ death=yes }
+}
+1019930966={
+	name=Gulusa
+	dynasty=1009990276
+	dna="maaolhlkjje"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=7 stewardship=8 intrigue=8 learning=5
+	add_trait=charismatic_negotiator add_trait=kind add_trait=shy add_trait=gluttonous add_trait=just 
+	add_trait=possessed 
+	father=1019930964	#Yuba
+	1266.2.8={ birth=yes }
+	1346.9.2={ death=yes }
+}
+1019930967={
+	name=Magsen
+	dynasty=1009990276
+	dna="egpbdngajjl"
+	culture=madeiran religion=animism
+	martial=8 diplomacy=4 stewardship=4 intrigue=4 learning=4
+	add_trait=detached_priest add_trait=trusting add_trait=brave add_trait=cruel add_trait=chaste 
+	add_trait=cynical add_trait=depressed 
+	father=1019930964	#Yuba
+	1272.11.23={ birth=yes }
+	1343.10.15={ death=yes }
+}
+1019930968={
+	name=Adergazuz
+	dynasty=1009990276
+	dna="nhcblalacbb"
+	culture=madeiran religion=animism
+	martial=7 diplomacy=4 stewardship=5 intrigue=7 learning=8
+	add_trait=tough_soldier add_trait=greedy add_trait=deceitful add_trait=kind 
+	father=1019930964	#Yuba
+	1275.8.1={ birth=yes }
+	1336.6.5={ death=yes }
+}
+1019930969={
+	name=Jeddjiga
+	female=yes
+	dynasty=1009990276
+	dna="mabolhjbjgn"
+	culture=madeiran religion=animism
+	father=1019930966	#Gulusa
+	1288.8.13={ birth=yes }
+	1374.10.6={ death=yes }
+}
+1019930970={
+	name=Aghilas
+	dynasty=1009990276
+	dna="bajpaceljje"
+	culture=madeiran religion=animism
+	martial=8 diplomacy=7 stewardship=6 intrigue=7 learning=8
+	add_trait=thrifty_clerk add_trait=duelist add_trait=slothful add_trait=cruel add_trait=arbitrary 
+	add_trait=deceitful add_trait=wroth 
+	father=1019930966	#Gulusa
+	1295.6.10={ birth=yes }
+	1357.5.28={ death=yes }
+}
+1019930971={
+	name=H'edda
+	female=yes
+	dynasty=1009990276
+	dna="fgapaoeijhe"
+	culture=madeiran religion=animism
+	father=1019930970	#Aghilas
+	1322.7.4={ birth=yes }
+	1384.8.23={ death=yes }
+}
+1019930972={
+	name=Bakka
+	female=yes
+	dynasty=1009990276
+	dna="okjmbcldcfc"
+	culture=madeiran religion=animism
+	father=1019930970	#Aghilas
+	1327.6.24={ birth=yes }
+	1397.4.26={ death=yes }
+}
+1019930973={
+	name=Aeesha
+	female=yes
+	dynasty=1009990276
+	dna="idjpjneljjl"
+	culture=madeiran religion=animism
+	father=1019930970	#Aghilas
+	1334.10.1={ birth=yes }
+	1397.5.17={ death=yes }
+}
+1019930974={
+	name=Immel
+	dynasty=1009990276
+	dna="bamnpkehjke"
+	culture=madeiran religion=animism
+	martial=7 diplomacy=7 stewardship=8 intrigue=4 learning=5
+	add_trait=detached_priest add_trait=deceitful add_trait=kind add_trait=arbitrary 
+	father=1019930970	#Aghilas
+	1338.9.26={ birth=yes }
+	1405.8.17={ death=yes }
+}
+1019930975={
+	name=Gwejda
+	female=yes
+	dynasty=1009990276
+	dna="blkipkdjakg"
+	culture=madeiran religion=animism
+	father=1019930974	#Immel
+	1364.6.26={ birth=yes }
+	1447.10.21={ death=yes }
+}
+1019930976={
+	name=Salomon
+	dynasty=1009990276
+	dna="damnpabgjkk"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=5 stewardship=8 intrigue=5 learning=7
+	add_trait=misguided_warrior add_trait=craven add_trait=charitable add_trait=drunkard 
+	father=1019930974	#Immel
+	1370.10.11={ birth=yes }
+	1449.10.26={ death=yes }
+}
+1019930977={
+	name=Isli
+	dynasty=1009990276
+	dna="damfpabgnkm"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=6 stewardship=6 intrigue=5 learning=5
+	add_trait=elusive_shadow add_trait=hunter add_trait=kind add_trait=gluttonous add_trait=charitable 
+	father=1019930976	#Salomon
+	1393.9.14={ birth=yes }
+	1464.8.21={ death=yes }
+}
+1019930978={
+	name=Musa
+	dynasty=1009990276
+	dna="ddmppdanjbp"
+	culture=madeiran religion=animism
+	martial=4 diplomacy=8 stewardship=7 intrigue=5 learning=5
+	add_trait=thrifty_clerk add_trait=arbitrary add_trait=proud 
+	father=1019930976	#Salomon
+	1399.5.13={ birth=yes }
+	1459.2.28={ death=yes }
+}
+1019930979={
+	name=Tintadefi
+	female=yes
+	dynasty=1009990276
+	dna="paenhpbgaic"
+	culture=madeiran religion=animism
+	father=1019930976	#Salomon
+	1404.1.9={ birth=yes }
+	1462.2.19={ death=yes }
+}
+1019930980={
+	name=Hiempsal
+	dynasty=1009990276
+	dna="kcmopadgbhk"
+	culture=madeiran religion=animism
+	martial=4 diplomacy=7 stewardship=7 intrigue=7 learning=8
+	add_trait=elusive_shadow add_trait=arbitrary add_trait=content add_trait=cynical add_trait=shy 
+	add_trait=slothful add_trait=ugly 
+	father=1019930976	#Salomon
+	1406.7.17={ birth=yes }
+	1470.11.15={ death=yes }
+}
+1019930981={
+	name=Basilie
+	female=yes
+	dynasty=1009990276
+	dna="lamhkabgjkk"
+	culture=madeiran religion=animism
+	father=1019930976	#Salomon
+	1410.5.8={ birth=yes }
+	1483.1.28={ death=yes }
+}
+1019930982={
+	name=Tella
+	female=yes
+	dynasty=1009990276
+	dna="demapabhnpa"
+	culture=madeiran religion=animism
+	father=1019930977	#Isli
+	1414.7.9={ birth=yes }
+	1473.5.26={ death=yes }
+}
+1019930983={
+	name=Ali
+	dynasty=1009990276
+	dna="dammpabgnhm"
+	culture=madeiran religion=animism
+	martial=4 diplomacy=8 stewardship=4 intrigue=4 learning=4
+	add_trait=flamboyant_schemer add_trait=patient add_trait=zealous add_trait=proud 
+	father=1019930977	#Isli
+	1419.8.26={ birth=yes }
+	1501.9.16={ death=yes }
+}
+1019930984={
+	name=Aras
+	dynasty=1009990276
+	dna="djmemhegokm"
+	culture=madeiran religion=animism
+	martial=8 diplomacy=5 stewardship=6 intrigue=7 learning=5
+	add_trait=detached_priest add_trait=paranoid add_trait=greedy add_trait=honest add_trait=gregarious 
+	add_trait=arbitrary add_trait=content add_trait=drunkard 
+	father=1019930977	#Isli
+	1423.1.1={ birth=yes }
+	1506.3.30={ death=yes }
+}
+1019930985={
+	name=Igider
+	dynasty=1009990276
+	dna="iokckabgbkj"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=4 stewardship=5 intrigue=4 learning=6
+	add_trait=midas_touched add_trait=trusting add_trait=brave add_trait=cynical 
+	father=1019930977	#Isli
+	1427.3.21={ birth=yes }
+	1481.3.5={ death=yes }
+}
+1019930986={
+	name=Madidu
+	dynasty=1009990276
+	dna="camjmiennln"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=8 stewardship=6 intrigue=4 learning=4
+	add_trait=martial_cleric add_trait=just add_trait=trusting 
+	father=1019930977	#Isli
+	1432.2.11={ birth=yes }
+	1509.4.22={ death=yes }
+}
+1019930987={
+	name=Menza
+	female=yes
+	dynasty=1009990276
+	dna="dbjdlabgnhj"
+	culture=madeiran religion=animism
+	father=1019930983	#Ali
+	1440.12.16={ birth=yes }
+	1494.3.5={ death=yes }
+}
+1019930988={
+	name=Atissi
+	dynasty=1009990276
+	dna="mamgpabgghi"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=4 stewardship=6 intrigue=4 learning=6
+	add_trait=flamboyant_schemer add_trait=cruel add_trait=just add_trait=gluttonous add_trait=slothful 
+	add_trait=shy add_trait=chaste 
+	father=1019930983	#Ali
+	1443.9.7={ birth=yes }
+	1501.11.18={ death=yes }
+}
+1019930989={
+	name=Misibsen
+	dynasty=1009990276
+	dna="jjmmjmbgfga"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=7 stewardship=7 intrigue=5 learning=5
+	add_trait=indulgent_wastrel add_trait=hunter add_trait=wroth add_trait=zealous add_trait=slothful 
+	add_trait=proud add_trait=content add_trait=gluttonous 
+	father=1019930983	#Ali
+	1451.12.3={ birth=yes }
+	1535.7.23={ death=yes }
+}
+1019930990={
+	name=Mustafa
+	dynasty=1009990276
+	dna="aakhpaoacoc"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=5 stewardship=6 intrigue=8 learning=7
+	add_trait=scholarly_theologian add_trait=just add_trait=gluttonous add_trait=slothful add_trait=greedy 
+	father=1019930983	#Ali
+	1456.6.7={ birth=yes }
+	1516.1.22={ death=yes }
+}
+1019930991={
+	name=Gaya
+	dynasty=1009990276
+	dna="aaajpabgapi"
+	culture=madeiran religion=animism
+	martial=7 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	add_trait=charismatic_negotiator add_trait=lustful add_trait=kind add_trait=cynical add_trait=gregarious 
+	add_trait=slothful add_trait=proud add_trait=depressed 
+	father=1019930988	#Atissi
+	1466.3.20={ birth=yes }
+	1522.5.5={ death=yes }
+}
+1019930992={
+	name=Akaday
+	dynasty=1009990276
+	dna="mdmbpldgggc"
+	culture=madeiran religion=animism
+	martial=7 diplomacy=8 stewardship=7 intrigue=8 learning=8
+	add_trait=intricate_webweaver add_trait=kind add_trait=deceitful add_trait=brave add_trait=proud 
+	add_trait=paranoid 
+	father=1019930988	#Atissi
+	1473.10.11={ birth=yes }
+	1545.4.1={ death=yes }
+}
+1019930993={
+	name=Adiba
+	female=yes
+	dynasty=1009990276
+	dna="lpagpabcehi"
+	culture=madeiran religion=animism
+	father=1019930988	#Atissi
+	1477.5.19={ birth=yes }
+	1561.9.5={ death=yes }
+}
+1019930994={
+	name=Mustafa
+	dynasty=1009990276
+	dna="pamglhbenha"
+	culture=madeiran religion=animism
+	martial=7 diplomacy=5 stewardship=8 intrigue=5 learning=4
+	add_trait=grey_eminence add_trait=content add_trait=humble add_trait=envious 
+	father=1019930988	#Atissi
+	1480.6.10={ birth=yes }
+	1555.2.19={ death=yes }
+}
+1019930995={
+	name=Gaia
+	dynasty=1009990276
+	dna="eacjpabggii"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=6 stewardship=4 intrigue=7 learning=4
+	add_trait=misguided_warrior add_trait=cruel add_trait=gregarious add_trait=trusting add_trait=wroth 
+	father=1019930988	#Atissi
+	1487.7.20={ birth=yes }
+	1587.6.13={ death=yes }
+}
+1019930996={
+	name=Titbirt
+	female=yes
+	dynasty=1009990276
+	dna="malafidgkhi"
+	culture=madeiran religion=animism
+	father=1019930988	#Atissi
+	1490.12.15={ birth=yes }
+	1576.4.21={ death=yes }
+}
+1019930997={
+	name=Taljat
+	female=yes
+	dynasty=1009990276
+	dna="epagpdiabfi"
+	culture=madeiran religion=animism
+	father=1019930988	#Atissi
+	1496.2.1={ birth=yes }
+	1582.1.18={ death=yes }
+}
+1019930998={
+	name=Tazirit
+	female=yes
+	dynasty=1009990276
+	dna="aaahpgimapb"
+	culture=madeiran religion=animism
+	father=1019930991	#Gaya
+	1493.9.20={ birth=yes }
+	1535.10.3={ death=yes }
+}
+1019930999={
+	name=Zunagha
+	female=yes
+	dynasty=1009990276
+	dna="baagoabgofi"
+	culture=madeiran religion=animism
+	father=1019930991	#Gaya
+	1498.5.4={ birth=yes }
+	1568.9.13={ death=yes }
+}
+1019931000={
+	name=Faghissa
+	female=yes
+	dynasty=1009990276
+	dna="aaajpebchjg"
+	culture=madeiran religion=animism
+	father=1019930991	#Gaya
+	1504.4.18={ birth=yes }
+	1568.4.13={ death=yes }
+}
+1019931001={
+	name=Zafir
+	dynasty=1009990276
+	dna="aaaipgfgokh"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=7 stewardship=8 intrigue=4 learning=4
+	add_trait=misguided_warrior add_trait=gardener add_trait=just add_trait=charitable add_trait=cruel 
+	add_trait=slothful add_trait=gluttonous add_trait=paranoid add_trait=wounded 
+	father=1019930991	#Gaya
+	1508.3.21={ birth=yes }
+	1593.9.28={ death=yes }
+}
+1019931002={
+	name=Frawsen
+	dynasty=1009990276
+	dna="dpaipgfgpch"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=7 stewardship=7 intrigue=4 learning=8
+	add_trait=midas_touched add_trait=proud add_trait=cruel add_trait=zealous add_trait=lustful 
+	add_trait=gregarious 
+	father=1019931001	#Zafir
+	1540.6.22={ birth=yes }
+	1601.5.27={ death=yes }
+}
+1019931003={
+	name=Tamrust
+	female=yes
+	dynasty=1009990276
+	dna="aahjepfgbkp"
+	culture=madeiran religion=animism
+	father=1019931001	#Zafir
+	1545.12.9={ birth=yes }
+	1632.7.2={ death=yes }
+}
+1019931004={
+	name=Khidr
+	dynasty=1009990276
+	dna="gcoiepfgljh"
+	culture=madeiran religion=animism
+	martial=5 diplomacy=4 stewardship=8 intrigue=5 learning=5
+	add_trait=martial_cleric add_trait=gregarious add_trait=deceitful add_trait=paranoid add_trait=temperate 
+	add_trait=drunkard 
+	father=1019931001	#Zafir
+	1550.1.21={ birth=yes }
+	1651.2.5={ death=yes }
+}
+1019931005={
+	name=Qutaiba
+	dynasty=1009990276
+	dna="plaipgogdnh"
+	culture=madeiran religion=animism
+	martial=6 diplomacy=6 stewardship=8 intrigue=4 learning=6
+	add_trait=intricate_webweaver add_trait=diligent add_trait=patient add_trait=fair 
+	father=1019931001	#Zafir
+	1557.2.23={ birth=yes }
+	1597.4.18={ death=yes }
+}

@@ -1,0 +1,507 @@
+159299 = {
+	name="Cawrdaf" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="cumbrian"
+	father=159298
+	560.1.1={
+		birth="560.1.1"
+	}
+	640.1.2={
+		death="640.1.2"
+	}
+}
+159300 = {
+	name="Caw" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="cumbrian"
+	father=159299
+	590.1.1={
+		birth="590.1.1"
+	}
+	670.1.2={
+		death="670.1.2"
+	}
+}
+159301 = {
+	name="Gloyw" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="cumbrian"
+	father=159300
+	620.1.1={
+		birth="620.1.1"
+	}
+	700.1.2={
+		death="700.1.2"
+	}
+}
+159302 = {
+	name="Hoyw" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="cumbrian"
+	father=159301
+	650.1.1={
+		birth="650.1.1"
+	}
+	730.1.2={
+		death="730.1.2"
+	}
+}
+159303 = {
+	name="Cynfarch" # 
+	dynasty=1047020 #Manceinion
+	religion="catholic"
+	culture="cumbrian"
+	father=159302
+	680.1.1={
+		birth="680.1.1"
+	}
+	760.1.2={
+		death="760.1.2"
+	}
+}
+159030 = {
+	name="Algwyn" # aka Alcwn
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="cumbrian"
+	father=159031 # Tegid
+	640.1.1={
+		birth="640.1.1"
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+159031 = {
+	name="Teigid" # 
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="cumbrian"
+	father=159032 # 
+	600.1.1={
+		birth="600.1.1"
+	}
+	680.1.1={
+		death="680.1.1"
+	}
+}
+159032 = {
+	name="Gwyar" # 
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="cumbrian"
+	father=159033 # 
+	560.1.1={
+		birth="560.1.1"
+	}
+	640.1.1={
+		death="640.1.1"
+	}
+}
+159955 = {
+	name="Rhoedd" 
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="cumbrian"
+	father=159954 # Urien
+	580.1.1={
+		birth="580.1.1"
+	}
+	645.1.1={
+		death="645.1.1"
+	}
+}
+#Rheged
+252216 = {
+	name="Rieinmelth" # 
+	female=yes
+	dynasty=1029000 #Rheged
+	religion="catholic"
+	culture="cumbrian"
+	father=159955 # 
+	608.1.1={
+		birth=yes
+	}
+	640.1.1={
+		death=yes
+	}
+}
+163104 = {
+	name="Artgal" 
+	dynasty=816 
+	martial=6
+	diplomacy=3
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	trait="tough_soldier"
+	father=166444
+	804.1.1={
+		birth="804.1.1"
+	}
+	872.1.1={
+		death="872.1.1"
+	}
+}
+166440 = {  	
+	name="Dyfnwal"
+	# AKA: Dyfnwal map Eochaid
+	dynasty=816
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="welsh"
+	father=166441
+	861.1.1={
+		birth="861.1.1"
+	}
+	889.1.1={
+		dynasty=100047
+	}
+	916.1.1={
+		death="916.1.1"
+	}
+}
+166441 = {  	
+	name="Oucydd"
+	# AKA: Eochaid map Run
+	dynasty=816
+	martial=5
+	diplomacy=3
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	father=166442
+	mother=166443
+	844.1.1={
+		birth="844.1.1"
+	}
+	889.1.1={
+		death="889.1.1"
+	}
+}
+166442 = {  	
+	name="Rhun"
+	# AKA: Run of Alt Clut
+	dynasty=816
+	martial=3
+	diplomacy=4
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="welsh"
+	father=163104
+	827.1.1={
+		birth="827.1.1"
+	}
+	843.1.1={
+		add_spouse=166443 #Daughter of Cináed mac Ailpín
+	}
+	878.1.1={
+		death="878.1.1"
+	}
+}
+166444 = {  	
+	name="Dumnagual"
+	# AKA: Dumnagual IV of Alt Clut
+	dynasty=816
+	martial=5
+	diplomacy=3
+	intrigue=3
+	stewardship=6
+	religion="catholic"
+	culture="welsh"
+	father=166445
+	785.1.1={
+		birth="785.1.1"
+	}
+	851.1.1={
+		death="851.1.1"
+	}
+}
+166445 = {  	
+	name="Rhydderch"
+	# AKA: Riderch II of Alt Clut
+	dynasty=816
+	martial=7
+	diplomacy=4
+	intrigue=2
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=166446
+	768.1.1={
+		birth="768.1.1"
+	}
+	835.1.1={
+		death="835.1.1"
+	}
+}
+166447 = {  	
+	name="Dumnagual"
+	# AKA: Dumnagual III of Alt Clut
+	dynasty=816
+	martial=5
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	father=166448
+	728.1.1=
+		birth="728.1.1"
+	}
+	760.1.1={
+		death="760.1.1"
+	}
+}
+166448 = {  	
+	name="Teudebur"
+	# AKA: Teudebur map Beli of Alt Clut
+	dynasty=816
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=166449
+	704.1.1={
+		birth="704.1.1"
+	}
+	752.1.1={
+		death="752.1.1"
+	}
+}
+166449 = {  	
+	name="Beli"
+	# AKA: Beli II  map Elfin of Alt Clut
+	dynasty=816
+	martial=6
+	diplomacy=4
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=166451
+	678.1.1={
+		birth="678.1.1"
+	}
+	722.1.1={
+		death="722.1.1"
+	}
+}
+166450 = {  	
+	name="Dumnagual"
+	# AKA: Dumnagual II  map Eugein of Alt Clut
+	dynasty=816
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	father=166453
+	640.1.1={
+		birth="640.1.1"
+	}
+	694.1.1={
+		death="694.1.1"
+	}
+}
+
+166451 = {  	
+	name="Elfin"
+	# AKA: Elfin map Eugein of Alt Clut
+	dynasty=816
+	martial=5
+	diplomacy=4
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="welsh"
+	father=166453
+	638.1.1={
+		birth="638.1.1"
+	}
+	686.1.1={
+		death="686.1.1"
+	}
+}
+166452 = {  	
+	name="Guret"
+	# AKA: Guret map Eugein of Alt Clut
+	dynasty=816
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=166453
+	635.1.1={
+		birth="635.1.1"
+	}
+	658.1.1={
+		death="658.1.1"
+	}
+}
+166453 = {  	
+	name="Owain"
+	# AKA: Eugein I map Beli of Alt Clut
+	dynasty=816
+	martial=4
+	diplomacy=6
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=166454
+	611.1.1={
+		birth="611.1.1"
+	}
+	652.1.1={
+		death="652.1.1"
+	}
+} 
+166454 = {  	
+	name="Beli"
+	# AKA: Beli I map Neithon of Alt Clut
+	dynasty=816
+	martial=6
+	diplomacy=4
+	intrigue=2
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=166455
+	593.1.1={
+		birth="593.1.1"
+	}
+	627.1.1={
+		death="627.1.1"
+	}
+}
+166455 = {  	
+	name="Neithon"
+	# AKA: Neithon map Guipno map Dumnagual Hen of Alt Clut
+	dynasty=816
+	martial=8
+	diplomacy=5
+	intrigue=3
+	stewardship=5
+	religion="catholic"
+	culture="welsh"
+	father=166460
+	555.1.1={
+		birth="555.1.1"
+	}
+	620.1.1={
+		death="620.1.1"
+	}
+}
+166456 = {  	
+	name="Custennin"
+	# AKA: St. Constantine map Riderch I Hael of Alt Clut
+	dynasty=816
+	martial=4
+	diplomacy=8
+	intrigue=2
+	stewardship=6
+	religion="catholic"
+	culture="cumbrian"
+	father=166457
+	568.1.1={
+		birth="568.1.1"
+	}
+	640.1.1={
+		death="640.1.1"
+		give_nickname=nick_the_saint
+	}
+}
+252232 = {  	
+	name="Madoc" #St Madoc Ailither
+	dynasty=105929
+	religion="catholic"
+	culture="cumbrian"
+	father=252231
+	554.1.1={
+		birth=yes
+	}
+	605.1.1={
+		death=yes
+	}
+}
+252233 = {  	
+	name="Guitcuin" #Guitcuin
+	dynasty=105929
+	religion="catholic"
+	culture="cumbrian"
+	father=252231
+	557.1.1={
+		birth=yes
+	}
+	613.1.1={
+		death=yes
+	}
+}
+252234 = {  	
+	name="Catguallaunliu" #Catguallaunliu
+	dynasty=105929
+	religion="catholic"
+	culture="cumbrian"
+	father=252231
+	560.1.1={
+		birth=yes
+	}
+	619.1.1={
+		death=yes
+	}
+}
+252246 = {
+	name="Mynyddog Mwynfawr" # Mynyddog Mwynfawr
+	dynasty=105930
+	religion="catholic"
+	culture="welsh"
+	father=252244
+	550.1.1={
+		birth=yes
+	}
+	597.1.1={
+		death=yes
+	}
+}
+252249 = {
+	name="Gwawrddur" # Gwawrddur
+	dynasty=105930
+	religion="catholic"
+	culture="welsh"
+	father=252246
+	568.1.1={
+		birth=yes
+	}
+	638.1.1={
+		death=yes
+	}
+}
+252267 = {
+	name="Caradog" # name unknown
+	dynasty=105935
+	religion="catholic"
+	culture="welsh"
+	father=252266
+	560.1.1={
+		birth=yes
+	}
+	610.1.1={
+		death=yes
+	}
+}

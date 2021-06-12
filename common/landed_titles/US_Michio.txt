@@ -1,0 +1,890 @@
+e_michio = {
+
+	color={ 68 120 255 }
+	color2={ 220 220 220 }
+
+	norse = "Michland"
+	norwegian = "Michland"
+	danish = "Michland"
+	swedish = "Michland"
+	english = "Michland"
+	saxon = "Michland"
+	old_saxon = "Michland"
+	german = "Michland"
+
+	capital = 4409 # chicago
+
+	k_ohio = {
+
+		color={ 65 14 89 }
+		color2={ 220 220 220 }
+
+		norse = "Ohio"
+		norwegian = "Ohio"
+		danish = "Ohio"
+		swedish = "Ohio"
+		english = "Ohio"
+		saxon = "Ohio"
+		old_saxon = "Ohio"
+		german = "Ohio"
+
+		capital = 3679 # ohio	
+		d_ohio = {
+
+			color={ 225 24 99 }
+			color2={ 220 220 220 }
+			
+			capital = 3679 # Ohio
+			
+			c_ohio = {
+
+				color={ 65 177 86 }
+				color2={ 220 220 220 }
+				
+				b_ohio = {
+				}
+				b_valkettekkinews = {
+				}
+				b_sarwyacannelo = {
+				}
+				b_maswenironade = {
+				}
+				b_cektepintakwevero = {
+				}
+			}
+			c_erie = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_erie = {
+				}
+				b_ouleripisetaten = {
+				}
+				b_kaahwantankipe = {
+				}
+				b_nujjmuwurggaew = {
+				}
+				b_otocaanrohanat = {
+				}
+			}
+			c_chillicothe = {
+
+				color={ 26 78 91 }
+				color2={ 220 220 220 }
+				
+				b_chillicothe = {
+				}
+				b_ratrauondekier= {
+			              }
+				b_arainahodomoro = {
+				}
+				b_eloiemaykengekji = {
+				}
+				b_vuriggenqerleany = {
+				}
+			}
+			c_wyandot = {
+
+				color={ 15 124 224 }
+				color2={ 220 220 220 }
+				
+				b_wyandot = {
+				}
+				b_anokekenqurimin = {
+				}
+				b_aelakmindaornta = {
+				}
+				b_ifkinlejjeqqerrem = {
+				}
+				b_biaettivuhhulan = {
+				}
+			}
+			c_tuscarawio = {
+
+				color={ 15 124 224 }
+				color2={ 220 220 220 }
+				
+				b_tuscarawio = {
+				}
+				b_cuyahogah = {
+				}
+				b_sagarmarhio = {
+				}
+			}
+		}
+		d_seneca = {
+
+			color={ 225 24 99 }
+			color2={ 220 220 220 }
+			
+			capital = 3679 # Seneca
+			
+			c_seneca = {
+
+				color={ 65 177 86 }
+				color2={ 220 220 220 }
+				
+				b_seneca = {
+				}
+				b_ottawaca = {
+				} 
+				b_huronec = {
+				}
+				b_wyaneca = {
+				}
+				b_cuyaheca = {
+				}
+			}
+			c_tsiwajisowo = {
+
+				color={ 65 177 86 }
+				color2={ 220 220 220 }
+				
+				b_tsiwajisowo = {
+				}
+				b_tawaskoh = {
+				} 
+				b_ooyaeakaer = {
+				}
+				b_osadesatgohca = {
+				}
+				b_tsiwashooyak = {
+				}
+			}
+			c_takoganoentsialaase = {
+
+				color={ 65 177 86 }
+				color2={ 220 220 220 }
+				
+				b_takoganoentsialaase = {
+				}
+				b_dyzonowayaktak = {
+				} 
+				b_catawshababar = {
+				}
+				b_wassahabtako = {
+				}
+				b_ohitakogcataw  = {
+				}
+			}
+			c_sandusky = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_hegahgwerie = {
+				}
+				b_kedzao = {
+				}
+				b_atheshar = {
+				}
+				b_agyeoni = {
+				}
+				b_nyogwisagi = {
+				}
+			}
+			c_hajenuwuseh = {
+
+				color={ 26 78 91 }
+				color2={ 220 220 220 }
+				
+				b_hajenuwuseh = {
+				}
+				b_oisgwanyeda= {
+			              }
+				b_onudagowunohkut = {
+				}
+				b_ushsohgwajih = {
+				}
+				b_wajisgiihrhatakehyat = {
+				}
+			}
+			c_karyasratek = {
+
+				color={ 15 124 224 }
+				color2={ 220 220 220 }
+				
+				b_karyasratek = {
+				}
+				b_muskingark = {
+				}
+				b_ganeyagen = {
+				}
+				b_onobsadogehdith = {
+				}
+			}
+		}
+		d_shawnee = {
+
+			color={ 225 24 99 }
+			color2={ 220 220 220 }
+			
+			capital = 4393 # shawnee
+			
+			c_shawnee = {
+
+				color={ 65 177 86 }
+				color2={ 220 220 220 }
+				
+				b_shawnee = {
+				}
+				b_altoogaha = {
+				}
+				b_looogootee = {
+				}
+				b_balakenatch = {
+				}
+				b_barbranken = {
+				}
+			}
+			c_pianknono = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_pianknono = {
+				}
+				b_putnamhatta = {
+				}
+				b_lyoxburon = {
+				}
+				b_uncanykie = {
+				}
+				b_ethiercat = {
+				}
+			}
+			c_wea = {
+
+				color={ 65 177 86 }
+				color2={ 220 220 220 }
+				
+				b_wea = {
+				}
+				b_tippecanoe = {
+				}
+				b_tippweawasha = {
+				}
+				b_shawnondale = {
+				}
+				b_neherbeckeshaw = {
+				}
+			}
+			c_miami = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_miami = {
+				}
+				b_midlotnian = {
+				}
+				b_knimapembraek = {
+				}
+				b_daericago = {
+				}
+				b_belshawkaur = {
+				}
+			}
+			c_ohianepi = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_ohianepi = {
+				}
+				b_kelsohio = {
+				}
+				b_bascamioh= {
+				}
+				b_quarbryaucus = {
+				}
+				b_okentucknepi = {
+				}
+			}
+			c_wabaposhie = {
+
+				color={ 65 177 86 }
+				color2={ 220 220 220 }
+				
+				b_wabaposhie = {
+				}
+				b_niehibkasha = {
+				}
+				b_patokabasha = {
+				}
+				b_aikemane = {
+				}
+				b_simaphalhio = {
+				}
+			}
+			c_wawaswanqa = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_wawaswanqa = {
+				}
+				b_wanqasee = {
+				}
+				b_wawakalcott = {
+				}
+				b_churuwabaka = {
+				}
+				b_wamaiyare = {
+				}
+			}
+		}
+	}
+	k_michigan = {
+
+		color={ 65 14 89 }
+		color2={ 220 220 220 }
+
+		norse = "Michland"
+		norwegian = "Michland"
+		danish = "Michland"
+		swedish = "Michland"
+		english = "Michland"
+		saxon = "Michland"
+		old_saxon = "Michland"
+		german = "Michland"
+
+		capital = 4291 # detroit yes one of the baronies is named manbearpig in seneaca
+		d_detroit = {
+
+			color={ 225 24 99 }
+			color2={ 220 220 220 }
+			
+			capital = 4672 # Lansing
+			
+			c_potawatomi = {
+				color={ 142 174 34 }
+				color2={ 220 220 220 }
+				
+				b_potawatomi = {
+				}
+				b_vascucurrerrast = {
+				}
+				b_aounmgenjlenke = {
+				}
+				b_assikespispierew = {
+				}
+				b_oflenkbitakokuikle = {
+				}
+			}
+			c_detroit = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_detroit = {
+				}
+				b_gawasdano = {
+				}
+				b_ogowatecymesh = {
+				}
+				b_ogwehagedzunigakiskwis = { 
+				}
+				b_eericcigan = {
+				}
+				b_huromichia = {
+				}
+				b_algonquinnegowaneh = { 
+				}
+			}
+			c_cheboygamul = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_cheboygamul = {
+				}
+				b_shiahaginaw = {
+				}
+				b_geneesaginaw = {
+				}
+				b_gratithacaha = { 
+				}
+
+			}
+			c_saginaw = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_saginaw = {
+				}
+				b_saaghitchican = {
+				}
+				b_saogemawta = {
+				}
+			}
+			c_taiwascaro = {
+
+				color={ 26 78 91 }
+				color2={ 220 220 220 }
+				
+				b_taiwascaro = {
+				}
+				b_oscodaogemaw= {
+			              }
+				b_asgwihsagaetge = {
+				}
+				b_genessesaginaw = {
+				}
+				b_arenaciosco = {
+				}
+			}
+			c_lansing = {
+
+				color={ 15 124 224 }
+				color2={ 220 220 220 }
+				
+				b_lansing = {
+				}
+				b_ingriawassee = {
+				}
+				b_huiawass = {
+				}
+			}
+		}
+		d_missauhog = {
+
+			color={ 225 24 99 }
+			color2={ 220 220 220 }
+			
+			capital = 4780 # missauhog
+			
+			c_missauhog = {
+				color={ 142 174 34 }
+				color2={ 220 220 220 }
+				
+				b_missauhog = {
+				}
+				b_maekinacheboy = {
+				}
+				b_cheboychigian = {
+				}
+				b_anowaygahan = {
+				}
+			}
+			c_kalkaska = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_kalkaska = {
+				}
+				b_missikaulk = {
+				}
+				b_manisteceola = {
+				}
+				b_oegweumchum = {
+				}
+			}
+			c_kalamazoo = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_kalamazichiga = {
+				}
+				b_amazoolkaska = {
+				}
+				b_michigkalama = {
+				}
+			}
+			c_cadillac = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_cadillmichiga = {
+				}
+				b_newagakaogan = {
+				}
+				b_cadillac = {
+				}
+			}
+			c_manitoulandau = {
+
+				color={ 26 78 91 }
+				color2={ 220 220 220 }
+				
+				b_manitoulandau = {
+				}
+				b_benzitrim= {
+			    }
+				b_beezenlaux = {
+				}
+				b_toulandmichigia = {
+				}
+			}
+		}
+		d_sagwanegoowaneh = {
+
+			color={ 225 24 99 }
+			color2={ 220 220 220 }
+			
+			capital = 4245 # owesobor
+			
+			c_saultsaintmarie = {
+
+				color={ 65 177 86 }
+				color2={ 220 220 220 }
+				
+				b_chippewa = {
+				}
+				b_mackinac = {
+				}
+				b_hiawatha = {
+				}
+				b_sootwip = {
+				}
+				b_wahtaoshesta = {
+				}
+			}
+			c_newberry = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_gadeyesta = {
+				}
+				b_newaygon = {
+				}
+				b_michmasokent = {
+				}
+				b_muunasing = {
+				}
+			}
+			c_ontonagon = {
+
+				color={ 65 177 86 }
+				color2={ 220 220 220 }
+				
+				b_keweenaw = {
+				}
+				b_ontonagon = {
+				}
+				b_gogebic = {
+				}
+			}
+			c_menomini = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_menomini = {
+				}
+				b_menomininagon = {
+				}
+				b_menogoge = {
+				}
+			}
+		}
+	}
+	k_illinois = {
+
+		color={ 65 14 89 }
+		color2={ 220 220 220 }
+
+		norse = "Illinois"
+		norwegian = "Illinois"
+		danish = "Illinois"
+		swedish = "Illinois"
+		english = "Illinois"
+		saxon = "Illinois"
+		old_saxon = "Illinois"
+		german = "Illinois"
+
+		capital = 4409 # chicago yes one of the baronies is named manbearpig in seneaca
+		d_milwaukee = {
+
+			color={ 225 24 99 }
+			color2={ 220 220 220 }
+			
+			capital = 4673 # Milwaukee
+			
+			c_kewaunee = {
+				color={ 142 174 34 }
+				color2={ 220 220 220 }
+				
+				b_sheboygan = {
+				}
+				b_kaukauna = {
+				}
+				b_ogeodzaganahdaiko = {
+				}
+				b_winnebago = {
+				}
+			}
+			c_milwaukee = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_milwaukee = {
+				}
+				b_kenosha = {
+				}
+				b_rittenhouse = {
+				}
+				b_waupdan = { 
+				}
+				b_wistinois = {
+				}
+				b_illucuscion = {
+				}
+				b_waukesha = {
+				}
+			}
+			c_hauchippewa = {
+
+				color={ 26 78 91 }
+				color2={ 220 220 220 }
+				
+				b_hauchippewa = {
+				}
+				b_chippoj= {
+			              }
+				b_neyoustakerat = {
+				}
+				b_adogwasowanehwa = {
+				}
+			}
+			c_alogaknewa = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_alogaknewa = {
+				}
+				b_algoma = {
+				}
+				b_kewaunee = {
+				}
+			}
+			c_oshadageaohode = {
+
+				color={ 15 124 224 }
+				color2={ 220 220 220 }
+				
+				b_oshadageaohode = {
+				}
+				b_shawano = {
+				}
+				b_tomahawk = {
+				}
+			}
+		}
+		d_wisconsin = {
+
+			color={ 225 24 99 }
+			color2={ 220 220 220 }
+			
+			capital = 4245 # owesobor
+			
+			c_minneapi = {
+
+				color={ 65 177 86 }
+				color2={ 220 220 220 }
+				
+				b_minneapi = {
+				}
+				b_minayfiel = {
+				}
+				b_apostippewa = {
+				}
+				b_elurbmin = {
+				}
+			}
+			c_sante = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_sante = {
+				}
+				b_wisconsin = {
+				}
+				b_wahwahisco = {
+				}
+			}
+			c_ontonagon = {
+
+				color={ 65 177 86 }
+				color2={ 220 220 220 }
+				
+				b_keweenaw = {
+				}
+				b_ontonagon = {
+				}
+				b_gogebic = {
+				}
+			}
+			c_wisonsin = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_madiscon = {
+				}
+				b_tomahviroqua = {
+				}
+				b_montkato = {
+				}
+				b_wiconsin = {
+				}
+			}
+		}
+		d_chicago = {
+
+			color={ 225 24 99 }
+			color2={ 220 220 220 }
+			
+			capital = 4409 # Chicago ,spear of the one with big breasts is the name of a barony... its just an interesting way to say amazon in seneca
+			
+			c_winabago = {
+				color={ 142 174 34 }
+				color2={ 220 220 220 }
+				
+				b_winabago = {
+				}
+				b_waukegan = {
+				}
+				b_winnyia = {
+				}
+				b_kenshabago = {
+				}
+			}
+			c_chicago = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_chicago = {
+				}
+				b_kackaskia = {
+				}
+				b_kankakee = {
+				}
+				b_chiconsin = { 
+				}
+				b_chichigan = {
+				}
+				b_dupacokwil = {
+				}
+				b_dakalkib = {
+				}
+			}
+			c_kickapoo = {
+
+				color={ 26 78 91 }
+				color2={ 220 220 220 }
+				
+				b_kickapoo = {
+				}
+				b_liriodendron= {
+			              }
+				b_hsikwarnokwes = {
+				}
+				b_skwaragyoyagedoh = {
+				}
+			}
+		}
+		d_illinois = {
+
+			color={ 225 24 99 }
+			color2={ 220 220 220 }
+			
+			capital = 4406 # illinois
+			
+			c_peoria = {
+
+				color={ 65 177 86 }
+				color2={ 220 220 220 }
+				
+				b_wabalaw = {
+				}
+				b_effingheim = {
+				}
+				b_hwaeniyoagatodetganueoa = {
+				}
+				b_ogwahsoshashoogeo = {
+				}
+			}
+			c_tamaroa = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_tamaroa = {
+				}
+				b_tomorioa = {
+				}
+				b_tomorhio = {
+				}
+			}
+			c_illinois = {
+
+				color={ 65 177 86 }
+				color2={ 220 220 220 }
+				
+				b_illinois = {
+				}
+				b_maupusagna = {
+				}
+				b_macoupin = {
+				}
+			}
+			c_sangamon = {
+
+				color={ 65 177 86 }
+				color2={ 220 220 220 }
+				
+				b_sangamon = {
+				}
+				b_kaskasangamon = {
+				}
+				b_maukinaw = {
+				}
+			}
+			c_ploingwena = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_plongwena = {
+				}
+				b_plognminnes = {
+				}
+				b_weasota = {
+				}
+				b_weiowa = {
+				}
+			}
+			c_cahokia = {
+
+				color={ 155 173 93 }
+				color2={ 220 220 220 }
+				
+				b_cahokia = {
+				}
+				b_nodoshawnee = {
+				}
+				b_illiniwek = {
+				}
+				b_cahomonka = {
+				}
+				b_cahilliniwek = {
+				}
+				b_cahoshosoaw = {
+				}
+				b_missisicahok = {
+				}
+			}
+		}
+	}
+}

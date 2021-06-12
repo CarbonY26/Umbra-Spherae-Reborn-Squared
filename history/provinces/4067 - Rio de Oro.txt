@@ -1,0 +1,27 @@
+# 4067 - Rio de Oro
+
+# County Title
+title = c_rio_de_oro
+
+# Settlements
+max_settlements = 7
+
+b_dakhla = tribal
+
+#b_bir_anzarane = tribal
+#b_gleibat_el_foula = tribal
+#b_la_guera = tribal
+#b_mijek = tribal
+#b_oum_dreyga = tribal
+#b_el_argoub = tribal
+
+# Misc
+culture = tashellhit
+religion = shiite
+
+# History
+767.1.1 = { religion = ibadi }
+867.1.1 = {
+	religion = shiite        
+}
+947.1.1 = { religion = sunni }

@@ -1,0 +1,13 @@
+# 4102 - Graham
+
+# County Title
+title = c_
+
+# Settlements
+max_settlements = 
+
+# Misc
+culture = 
+religion = 
+
+# History

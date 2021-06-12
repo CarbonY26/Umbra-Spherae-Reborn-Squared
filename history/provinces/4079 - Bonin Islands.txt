@@ -1,0 +1,22 @@
+# 4079 - Bonin Islands
+
+# County Title 
+title = c_ogasawara_islands
+
+# Settlements
+max_settlements = 7
+
+b_ogasawara = tribal
+#b_minami = tribal
+#b_chichijima = tribal
+#b_ioto = tribal
+#b_okimura = tribal
+#b_kitamura = tribal
+#b_omura = tribal
+
+# Misc
+culture = japanese
+religion = nihon_shinto
+
+# History
+

@@ -1,0 +1,3824 @@
+70092 = {
+	name="Fernandu"
+	dynasty=8620
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	trait="greedy"
+	trait="brave"
+	trait="tough_soldier"
+	
+	1004.1.1 = {
+		birth="1004.1.1"
+	}
+	1022.1.1 = {
+		add_spouse=70093
+	}
+	1054.1.1 = {
+		death="1054.1.1"
+	}
+}
+70094 = {
+	name="Flaín"
+	dynasty=8620
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	trait="hunter"
+	trait="patient"
+	trait="tough_soldier"
+	father=70092
+	mother=70093
+	1024.1.1 = {
+		birth="1024.1.1"
+	}
+	1046.1.1 = {
+		add_spouse=70095
+	}
+	1066.1.1 = {
+		employer=108500
+	}
+	1070.1.1 = {
+		death="1070.1.1"
+	}
+}
+70095={
+	name="Toda"
+	female=yes
+
+	religion=catholic
+	culture="leonese"
+	
+	1030.1.1={
+		birth=yes
+	}
+	1075.4.23={
+		death=yes
+	}
+}
+70096 = {
+	name="Fernandu"
+	dynasty=8620
+	martial=5
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	trait="temperate"
+	trait="brave"
+	trait="misguided_warrior"
+	father=70094
+	mother=70095
+	
+	1056.1.1 = {
+		birth="1056.1.1"
+	}
+	1106.1.1 = {
+		death="1106.1.1"
+	}
+}
+70097={
+	name="Óneca"
+	female=yes
+	dynasty=8620
+
+	father=70094
+	mother=70095
+
+	religion=catholic
+	culture="leonese"
+
+	1057.1.1={
+		birth=yes
+	}
+	1097.1.1={
+		death=yes
+	}
+}
+70098 = {
+	name="Martín"
+	dynasty=8620
+	martial=5
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	trait="quick"
+	trait="naive_appeaser"
+	father=70094
+	mother=70095
+	1058.1.1 = {
+		birth="1058.1.1"
+	}
+	1079.1.1 = {
+		add_spouse=72364
+	}
+	1108.5.1 = {
+		death="1108.5.1"
+	}
+}
+70099 = {
+	name="Xusta"
+	female=yes
+	dynasty=8620
+	martial=3
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	trait="mystic"
+	trait="honest"
+	trait="indulgent_wastrel"
+	father=70092
+	mother=70093
+	
+	1025.1.1 = {
+		birth="1025.1.1"
+	}
+	1075.1.1 = {
+		death="1075.1.1"
+	}
+}
+70106 = {
+	name="Pelayu"
+	dynasty=8620
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="castillan"
+	trait="ill"
+	trait="slothful"
+	trait="underhanded_rogue"
+	father=70092
+	mother=70093
+	
+	1026.1.1 = {
+		birth="1026.1.1"
+	}
+	1050.1.1 = {
+		death="1050.1.1"
+	}
+}
+70107={
+	name="Flaín"
+	dynasty=8620
+
+	father=70106
+
+	religion=catholic
+	culture="leonese"
+
+	1043.1.1={
+		birth=yes
+	}
+	1074.1.1={
+		add_spouse=70108
+	}
+	1093.1.1={
+		death=yes
+	}
+}
+70108={
+	name="Gotina"
+	female=yes
+	dynasty=8779
+
+	father=73035
+	mother=73036
+
+	religion=catholic
+	culture="leonese"
+
+	1058.1.1={
+		birth=yes
+	}
+	1091.4.1={
+		death=yes
+	}
+}
+70109={
+	name="Bermudu"
+	dynasty=8620
+
+	father=70107
+	mother=70108
+
+	religion=catholic
+	culture="leonese"
+
+	1075.1.1={
+		birth=yes
+	}
+	1087.1.1={
+		death=yes
+	}
+}
+70110={
+	name="Gonzalu"
+	dynasty=8620
+
+	father=70107
+	mother=70108
+
+	religion=catholic
+	culture="leonese"
+
+	1086.1.1={
+		birth=yes
+	}
+	1104.1.1={
+		add_spouse=73040
+	}
+	1106.1.1={
+		death=yes
+	}
+}
+71323 = {
+	name="Nuñu"
+	dynasty=8738
+	religion="catholic"
+	culture="leonese"
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1067.1.1 = {
+		add_spouse=70040
+	}
+	1092.1.1 = {
+		death="1092.1.1"
+	}
+}
+71324 = {
+	name="Fernandu"
+	dynasty=8738
+	religion="catholic"
+	culture="leonese"
+	father=71323
+	mother=70040
+	1068.1.1 = {
+		birth="1068.1.1"
+	}
+	1108.3.31 = {
+		death="1108.3.31"
+	}
+}
+71369 = {
+	name="Tegridia"
+	dynasty=8620
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=70098
+	mother=72364
+	1079.1.1 = {
+		birth="1079.1.1"
+	}
+	1119.1.1 = {
+		death="1119.1.1"
+	}
+}
+71504 = {
+	name="Fernandu"
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=72644
+	mother=72766
+	1303.1.1 = {
+		birth="1303.1.1"
+	}
+	1325.1.1 = {
+		add_spouse=71503
+	}
+	1349.1.1 = {
+		death="1349.1.1"
+	}
+}
+72171={
+	name="Vela"
+	dynasty=8779
+
+	father=73062
+	mother=72864
+
+	religion=catholic
+	culture="leonese"
+
+	1131.1.1={
+		birth=yes
+	}
+	1161.1.1={
+		add_spouse=72170
+	}
+	1170.11.4={
+		death=yes
+	}
+}
+72364 = {
+	name="Sancha"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1060.1.1 = {
+		birth="1060.1.1"
+	}
+	1116.1.1 = {
+		death="1116.1.1"
+	}
+}
+72365 = {
+	name="Osoriu"
+	dynasty=8620
+	religion="catholic"
+	culture="leonese"
+	father=70098
+	mother=72364
+	1097.1.1 = {
+		birth="1097.1.1"
+	}
+	1137.1.1 = {
+		add_spouse=72360
+	}
+	1160.3.1 = {
+		death="1160.3.1"
+	}
+}
+72366 = {
+	name="Aldonza"
+	dynasty=8620
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=72365
+	mother=72360
+	1138.1.1 = {
+		birth="1138.1.1"
+	}
+	1143.1.2 = {
+		death="1143.1.2"
+	}
+}
+72367 = {
+	name="Constanza"
+	dynasty=8620
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=72365
+	mother=72360
+	1140.1.1 = {
+		birth="1140.1.1"
+	}
+	1192.1.1 = {
+		death="1192.1.1"
+	}
+}
+72369 = {
+	name="Fernandu"
+	dynasty=8620
+	religion="catholic"
+	culture="leonese"
+	father=72365
+	mother=72360
+	1144.1.1 = {
+		birth="1144.1.1"
+	}
+	1199.1.1 = {
+		death="1199.1.1"
+	}
+}
+72370 = {
+	name="Gonzalu"
+	dynasty=8620
+	religion="catholic"
+	culture="leonese"
+	father=72365
+	mother=72360
+	1146.1.1 = {
+		birth="1146.1.1"
+	}
+	1165.1.1 = {
+		add_spouse=72371
+	}
+	1187.1.1 = {
+		death="1187.1.1"
+	}
+}
+72371 = {
+	name="Marina"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1149.1.1 = {
+		birth="1149.1.1"
+	}
+	1193.1.1 = {
+		death="1193.1.1"
+	}
+}
+72372 = {
+	name="Ximena"
+	dynasty=8620
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=72365
+	mother=72360
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1199.1.1 = {
+		death="1199.1.1"
+	}
+}
+72373 = {
+	name="Rodrigu"
+	dynasty=8620
+	religion="catholic"
+	culture="leonese"
+	father=72365
+	mother=72360
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1199.1.1 = {
+		death="1199.1.1"
+	}
+}
+72374 = {
+	name="Rodrigu"
+	dynasty=8620
+	religion="catholic"
+	culture="leonese"
+	father=72373
+	1190.1.1 = {
+		birth="1190.1.1"
+	}
+	1241.1.1 = {
+		death="1241.1.1"
+	}
+}
+72375 = {
+	name="Rodrigu"
+	dynasty=8620
+	religion="catholic"
+	culture="leonese"
+	father=72374
+	1232.1.1 = {
+		birth="1232.1.1"
+	}
+	1296.1.1 = {
+		death="1296.1.1"
+	}
+}
+72376 = {
+	name="Sancha"
+	dynasty=8620
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=72365
+	mother=72360
+	1152.1.1 = {
+		birth="1152.1.1"
+	}
+	1163.1.1 = {
+		death="1163.1.1"
+	}
+}
+72377 = {
+	name="Rodrigu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72966
+	mother=72981
+	1134.1.1={
+		birth="1134.1.1"
+	}
+	1162.1.1={
+		add_spouse=73106
+	}
+	1190.6.1 = {
+		add_spouse=72372
+	}
+	1193.7.1={
+		death="1193.7.1"
+	}
+}
+72397 = {
+	name="Elvira"
+	dynasty=8620
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=72365
+	mother=72360
+	1142.1.1 = {
+		birth="1142.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+72398 = {
+	name="Fernandu"
+	dynasty=100189
+	religion="catholic"
+	culture="leonese"
+	father=72396
+	trait=bastard
+	1150.1.1 = {
+		birth="1150.1.1"
+	}
+	1195.4.9 = {
+		death="1195.4.9"
+	}
+}
+72399 = {
+	name="Marina"
+	dynasty=100189
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=72398
+	1174.1.1 = {
+		birth="1174.1.1"
+	}
+	1179.11.2 = {
+		death="1179.11.2"
+	}
+}
+72400 = {
+	name="Velascu"
+	dynasty=100189
+	religion="catholic"
+	culture="leonese"
+	father=72398
+	1176.1.1 = {
+		birth="1176.1.1"
+	}
+	1187.9.30 = {
+		death="1187.9.30"
+	}
+}
+72401 = {
+	name="Pedru"
+	dynasty=100189
+	religion="catholic"
+	culture="leonese"
+	father=72398
+	1178.1.1 = {
+		birth="1178.1.1"
+	}
+	1200.3.25 = {
+		death="1200.3.25"
+	}
+}
+72602 = {
+	name="Rodrigu"
+	dynasty=8630
+	religion="catholic"
+	culture="leonese"
+	father=72575
+	mother=71398
+	1219.1.1 = {
+		birth="1219.1.1"
+	}
+	1243.1.1 = {
+		dynasty=7011
+	}
+	1266.1.1 = {
+		add_spouse=72017
+	}
+	1289.1.1 = {
+		death="1289.1.1"
+	}
+}
+72611 = {
+	name="Gil"
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=72602
+	mother=72017
+	1267.1.1 = {
+		birth="1267.1.1"
+	}
+	1285.1.1 = {
+		add_spouse=72643
+	}
+	1289.1.1 = {
+		death="1289.1.1"
+	}
+}
+72612 = {
+	name="Lope"
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=72602
+	mother=72017
+	1269.1.1 = {
+		birth="1269.1.1"
+	}
+	1312.1.1 = {
+		add_spouse=72631
+	}
+	1317.1.1 = {
+		death="1317.1.1"
+	}
+}
+72613 = {
+	name="Rodrigu"
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=72602
+	mother=72017
+	1271.1.1 = {
+		birth="1271.1.1"
+	}
+	1296.1.1 = {
+		add_spouse=457676
+	}
+	1297.1.1 = {
+		death="1297.1.1"
+	}
+}
+72614 = {
+	name="Fernandu"
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	trait="martial_cleric"
+	father=72602
+	mother=72017
+	1273.1.1 = {
+		birth="1273.1.1"
+	}
+	1342.1.1 = {
+		death="1342.1.1"
+	}
+}
+72615 = {
+	name="Teresa"
+	female=yes
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=72602
+	mother=72017
+	1275.1.1 = {
+		birth="1275.1.1"
+	}
+	1345.1.1 = {
+		death="1345.1.1"
+	}
+}
+72616 = {
+	name="Inés"
+	dynasty=7011
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=72602
+	mother=72017
+	1277.1.1 = {
+		birth="1277.1.1"
+	}
+	1340.1.1 = {
+		death="1340.1.1"
+	}
+}
+72617 = {
+	name="Constanza"
+	female=yes
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=72602
+	mother=72017
+	1279.1.1 = {
+		birth="1279.1.1"
+	}
+	1336.1.1 = {
+		death="1336.1.1"
+	}
+}
+72618 = {
+	name="Mayor"
+	female=yes
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=72602
+	mother=72017
+	1281.1.1 = {
+		birth="1281.1.1"
+	}
+	1347.1.1 = {
+		death="1347.1.1"
+	}
+}
+72619 = {
+	name="Marquesa"
+	dynasty=7011
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=72602
+	mother=72017
+	1283.1.1 = {
+		birth="1283.1.1"
+	}
+	1350.1.1 = {
+		death="1350.1.1"
+	}
+}
+72636 = {
+	name="María"
+	female=yes
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=72613
+	mother=457676
+	1297.1.1 = {
+		birth="1297.1.1"
+	}
+	1359.1.1 = {
+		death="1359.1.1"
+	}
+}
+72637 = {
+	name="Lope"
+	dynasty=7035
+	religion="catholic"
+	culture="leonese"
+	1290.1.1 = {
+		birth="1290.1.1"
+	}
+	1315.1.1 = {
+		add_spouse=72636
+	}
+	1348.12.22 = {
+		death="1348.12.22"
+	}
+}
+
+72638 = {
+	name="Rodrigu"
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=72612
+	mother=72631
+	1313.1.1 = {
+		birth="1313.1.1"
+	}
+	1337.1.1 = {
+		add_spouse=72642
+	}
+	1371.1.1 = {
+		death="1371.1.1"
+	}
+}
+72639 = {
+	name="Teresa"
+	female=yes
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=72612
+	mother=72631
+	1314.1.1 = {
+		birth="1314.1.1"
+	}
+	1378.1.1 = {
+		death="1378.1.1"
+	}
+}
+72640 = {
+	name="Mayor"
+	female=yes
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=72612
+	mother=72631
+	1315.1.1 = {
+		birth="1315.1.1"
+	}
+	1380.1.1 = {
+		death="1380.1.1"
+	}
+}
+72641 = {
+	name="Marquesa"
+	female=yes
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=72612
+	mother=72631
+	1316.1.1 = {
+		birth="1316.1.1"
+	}
+	1385.1.1 = {
+		death="1385.1.1"
+	}
+}
+72642 = {
+	name="Teresa"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1319.1.1 = {
+		birth="1319.1.1"
+	}
+	1380.1.1 = {
+		death="1380.1.1"
+	}
+}
+72643 = {
+	name="María"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1269.1.1 = {
+		birth="1269.1.1"
+	}
+	1338.1.1 = {
+		death="1338.1.1"
+	}
+}
+72644 = {
+	name="Rodrigu"
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=72611
+	mother=72643
+	1286.1.1 = {
+		birth="1286.1.1"
+	}
+	1302.1.1 = {
+		add_spouse=72766
+	}
+	1326.2.26 = {
+		death="1326.2.26"
+	}
+}
+72645 = {
+	name="Andrés"
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	trait="martial_cleric"
+	father=72611
+	mother=72643
+	1288.1.1 = {
+		birth="1288.1.1"
+	}
+	1330.1.1 = {
+		death="1330.1.1"
+	}
+}
+72646 = {
+	name="Gil"
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=72644
+	mother=72766
+	1305.1.1 = {
+		birth="1305.1.1"
+	}
+	1355.1.1 = {
+		death="1355.1.1"
+	}
+}
+72647 = {
+	name="María"
+	female=yes
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=72644
+	mother=72766
+	1307.1.1 = {
+		birth="1307.1.1"
+	}
+	1360.1.1 = {
+		death="1360.1.1"
+	}
+}
+72648 = {
+	name="Fernandu"
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=71504
+	mother=71503
+	1326.1.1 = {
+		birth="1326.1.1"
+	}
+	1352.1.1 = {
+		death="1352.1.1"
+	}
+}
+72649 = {
+	name="Blanca"
+	female=yes
+	dynasty=7011
+	religion="catholic"
+	culture="leonese"
+	father=71504
+	mother=71503
+	1328.1.1 = {
+		birth="1328.1.1"
+	}
+	1362.1.1 = {
+		death="1362.1.1"
+	}
+}
+72950={
+	name="Esteban"
+
+	religion=catholic
+	culture="leonese"
+
+	trait=scholarly_theologian
+
+	1100.1.1={
+		birth=yes
+	}
+	1174.1.1={
+		death=yes
+	}
+}
+72951={
+	name="Guillén"
+
+	religion=catholic
+	culture="leonese"
+
+	trait=scholarly_theologian
+
+	1132.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+72952={
+	name="Martín"
+
+	religion=catholic
+	culture="leonese"
+
+	trait=scholarly_theologian
+
+	1171.1.1={
+		birth=yes
+	}
+	1238.1.1={
+		death=yes
+	}
+}
+72953={
+	name="Pedru"
+
+	religion=catholic
+	culture="leonese"
+
+	trait=scholarly_theologian
+
+	1193.1.1={
+		birth=yes
+	}
+	1254.1.1={
+		death=yes
+	}
+}
+72954={
+	name="Sueru"
+
+	religion=catholic
+	culture="leonese"
+
+	trait=scholarly_theologian
+
+	1212.1.1={
+		birth=yes
+	}
+	1286.1.1={
+		death=yes
+	}
+}
+72955={
+	name="Alfonsu"
+
+	religion=catholic
+	culture="leonese"
+
+	trait=scholarly_theologian
+
+	1242.1.1={
+		birth=yes
+	}
+	1293.1.1={
+		death=yes
+	}
+}
+72956={
+	name="Pedru"
+
+	religion=catholic
+	culture="leonese"
+
+	trait=scholarly_theologian
+
+	1249.1.1={
+		birth=yes
+	}
+	1303.1.1={
+		death=yes
+	}
+}
+72957={
+	name="Gonzalu"
+
+	religion=catholic
+	culture="leonese"
+
+	trait=scholarly_theologian
+
+	1265.1.1={
+		birth=yes
+	}
+	1310.1.1={
+		death=yes
+	}
+}
+72958={
+	name="Diegu"
+
+	religion=catholic
+	culture="leonese"
+
+	trait=scholarly_theologian
+
+	1266.1.1={
+		birth=yes
+	}
+	1326.1.1={
+		death=yes
+	}
+}
+72959={
+	name="Rodrigu"
+
+	religion=catholic
+	culture="leonese"
+
+	trait=scholarly_theologian
+
+	1288.1.1={
+		birth=yes
+	}
+	1335.1.1={
+		death=yes
+	}
+}
+72960={
+	name="Pedru"
+
+	religion=catholic
+	culture="leonese"
+
+	trait=scholarly_theologian
+
+	1290.1.1={
+		birth=yes
+	}
+	1343.1.1={
+		death=yes
+	}
+}
+73018 = {
+	name="Berenguela"
+	dynasty=7025
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=72986
+	mother=73000
+	1225.1.1 = {
+		birth="1225.1.1"
+	}
+	1283.1.1 = {
+		death="1283.1.1"
+	}
+}
+73019 = {
+	name="Mayor"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1202.1.1 = {
+		birth="1202.1.1"
+	}
+	1243.1.1 = {
+		death="1243.1.1"
+	}
+}
+73020 = {
+	name="Gonzalu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=73001
+	mother=73019
+	1230.1.1 = {
+		birth="1230.1.1"
+	}
+	1263.1.1 = {
+		add_spouse=72628
+	}
+	1280.1.1 = {
+		death="1280.1.1"
+	}
+}
+73021 = {
+	name="Mencía"
+	female=yes
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=73001
+	mother=73019
+	1232.1.1 = {
+		birth="1232.1.1"
+	}
+	1291.1.1 = {
+		death="1291.1.1"
+	}
+}
+73022 = {
+	name="Inés"
+	female=yes
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=73001
+	mother=71970
+	1244.1.1 = {
+		birth="1244.1.1"
+	}
+	1265.1.1 = {
+		death="1265.1.1"
+	}
+}
+73023 = {
+	name="Gonzalu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=73020
+	mother=72628
+	1264.1.1 = {
+		birth="1264.1.1"
+	}
+	1268.10.10 = {
+		death="1268.10.10"
+	}
+}
+73024 = {
+	name="Rodrigu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=73020
+	mother=72628
+	1266.1.1 = {
+		birth="1266.1.1"
+	}
+	1287.1.1 = {
+		add_spouse=73026
+	}
+	1288.1.1 = {
+		death="1288.1.1"
+	}
+}
+73025 = {
+	name="Elvira"
+	dynasty=7025
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=73020
+	mother=72628
+	1268.1.1 = {
+		birth="1268.1.1"
+	}
+	1290.1.1 = {
+		death="1290.1.1"
+	}
+}
+73026 = {
+	name="Berenguela"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1269.1.1 = {
+		birth="1269.1.1"
+	}
+	1346.1.1 = {
+		death="1346.1.1"
+	}
+}
+73027 = {
+	name="Gonzalu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=73024
+	mother=73026
+	1288.1.1 = {
+		birth="1288.1.1"
+	}
+	1323.1.1 = {
+		add_spouse=72699
+	}
+	1335.1.1 = {
+		death="1335.1.1"
+	}
+}
+73028 = {
+	name="Gonzalu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=73027
+	mother=72699
+	1324.1.1 = {
+		birth="1324.1.1"
+	}
+	1380.1.1 = {
+		death="1380.1.1"
+	}
+}
+73029 = {
+	name="Rodrigu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=73027
+	mother=72699
+	1326.1.1 = {
+		birth="1326.1.1"
+	}
+	1385.1.1 = {
+		death="1385.1.1"
+	}
+}
+73030={
+	name="Gómez"
+	dynasty=7025
+
+	father=73020
+	mother=72628
+
+	religion=catholic
+	culture="leonese"
+
+	1270.1.1={
+		birth=yes
+	}
+	1286.1.1={
+		add_spouse=142200
+	}
+	1329.1.1={
+		death=yes
+	}
+}
+73031={
+	name="Xuana"
+	female=yes
+	dynasty=7025
+
+	father=73030
+
+	religion=catholic
+	culture="leonese"
+
+	1287.1.1={
+		birth=yes
+	}
+	1349.1.1={
+		death=yes
+	}
+}
+73032={
+	name="Bermudu"
+	dynasty=8779
+
+	father=73898
+
+	religion=catholic
+	culture="leonese"
+
+	976.1.1={
+		birth=yes
+	}
+	1027.1.26={
+		death=yes
+	}
+}
+73033={
+	name="Vela"
+	dynasty=8779
+
+	father=73032
+
+	religion=catholic
+	culture="leonese"
+
+	1000.1.1={
+		birth=yes
+	}
+	1045.1.1={
+		death=yes
+	}
+}
+73034={
+	name="Ovecu" #Oveco Vermudez or Bermudez de Vela
+	dynasty=8779
+
+	father=73032
+
+	religion=catholic
+	culture="leonese"
+
+	1002.1.1={
+		birth=yes
+	}
+	1036.1.1={
+		add_spouse=73044  #Elvira Suarez
+	}
+	1052.1.1={
+		death=yes
+	}
+}
+73035={
+	name="Bermudu"
+	dynasty=8779
+
+	father=73033
+
+	religion=catholic
+	culture="leonese"
+
+	1030.1.1={
+		birth=yes
+	}
+	1055.1.1={
+		add_spouse=73036
+	}
+	1093.1.1={
+		death=yes
+	}
+}
+73036={
+	name="Elvira"
+	female=yes
+
+	religion=catholic
+	culture="leonese"
+
+	1039.1.1={
+		birth=yes
+	}
+	1101.1.1={
+		death=yes
+	}
+}
+73037={
+	name="Vela"
+	dynasty=8779
+
+	father=73035
+	mother=73036
+
+	religion=catholic
+	culture="leonese"
+
+	1056.1.1={
+		birth=yes
+	}
+	1075.1.1={
+		add_spouse=200170
+	}
+	1095.1.25={
+		death=yes
+	}
+}
+73038={
+	name="Bermudu"
+	dynasty=8779
+
+	father=73037
+	mother=200170
+
+	religion=catholic
+	culture="leonese"
+
+	1076.1.1={
+		birth=yes
+	}
+	1095.1.25={
+		death=yes
+	}
+}
+73039={
+	name="Sancha"
+	female=yes
+	dynasty=8779
+
+	father=73037
+	mother=200170
+
+	religion=catholic
+	culture="leonese"
+
+	1078.1.1={
+		birth=yes
+	}
+	1095.1.25={
+		death=yes
+	}
+}
+73040 = {
+	name="Marina"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1086.1.1={
+		birth="1086.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+73041={
+	name="Bermudu"
+	dynasty=8779
+
+	father=73034
+	mother=73044
+
+	religion=catholic
+	culture="leonese"
+
+	1039.1.1={
+		birth=yes
+	}
+	1055.1.1={
+		add_spouse=73049
+	}
+	1092.1.1={
+		death=yes
+	}
+}
+73043 = {
+	name="Rodrigu"
+	dynasty = 8779
+	religion="catholic"
+	culture="leonese"
+	father=73034
+	mother=73044
+	1041.1.1={
+		birth="1041.1.1"
+	}
+	1066.1.1 = {
+		add_spouse=73045
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+73044 = {
+	name="Elvira"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1021.1.1={
+		birth="1021.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+73045 = {
+	name="Toda"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1031.1.1={
+		birth=yes
+	}
+	1091.1.1={
+		death=yes
+	}
+}
+73046 = {
+	name="Aldonza"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	1125.1.1={
+		death="1125.1.1"
+	}
+}
+73049 = {
+	name="Ximena"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1095.7.16={
+		death="1095.7.16"
+	}
+}
+73050={
+	name="Sueru"
+	dynasty=8779
+
+	father=73041
+	mother=73049
+
+	religion=catholic
+	culture="leonese"
+
+	1056.1.1={
+		birth=yes
+	}
+	1080.1.1={
+		add_spouse=73052
+	}
+	1138.8.12={
+		death=yes
+	}
+}
+73051={
+	name="Alfonsu"
+	dynasty=8779
+
+	father=73041
+	mother=73049
+
+	religion=catholic
+	culture="leonese"
+
+	1058.1.1={
+		birth=yes
+	}
+	1080.1.1={
+		add_spouse=73053
+	}
+	1129.3.8={
+		death=yes
+	}
+}
+73052 = {
+	name="Anderquina"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	1125.1.1={
+		death="1125.1.1"
+	}
+}
+73053 = {
+	name="Urraca"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	1129.1.1={
+		death="1129.1.1"
+	}
+}
+73054={
+	name="Pedru"
+	dynasty=8779
+
+	father=73051
+	mother=73053
+
+	religion=catholic
+	culture="leonese"
+
+	1081.1.1={
+		birth=yes
+	}
+	1130.1.1={
+		add_spouse=72898
+	}
+	1167.1.1={
+		add_spouse=72562
+	}
+	1179.9.23={
+		death=yes
+	}
+}
+73055={
+	name="Gutierre"
+	dynasty=8779
+
+	father=73051
+	mother=73053
+
+	religion=catholic
+	culture="leonese"
+
+	1082.1.1={
+		birth=yes
+	}
+	1138.1.1={
+		death=yes
+	}
+}
+73056={
+	name="Gonzalu"
+	dynasty=8779
+
+	father=73051
+	mother=73053
+
+	religion=catholic
+	culture="leonese"
+
+	1083.1.1={
+		birth=yes
+	}
+	1141.6.1={
+		death=yes
+	}
+}
+73057={
+	name="Rodrigu"
+	dynasty=8779
+
+	father=73051
+	mother=73053
+
+	religion=catholic
+	culture="leonese"
+
+	1085.1.1={
+		birth=yes
+	}
+	1140.1.1={
+		death=yes
+	}
+}
+73058={
+	name="María"
+	female=yes
+	dynasty=8779
+
+	father=73051
+	mother=73053
+
+	religion=catholic
+	culture="leonese"
+
+	1086.1.1={
+		birth=yes
+	}
+	1145.1.1={
+		death=yes
+	}
+}
+73059={
+	name="Aldonza"
+	female=yes
+	dynasty=8779
+
+	father=73051
+	mother=73053
+
+	religion=catholic
+	culture="leonese"
+
+	1088.1.1={
+		birth=yes
+	}
+	1144.1.1={
+		death=yes
+	}
+}
+73060={
+	name="Teresa"
+	female=yes
+	dynasty=8779
+
+	father=73051
+	mother=73053
+
+	religion=catholic
+	culture="leonese"
+
+	1089.1.1={
+		birth=yes
+	}
+	1135.1.1={
+		death=yes
+	}
+}
+73061={
+	name="Elvira"
+	female=yes
+	dynasty=8779
+
+	father=73054
+	mother=72898
+
+	religion=catholic
+	culture="leonese"
+
+	1131.1.1={
+		birth=yes
+	}
+	1182.1.1={
+		death=yes
+	}
+}
+73062={
+	name="Gutierre"
+	dynasty=8779
+
+	father=73041
+	mother=73049
+
+	religion=catholic
+	culture="leonese"
+
+	1090.1.1={
+		birth=yes
+	}
+	1130.1.1={
+		add_spouse=72864
+	}
+	1182.1.1={
+		death=yes
+	}
+}
+73063={
+	name="Urraca"
+	female=yes
+	dynasty=8779
+
+	father=73041
+	mother=73049
+
+	religion=catholic
+	culture="leonese"
+
+	1062.1.1={
+		birth=yes
+	}
+	1135.1.1={
+		death=yes
+	}
+}
+73064={
+	name="Ximena"
+	female=yes
+	dynasty=8779
+
+	father=73041
+	mother=73049
+
+	religion=catholic
+	culture="leonese"
+
+	1064.1.1={
+		birth=yes
+	}
+	1134.1.1={
+		death=yes
+	}
+}
+73065={
+	name="Velasquita"
+	female=yes
+	dynasty=8779
+
+	father=73041
+	mother=73049
+
+	religion=catholic
+	culture="leonese"
+
+	1066.1.1={
+		birth=yes
+	}
+	1140.1.1={
+		death=yes
+	}
+}
+73070={
+	name="Rodrigu"
+	dynasty=8779
+
+	father=72171
+	mother=72170
+
+	religion=catholic
+	culture="leonese"
+
+	1162.1.1={
+		birth=yes
+	}
+	1175.1.1={
+		death=yes
+	}
+}
+73071={
+	name="García"
+	dynasty=8779
+
+	father=72171
+	mother=72170
+
+	religion=catholic
+	culture="leonese"
+
+	1163.1.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+73072={
+	name="Fernandu"
+	dynasty=8779
+
+	father=72171
+	mother=72170
+
+	religion=catholic
+	culture="leonese"
+
+	1165.1.1={
+		birth=yes
+	}
+	1190.1.1={
+		add_spouse=73077
+	}
+	1192.1.1={
+		death=yes
+	}
+}
+73073={
+	name="Ponce"
+	dynasty=8779
+
+	father=72171
+	mother=72170
+
+	religion=catholic
+	culture="leonese"
+
+	1166.1.1={
+		birth=yes
+	}
+	1190.1.1={
+		add_spouse=72998
+	}
+	1202.9.24={
+		death=yes
+	}
+}
+73074={
+	name="Xuan"
+	dynasty=8779
+
+	father=72171
+	mother=72170
+
+	religion=catholic
+	culture="leonese"
+
+	1168.1.1={
+		birth=yes
+	}
+	1172.1.1={
+		death=yes
+	}
+}
+73075={
+	name="Pedru"
+	dynasty=8779
+
+	father=72171
+	mother=72170
+
+	religion=catholic
+	culture="leonese"
+
+	trait=detached_priest
+
+	1169.1.1={
+		birth=yes
+	}
+	1210.1.1={
+		death=yes
+	}
+}
+73076={
+	name="María"
+	female=yes
+	dynasty=8779
+
+	father=72171
+	mother=72170
+
+	religion=catholic
+	culture="leonese"
+
+	trait=detached_priest
+
+	1171.1.1={
+		birth=yes
+	}
+	1213.1.1={
+		death=yes
+	}
+}
+73077 = {
+	name="Sancha"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1173.1.1={
+		birth="1173.1.1"
+	}
+	1234.1.1={
+		death="1234.1.1"
+	}
+}
+73078={
+	name="Xuan"
+	dynasty=8779
+
+	father=73072
+	mother=73077
+
+	religion=catholic
+	culture="leonese"
+
+	1191.1.1={
+		birth=yes
+	}
+	1193.1.1={
+		death=yes
+	}
+}
+73079={
+	name="Fernandu"
+	dynasty=8779
+
+	father=73072
+	mother=73077
+
+	religion=catholic
+	culture="leonese"
+
+	1192.1.1={
+		birth=yes
+	}
+	1221.1.1={
+		death=yes
+	}
+}
+73080={
+	name="Fernandu"
+	dynasty=8779
+
+	father=73073
+	mother=72998
+
+	religion=catholic
+	culture="leonese"
+
+	1191.1.1={
+		birth=yes
+	}
+	1205.1.1={
+		death=yes
+	}
+}
+73081={
+	name="Xuan"
+	dynasty=8779
+
+	father=73073
+	mother=72998
+
+	religion=catholic
+	culture="leonese"
+
+	1193.1.1={
+		birth=yes
+	}
+	1200.1.1={
+		death=yes
+	}
+}
+73082={
+	name="Pedru"
+	dynasty=8779
+
+	father=73073
+	mother=72998
+
+	religion=catholic
+	culture="leonese"
+
+	1194.10.19={
+		birth=yes
+	}
+	1225.1.1={
+		add_spouse=71445
+		dynasty=7003
+	}
+	1265.1.1={
+		death=yes
+	}
+}
+73083 = {
+	name="Fernandu"
+	dynasty = 7003
+	religion="catholic"
+	culture="leonese"
+	father=73082
+	mother=71445
+	1226.1.1={
+		birth="1226.1.1"
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+71339 = {
+	name="Rodrigu"
+	dynasty=8779
+	religion="catholic"
+	culture="leonese"
+	father=70050
+	mother=70033
+	trait="bastard"
+	1067.1.1={
+		birth="1067.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+106060={
+	name="Ordoñu"
+	dynasty=436
+
+	father=108560
+	mother=108592
+
+	religion=catholic
+	culture="leonese"
+
+	1015.1.1={
+		birth=yes
+	}
+	1040.1.1={
+		add_matrilineal_spouse=70068
+	}
+	1066.1.1={
+		employer=106011
+	}
+	1072.1.1={
+		death=yes
+	}
+}
+107511 = {
+	name="Sancha"
+	female = yes
+	dynasty=436
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	trait="content"
+	trait="naive_appeaser"
+	father=108570
+	mother=109624
+	1017.1.1 = {
+		birth="1017.1.1"
+	}
+	1065.12.27 = {
+		employer=108500
+	}
+	1066.1.1 = {
+		trait="ill"
+	}
+	1067.11.7 = {
+		death="1067.11.7"
+	}
+}
+108531 = {
+	name="Ximena"
+	female = yes
+	dynasty=436
+	religion="catholic"
+	culture="leonese"
+	trait="envious"
+	trait="thrifty_clerk"
+	father=108570
+	mother=106042
+	1024.1.1 = {
+		birth=yes
+	}
+	1050.1.1 = {
+		death=yes
+	}
+}
+108540 = {
+	name="Alfonsu"
+	dynasty=436
+	martial=6
+	diplomacy=4
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	trait="honest"
+	trait="skilled_tactician"
+	father=108560
+	mother=108592
+	1001.1.1 = {
+		birth="1001.1.1"
+	}
+	1021.1.1 = {
+		add_spouse=70065
+	}
+	1050.1.1 = {
+		death="1050.1.1"
+	}
+}
+108570 = {
+	name="Alfonsu" #AKA: Alfonso V 'el Noble'
+	dynasty=436
+	martial=7
+	diplomacy=4
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	trait="tough_soldier"
+	father=108590
+	mother=107673
+	996.1.1 = {
+		birth="996.1.1"
+	}
+	999.9.1 = {
+		capital=k_leon
+		give_nickname = nick_the_noble
+	}
+	1015.1.1 = {
+		add_spouse=109624
+	}
+	1023.1.2 = {
+		add_spouse=106042
+	}
+	1028.8.7 = {
+		death="1028.8.7"
+	}
+}
+108590={
+	name="Bermudu" # AKA: Bermudo II 'el Gotoso'
+	dynasty=436
+
+	father=108600
+	mother=70244
+
+	religion=catholic
+	culture="leonese"
+
+	martial=4
+	diplomacy=7
+	intrigue=7
+	stewardship=6
+
+	trait=chaste
+	trait=cynical
+	trait=ill
+	trait=charismatic_negotiator
+
+	953.1.1={
+		birth=yes
+	}
+	984.1.1={
+		capital=k_leon
+	}
+	991.1.1={
+		add_spouse=107673
+	}
+	998.1.1={
+		give_nickname=nick_the_gouty
+	}
+	999.9.1={
+		death=yes
+	}
+}
+108592 = {
+	name="Cristina"
+	female = yes
+	dynasty=436
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	trait="bastard"
+	trait="clubfooted"
+	trait="amateurish_plotter"
+	father=108590
+	mother=108591
+	983.1.1 = {
+		birth="983.1.1"
+	}
+	1047.1.1 = {
+		death="1047.1.1"
+	}
+}
+108610 = {
+	name="Ramiru" #AKA: Ramiro III 'el Niño'
+	dynasty=436
+	religion="catholic"
+	culture="leonese"
+	trait="deceitful"
+	trait="brave"
+	trait="flamboyant_schemer"
+	father=70026
+	mother=70027
+	961.1.1 = {
+		birth=yes
+	}
+	966.1.1 = {
+		capital=k_leon
+	}
+	979.1.1 = {
+		add_spouse=70028
+	}
+	984.1.1 = {
+		death=yes
+	}
+}
+70031 = {
+	name="Ordoñu"
+	dynasty=436
+	martial=5
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="leonese"
+	trait="bastard"
+	trait="cynical"
+	trait="underhanded_rogue"
+	father=108590
+	987.1.1 = {
+		birth="987.1.1"
+	}
+	1016.1.1 = {
+		add_spouse=70113
+	}
+	1042.9.18 = {
+		death="1042.9.18"
+	}
+}
+70032 = {
+	name="Sanchu"
+	dynasty=436
+	martial=6
+	diplomacy=4
+	intrigue=5
+	stewardship=3
+	religion="catholic"
+	culture="leonese"
+	trait="craven"
+	trait="scholar"
+	trait="misguided_warrior"
+	father=70031
+	mother=70113
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1058.1.1={
+		add_spouse=70033
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+70034 = {
+	name="Ovecu"
+	dynasty=436
+	martial=6
+	diplomacy=3
+	intrigue=4
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	trait="ambitious"
+	trait="brave"
+	trait="tough_soldier"
+	father=70032
+	mother=70033
+	1059.1.1={
+		birth="1059.1.1"
+	}
+	1080.1.1={
+		add_spouse=71320
+	}
+	1109.1.1={
+		death="1109.1.1"
+	}
+}
+70035 = {
+	name="Vela"
+	dynasty=436
+	martial=4
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	trait="charitable"
+	trait="gregarious"
+	trait="thrifty_clerk"
+	father=70032
+	mother=70033
+	1061.1.1={
+		birth="1061.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+70036 = {
+	name="Fronilda"
+	female=yes
+	dynasty=436
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="leonese"
+	trait="proud"
+	trait="temperate"
+	trait="naive_appeaser"
+	father=70032
+	mother=70033
+	1062.1.1={
+		birth="1062.1.1"
+	}
+	1103.1.1={
+		death="1103.1.1"
+	}
+}
+70037 = {
+	name="Ximena"
+	female=yes
+	dynasty=436
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	trait="charitable"
+	trait="gardener"
+	trait="amateurish_plotter"
+	father=70032
+	mother=70033
+	1064.1.1={
+		birth="1064.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+70038 = {
+	name="Fernandu"
+	dynasty=436
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	trait="diligent"
+	trait="honest"
+	trait="fortune_builder"
+	father=70031
+	mother=70113
+	1022.1.1 = {
+		birth="1022.1.1"
+	}
+	1046.1.1 = {
+		add_spouse=70039
+	}
+	1059.1.1 = {
+		death="1059.1.1"
+	}
+}
+70039={
+	name="Fronilda"
+	female=yes
+
+	religion=catholic
+	culture="leonese"
+	
+	1030.1.1={
+		birth=yes
+	}
+	1066.1.1={
+		employer=107500
+	}
+	1085.1.1={
+		death=yes
+	}
+}
+70040 = {
+	name="Ximena"
+	female=yes
+	dynasty=436
+	martial=4
+	diplomacy=6
+	intrigue=6
+	stewardship=4
+	religion="catholic"
+	culture="leonese"
+	trait="fair"
+	trait="mystic"
+	trait="underhanded_rogue"
+	father=70038
+	mother=70039
+	1047.1.1 = {
+		birth="1047.1.1"
+	}
+	1108.3.31 = {
+		death="1108.3.31"
+	}
+}
+70041={
+	name="Bermudu"
+	dynasty=436
+
+	father=70038
+	mother=70039
+
+	religion=catholic
+	culture="leonese"
+
+	1050.1.1={
+		birth=yes
+	}
+	1078.1.1 = {
+		death=yes
+	}
+}
+70042={
+	name="Muniu"
+	dynasty=436
+
+	father=70038
+	mother=70039
+
+	religion=catholic
+	culture="leonese"
+
+	trait=detached_priest
+
+	1051.1.1={
+		birth=yes
+	}
+	1101.1.1={
+		death=yes
+	}
+}
+70043 = {
+	name="Alfonsu"
+	dynasty=436
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="leonese"
+	trait="slothful"
+	trait="greedy"
+	trait="flamboyant_schemer"
+	father=70031
+	mother=70113
+	1026.1.1 = {
+		birth="1026.1.1"
+	}
+	1066.1.1 = {
+		employer=70032
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+70044={
+	name="Bermudu"
+	dynasty=436
+
+	father=70031
+	mother=70113
+
+	religion=catholic
+	culture="leonese"
+
+	1030.1.1={
+		birth=yes
+	}
+	1048.1.1={
+		add_spouse=70045
+	}
+	1066.1.1={
+		employer=109500
+	}
+	1082.1.1={
+		death=yes
+	}
+}
+70045={
+	name="Sancha"
+	female=yes
+
+	religion=catholic
+	culture="leonese"
+	
+	1032.1.1={
+		birth=yes
+	}
+	1075.1.1={
+		death=yes
+	}
+}
+70046 = {
+	name="Fernandu"
+	dynasty=436
+	martial=5
+	diplomacy=3
+	intrigue=4
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	trait="humble"
+	trait="honest"
+	trait="misguided_warrior"
+	father=70044
+	mother=70045
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1095.1.1 = {
+		death="1095.1.1"
+	}
+}
+70047 = {
+	name="Pelayu"
+	dynasty=436
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=6
+	religion="catholic"
+	culture="leonese"
+	trait="shy"
+	trait="content"
+	trait="indulgent_wastrel"
+	father=70031
+	mother=70113
+	1031.1.1 = {
+		birth="1031.1.1"
+	}
+	1048.1.1 = {
+		add_spouse=70048
+	}
+	1050.1.1 = {
+		death="1050.1.1"
+	}
+}
+70049 = {
+	name="Marina"
+	female=yes
+	dynasty=436
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=3
+	religion="catholic"
+	culture="leonese"
+	trait="humble"
+	trait="chaste"
+	trait="underhanded_rogue"
+	father=70047
+	mother=70048
+	1049.1.1 = {
+		birth="1049.1.1"
+	}
+	1100.1.1 = {
+		death="1100.1.1"
+	}
+}
+70050 = {
+	name="Ovecu"
+	dynasty=436
+	martial=6
+	diplomacy=6
+	intrigue=3
+	stewardship=4
+	religion="catholic"
+	culture="leonese"
+	trait="proud"
+	trait="arbitrary"
+	trait="misguided_warrior"
+	father=70031
+	mother=70113
+	1033.1.1 = {
+		birth="1033.1.1"
+	}
+	1090.1.1 = {
+		death="1090.1.1"
+	}
+}
+70051 = {
+	name="Ximena"
+	female=yes
+	dynasty=436
+	martial=4
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	trait="deceitful"
+	trait="wroth"
+	trait="thrifty_clerk"
+	father=70031
+	mother=70113
+	1017.1.1 = {
+		birth="1017.1.1"
+	}
+	1045.1.1 = {
+		death="1045.1.1"
+	}
+}
+70065 = {
+	name="Fronilda"
+	female=yes
+	martial=4
+	diplomacy=6
+	intrigue=5
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	trait="greedy"
+	trait="zealous"
+	trait="flamboyant_schemer"
+	1009.1.1 = {
+		birth="1009.1.1"
+	}
+	1064.1.1 = {
+		death="1064.1.1"
+	}
+}
+70066 = {
+	name="Cristina"
+	female=yes
+	dynasty=436
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=5
+	religion="catholic"
+	culture="leonese"
+	trait="just"
+	trait="honest"
+	trait="naive_appeaser"
+	father=108540
+	mother=70065
+	
+	1028.1.1 = {
+		birth="1028.1.1"
+	}
+	1066.1.1 = {
+		employer=70032
+	}
+	1080.1.1 = {
+		death="1080.1.1"
+	}
+}
+70067 = {
+	name="Anderquina"
+	female=yes
+	dynasty=436
+	martial=3
+	diplomacy=7
+	intrigue=3
+	stewardship=8
+	religion="catholic"
+	culture="leonese"
+	trait="patient"
+	trait="diligent"
+	trait="amateurish_plotter"
+	father=108540
+	mother=70065
+	
+	1031.1.1 = {
+		birth="1031.1.1"
+	}
+	1066.1.1 = {
+		employer=70032
+	}
+	1085.1.1 = {
+		death="1085.1.1"
+	}
+}
+70075={
+	name="Bermudu" #AKA: Bermudo III of León
+	dynasty=436
+
+	father=108570
+	mother=109624
+
+	religion=catholic
+	culture="leonese"
+
+	martial=4
+	diplomacy=3
+	intrigue=3
+	stewardship=6
+
+	trait=shy
+	trait=content
+	trait=indulgent_wastrel
+
+	1018.1.1={
+		birth=yes
+	}
+	1037.9.4={
+		death=yes
+	}
+}
+71321 = {
+	name="Sanchu"
+	dynasty=436
+	religion="catholic"
+	culture="leonese"
+	father=70034
+	mother=71320
+	1081.1.1 = {
+		birth="1081.1.1"
+	}
+	1113.1.1 = {
+		death="1113.1.1"
+	}
+}
+71322 = {
+	name="Urraca"
+	dynasty=436
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=70034
+	mother=71320
+	1083.1.1 = {
+		birth="1083.1.1"
+	}
+	1104.12.29 = {
+		death="1104.12.29"
+	}
+}
+71325 = {
+	name="Pelayu"
+	dynasty=436
+	religion="catholic"
+	culture="leonese"
+	father=70041
+	trait="bastard"
+	trait="detached_priest"
+	1072.1.1 = {
+		birth="1072.1.1"
+	}
+	1115.1.1 = {
+		death="1115.1.1"
+	}
+}
+71326={
+	name="María"
+	female=yes
+
+	religion=catholic
+	culture="leonese"
+
+	1060.1.1={
+		birth=yes
+	}
+	1109.1.1={
+		death=yes
+	}
+}
+71327 = {
+	name="Elvira"
+	dynasty=436
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=70046
+	mother=71326
+	1079.1.1 = {
+		birth="1079.1.1"
+	}
+	1098.1.1 = {
+		death="1098.1.1"
+	}
+}
+71328 = {
+	name="Sancha"
+	dynasty=436
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=70046
+	mother=71326
+	1081.1.1 = {
+		birth="1081.1.1"
+	}
+	1134.1.1 = {
+		death="1134.1.1"
+	}
+}
+71329 = {
+	name="Álvaru"
+	dynasty=8740
+	religion="catholic"
+	culture="leonese"
+	1070.1.1 = {
+		birth="1070.1.1"
+	}
+	1097.1.1 = {
+		add_spouse=71328
+	}
+	1129.1.1 = {
+		death="1129.1.1"
+	}
+}
+71330={
+	name="Bermudu"
+	dynasty=8740
+
+	father=71329
+	mother=71328
+
+	religion=catholic
+	culture="leonese"
+
+	1098.1.1={
+		birth=yes
+	}
+	1156.1.1={
+		death=yes
+	}
+}
+71331 = {
+
+	name="Rodrigu"
+	dynasty=8740
+	religion="catholic"
+	culture="leonese"
+	father=71329
+	mother=71328
+	1100.1.1 = {
+		birth="1100.1.1"
+	}
+	1153.1.1 = {
+		death="1153.1.1"
+	}
+}
+71332 = {
+	name="Sancha"
+	dynasty=8740
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=71329
+	mother=71328
+	1102.1.1 = {
+		birth="1102.1.1"
+	}
+	1155.1.1 = {
+		death="1155.1.1"
+	}
+}
+72961 = {
+	name="Tellu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	1012.1.1 = {
+		birth="1012.1.1"
+	}
+	1066.1.1 = {
+		death="1066.1.1"
+	}
+}
+72962 = {
+	name="Fernandu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72961
+	1040.1.1 = {
+		birth="1040.1.1"
+	}
+	1112.1.1 = {
+		death="1112.1.1"
+	}
+}
+72963 = {
+	name="Tellu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72962
+	1075.1.1 = {
+		birth="1075.1.1"
+	}
+	1107.1.1 = {
+		add_spouse=72964
+	}
+	1133.1.1 = {
+		death="1133.1.1"
+	}
+}
+72964 = {
+	name="María"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1089.1.1 = {
+		birth="1089.1.1"
+	}
+	1172.5.28 = {
+		death="1172.5.28"
+	}
+}
+72965 = {
+	name="Fernandu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72963
+	mother=72964
+	1108.1.1 = {
+		birth="1108.1.1"
+	}
+	1172.5.28 = {
+		death="1172.5.28"
+	}
+}
+72966 = {
+	name="Gutierre"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72963
+	mother=72964
+	1110.1.1 = {
+		birth="1110.1.1"
+	}
+	1132.1.1 = {
+		add_spouse=72981
+	}
+	1166.9.1 = {
+		death="1166.9.1"
+	}
+}
+72967 = {
+	name="Urraca"
+	female=yes
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72963
+	mother=72964
+	1112.1.1 = {
+		birth="1112.1.1"
+	}
+	1156.1.1 = {
+		death="1156.1.1"
+	}
+}
+72968 = {
+	name="Fernandu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72962
+	1077.1.1 = {
+		birth="1077.1.1"
+	}
+	1110.1.1 = {
+		death="1110.1.1"
+	}
+}
+72969 = {
+	name="Tellu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72961
+	1042.1.1 = {
+		birth="1042.1.1"
+	}
+	1065.1.1 = {
+		add_spouse=72970
+	}
+	1112.1.1 = {
+		death="1112.1.1"
+	}
+}
+72970 = {
+	name="Mayor"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1048.1.1 = {
+		birth="1048.1.1"
+	}
+	1111.12.21 = {
+		death="1111.12.21"
+	}
+}
+72981 = {
+	name="Urraca"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1114.1.1 = {
+		birth="1114.1.1"
+	}
+	1180.1.1 = {
+		death="1180.1.1"
+	}
+}
+72982 = {
+	name="Álvar"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72966
+	mother=72981
+	1136.1.1 = {
+		birth="1136.1.1"
+	}
+	1160.1.1 = {
+		death="1160.1.1"
+	}
+}
+72983 = {
+	name="Pedru"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72966
+	mother=72981
+	1138.1.1 = {
+		birth="1138.1.1"
+	}
+	1176.1.1 = {
+		add_spouse=72979
+	}
+	1227.1.1 = {
+		death="1227.1.1"
+	}
+}
+72984 = {
+	name="Diegu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72983
+	mother=72979
+	1177.1.1 = {
+		birth="1177.1.1"
+	}
+	1222.1.1 = {
+		death="1222.1.1"
+	}
+}
+72985 = {
+	name="Fernandu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72983
+	mother=72979
+	1178.1.1 = {
+		birth="1178.1.1"
+	}
+	1227.1.1 = {
+		death="1227.1.1"
+	}
+}
+72986 = {
+	name="Gonzalu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72377
+	mother=73106
+	1165.1.1={
+		birth="1165.1.1"
+	}
+	1190.1.1={
+		add_spouse=72419
+	}
+	1213.5.13={
+		add_spouse=73000
+	}
+	1234.1.1={
+		death="1234.1.1"
+	}
+}
+72987 = {
+	name="Gutierre"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	trait="detached_priest"
+	father=72377
+	mother=73106
+	1166.1.1={
+		birth="1166.1.1"
+	}
+	1194.1.1={
+		death="1194.1.1"
+	}
+}
+72988 = {
+	name="Álvar"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72377
+	mother=73106
+	1167.1.1={
+		birth="1167.1.1"
+	}
+	1190.1.1={
+		add_spouse=73110
+	}
+	1218.1.1={
+		death="1218.1.1"
+	}
+}
+72989 = {
+	name="Fernandu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72988
+	mother=73110
+	1191.1.1={
+		birth="1191.1.1"
+	}
+	1218.1.1={
+		add_spouse=72997
+	}
+	1246.1.1={
+		death="1246.1.1"
+	}
+}
+72990 = {
+	name="Toda"
+	female=yes
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72989
+	mother=72997
+	1219.1.1 = {
+		birth="1219.1.1"
+	}
+	1266.1.1 = {
+		death="1266.1.1"
+	}
+}
+72991={
+	name="Pedru"
+	dynasty=7025
+	father=72377
+	mother=73106
+	religion=catholic
+	culture="leonese"
+
+	1169.1.1={
+		birth=yes
+	}
+	1194.1.1={
+		add_spouse=142039	
+	}
+	1223.6.9={
+		death=yes
+	}
+}
+72992={
+	name="Teresa"
+	female=yes
+	dynasty=7025
+
+	father=72991
+	mother=142039
+
+	religion=catholic
+	culture="leonese"
+
+	1195.1.1={
+		birth=yes
+	}
+	1269.1.1={
+		death=yes
+	}
+}
+72993 = {
+	name="Nuñu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72377
+	mother=73106
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1194.10.19={
+		death="1194.10.19"
+	}
+}
+72994 = {
+	name="Rodrigu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72377
+	mother=73106
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1196.1.1={
+		add_spouse=72995
+	}
+	1228.4.25={
+		death="1228.4.25"
+	}
+}
+72995 = {
+	name="Inés"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1178.1.1 = {
+		birth="1178.1.1"
+	}
+	1228.4.25 = {
+		death="1228.4.25"
+	}
+}
+72996 = {
+	name="María"
+	female=yes
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72994
+	mother=72995
+	1197.1.1 = {
+		birth="1197.1.1"
+	}
+	1235.1.1 = {
+		death="1235.1.1"
+	}
+}
+72997 = {
+	name="Teresa"
+	female=yes
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72994
+	mother=72995
+	1199.1.1 = {
+		birth="1199.1.1"
+	}
+	1250.1.1 = {
+		death="1250.1.1"
+	}
+}
+72998 = {
+	name="Teresa"
+	female=yes
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72377
+	mother=73106
+	1173.1.1={
+		birth="1173.1.1"
+	}
+	1194.10.19={
+		death="1194.10.19"
+	}
+}
+72999 = {
+	name="Elvira"
+	female=yes
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72377
+	mother=73106
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	1212.7.28={
+		death="1212.7.28"
+	}
+}
+73000 = {
+	name="Marquesa"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1196.1.1 = {
+		birth="1196.1.1"
+	}
+	1226.1.1 = {
+		death="1226.1.1"
+	}
+}
+73001 = {
+	name="Rodrigu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72986
+	mother=72419
+	1191.1.1 = {
+		birth="1191.1.1"
+	}
+	1220.1.1 = {
+		add_spouse=73019
+	}
+	1243.3.31 = {
+		add_spouse=71970
+	}
+	1245.1.1 = {
+		add_spouse=71973
+	}
+	1256.1.1 = {
+		death="1256.1.1"
+	}
+}
+73002 = {
+	name="Gonzalu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72986
+	mother=72419
+	1193.1.1 = {
+		birth="1193.1.1"
+	}
+	1217.1.1 = {
+		add_spouse=73003
+	}
+	1258.1.1 = {
+		death="1258.1.1"
+	}
+}
+73003 = {
+	name="Teresa"
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	1199.1.1 = {
+		birth="1199.1.1"
+	}
+	1233.6.5 = {
+		death="1233.6.5"
+	}
+}
+73004 = {
+	name="Rodrigu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=73002
+	mother=73003
+	1218.1.1 = {
+		birth="1218.1.1"
+	}
+	1260.1.1 = {
+		death="1260.1.1"
+	}
+}
+73005 = {
+	name="Gonzalu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=73002
+	mother=73003
+	1221.1.1 = {
+		birth="1221.1.1"
+	}
+	1268.1.1 = {
+		death="1268.1.1"
+	}
+}
+73006 = {
+	name="María"
+	dynasty=7025
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=72986
+	mother=72419
+	1195.1.1 = {
+		birth="1195.1.1"
+	}
+	1255.1.1 = {
+		death="1255.1.1"
+	}
+}
+73007 = {
+	name="Aldonza"
+	dynasty=7025
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=72986
+	mother=72419
+	1197.1.1 = {
+		birth="1197.1.1"
+	}
+	1227.1.1 = {
+		death="1227.1.1"
+	}
+}
+73008 = {
+	name="Elvira"
+	female=yes
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72986
+	mother=72419
+	1199.1.1 = {
+		birth="1199.1.1"
+	}
+	1263.1.1 = {
+		death="1263.1.1"
+	}
+}
+73009 = {
+	name="Sancha"
+	dynasty=7025
+	female=yes
+	religion="catholic"
+	culture="leonese"
+	father=72986
+	mother=72419
+	1201.1.1 = {
+		birth="1201.1.1"
+	}
+	1268.1.1 = {
+		death="1268.1.1"
+	}
+}
+73010 = {
+	name="Brígida"
+	female=yes
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	trait="detached_priest"
+	father=72986
+	mother=72419
+	1203.1.1 = {
+		birth="1203.1.1"
+	}
+	1275.1.1 = {
+		death="1275.1.1"
+	}
+}
+73011 = {
+	name="Pedru"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72986
+	mother=73000
+	1215.1.1 = {
+		birth="1215.1.1"
+	}
+	1270.1.1 = {
+		death="1270.1.1"
+	}
+}
+73012={
+	name="Muniu"
+	dynasty=7025
+
+	father=72986
+	mother=73000
+
+	religion=catholic
+	culture="leonese"
+
+	1216.1.1={
+		birth=yes
+	}
+	1268.1.1={
+		death=yes
+	}
+}
+73013 = {
+	name="Nuñu"
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72986
+	mother=73000
+	1217.1.1 = {
+		birth="1217.1.1"
+	}
+	1276.1.1 = {
+		death="1276.1.1"
+	}
+}
+73014 = {
+	name="María"
+	female=yes
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72986
+	mother=73000
+	1219.1.1 = {
+		birth="1219.1.1"
+	}
+	1274.1.1 = {
+		death="1274.1.1"
+	}
+}
+73015 = {
+	name="Leonor"
+	female=yes
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72986
+	mother=73000
+	1220.1.1 = {
+		birth="1220.1.1"
+	}
+	1280.1.1 = {
+		death="1280.1.1"
+	}
+}
+73016 = {
+	name="Inés"
+	female=yes
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72986
+	mother=73000
+	1222.1.1 = {
+		birth="1222.1.1"
+	}
+	1270.1.1 = {
+		death="1270.1.1"
+	}
+}
+73017 = {
+	name="Mayor"
+	female=yes
+	dynasty=7025
+	religion="catholic"
+	culture="leonese"
+	father=72986
+	mother=73000
+	1223.1.1 = {
+		birth="1223.1.1"
+	}
+	1279.1.1 = {
+		death="1279.1.1"
+	}
+}
+
+208530 = {
+	name="Pedru"
+	dynasty=101884
+	religion="catholic"
+	culture="leonese"
+	trait="kind"
+	trait="zealous"
+	trait="diligent"
+	trait="scholarly_theologian"
+	father=208532
+	1149.1.1 = {
+		birth="1149.1.1"
+	}
+	1200.1.1 = {
+		death="1200.1.1"
+	}
+}
+457562={
+	name="Alfonsu"
+	dynasty=779
+
+	father=457561
+	mother=33368
+
+	religion=catholic
+	culture="leonese"
+
+	1283.1.1={
+		birth=yes
+	}
+	1303.1.1={
+		add_spouse=457683
+	}
+	1314.1.1={
+		add_spouse=71509
+	}
+	1316.8.1={
+		death=yes
+	}
+}
+457590 = {
+	name="Fernandu"
+	dynasty=779
+	martial=5
+	diplomacy=5
+	intrigue=8
+	stewardship=7
+	religion="catholic"
+	culture="leonese"
+	trait="flamboyant_schemer"
+	father=457562
+	mother=71509
+	
+	1316.8.1 = {
+		birth="1316.8.1"
+	}
+	1333.1.1 = {
+		add_spouse=459504
+	}
+	1384.1.1 = {
+		death="1384.1.1"
+	}
+}
+457600 = {
+	name="Alonsu"
+	dynasty=779
+	martial=5
+	diplomacy=8
+	intrigue=5
+	stewardship=4
+	religion="catholic"
+	culture="leonese"
+	trait="humble"
+	trait="wroth"
+	trait="martial_cleric"
+	father=457562
+	mother=71509
+	1316.8.1 = {
+		birth="1316.8.1"
+	}
+	1355.1.1 = {
+		death="1355.1.1"
+	}
+}
+71510 = {
+	name="Xuan"
+	dynasty=779
+	religion="catholic"
+	culture="leonese"
+	father=457590
+	mother=459504
+	1334.1.1 = {
+		birth="1334.1.1"
+	}
+	1412.1.1 = {
+		death="1412.1.1"
+	}
+}
+71511 = {
+	name="Alfonsu"
+	dynasty=779
+	religion="catholic"
+	culture="leonese"
+	father=457590
+	mother=459504
+	1336.1.1 = {
+		birth="1336.1.1"
+	}
+	1413.1.1 = {
+		death="1413.1.1"
+	}
+}
+200102={
+	name="Ordoñu"
+	dynasty=8620
+
+	father=70107
+	mother=70108
+
+	religion=catholic
+	culture="leonese"
+
+	1079.1.1={
+		birth=yes
+	}
+	1104.1.19={
+		death=yes
+	}
+}
+200103={
+	name="Gontroda"
+	female=yes
+	dynasty=8620
+
+	father=70107
+	mother=70108
+
+	religion=catholic
+	culture="leonese"
+
+	1081.1.1={
+		birth=yes
+	}
+	1104.1.19={
+		death=yes
+	}
+}
+

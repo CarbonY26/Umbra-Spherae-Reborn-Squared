@@ -1,0 +1,28 @@
+# 61 - Lincoln
+
+# County Title
+title = c_lincoln
+
+# Settlements
+max_settlements = 5
+b_gainsborough = castle
+b_lincoln = temple
+b_boston = city
+#b_spalding = castle
+#b_stamford = castle
+#b_grantham = castle
+#b_louth = castle
+#b_bardney = castle
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History
+1.1.1 = { culture = briton
+          religion = pagan }
+300.1.1 = { religion = catholic }
+450.1.1 = { culture = saxon 
+            religion = norse_pagan }
+627.1.1 = { religion = catholic }
+1100.11.11 = { culture = english }

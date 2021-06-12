@@ -1,0 +1,19 @@
+# County Title
+title = c_kuril_islands
+
+# Settlements
+max_settlements = 7
+b_kashiwabara = tribal
+
+#b_furukamappu = tribal
+#b_shana = tribal
+#b_shibetoro = tribal
+#b_sikotan = tribal
+#b_paramushir = tribal
+#b_anama = tribal
+
+# Misc
+culture = ainu
+religion = ainu_pantheism
+
+# History

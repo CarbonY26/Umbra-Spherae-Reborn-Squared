@@ -1,0 +1,763 @@
+e_polynesia = {
+
+	color={ 88 39 1 }
+	color2={ 130 18 4 }
+
+	norse = "Polynesia"
+	norwegian = "Polynesia"
+	danish = "Polynesia"
+	swedish = "Polynesia"
+	english = "Polynesia"
+	saxon = "Polynesia"
+	old_saxon = "Polynesia"
+	german = "Polynesia"
+
+	capital = 4131 # Honolulu
+
+	k_hawaii = {
+
+		color={ 130 18 4 }
+		color2={ 88 39 1 }
+
+		norse = "Hawiian"
+		norwegian = "Hawiian"
+		danish = "Hawiian"
+		swedish = "Hawiian"
+		english = "Hawiian"
+		saxon = "Hawiian"
+		old_saxon = "Hawiian"
+		german = "Hawiian"
+
+		capital = 4131 # Honolulu
+
+		d_hawaii = {
+
+			color={ 167 100 5 }
+			color2={ 130 20 5 }
+
+			inuit = "Hawiian"
+			tuniit = "Hawiian"
+			mikmaq = "Hawiian"
+			innu = "Hawiian"
+			norse = "Hawiian"
+			norwegian = "Hawiian"
+			danish = "Hawiian"
+			swedish = "Hawiian"
+			english = "Hawiian"
+			french = "Hawiian"
+			irish = "Hawiian"
+			scottish = "Hawiian"
+			portuguese = "Hawiian"
+			italian = "Hawiian"
+			
+			capital = 4131 # hawaii
+			
+			c_hawaii= {
+
+				color={ 88 39 39 }
+				color2={ 136 110 5 }
+				
+				inuit = "Hawiian"
+				tuniit = "Hawiian"
+				norse = "Hawiian"
+				norwegian = "Hawiian"
+				danish = "Hawiian"
+				swedish = "Hawiian"
+				
+				b_hawaii = {
+					inuit = "Hawiian"
+					tuniit = "Hawiian"
+					norse = "Hawiian"
+					norwegian = "Hawiian"
+					danish = "Hawiian"
+					swedish = "Hawiian"
+				}
+				b_hilo = {
+				}
+				b_maunaloa = {
+				}
+				b_kilauea = {
+				}
+				b_kailuakona = {
+				}
+				b_pahala = {
+				}
+				b_naalehu = {
+				}
+			}
+			c_Maui = {
+
+				color={ 88 39 80 }
+				color2={ 136 110 5 }
+				
+				b_maui = {
+				}
+				b_hana = {
+				}
+				b_wailea = {
+				}
+				b_kaanapali = {
+				}
+				b_kahulul = {
+				}
+				b_maumau  = {
+				}
+				b_kipahulu = {
+				}
+			}
+		}
+		d_honolulu = {
+
+				color={ 180 60 80 }
+				color2={ 136 110 5 }
+
+			english = "Honolulu"
+			french = "Honolulu"
+			
+			capital = 4133 # Honolulu
+			
+			c_honolulu = {
+
+				color={ 180 60 80 }
+				color2={ 146 120 15 }
+		
+				b_oahu = {
+				}
+				b_honolulu = {
+				}
+				b_makaha = {
+				}
+				b_kahaluu= {
+				}
+				b_banzai = {
+				}
+				b_waimea = {
+				}
+				b_laie = {
+				}
+			}
+		}
+		d_waenalokomai = {
+
+				color={ 130 120 90 }
+				color2={ 146 170 45 }
+			
+			capital = 4136 # midway
+			
+			c_waena = {
+
+				color={ 130 120 90 }
+				color2={ 106 150 15 }
+				
+				b_hikinawaena = {
+				}
+				b_onewaena = {
+				}
+				b_kuhaweana = {
+				}
+				b_naluawaiweana = {
+				}
+				b_kahuawaena = {
+				}
+				b_naapanaakau = {
+				}
+				b_apanaonewaena = {
+				}
+			}
+			c_Ealaoe = {
+
+				color={ 130 120 90 }
+				color2={ 112 160 20 }
+				
+				b_Ealaoe = {
+				}
+				b_alalaealoe = {
+				}
+				b_lukiahohaku = {
+				}
+				b_paakulanakauhale = {
+				}
+				b_kulanakauhale = {
+				}
+				b_Ealaoeniu = {
+				}
+				b_panapuaki = {
+				}
+			}
+			c_lokomaika = {
+
+				color={ 130 120 90 }
+				color2={ 112 160 20 }
+				
+				b_lokomaika = {
+				}
+				b_lokoma = {
+				}
+				b_Hikina = {
+				}
+				b_akua = {
+				}
+				b_moanamaluhia = {
+				}
+				b_kiahikina = {
+				}
+				b_lalaloko = {
+				}
+			}
+			c_Aililokomaiki = {
+
+				color={ 130 120 90 }
+				color2={ 112 160 20 }
+				
+				b_Aililokomaiki = {
+				}
+				b_lapalama = {
+				}
+				b_Terina = {
+				}
+				b_opalaakoakoa = {
+				}
+				b_pohakupapau = {
+				}
+				b_akoolobe = {
+				}
+				b_Aililokter = {
+				}
+			}
+		}
+	}
+	k_kukefaranibatipicuirn = {
+
+		color={ 138 255 255 }
+		color2={ 88 39 1 }
+
+		norse = "Kukefaranibatipicuirn"
+		norwegian = "Kukefaranibatipicuirn"
+		danish = "Kukefaranibatipicuirn"
+		swedish = "Kukefaranibatipicuirn"
+		english = "Kukefaranibatipicuirn"
+		saxon = "Kukefaranibatipicuirn"
+		old_saxon = "Kukefaranibatipicuirn"
+		german = "Kukefaranibatipicuirn"
+
+		capital = 4171 # Tahiti
+
+		d_faramokunui = {
+
+			color={ 167 100 5 }
+			color2={ 130 20 5 }
+
+			inuit = "Faramokunui"
+			tuniit = "Faramokunui"
+			mikmaq = "Faramokunui"
+			innu = "Faramokunui"
+			norse = "Faramokunui"
+			norwegian = "Faramokunui"
+			danish = "Faramokunui"
+			swedish = "Faramokunui"
+			english = "Faramokunui"
+			french = "Faramokunui"
+			irish = "Faramokunui"
+			scottish = "Faramokunui"
+			portuguese = "Faramokunui"
+			italian = "Faramokunui"
+			
+			capital = 4171  # Tahiti
+			
+			c_tahiti = {
+
+				color={ 188 139 139 }
+				color2={ 146 120 25 }
+				
+				inuit = "Tahiti"
+				tuniit = "Tahiti"
+				norse = "Tahiti"
+				norwegian = "Tahiti"
+				danish = "Tahiti"
+				swedish = "Tahiti"
+				
+				b_tahiti = {
+					inuit = "Tahiti"
+					tuniit = "Tahiti"
+					norse = "Tahiti"
+					norwegian = "Tahiti"
+					danish = "Tahiti"
+					swedish = "Tahiti"
+				}
+				b_papette = {
+				}
+				b_mahina = {
+				}
+				b_faaa = {
+				}
+				b_punaauia = {
+				}
+				b_paea = {
+				}
+				b_tahititi = {
+				}
+			}
+			c_tubuai = {
+
+				color={ 168 145 129 }
+				color2={ 146 120 25 }
+				
+				b_tubuai = {
+				}
+				b_rurutu = {
+				}
+				b_rimatara = {
+				}
+				b_raivavae = {
+				}
+				b_rapati = {
+				}
+				b_marotiri = {
+				}
+				b_tubumarotirim = {
+				}
+			}
+			c_society = {
+
+				color={ 178 169 159 }
+				color2={ 146 120 25 }
+				
+				b_tahaaraiatea = {
+				}
+				b_huahine = {
+				}
+				b_tupai = {
+				}
+				b_motuone = {
+				}
+				b_manuae = {
+				}
+				b_maupihaa = {
+				}
+				b_borabora = {
+				}
+			}
+			c_marquesas = {
+
+				color={ 148 154 139 }
+				color2={ 146 120 25 }
+				
+				b_nukuhiva = {
+				}
+				b_uahuka = {
+				}
+				b_hivaoa = {
+				}
+				b_mohotani = {
+				}
+				b_fatuhiva = {
+				}
+				b_hatutaa = {
+				}
+				b_tahuata = {
+				}
+			}
+			c_tuamotu = {
+
+				color={ 148 154 139 }
+				color2={ 146 120 25 }
+				
+				b_tuamotu = {
+				}
+				b_manihi = {
+				}
+				b_fakarava = {
+				}
+				b_tuanake = {
+				}
+				b_rangiroa = {
+				}
+				b_tikehau = {
+				}
+				b_havaiki = {
+				}
+			}
+		}
+		d_pitcairn = {
+
+				color={ 180 60 80 }
+				color2={ 136 110 5 }
+
+			english = "Pitcairn"
+			french = "Pitcairn"
+			
+			capital = 4174 # Pitcairn
+			
+			c_pitcairn = {
+
+				color={ 180 60 150 }
+				color2={ 146 190 160 }
+		
+				b_pitcairn = {
+				}
+				b_duchie = {
+				}
+				b_henderson = {
+				}
+				b_sandoeno = {
+				}
+				b_tuatama = {
+				}
+				b_kulanakauhalemua = {
+				}
+				b_kaikuono = {
+				}
+			}
+		}
+		d_kuke = {
+
+				color={ 190 190 90 }
+				color2={ 246 110 145 }
+			
+			capital = 4199 # Avarua
+			
+			c_avarua = {
+
+				color={ 130 120 90 }
+				color2={ 106 150 15 }
+				
+				b_avarua = {
+				}
+				b_mangaia = {
+				}
+				b_mauke = {
+				}
+				b_mitiaro = {
+				}
+				b_atiutakutea = {
+				}
+				b_manuae = {
+				}
+				b_aitutaki = {
+				}
+			}
+			c_cook = {
+
+				color={ 130 120 90 }
+				color2={ 126 170 17 }
+				
+				b_suwarrow = {
+				}
+				b_manihiki = {
+				}
+				b_penrhyn = {
+				}
+				b_rakahanga = {
+				}
+				b_pukapuka = {
+				}
+				b_kukanassau = {
+				}
+				b_kukapalmeria = {
+				}
+			}
+
+		}
+		d_kiribati = {
+
+				color={ 190 190 90 }
+				color2={ 246 110 145 }
+			
+			capital = 4199 # kiribati
+			
+			c_kiribati = {
+
+				color={ 130 120 90 }
+				color2={ 106 150 15 }
+				
+				b_tarawa = {
+				}
+				b_bairiki = {
+				}
+				b_banpardon = {
+				}
+				b_beitoriki = {
+				}
+				b_kirimata = {
+				}
+				b_kiribati = {
+				}
+				b_tarawabati = {
+				}
+			}
+			c_gilbribati = {
+
+				color={ 130 120 90 }
+				color2={ 126 170 17 }
+				
+				b_makin = {
+				}
+				b_butaritari = {
+				}
+				b_abaiang = {
+				}
+				b_nonouti = {
+				}
+				b_kuriamaiana = {
+				}
+				b_tamanonotoa = {
+				}
+				b_tabiteauaberu = {
+				}
+			}
+		}
+	}
+	k_micronesia = {
+
+		color={ 130 18 4 }
+		color2={ 188 55 88 }
+
+		norse = "Micronesia"
+		norwegian = "Micronesia"
+		danish = "Micronesia"
+		swedish = "Micronesia"
+		english = "Micronesia"
+		saxon = "Micronesia"
+		old_saxon = "Micronesia"
+		german = "Micronesia"
+
+		capital = 4200 # Ponpei
+
+		d_guam = {
+
+			color={ 167 100 5 }
+			color2={ 130 20 5 }
+
+			inuit = "Guam"
+			tuniit = "Guam"
+			mikmaq = "Guam"
+			innu = "Guam"
+			norse = "Guam"
+			norwegian = "Guam"
+			danish = "Guam"
+			swedish = "Guam"
+			english = "Guam"
+			french = "Guam"
+			irish = "Guam"
+			scottish = "Guam"
+			portuguese = "Guam"
+			italian = "Guam"
+			
+			capital = 4150 # South Guam
+			
+			c_inarajan = {
+
+				color={ 88 39 39 }
+				color2={ 136 110 5 }
+				
+				inuit = "Inarajan"
+				tuniit = "Inarajan"
+				norse = "Inarajan"
+				norwegian = "Inarajan"
+				danish = "Inarajan"
+				swedish = "Inarajan"
+				
+				b_inarajan = {
+					inuit = "Inarajan"
+					tuniit = "Inarajan"
+					norse = "Inarajan"
+					norwegian = "Inarajan"
+					danish = "Inarajan"
+					swedish = "Inarajan"
+				}
+				b_inarajan = {
+				}
+				b_merizo = {
+				}
+				b_talofo = {
+				}
+				b_umatecbolo = {
+				}
+				b_agatsarita = {
+				}
+				b_lockwood = {
+				}
+			}
+			c_yigo = {
+
+				color={ 88 39 80 }
+				color2={ 146 120 15 }
+				
+				b_yigo = {
+				}
+				b_dededo = {
+				}
+				b_moanakai = {
+				}
+				b_tamuning = {
+				}
+				b_barrigada = {
+				}
+				b_mangilao  = {
+				}
+				b_hagatana = {
+				}
+			}
+		}
+		d_micronesia = {
+
+				color={ 180 60 80 }
+				color2={ 146 140 45 }
+
+			english = "Ponpei"
+			french = "Ponpei"
+			
+			capital = 4200 # Ponpei
+			
+			c_pohnpei = {
+
+				color={ 180 60 80 }
+				color2={ 146 120 15 }
+		
+				b_palikir = {
+				}
+				b_pohnpei = {
+				}
+				b_kolonipakir = {
+				}
+				b_sekerapakir = {
+				}
+				b_pwelweite = {
+				}
+				b_tamworohi = {
+				}
+				b_atohkapw = {
+				}
+			}
+			c_yapafarauelp = {
+
+				color={ 180 60 80 }
+				color2={ 146 70 45 }
+				
+				b_yapfais = {
+				}
+				b_uhithitoll = {
+				}
+				b_yaropa = {
+				}
+				b_gagiltamil = {
+				}
+				b_maaprumung = {
+				}
+				b_dalipebinaw = {
+				}
+				b_fanifrull = {
+				}
+			}
+			c_woleeauripik = {
+
+				color={ 180 60 80 }
+				color2={ 166 120 55 }
+
+				b_mariyang = {
+				}
+				b_tagaulap = {
+				}
+				b_wottagai = {
+				}
+				b_falalwolis = {
+				}
+				b_paliawol = {
+				}
+				b_wottagaileai = {
+				}
+				b_eauripik = {
+				}
+			}
+			c_chuuknamoduk = {
+
+				color={ 180 60 80 }
+				color2={ 146 110 77 }
+				
+				b_wenochuuk = {
+				}
+				b_faichuuk = {
+				}
+				b_namonuitoll = {
+				}
+				b_pattiwuuk = {
+				}
+				b_mortluuck = {
+				}
+				b_pulusuk = {
+				}
+				b_namoluk = {
+				}
+			}
+		c_mortlocksapwua = {
+
+				color={ 180 60 80 }
+				color2={ 126 100 56 }
+				
+				b_ettalunokor = {
+				}
+				b_namoluta = {
+				}
+				b_tanamanana = {
+				}
+				b_oneokutu = {
+				}
+				b_losapmoch = {
+				}
+				b_picemwar = {
+				}
+				b_likinoch = {
+				}
+			}
+		c_kosrae = {
+
+				color={ 180 60 80 }
+				color2={ 126 100 56 }
+				
+				b_tofokosrae = {
+				}
+				b_tafunsakae = {
+				}
+				b_fokofukunsral = {
+				}
+				b_fokomalsu = {
+				}
+				b_lelulofol = {
+				}
+				b_fokofinaunpes = {
+				}
+				b_pingelapat = {
+				}
+			}
+		}
+		d_mariana = {
+
+				color={ 130 220 190 }
+				color2={ 252 123 145 }
+			
+			capital = 4167 # mariana
+			
+			c_azatalan = {
+
+				color={ 130 220 190 }
+				color2={ 252 123 145 }
+				
+				b_saipatinian = {
+				}
+				b_rotaguam = {
+				}
+				b_anatahan = {
+				}
+				b_sariganphillis = {
+				}
+				b_guguan = {
+				}
+				b_alamagan = {
+				}
+				b_agrihan = {
+				}
+			}
+
+		}
+	}
+}
