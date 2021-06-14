@@ -1,49 +1,56 @@
 # Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
 
+# Culture-specific opinion can be added to modifiers (E.G., norse_opinion = 5), but the modifier *has* to be defined in 00_modifier_definitions.txt as well. It also needs localisation. Works for groups as well
+
+# Culture modifiers: modifier (applies to provinces), character_modifier, and settlement modifiers.
+# The ID of the modifier can be defined here (E.G., modifier = modifier_name or character_modifier = modifier_name), while the effect of it must be defined in static_modifiers.txt, and the localisation in localisation. For the settlement modifiers you don't need to (and can't) define the ID; it defaults to culture name + settlement type. E.G., norse_temple
+
+# nomadic_in_alt_start = yes - Will be Nomadic if the "Tribal & Nomadic" option is taken in the alt-start generation
+
 north_germanic = {
-
-graphical_cultures = { westerngfx }
-alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
-        
-norse = {#norrønt
-
-graphical_cultures = { norsegfx }
-alternate_start = {
-OR = {
-year < 1000 
-has_alternate_start_parameter = { key = culture value = full_random }
-}
-}
-color = { 0.3 0.55 0.8 }
-# Þ 222 þ 254 Ð 208 ð 240 æ
-
-male_names = {
-Abel Ábjörn_Abiorn Ádiarfr Aðagisl_Adalgisl Aðalbrandr_Adalbrand
-Aðalbriktr_Albert Aðalgrímr_Adalgrim Aðalherr_Adalhar
-Aðalráðr_Ailred Aðalríkr_Æþelric Aðalsteinn_Alstan
-Aðgils_Eadgils Aðgísl Aðill_Eadgils Aðils_Eadgils Aðísl_Eadgils
-Aðulfr_Adolf Aðvinr Áfastr Afli Afvaldr Ágautr Agdiarfr
-Agmundr_Ogmund Agnarr Agni Águti Agvaldr Agviðr Ágæirr 
-Ahni_Agni Ailmær_Adémar Áki_Anicho Álarr_Adelhere 
-Albóðr Albrikt_Albert Aldi Aldulfr_Ealdwulf
-Ale Aleinn_Alan Alfarinn Álfarr_Oliver Alfastr Alfbjörn 
-Alffinnr Alfgautr Alfgeirr_Alfgeir Alfgrímr Alfketill Alflakr Álfljótr 
-Álfmóðr_Almod Alfr_Alf Álfráðr_Alfred Alfríkr_Aubrey Alfvaldr_Alfwald
-Alfvardr_Alfweard Alfvin_Alwin Alfþórr_Aldor
-Almarr_Adémar Almgautr Álmgeirr Álmóðr_Almod Almsteinn Alríkr_Alaric
-Alsvartr Alsviðr Alvaldr Alvér Alvíss_Alvis Alþjófr
-Amlóði_Hamlet Ámr Ámundi_Amund Ámundr Anageirr
-Ánarr Andaðr Andblaði Andórr_Arnþórr Andræs_Andrew
-Andsvarr Andvari Andvéttr Angantýr Anlaufr Anleifr Ánn 
-Ansurr_Andsvarr Ansvarr_Andsvarr Anundr_Anund 
-Anvindr_Anund Api Ari_Ári Ármóðr_Árnmóðr Armóðr_Árnmóðr
-Arnaldr_Arnold Arnbjörn Arndórr_Arnþórr Arnfastr_Arnfast 
-Arnfinnr Arnfrøðr_Arnfred Arngeirr Arngrímr_Arngrim  
-Arngísl Arnhallr Arnhvatr Arni_Arne Árni_Arne Arni_Ernest 
-Arnkæll_Arnkætill Arnkætill_Arnæktill Arnlaugr_Arnlaug 
-Arnleifr_Arnleif Arnljótr Arnmóðr_Árnmóðr Arnmundr_Arnmund
-Arnniútr Arnoddr_Arnod Arnrøðr_Arnfred 
+	graphical_cultures = { westerngfx }
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	
+	norse = {
+		graphical_cultures = { norsegfx }
+		alternate_start = {
+			OR = {
+				year < 1000 
+				has_alternate_start_parameter = { key = culture value = full_random }
+			}
+		}
+		
+		color = { 0.3 0.55 0.8 }
+		
+		# Þ 222 þ 254 Ð 208 ð 240 æ
+		
+		male_names = {
+			Abel Ábjörn_Abiorn Ádiarfr Aðagisl_Adalgisl Aðalbrandr_Adalbrand
+			Aðalbriktr_Albert Aðalgrímr_Adalgrim Aðalherr_Adalhar
+			Aðalráðr_Ailred Aðalríkr_Æþelric Aðalsteinn_Alstan
+			Aðgils_Eadgils Aðgísl Aðill_Eadgils Aðils_Eadgils Aðísl_Eadgils
+			Aðulfr_Adolf Aðvinr Áfastr Afli Afvaldr Ágautr Agdiarfr
+			Agmundr_Ogmund Agnarr Agni Águti Agvaldr Agviðr Ágæirr 
+			Ahni_Agni Ailmær_Adémar Áki_Anicho Álarr_Adelhere 
+			Albóðr Albrikt_Albert Aldi Aldulfr_Ealdwulf
+			Ale Aleinn_Alan Alfarinn Álfarr_Oliver Alfastr Alfbjörn 
+			Alffinnr Alfgautr Alfgeirr_Alfgeir Alfgrímr Alfketill Alflakr Álfljótr 
+			Álfmóðr_Almod Alfr_Alf Álfráðr_Alfred Alfríkr_Aubrey Alfvaldr_Alfwald
+			Alfvardr_Alfweard Alfvin_Alwin Alfþórr_Aldor
+			Almarr_Adémar Almgautr Álmgeirr Álmóðr_Almod Almsteinn Alríkr_Alaric
+			Alsvartr Alsviðr Alvaldr Alvér Alvíss_Alvis Alþjófr
+			Amlóði_Hamlet Ámr Ámundi_Amund Ámundr Anageirr
+			Ánarr Andaðr Andblaði Andórr_Arnþórr Andræs_Andrew
+			Andsvarr Andvari Andvéttr Angantýr Anlaufr Anleifr Ánn 
+			Ansurr_Andsvarr Ansvarr_Andsvarr Anundr_Anund 
+			Anvindr_Anund Api Ari_Ári Ármóðr_Árnmóðr Armóðr_Árnmóðr
+			Arnaldr_Arnold Arnbjörn Arndórr_Arnþórr Arnfastr_Arnfast 
+			Arnfinnr Arnfrøðr_Arnfred Arngeirr Arngrímr_Arngrim  
+			Arngísl Arnhallr Arnhvatr Arni_Arne Árni_Arne Arni_Ernest 
+			Arnkæll_Arnkætill Arnkætill_Arnæktill Arnlaugr_Arnlaug 
+			Arnleifr_Arnleif Arnljótr Arnmóðr_Árnmóðr Arnmundr_Arnmund
+			Arnniútr Arnoddr_Arnod Arnrøðr_Arnfred 
 Arnsteinn Arnþjófr Arnþórr 
 Arta Arnulfr_Arnulf Arnviðr_Arvid Arviðr_Arvid 
 Árvakr Asbjörn_Asbjörn Ásbrandr Ásdiarfr Ásfastr Ásfriðr
@@ -3614,15 +3621,15 @@ caucasian_avar = {#avaral
 
 celtic = {
 	
-graphical_cultures = westerngfx
+	graphical_cultures = westerngfx
 
-briton = {#brithonikos
+	briton = {#brithonikos
 		
-graphical_cultures = {celticgfx westerngfx }
+		graphical_cultures = {celticgfx westerngfx }
 		
-color = { 0.5 1.0 0.0 }
+		color = { 0.5 1.0 0.0 }
 
-male_names = {
+		male_names = {
 Agrafin Alan_Alan Alisander_Alexander Alwyn_Alwyn Amhar Annan Apon Aradig Aradoc Arawain 
 Arod Arthfael Arthwr_Arthur Artognou Awighen_Owen
 Balin Balise Bedwyr Bedwyn Bleddyn Bleiddig Bleddijudd_Bleiddudd
@@ -4350,8 +4357,8 @@ female_names = {
 			Aamu Aino_Aino Hellä Helmi Ilta Kaarina_Catherine Käpy Kielo Kristiina_Kristina Kukka Lauha Lempi Mahla Maija Marja Mesi Metta Ola Päivä Päivi Pihla Pilvi Rauha Sisko Suoma
 			Taimi Terhi Titti Tuija Tuovi Tuuli Tuulikki Tyyne Tyyni Vanamo Venla Mielikki Hertta Loviisa Inkeri Ilmatar Irene_Irene Ilona_Helen Kristiina_Christina
 			Elisabet_Elizabeth Sohvi_Sofia Auni_Agnes Liekko_Helen Kivutar Lemmikki Lyylikki Salme Talvikki Tuulitar Ylevä Piatta_Beata Pietta_Beata Raisa_Raisa
-                        Juliaana_Juliana Ulriika_Ulrika Ulriika-Eleonoora_Ulrika-Eleonora 
- 
+                        Juliaana_Juliana Ulriika_Ulrika Ulriika-Eleonoora_Ulrika-Eleonora
+	}
 from_dynasty_prefix = "of "
 allow_looting = yes
 modifier = default_culture_modifier
