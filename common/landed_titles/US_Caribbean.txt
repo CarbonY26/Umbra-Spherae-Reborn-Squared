@@ -247,6 +247,14 @@ e_caribbean = {
 				}
 				b_jamaica-iii = {
 				}
+				b_jamaica-iv = {
+				}
+				b_jamaica-v = {
+				}
+				b_jamaica-vi = {
+				}
+				b_jamaica-vii = {
+				}
 			}
 		}
               }
@@ -339,18 +347,64 @@ e_caribbean = {
 			
 			capital = 3830 # Puerto Rico
 			
+			c_rincoayaguez = {
+
+				color={ 157 7 76 }
+				color2={ 220 220 220 }
+				
+				b_rincoayaguez = {
+				}
+				b_mayaguezeron = {
+				}
+				b_boqueroaguez = {
+				}
+				b_aguadierican = {
+				}
+				b_arecibuadil = {
+				}
+				b_adjuntaaguez = {
+				}
+				b_guanicirico = {
+				}
+			}
+			c_sajuanarad = {
+
+				color={ 157 7 76 }
+				color2={ 220 220 220 }
+				
+				b_sajuanarad = {
+				}
+				b_isbelseguda = {
+				}
+				b_dewculebra = {
+				}
+				b_fajardoluc = {
+				}
+				b_dorgrabaja = {
+				}
+				b_humacaotilla = {
+				}
+				b_bayamajuyan = {
+				}
+			}
 			c_puerto_rico = {
 
 				color={ 157 7 76 }
 				color2={ 220 220 220 }
 				
-				b_puerto_rico = {
+				b_yuacoguan = {
 				}
-				b_puerto_rico-ii = {
+				b_guanicayuco = {
 				}
-				b_puerto_rico-iii = {
+				b_yaucopontra = {
 				}
-				b_puerto_rico-iv = {
+				b_jauyuyura = {
+				}
+				b_salinaerito = {
+				}
+				b_ricoayey = {
+				}
+				b_aibonicagua = {
 				}
 			}
 			c_st_thomas = {
@@ -770,6 +824,52 @@ e_caribbean = {
 				}
 				b_panama-iv = {
 				}
+				b_panama-v = {
+				}
+				b_panama-vi = {
+				}
+				b_panama-vii = {
+				}
+			}
+			c_americanople = {
+
+				color={ 95 17 77 }
+				color2={ 220 220 220 }
+				
+				b_americanople = {
+				}
+				b_americanople-ii = {
+				}
+				b_americanople-iii = {
+				}
+				b_americanople-iv = {
+				}
+				b_americanople-v = {
+				}
+				b_americanople-vi = {
+				}
+				b_americanople-vii = {
+				}
+			}
+			c_christobean = {
+
+				color={ 95 17 77 }
+				color2={ 220 220 220 }
+				
+				b_christobean = {
+				}
+				b_christobean-ii = {
+				}
+				b_christobean-iii = {
+				}
+				b_christobean-iv = {
+				}
+				b_christobean-v = {
+				}
+				b_christobean-vi = {
+				}
+				b_christobean-vii = {
+				}
 			}
 			c_guaymi = {
 
@@ -805,6 +905,18 @@ e_caribbean = {
 				b_darien-ii = {
 				}
 				b_darien-iii = {
+				}
+			}
+			c_chaguinola = {
+
+				color={ 125 14 146 }
+				color2={ 220 220 220 }
+				
+				b_chaguinola = {
+				}
+				b_xhanguimal = {
+				}
+				b_amirantxhan = {
 				}
 			}
 		}
