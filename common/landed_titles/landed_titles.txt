@@ -3946,7 +3946,7 @@ e_germany = {
         german = "Deutschland"
         old_saxon = "Þiodiskland"
         sorbian = "Nemska"
-        silesian = "Mjymcy"'
+        silesian = "Mjymcy"
         ashkenazi = "Daytshland"
 	
 	allow = {
@@ -12687,7 +12687,7 @@ e_scandinavia = {
                                         norn = "Guðbi"
                                         greenlandic_norse = "Gótbýr"
                                         finnish = "Hyväpyy"
-                                        karelian = "= "Hyväpyy"
+                                        karelian = "Hyväpyy"
                                         lettigallish = "Labibija"
                                         ugricbaltic = "Heabü"
                                         ingrian = "Hyväby"
@@ -13631,7 +13631,7 @@ e_scandinavia = {
  
                                 norse = "Ámál"
                                 danish = "Åmål"
-                                icelandic = = "Ámál"
+                                icelandic = "Ámál"
                                 faroese = "Ámál"
                                 greenlandic_norse = "Ámál"
                                 lappish = "Ámál"
@@ -65344,7 +65344,7 @@ e_maghreb = {
                                 portuguese = "Al-Machuar-Stinia"
                                 castillan = "Al-Machuar-Stinia"
                                 galician = "Al-Machuar-Stinia"
-                                basque = = "Al-Matxuar-Stinia"
+                                basque = "Al-Matxuar-Stinia"
                                 catalan = "Al-Machuar-Stinia"
                                 aragonese = "Al-Machuar-Stinia"
                                 asturian = "Al-Machuar-Stinia"

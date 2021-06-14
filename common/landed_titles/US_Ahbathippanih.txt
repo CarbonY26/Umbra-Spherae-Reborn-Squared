@@ -900,7 +900,7 @@ e_ahbathippanih = {
 				b_gonimoyow = {
 				}
 				b_washakie = {
-				}                                      }
+				}
 			}
 			c_tetlrincs = {
 
