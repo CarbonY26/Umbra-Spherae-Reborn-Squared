@@ -4890,17 +4890,17 @@ province;red;green;blue;x;x;
 4889;172;183;172;Yunnan River;x
 4890;4;186;45;Kasai River;x
 4891;46;189;173;Illiminapi;x #CHANGE LATER
-4892;88;192;46;;x #Kam
-4893;130;195;174;;x
-4894;172;198;47;;x
-4895;4;201;175;;x
-4896;46;204;48;;x
-4897;88;207;176;;x #kam
+4892;88;192;46;Bystrinsky;x #Kam
+4893;130;195;174;Tigilsky;x
+4894;172;198;47;Milkovsky;x
+4895;4;201;175;jelizovsky;x
+4896;46;204;48;Sobolevsky;x
+4897;88;207;176;Ust-Bolsherecky;x #kam
 4898;130;210;49;Lake Victoria;x #Africa River Fixes
 4899;172;0;177;Victokivu;x
 4900;4;3;50;Victoward;x
-4901;46;6;178;;x
-4902;88;9;51;;x
+4901;46;6;178;Penzhinsky;x
+4902;88;9;51;Oljutorsky;x
 4903;130;12;179;;x
 4904;172;15;52;;x
 4905;4;18;180;;x
