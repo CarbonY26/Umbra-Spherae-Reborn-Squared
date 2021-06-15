@@ -52,7 +52,7 @@ e_polynesia = {
 			
 			capital = 4131 # hawaii
 			
-			c_hawaii= {
+			c_hawaii = {
 
 				color={ 88 39 39 }
 				color2={ 136 110 5 }
@@ -127,13 +127,33 @@ e_polynesia = {
 				}
 				b_makaha = {
 				}
-				b_kahaluu= {
+				b_kahaluu = {
 				}
 				b_banzai = {
 				}
 				b_waimea = {
 				}
 				b_laie = {
+				}
+			}
+			c_kauai = {
+
+				color={ 180 60 80 }
+				color2={ 146 120 15 }
+		
+				b_kekaha = {
+				}
+				b_kauai = {
+				}
+				b_lihue = {
+				}
+				b_kilaue = {
+				}
+				b_hanapepe = {
+				}
+				b_kalaheo = {
+				}
+				b_anahola = {
 				}
 			}
 		}
@@ -164,12 +184,12 @@ e_polynesia = {
 				b_apanaonewaena = {
 				}
 			}
-			c_Ealaoe = {
+			c_ealaoe = {
 
 				color={ 130 120 90 }
 				color2={ 112 160 20 }
 				
-				b_Ealaoe = {
+				b_ealaoe = {
 				}
 				b_alalaealoe = {
 				}
@@ -179,7 +199,7 @@ e_polynesia = {
 				}
 				b_kulanakauhale = {
 				}
-				b_Ealaoeniu = {
+				b_ealaoeniu = {
 				}
 				b_panapuaki = {
 				}
@@ -204,16 +224,16 @@ e_polynesia = {
 				b_lalaloko = {
 				}
 			}
-			c_Aililokomaiki = {
+			c_aililokomaiki = {
 
 				color={ 130 120 90 }
 				color2={ 112 160 20 }
 				
-				b_Aililokomaiki = {
+				b_aililokomaiki = {
 				}
 				b_lapalama = {
 				}
-				b_Terina = {
+				b_terina = {
 				}
 				b_opalaakoakoa = {
 				}
