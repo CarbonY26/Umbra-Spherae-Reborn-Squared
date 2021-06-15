@@ -13048,7 +13048,7 @@ e_scandinavia = {
                                         ugricbaltic = "Lõunaköping"
                                         lettigallish = "Dienvidišepinga"
                                         livonian = "Jedalköping"
-                                        ingrian = "Lounazköping
+                                        ingrian = "Lounazköping"
                                         votic = "Lõunazköping"
                                         veps = "Lounaköping"
                                         lappish = "Lullikepinga"
@@ -13611,7 +13611,7 @@ e_scandinavia = {
                                 veps = "Eeriklidn"
                                 lappish = "Erkesadji"
                                 ashkenazi = "Eriksshtot"
-                                greenlandic = "Erikillorpassualik""
+                                greenlandic = "Erikillorpassualik"
 
 				}
 
@@ -13822,7 +13822,7 @@ e_scandinavia = {
 
                         norse = "Norðrlönd"
                         norwegian = "Nordland"
-                        danish = "Nordland:
+                        danish = "Nordland"
                         icelandic = "Norðurlönd"
                         faroese = "Norðurlond"
                         norn = "Nordland"
@@ -22434,7 +22434,7 @@ e_scandinavia = {
 				holy_site = finnish_pagan_reformed
 				
 				b_antrea = {
-					swedish = "S:t Andree"
+					swedish = "Skt Andree"
 					norse = "Heilagr Andræs"
 					norwegian = "Sankt Anders"
 					danish = "Skt. Anders"
@@ -23228,7 +23228,7 @@ e_scandinavia = {
 				}
 				b_kaarina  = {#b_kuusisto
                                         norse = "Heilög Katarinar"
-					swedish = "S:t Karins"
+					swedish = "Skt Karins"
                                         norwegian = "Sankta Karins"
                                         danish = "Skt. Karins"
                                         icelandic = "Heilög Karinar"
@@ -24207,7 +24207,7 @@ e_scandinavia = {
 					
 				}
 				b_mikkeli = {
-					swedish = "S:t Michel"
+					swedish = "Skt Michel"
 					norse = "Heilagr Mikjáll"
 					norwegian = "Sankt Mikael"
 					danish = "Skt. Michael"

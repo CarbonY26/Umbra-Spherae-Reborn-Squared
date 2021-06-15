@@ -578,14 +578,14 @@ e_polynesia = {
 				swedish = "Inarajan"
 				
 				b_inarajan = {
-					inuit = "Inarajan"
-					tuniit = "Inarajan"
-					norse = "Inarajan"
-					norwegian = "Inarajan"
-					danish = "Inarajan"
-					swedish = "Inarajan"
-				}
-				b_inarajan = {
+                    			inuit = "Inarajan"
+                    			tuniit = "Inarajan"
+                   			norse = "Inarajan"
+                    			norwegian = "Inarajan"
+                   	 		danish = "Inarajan"
+                    			swedish = "Inarajan"
+                		}
+                		b_inarajamer = {
 				}
 				b_merizo = {
 				}
@@ -618,6 +618,26 @@ e_polynesia = {
 				b_hagatana = {
 				}
 			}
+			c_mariana = {
+
+                color={ 130 220 190 }
+                color2={ 252 123 145 }
+
+                b_saipatinian = {
+                }
+                b_rotaguam = {
+                }
+                b_anatahan = {
+                }
+                b_sariganphillis = {
+                }
+                b_guguan = {
+                }
+                b_alamagan = {
+                }
+                b_agrihan = {
+                }
+            }
 		}
 		d_micronesia = {
 
@@ -749,35 +769,6 @@ e_polynesia = {
 				b_pingelapat = {
 				}
 			}
-		}
-		d_mariana = {
-
-				color={ 130 220 190 }
-				color2={ 252 123 145 }
-			
-			capital = 4167 # mariana
-			
-			c_mariana = {
-
-                color={ 130 220 190 }
-                color2={ 252 123 145 }
-
-                b_saipatinian = {
-                }
-                b_rotaguam = {
-                }
-                b_anatahan = {
-                }
-                b_sariganphillis = {
-                }
-                b_guguan = {
-                }
-                b_alamagan = {
-                }
-                b_agrihan = {
-                }
-            }
-
 		}
 	}
 }
