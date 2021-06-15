@@ -9,7 +9,8 @@
 	religion = finnish_pagan
 }
 1000028349 = {
-        name = "
+	name = "Placeholder"
+}
 1000078070 = {
 	name="Vestribyggt"
 	culture = norse

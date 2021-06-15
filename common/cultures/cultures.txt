@@ -51,55 +51,55 @@ north_germanic = {
 			Arnkæll_Arnkætill Arnkætill_Arnæktill Arnlaugr_Arnlaug 
 			Arnleifr_Arnleif Arnljótr Arnmóðr_Árnmóðr Arnmundr_Arnmund
 			Arnniútr Arnoddr_Arnod Arnrøðr_Arnfred 
-Arnsteinn Arnþjófr Arnþórr 
-Arta Arnulfr_Arnulf Arnviðr_Arvid Arviðr_Arvid 
-Árvakr Asbjörn_Asbjörn Ásbrandr Ásdiarfr Ásfastr Ásfriðr
-Ásgautr Ásgeirr_Oscar Ásgísl Ásgrímr Ási Áskell_Ásketill Ásketill
-Askr Ásl Áslákr_Aslak Áslaugr_Aslaug Ásleifr Ásleikr
-Ásmarr Ásmóðr_Asmod Ásmundr_Asmund Ásniútr Ásoddr Assurr_Andsvarr
-Ásti Ástráðr Ásulfr_Asulf Ásvaldr_Oswald Ásvarðr Ásviðr Atfari 
-Áti Atli_Attila Atríðr Attill Auðbjörn Auðgeirr_Edgar Auðgísl_Eadgils
-Auðgrímr Auðhvatr Auði Auðgi Auðin_Eadwine Auðvin_Eadwine Auðkell_Auðketill
-Auðketill Auðleifr Auðmaðr_Auðmann Auðmann Auðmundr_Edmund Auðr Auðríkr_Eadric
-Auðsteinn Auðulfr_Eadulf Auðun_Eadwine Auðunn_Eadwine
-Auðvaldr_Eadweald Auðviðr Auðvin_Eadwine Auðvini_Eadwine
-Augnarr Auga Aulfr Aumundr_Aunmundr Aunmundr Aunvindr Aurboða Austbjörn
-Austmaðr Austri Autir Auðfinnr Auðgarðr Auðgautr Ávaldi Ávaldr Ávangr Ávarr
-Baggi_Bagge Baldr_Balder Baldrekr Baldvin_Baldwin Baldvini_Baldwin 
-Balki Bálki_Balki Balli Ballir_Balli Ballungr Balti Baltr_Balti 
-Bangsi Banki_Banke Barði Bárðr Bardær_Bárðr 
-Bárekr_Böðríkr Bari Barid Barki_Börkr Barkr_Börkr Barkviðr Bároðr 
-Bárøðr Báulfr Beggi Begla_Bæglir
-Beigaðr Beigaldi Beimi Beimuni_Beimi Beini_Beinir Beinir 
-Beint_Benedict Beinviðr Beiti Bekan_Becán Bekki_Bekkr Bekkr
-Benkt_Benedict Benteinn Bergfinnr Bergljótr_Bergljot Bergr_Berg 
-Bergsveinn Bergulfr_Björgulfr Bergviðr Bergþórr Berlingr Bermóðr_Bermod
-Bertold_Berthold Bersi Bertil_Bertilo Bialfi Biálfi 
-Bíharðr Bíherr Bikki_Becca Birger Birgir_Birger Birningr_Birningr 
-Birtingr Bisi Biúrsteinn_Bjursten Bjarðr_Bíharðr Bjarki 
-Bjarnarðr_Bernard Bjarngeirr Bjarngrímr Bjarnharðr_Bernard 
-Bjarnhöfði Bjarnheðinn Bjarnlaugr Bjarnmóðr_Bermod Bjarnulfr_Björnulfr 
-Bjarnvarðr Bjárr_Bíherr
-Bjartmarr Bjartr Bjermóðr_Bermod Bjólan_Beollán Bjólfr_Bjug Bjórr_Bjor
-Björgulfr Björn_Beorn Björnkarl 
-Björnulfr_Bernulf Bjúlfr_Bjug Blákári Blasíus_Blaise Bljúgr 
-Blæingr Bó_Bo Bóandi Bófi Bófreðr Bogi_Boge Bói_Bo Bóla Boldi_Buldi 
-Bóli_Bole Bolli Bólnautr Bóndi_Bóandi Bórekr Borgarhjörtr Borgarr 
-Borgfastr Borggeirr Borgulfr_Borgulfr Borkvardr Bósi Bótbjörn
-Bótfreðr_Bófreðr Bótfúss Bótgeirr Bóthvatr Botni_Butni
-Bótolfr_Botulf Bótólfr_Botulf Bótulfr_Botulf Bótviðr_Botvid 
-Bóurr Bragi_Brage Brámi Bramr Brandalfr_Brandalv Brandgengi 
-Brandi Brandingi_Brandgengi Brandr 
-Brandulfr_Brandulfr Bröndólfr_Brandulfr Bröndulfr_Brandulfr Buðli Buldi
-Bulli_Bolli Búri Búrir Butni Butraldi Býrir_Búrir Byrvill Bysia Bysir_Bósi
-Býulfr_Bjug Byx Bæglir_Bæglir Bæilir_Bæglir Böðmóðr_Bodmod Böðrekr_Böðríkr
-Böðríkr Böðvarðr Börðr_Böðvarðr Böðvarr_Bodvar Börðr_Böðvarðr Börkr 
-Bøsir_Bósi Dafiþ_David Dagfinnr_Dagfinn
-Dagr_Dag Dagstyggr_Dagstygg Dali_Dalli Dálkr Dalli
-Danr_Danr Danski Darrhöðr_Darrhöðr Darri David Davið_David Davíð_David
-Dávíð_David Diarfr Digraldi_Digrvaldi Digrvaldi 
-Diúrgeirr Diúri_Dýri Diúrvér_Dýrvér Dofri Dolgfinnr Dólgfinnr_Dolgfinnr
-Dómaldi_Dómaldr Dómaldr Dómarr_Domar Dómi Domnall_Donald 
+			Arnsteinn Arnþjófr Arnþórr 
+			Arta Arnulfr_Arnulf Arnviðr_Arvid Arviðr_Arvid 
+			Árvakr Asbjörn_Asbjörn Ásbrandr Ásdiarfr Ásfastr Ásfriðr
+			Ásgautr Ásgeirr_Oscar Ásgísl Ásgrímr Ási Áskell_Ásketill Ásketill
+			Askr Ásl Áslákr_Aslak Áslaugr_Aslaug Ásleifr Ásleikr
+			Ásmarr Ásmóðr_Asmod Ásmundr_Asmund Ásniútr Ásoddr Assurr_Andsvarr
+			Ásti Ástráðr Ásulfr_Asulf Ásvaldr_Oswald Ásvarðr Ásviðr Atfari 
+			Áti Atli_Attila Atríðr Attill Auðbjörn Auðgeirr_Edgar Auðgísl_Eadgils
+			Auðgrímr Auðhvatr Auði Auðgi Auðin_Eadwine Auðvin_Eadwine Auðkell_Auðketill
+			Auðketill Auðleifr Auðmaðr_Auðmann Auðmann Auðmundr_Edmund Auðr Auðríkr_Eadric
+			Auðsteinn Auðulfr_Eadulf Auðun_Eadwine Auðunn_Eadwine
+			Auðvaldr_Eadweald Auðviðr Auðvin_Eadwine Auðvini_Eadwine
+			Augnarr Auga Aulfr Aumundr_Aunmundr Aunmundr Aunvindr Aurboða Austbjörn
+			Austmaðr Austri Autir Auðfinnr Auðgarðr Auðgautr Ávaldi Ávaldr Ávangr Ávarr
+			Baggi_Bagge Baldr_Balder Baldrekr Baldvin_Baldwin Baldvini_Baldwin 
+			Balki Bálki_Balki Balli Ballir_Balli Ballungr Balti Baltr_Balti 
+			Bangsi Banki_Banke Barði Bárðr Bardær_Bárðr 
+			Bárekr_Böðríkr Bari Barid Barki_Börkr Barkr_Börkr Barkviðr Bároðr 
+			Bárøðr Báulfr Beggi Begla_Bæglir
+			Beigaðr Beigaldi Beimi Beimuni_Beimi Beini_Beinir Beinir 
+			Beint_Benedict Beinviðr Beiti Bekan_Becán Bekki_Bekkr Bekkr
+			Benkt_Benedict Benteinn Bergfinnr Bergljótr_Bergljot Bergr_Berg 
+			Bergsveinn Bergulfr_Björgulfr Bergviðr Bergþórr Berlingr Bermóðr_Bermod
+			Bertold_Berthold Bersi Bertil_Bertilo Bialfi Biálfi 
+			Bíharðr Bíherr Bikki_Becca Birger Birgir_Birger Birningr_Birningr 
+			Birtingr Bisi Biúrsteinn_Bjursten Bjarðr_Bíharðr Bjarki 
+			Bjarnarðr_Bernard Bjarngeirr Bjarngrímr Bjarnharðr_Bernard 
+			Bjarnhöfði Bjarnheðinn Bjarnlaugr Bjarnmóðr_Bermod Bjarnulfr_Björnulfr 
+			Bjarnvarðr Bjárr_Bíherr
+			Bjartmarr Bjartr Bjermóðr_Bermod Bjólan_Beollán Bjólfr_Bjug Bjórr_Bjor
+			Björgulfr Björn_Beorn Björnkarl 
+			Björnulfr_Bernulf Bjúlfr_Bjug Blákári Blasíus_Blaise Bljúgr 
+			Blæingr Bó_Bo Bóandi Bófi Bófreðr Bogi_Boge Bói_Bo Bóla Boldi_Buldi 
+			Bóli_Bole Bolli Bólnautr Bóndi_Bóandi Bórekr Borgarhjörtr Borgarr 
+			Borgfastr Borggeirr Borgulfr_Borgulfr Borkvardr Bósi Bótbjörn
+			Bótfreðr_Bófreðr Bótfúss Bótgeirr Bóthvatr Botni_Butni
+			Bótolfr_Botulf Bótólfr_Botulf Bótulfr_Botulf Bótviðr_Botvid 
+			Bóurr Bragi_Brage Brámi Bramr Brandalfr_Brandalv Brandgengi 
+			Brandi Brandingi_Brandgengi Brandr 
+			Brandulfr_Brandulfr Bröndólfr_Brandulfr Bröndulfr_Brandulfr Buðli Buldi
+			Bulli_Bolli Búri Búrir Butni Butraldi Býrir_Búrir Byrvill Bysia Bysir_Bósi
+			Býulfr_Bjug Byx Bæglir_Bæglir Bæilir_Bæglir Böðmóðr_Bodmod Böðrekr_Böðríkr
+			Böðríkr Böðvarðr Börðr_Böðvarðr Böðvarr_Bodvar Börðr_Böðvarðr Börkr 
+			Bøsir_Bósi Dafiþ_David Dagfinnr_Dagfinn
+			Dagr_Dag Dagstyggr_Dagstygg Dali_Dalli Dálkr Dalli
+			Danr_Danr Danski Darrhöðr_Darrhöðr Darri David Davið_David Davíð_David
+			Dávíð_David Diarfr Digraldi_Digrvaldi Digrvaldi 
+			Diúrgeirr Diúri_Dýri Diúrvér_Dýrvér Dofri Dolgfinnr Dólgfinnr_Dolgfinnr
+			Dómaldi_Dómaldr Dómaldr Dómarr_Domar Dómi Domnall_Donald 
 Dóri Dóti Dótta Drafli Dragmáll_Dragmel Draupnir Drengmaðr_Drengmann
 Drengr_Dreng Drósbói Druian Drængi_Dreng Drængr_Dreng 
 Dýri_Dýri Dýrvér Eilif Egill_Egil Emund 
@@ -4429,7 +4429,7 @@ female_names = {
 
 }
 
-from_dynasty_prefix = "
+from_dynasty_prefix = "of "
 }
 
 ugricbaltic = {#eesti
@@ -4748,7 +4748,7 @@ from_dynasty_prefix = "is"
 modifier = default_culture_modifier
 }
 
-east_ galindian = {#galindai?
+east_galindian = {#galindai?
 graphical_cultures = { ugricgfx }
 color = { 0.51 0.1 0.27 }
 
@@ -5795,7 +5795,7 @@ from_dynasty_prefix = "mn "
 
 		modifier = default_culture_modifier
 	}
-
+}
 
 east_slavic = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
@@ -7093,7 +7093,7 @@ modifier = default_culture_modifier
 saka = {#saka
 graphical_cultures = { persiangfx } #arabicgfx
 secondary_event_pictures = bedouin_arabic
-color = { 0.4 0.2 0.75  
+color = { 0.4 0.2 0.75 }
 
 male_names = {
             Alysanna Arsa Aryamgula Asi Baga Bahudhiva Bamdaka Bhadra Bradaysaa Brika Capastaka Ceguti Chika Daisai Dharma Dum Dzatsi Gostana Gulai Harka 
@@ -7718,8 +7718,8 @@ modifier = default_culture_modifier
  
 falasha = {#bete isra'el
 
-graphical_cultures = { graphical_cultures = { africangfx westafricangfx }
-secondary_event_pictures = bedouin_arabic }
+graphical_cultures = { africangfx westafricangfx }
+secondary_event_pictures = bedouin_arabic
 color = { 0.57 0.21 0.94 }
 
 male_names = {
@@ -7798,7 +7798,7 @@ modifier = default_culture_modifier
 }     
 }
 
-east_romance:
+east_romance = {
 alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { easterngfx }
 
@@ -7893,6 +7893,8 @@ romanian = {#român
 		mother_name_chance = 5
 
 		modifier = default_culture_modifier
+}
+
 }
 
 
@@ -8450,10 +8452,10 @@ male_names = { Magon Hanniba'l_Hannibal Hamelqart_Hamilcar 'Adzroba'l_Hasdrubal 
 female_names = { Elishat Elisha_Elishat
 }
 
-from_dynasty_prefix = 
-
-male_patronym = 
-female_patronym = 
+from_dynasty_prefix = "mn " #placeholder for this and patronyms
+		
+male_patronym = "Mmi "
+female_patronym = "Yeggi  "
 prefix = yes
 
 dynasty_title_names = no
