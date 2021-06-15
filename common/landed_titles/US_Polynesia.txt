@@ -757,26 +757,26 @@ e_polynesia = {
 			
 			capital = 4167 # mariana
 			
-			c_azatalan = {
+			c_mariana = {
 
-				color={ 130 220 190 }
-				color2={ 252 123 145 }
-				
-				b_saipatinian = {
-				}
-				b_rotaguam = {
-				}
-				b_anatahan = {
-				}
-				b_sariganphillis = {
-				}
-				b_guguan = {
-				}
-				b_alamagan = {
-				}
-				b_agrihan = {
-				}
-			}
+                color={ 130 220 190 }
+                color2={ 252 123 145 }
+
+                b_saipatinian = {
+                }
+                b_rotaguam = {
+                }
+                b_anatahan = {
+                }
+                b_sariganphillis = {
+                }
+                b_guguan = {
+                }
+                b_alamagan = {
+                }
+                b_agrihan = {
+                }
+            }
 
 		}
 	}
