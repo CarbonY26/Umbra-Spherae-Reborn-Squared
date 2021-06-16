@@ -13169,7 +13169,6 @@ e_scandinavia = {
 				}
 
 				b_odeshog = {
-'
                                         norse = "Ødeshøg"
                                         norwegian = "Ødeshøg"
                                         danish = "Ødeshøg"
