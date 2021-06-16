@@ -463,9 +463,9 @@ e_purepechtarrahum = {
 				
 				b_tonallan = {
 				}
-				b_Tonala = {
+				b_tonala = {
 				}
-				b_Zapotonala = {
+				b_zapotonala = {
 				}
 				b_lanejopala = {
 				}
@@ -880,12 +880,12 @@ e_purepechtarrahum = {
 				b_cuacuyul = {
 				}
 			}
-			c_cuetzalan = {
+			c_cutzalan = {
 
 				color={ 180 60 80 }
 				color2={ 146 70 45 }
 				
-				b_cuetzalan = {
+				b_cutzalan = {
 				}
 				b_totonahyu = {
 				}
@@ -909,7 +909,7 @@ e_purepechtarrahum = {
 				}
 				b_mazamitla = {
 				}
-				b_Mazatli = {
+				b_mazatli = {
 				}
 				b_amaxlocot = {
 				}
@@ -940,12 +940,12 @@ e_purepechtarrahum = {
 				b_autlatom = {
 				}
 			}
-		c_melahuacan = {
+		c_melahaucan = {
 
 				color={ 180 60 80 }
 				color2={ 126 100 56 }
 				
-				b_melahuacan = {
+				b_melahaucan = {
 				}
 				b_scalientes = {
 				}

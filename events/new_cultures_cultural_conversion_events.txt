@@ -792,7 +792,7 @@ province_event = {
 	}
 }
 #Province adopts Masurian culture 
-province event = {
+province_event = {
            id = NC.13
 	   desc = EVTDESC_NC_13
 	   picture = GFX_evt_stone_church
@@ -851,7 +851,7 @@ province event = {
 	}
 }
 #Province Culture changes from Pomeranian to Slovincian
-province event = {
+province_event = {
            id = NC.14
 	   desc = EVTDESC_NC_14
 	   picture = GFX_evt_stone_church
@@ -913,7 +913,7 @@ province event = {
 	}
 }
 #Province Culture Changes from Pomeranian to Kashubian
-province event = {
+province_event = {
            id = NC.15
 	   desc = EVTDESC_NC_15
 	   picture = GFX_evt_stone_church
@@ -970,7 +970,7 @@ province event = {
 	}
 }
 #Carantanian province converts to Slovene
-province event = {
+province_event = {
            id = NC.16
 	   desc = EVTDESC_NC_16
 	   picture = GFX_evt_stone_church
@@ -1039,7 +1039,7 @@ province event = {
 	}
 }
 #Province adopts Israeli Culture
-province event = {
+province_event = {
                  id = ND.17
                  desc = EVTDESC_NC_17
                  picture = GFX_evt_jerusalem_captured_jews
@@ -1092,7 +1092,7 @@ province event = {
 }
 
 #Province adopts Britonian Culture
-province event = {
+province_event = {
                  id = NC.18
                  desc = EVTDESC_NC_18
 	         picture = GFX_evt_stone_church
