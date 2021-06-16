@@ -547,12 +547,12 @@ e_purepechtarrahum = {
 				b_Cuqcontia = {
 				}
 			}
-			c_xalostititian = {
+			c_xalostotititian = {
 
 				color={ 180 60 80 }
 				color2={ 136 180 177 }
 				
-				b_Jalostotitlan = {
+				b_xalostotititian = {
 				}
 				b_tecuexe = {
 				}
@@ -655,7 +655,7 @@ e_purepechtarrahum = {
 			
 			capital = 4199 # pechichitane
 			
-			c_pechitane = {
+			c_pechichitane = {
 
 				color={ 130 120 90 }
 				color2={ 106 150 15 }
@@ -675,7 +675,7 @@ e_purepechtarrahum = {
 				b_copyviejo = {
 				}
 			}
-			c_xiconaque = {
+			c_xiconque = {
 
 				color={ 130 120 90 }
 				color2={ 126 170 17 }
@@ -806,8 +806,6 @@ e_purepechtarrahum = {
 				}
 				b_xalixko = {
 				}
-				b_jalisco = {
-				}
 			}
 			c_tzapotzingo = {
 
@@ -817,8 +815,6 @@ e_purepechtarrahum = {
 				b_tzapotzingo = {
 				}
 				b_nayarith = {
-				}
-				b_Tepic = {
 				}
 				b_huajicori = {
 				}
@@ -834,19 +830,43 @@ e_purepechtarrahum = {
 				color={ 88 78 80 }
 				color2={ 116 115 15 }
 				
-				b_Centicpac = {
+				b_centicpac = {
 				}
-				b_ escuinapa = {
+				b_escuinapa = {
 				}
 				b_acaponeta = {
 				}
-				b_"tuxpan = {
+				b_tuxpan = {
 				}
 				b_mazatlan = {
 				}
 				b_acascuin = {
 				}
 				b_elsatota = {
+				}
+			}
+			c_guachinago = {
+
+				color={ 88 78 80 }
+				color2={ 116 115 15 }
+				
+				b_guachinago = {
+				}
+				b_xaulauchin = {
+				}
+				b_amontanxi = {
+				}
+			}
+			c_amecan = {
+
+				color={ 88 78 80 }
+				color2={ 116 115 15 }
+				
+				b_amecan = {
+				}
+				b_aymecaguach = {
+				}
+				b_amentanc = {
 				}
 			}
 		}
@@ -940,7 +960,7 @@ e_purepechtarrahum = {
 				b_autlatom = {
 				}
 			}
-		c_melahaucan = {
+			c_melahaucan = {
 
 				color={ 180 60 80 }
 				color2={ 126 100 56 }
@@ -961,6 +981,30 @@ e_purepechtarrahum = {
 				}
 			}
 		}
+			c_amollan = {
+
+				color={ 180 60 80 }
+				color2={ 166 120 55 }
+
+				b_amollan = {
+				}
+				b_amullaman = {
+				}
+				b_tepehuaje = {
+				}
+			}
+			c_tenomaxlan = {
+
+				color={ 180 60 80 }
+				color2={ 166 120 55 }
+
+				b_tenomaxlan = {
+				}
+				b_tenomalan = {
+				}
+				b_tenamallanax = {
+				}
+			}
 		d_azatatlan = {
 
 				color={ 130 220 190 }
@@ -1121,7 +1165,7 @@ e_purepechtarrahum = {
 				danish = "Chihuahua"
 				swedish = "Chihuahua"
 				
-				b_ = {
+				b_chitjiua = {
 					inuit = "Chihuahua"
 					tuniit = "Chihuahua"
 					norse = "Chihuahua"
@@ -1167,9 +1211,9 @@ e_purepechtarrahum = {
 				color={ 130 39 80 }
 				color2={ 136 110 5 }
 				
-				b_durago = {
+				b_durango = {
 				}
-				b_Hermoshillo = {
+				b_hermoshillo = {
 				}
 				b_tonichures = {
 				}
@@ -1196,8 +1240,6 @@ e_purepechtarrahum = {
 				b_ojocaliente = {
 				}
 				b_sombrerete = {
-				}
-				b_nochistlan = {
 				}
 				b_fresnillo = {
 				}
@@ -1246,7 +1288,7 @@ e_purepechtarrahum = {
 				}
 				b_elisos = {
 				}
-				b_"anapra = {
+				b_anapra = {
 				}
 				b_chavena = {
 				}
@@ -1420,16 +1462,12 @@ e_purepechtarrahum = {
 				b_cosinaloa = {
 				}
 			}
-			c_ohham= {
+			c_odham = {
 
 				color={ 180 60 80 }
 				color2={ 126 100 25 }
 				
 				b_panasca = {
-				}
-				b_tohno = {
-				}
-				b_safilape = {
 				}
 				b_yuumapiti = {
 				}
@@ -1440,7 +1478,25 @@ e_purepechtarrahum = {
 				b_embeoue = {
 				}
 			}
-			c_awkwala= {
+			c_tohno = {
+
+				color={ 180 60 80 }
+				color2={ 126 100 25 }
+				
+				b_tohno = {
+				}
+				b_safilape = {
+				}
+			}
+			c_pandoliva = {
+
+				color={ 180 60 80 }
+				color2={ 126 100 25 }
+				
+				b_pandoliva = {
+				}
+			}
+			c_awkwala = {
 
 				color={ 180 60 80 }
 				color2={ 126 100 25 }
@@ -1460,7 +1516,7 @@ e_purepechtarrahum = {
 				b_arsetij = {
 				}
 			}
-			c_baja= {
+			c_baja = {
 
 				color={ 180 60 80 }
 				color2={ 126 100 25 }
