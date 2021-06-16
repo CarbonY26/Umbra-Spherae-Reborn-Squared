@@ -1,0 +1,1486 @@
+e_purepechtarrahum = {
+
+	color={ 88 39 1 }
+	color2={ 130 18 4 }
+
+	norse = "Tarrahum"
+	norwegian = "Tarasca"
+	danish = "Tarasca"
+	swedish = "Tarasca"
+	english = "Tarasca"
+	saxon = "Tarascan"
+	old_saxon = "Tarascan"
+	german = "Tarascan"
+
+	capital = 4156 # Tzuntzuntan
+
+	k_tzintuntzan = {
+
+		color={ 130 18 4 }
+		color2={ 88 39 1 }
+
+		norse = "Tzintuntzan"
+		norwegian = "Tzintuntzan"
+		danish = "Tzintuntzan"
+		swedish = "Tzintuntzan"
+		english = "Tzintuntzan"
+		saxon = "Tzintuntzan"
+		old_saxon = "Tzintuntzan"
+		german = "Tzintuntzan"
+
+		capital = 4156 # Tzuntzuntan
+
+		d_tzuntzuntan = {
+
+			color={ 167 100 5 }
+			color2={ 130 20 5 }
+
+			inuit = "Tzuntzuntan"
+			tuniit = "Tzuntzuntan"
+			mikmaq = "Tzuntzuntan"
+			innu = "Tzuntzuntan"
+			norse = "Tzuntzuntan"
+			norwegian = "Tzuntzuntan"
+			danish = "Tzuntzuntan"
+			swedish = "Tzuntzuntan"
+			english = "Tzuntzuntan"
+			french = "Tzuntzuntan"
+			irish = "Tzuntzuntan"
+			scottish = "Tzuntzuntan"
+			portuguese = "Tzuntzuntan"
+			italian = "Tzuntzuntan"
+			
+			capital = 4156 # Tzuntzuntan
+			
+			c_acambaro = {
+
+				color={ 88 39 39 }
+				color2={ 136 110 5 }
+				
+				inuit = "Acambaro"
+				tuniit = "Acambaro"
+				norse = "Acambaro"
+				norwegian = "Acambaro"
+				danish = "Acambaro"
+				swedish = "Acambaro"
+				
+				b_acambaro = {
+					inuit = "Acambaro"
+					tuniit = "Acambaro"
+					norse = "Acambaro"
+					norwegian = "Acambaro"
+					danish = "Acambaro"
+					swedish = "Acambaro"
+				}
+				b_guanajuato = {
+				}
+				b_tarimoro = {
+				}
+				b_jerecuaro = {
+				}
+				b_tarandacuao = {
+				}
+				b_salvatierra = {
+				}
+				b_chupicuaro = {
+				}
+			}
+			c_tzuntzuntzan = {
+
+				color={ 88 39 80 }
+				color2={ 136 110 5 }
+				
+				b_tzuntzuntzan = {
+				}
+				b_yacata = {
+				}
+				b_patzcuaro = {
+				}
+				b_cazonci = {
+				}
+				b_tanganxoán = {
+				}
+				b_irepan  = {
+				}
+				b_hiquingare = {
+				}
+			}
+			c_ihautzio = {
+
+				color={ 88 78 80 }
+				color2={ 136 110 5 }
+				
+				b_ihuatzio = {
+				}
+				b_irepan = {
+				}
+				b_michoacan = {
+				}
+				b_"curicaueri = {
+				}
+				b_xaratanga = {
+				}
+				b_chacmool = {
+				}
+				b_chichimec = {
+				}
+			}
+			c_patzcuaro = {
+
+				color={ 130 39 80 }
+				color2={ 136 110 5 }
+				
+				b_patzcuaro = {
+				}
+				b_phascuaro = {
+				}
+				b_patatzecuaro = {
+				}
+				b_petatzimícuaro = {
+				}
+				b_paracume = {
+				}
+				b_vapeani = {
+				}
+				b_tarimichundiro = {
+				}
+			}
+		}
+		d_puruaran = {
+
+				color={ 180 60 80 }
+				color2={ 136 110 5 }
+
+			english = "puruaran"
+			french = "puruaran"
+			
+			capital = 4160 # Huetamo
+			
+			c_huetamo = {
+
+				color={ 180 60 80 }
+				color2={ 146 120 15 }
+		
+				b_huetamo = {
+				}
+				b_aurrera = {
+				}
+				b_sanignacio = {
+				}
+				b_airan = {
+				}
+				b_huarte = {
+				}
+				b_chumbitaro = {
+				}
+				b_tiquicheo = {
+				}
+			}
+			c_tancitaro = {
+
+				color={ 180 60 80 }
+				color2={ 146 120 15 }
+		
+				b_tancitaro = {
+				}
+				b_tancihuet = {
+				}
+				b_tancipuruar = {
+				}
+			}
+			c_puruaran = {
+
+				color={ 180 60 80 }
+				color2={ 136 110 5 }
+				
+				b_puruaran = {
+				}
+				b_lazaro = {
+				}
+				b_obera = {
+				}
+				b_cotita = {
+				}
+				b_colonia = {
+				}
+				b_michoaca = {
+				}
+				b_turicatom = {
+				}
+			}
+			c_apatzingan = {
+
+				color={ 180 60 80 }
+				color2={ 166 120 55 }
+
+				b_apatzingan = {
+				}
+				b_antunez = {
+				}
+				b_peronchita = {
+				}
+				b_pizandaro = {
+				}
+				b_capiro = {
+				}
+				b_oropeo = {
+				}
+				b_peronchit = {
+				}
+			}
+			c_urupan = {
+
+				color={ 180 60 80 }
+				color2={ 126 100 25 }
+				
+				b_urupan = {
+				}
+				b_tepalcatepec = {
+				}
+				b_reyesalgado = {
+				}
+				b_chilchota = {
+				}
+				b_michuruapan = {
+				}
+				b_caturupec = {
+				}
+				b_churuilchota = {
+				}
+			}
+		}
+		d_colliman = {
+
+				color={ 130 120 90 }
+				color2={ 146 170 45 }
+			
+			capital = 4167 # colliman
+			
+			c_nahu = {
+
+				color={ 130 120 90 }
+				color2={ 106 150 15 }
+				
+				b_nahu = {
+				}
+				b_guasimas = {
+				}
+				b_naranjilio = {
+				}
+				b_huitzonita = {
+				}
+				b_aquillia = {
+				}
+				b_huitzicol = {
+				}
+				b_coalcocoma = {
+				}
+			}
+			c_chumbia = {
+
+				color={ 130 120 90 }
+				color2={ 112 160 20 }
+				
+				b_chumbia = {
+				}
+				b_chumbanahiya = {
+				}
+				b_achotacham = {
+				}
+				b_telmoltchun = {
+				}
+				b_carritec = {
+				}
+				b_chumbatam = {
+				}
+				b_chuktelmenot = {
+				}
+			}
+			c_tacoman = {
+
+				color={ 130 120 90 }
+				color2={ 155 180 28 }
+				
+				b_tacoman = {
+				}
+				b_tecoman = {
+				}
+				b_valenzuela = {
+				}
+				b_tamalazap = {
+				}
+				b_pasculas = {
+				}
+				b_manzanilla = {
+				}
+				b_meccales = {
+				}
+			}
+			c_colliman = {
+
+				color={ 130 120 90 }
+				color2={ 105 110 48 }
+				
+				b_colliman = {
+				}
+				b_manzanillo = {
+				}
+				b_salagua = {
+				}
+				b_chacahuistle = {
+				}
+				b_elcolombo = {
+				}
+				b_jailpa = {
+				}
+				b_chandiablo = {
+				}
+			}
+			c_tamazollan = {
+
+				color={ 175 214 249 }
+				color2={ 220 220 220 }
+
+				norse = Tamazollan"
+				norwegian = "Tamazollan"
+				danish = "Tamazollan"
+				swedish = "Tamazollan"
+				mikmaq = "Tamazollan"
+				
+				b_tamasayuru = {
+				}
+				b_xaltepec = {
+				}
+				b_nochizilan = {
+				}
+				b_atlatlauhcan = {
+				}
+				b_coaixtlahauahcan = {
+				}
+				b_mictlan = {
+				}
+				b_coaxomolco = {
+				}
+			}
+			c_sayula = {
+
+				color={ 105 244 219 }
+				color2={ 220 220 220 }
+				
+				b_sayula = {
+				}
+				b_ciutaxap = {
+				}
+				b_tonalatala = {
+				}
+				b_coculameca = {
+				}
+				b_otalanyula = {
+				}
+				b_guzmayula = {
+				}
+				b_suhuayo = {
+				}
+			}
+
+		}
+	}
+	k_tonallguamatec = {
+
+		color={ 130 18 4 }
+		color2={ 88 39 1 }
+
+		norse = "Tonallguamatec"
+		norwegian = "Tonallguamatec"
+		danish = "Tonallguamatec"
+		swedish = "Tonallguamatec"
+		english = "Tonallguamatec"
+		saxon = "Tonallguamatec"
+		old_saxon = "Tonallguamatec"
+		german = "Tonallguamatec"
+
+		capital = 4173 # Tonallan
+
+		d_tonallan = {
+
+			color={ 167 100 5 }
+			color2={ 130 20 5 }
+
+			inuit = "Tonallan"
+			tuniit = "Tonallan"
+			mikmaq = "Tonallan"
+			innu = "Tonallan"
+			norse = "Tonallan"
+			norwegian = "Tonallan"
+			danish = "Tonallan"
+			swedish = "Tonallan"
+			english = "Tonallan"
+			french = "Tonallan"
+			irish = "Tonallan"
+			scottish = "Tonallan"
+			portuguese = "Tonallan"
+			italian = "Tonallan"
+			
+			capital = 4173  # Tonallan
+			
+			c_chapallan = {
+
+				color={ 188 139 139 }
+				color2={ 146 120 25 }
+				
+				inuit = "Chapallan"
+				tuniit = "Chapallan"
+				norse = "Chapallan"
+				norwegian = "Chapallan"
+				danish = "Chapallan"
+				swedish = "Chapallan"
+				
+				b_chapala = {
+					inuit = "Chapallan"
+					tuniit = "Chapallan"
+					norse = "Chapallan"
+					norwegian = "Chapallan"
+					danish = "Chapallan"
+					swedish = "Chapallan"
+				}
+				b_aijic = {
+				}
+				b_aljiscorp = {
+				}
+				b_ocotolapala = {
+				}
+				b_riosapala = {
+				}
+				b_mezcala = {
+				}
+				b_Meczcalachapa = {
+				}
+			}
+			c_tonallan = {
+
+				color={ 168 145 129 }
+				color2={ 146 120 25 }
+				
+				b_tonallan = {
+				}
+				b_Tonala = {
+				}
+				b_Zapotonala = {
+				}
+				b_lanejopala = {
+				}
+				b_guadalajara = {
+				}
+				b_tonguadala = {
+				}
+				b_tonjara = {
+				}
+			}
+			c_xochipillan = {
+
+				color={ 178 169 159 }
+				color2={ 146 120 25 }
+				
+				b_xochipilla = {
+				}
+				b_juchipila = {
+				}
+				b_elmoral = {
+				}
+				b_zalate = {
+				}
+				b_abyuzol = {
+				}
+				b_elquacate = {
+				}
+				b_viejon = {
+				}
+			}
+			c_nochistlan = {
+
+				color={ 148 154 139 }
+				color2={ 146 120 25 }
+				
+				b_nochistlan = {
+				}
+				b_guadalajara = {
+				}
+				b_caxcan = {
+				}
+				b_recuexe = {
+				}
+				b_zaratecas = {
+				}
+				b_elpapaqui = {
+				}
+				b_eljardin = {
+				}
+			}
+		}
+		d_Ayacmimexatec = {
+
+				color={ 180 60 80 }
+				color2={ 136 110 5 }
+
+			english = "Tecpatitlan"
+			french = "Tecpatitlan"
+			
+			capital = 4174 # Tecpatitlan
+			
+			c_tecpatitlan = {
+
+				color={ 180 60 150 }
+				color2={ 146 190 160 }
+		
+				b_tepatitlan = {
+				}
+				b_tepetate = {
+				}
+				b_tunaignacio = {
+				}
+				b_zapomezcal = {
+				}
+				b_coyotilvand = {
+				}
+				b_Rincolc = {
+				}
+				b_Cuqcontia = {
+				}
+			}
+			c_xalostititian = {
+
+				color={ 180 60 80 }
+				color2={ 136 180 177 }
+				
+				b_Jalostotitlan = {
+				}
+				b_tecuexe = {
+				}
+				b_caxica = {
+				}
+				b_jalostit = {
+				}
+				b_xacostaj = {
+				}
+				b_quincena = {
+				}
+				b_stititian = {
+				}
+			}
+			c_mitic = {
+
+				color={ 180 60 80 }
+				color2={ 176 165 195 }
+
+				b_mitic = {
+				}
+				b_miradric = {
+				}
+				b_miticalo = {
+				}
+				b_miticatic = {
+				}
+				b_mitipatitalan = {
+				}
+				b_mitisto = {
+				}
+				b_mitipat = {
+				}
+			}
+			c_mexticacan = {
+
+				color={ 180 60 80 }
+				color2={ 146 195 195 }
+				
+				b_mexticacan = {
+				}
+				b_tecuexeca = {
+				}
+				b_mextigua = {
+				}
+				b_guadalaj = {
+				}
+				b_dalajex = {
+				}
+				b_cacanjara = {
+				}
+				b_texicajara = {
+				}
+			}
+			c_acatic = {
+
+				color={ 180 60 80 }
+				color2={ 146 175 215 }
+				
+				b_acatic = {
+				}
+				b_tepacatic = {
+				}
+				b_tonacatic = {
+				}
+				b_yaualititlan = {
+				}
+				b_randastic = {
+				}
+				b_zunigatic = {
+				}
+				b_actoton = {
+				}
+			}
+			c_ayahualican = {
+
+				color={ 180 60 80 }
+				color2={ 116 185 95 }
+				
+				b_yahyalica = {
+				}
+				b_acasico = {
+				}
+				b_zaoitullo = {
+				}
+				b_pastores = {
+				}
+				b_riacongesaal = {
+				}
+				b_ekqyraznon = {
+				}
+				b_huaclilica = {
+				}
+			}
+		}
+		d_guamar = {
+
+				color={ 190 190 90 }
+				color2={ 246 110 145 }
+			
+			capital = 4199 # pechichitane
+			
+			c_pechitane = {
+
+				color={ 130 120 90 }
+				color2={ 106 150 15 }
+				
+				b_pechichitane = {
+				}
+				b_tecuacan = {
+				}
+				b_comanja = {
+				}
+				b_penjapechi = {
+				}
+				b_samiguhajamo = {
+				}
+				b_altepenaitl = {
+				}
+				b_copyviejo = {
+				}
+			}
+			c_xiconaque = {
+
+				color={ 130 120 90 }
+				color2={ 126 170 17 }
+				
+				b_xiconaque = {
+				}
+				b_cuxtaque = {
+				}
+				b_sauzas = {
+				}
+				b_guaxaban = {
+				}
+				b_carrialejo = {
+				}
+				b_unchos = {
+				}
+				b_guamar = {
+				}
+			}
+			c_pame = {
+
+				color={ 130 120 90 }
+				color2={ 146 180 19 }
+				
+				b_pame = {
+				}
+				b_pameria = {
+				}
+				b_renuyeeyea = {
+				}
+				b_xixuioi = {
+				}
+				b_tamaulipas = {
+				}
+				b_queretaro = {
+				}
+				b_chichimecajonaz = {
+				}
+			}
+			c_xecora = {
+
+				color={ 130 120 90 }
+				color2={ 125 160 68 }
+				
+				b_xecora = {
+				}
+				b_xeconaque = {
+				}
+				b_xecome = {
+				}
+				b_xeguam = {
+				}
+				b_xecoran = {
+				}
+				b_xechich = {
+				}
+				b_mexexecor = {
+				}
+			}
+
+		}
+	}
+		k_xalisco = {
+
+		color={ 130 18 4 }
+		color2={ 188 55 88 }
+
+		norse = "Xalisco"
+		norwegian = "Xalisco"
+		danish = "Xalisco"
+		swedish = "Xalisco"
+		english = "Xalisco"
+		saxon = "Xalisco"
+		old_saxon = "Xalisco"
+		german = "Xalisco"
+
+		capital = 4156 # Xalisco
+
+		d_xalisco = {
+
+			color={ 167 100 5 }
+			color2={ 130 20 5 }
+
+			inuit = "Xalisco"
+			tuniit = "Xalisco"
+			mikmaq = "Xalisco"
+			innu = "Xalisco"
+			norse = "Xalisco"
+			norwegian = "Xalisco"
+			danish = "Xalisco"
+			swedish = "Xalisco"
+			english = "Xalisco"
+			french = "Xalisco"
+			irish = "Xalisco"
+			scottish = "Xalisco"
+			portuguese = "Xalisco"
+			italian = "Xalisco"
+			
+			capital = 4194 # Xalisco
+			
+			c_xalisco = {
+
+				color={ 88 39 39 }
+				color2={ 136 110 5 }
+				
+				inuit = "Xalisco"
+				tuniit = "Xalisco"
+				norse = "Xalisco"
+				norwegian = "Xalisco"
+				danish = "Xalisco"
+				swedish = "Xalisco"
+				
+				b_xalisco = {
+					inuit = "Xalisco"
+					tuniit = "Xalisco"
+					norse = "Xalisco"
+					norwegian = "Xalisco"
+					danish = "Xalisco"
+					swedish = "Xalisco"
+				}
+				b_nayarit = {
+				}
+				b_tepic = {
+				}
+				b_ixcuintla = {
+				}
+				b_hacienda = {
+				}
+				b_xalixko = {
+				}
+				b_jalisco = {
+				}
+			}
+			c_tzapotzingo = {
+
+				color={ 88 39 80 }
+				color2={ 146 120 15 }
+				
+				b_tzapotzingo = {
+				}
+				b_nayarith = {
+				}
+				b_Tepic = {
+				}
+				b_huajicori = {
+				}
+				b_tecuala = {
+				}
+				b_jalanay  = {
+				}
+				b_lagunillas = {
+				}
+			}
+			c_centicpac = {
+
+				color={ 88 78 80 }
+				color2={ 116 115 15 }
+				
+				b_Centicpac = {
+				}
+				b_ escuinapa = {
+				}
+				b_acaponeta = {
+				}
+				b_"tuxpan = {
+				}
+				b_mazatlan = {
+				}
+				b_acascuin = {
+				}
+				b_elsatota = {
+				}
+			}
+		}
+		d_tomatlan = {
+
+				color={ 180 60 80 }
+				color2={ 146 140 45 }
+
+			english = "Tomotlan"
+			french = "Tomotlan"
+			
+			capital = 4176 # Tomatlan
+			
+			c_tomatlan = {
+
+				color={ 180 60 80 }
+				color2={ 146 120 15 }
+		
+				b_tomatlan = {
+				}
+				b_elgargantillo = {
+				}
+				b_gabrel = {
+				}
+				b_bellavisatlan = {
+				}
+				b_bramtlan = {
+				}
+				b_agyarca = {
+				}
+				b_cuacuyul = {
+				}
+			}
+			c_cuetzalan = {
+
+				color={ 180 60 80 }
+				color2={ 146 70 45 }
+				
+				b_cuetzalan = {
+				}
+				b_totonahyu = {
+				}
+				b_brias = {
+				}
+				b_yohualichan = {
+				}
+				b_puebala = {
+				}
+				b_alpazat = {
+				}
+				b_ztlazan = {
+				}
+			}
+			c_amaxlocotlan = {
+
+				color={ 180 60 80 }
+				color2={ 166 120 55 }
+
+				b_amaxlocotlan = {
+				}
+				b_mazamitla = {
+				}
+				b_Mazatli = {
+				}
+				b_amaxlocot = {
+				}
+				b_amitla = {
+				}
+				b_alajara = {
+				}
+				b_amaxlocin = {
+				}
+			}
+			c_autlan = {
+
+				color={ 180 60 80 }
+				color2={ 146 110 77 }
+				
+				b_autlan = {
+				}
+				b_talpascot = {
+				}
+				b_lanaut = {
+				}
+				b_melacham = {
+				}
+				b_auxculun = {
+				}
+				b_autcutzal = {
+				}
+				b_autlatom = {
+				}
+			}
+		c_melahuacan = {
+
+				color={ 180 60 80 }
+				color2={ 126 100 56 }
+				
+				b_melahuacan = {
+				}
+				b_scalientes = {
+				}
+				b_irapuatoeon = {
+				}
+				b_yahualic = {
+				}
+				b_teocaltiche = {
+				}
+				b_coltoleoupic = {
+				}
+				b_etiasca = {
+				}
+			}
+		}
+		d_azatatlan = {
+
+				color={ 130 220 190 }
+				color2={ 252 123 145 }
+			
+			capital = 4167 # colliman
+			
+			c_azatalan = {
+
+				color={ 130 220 190 }
+				color2={ 252 123 145 }
+				
+				b_azatalan = {
+				}
+				b_azatalanautl = {
+				}
+				b_zatalatlan = {
+				}
+				b_azacentipac = {
+				}
+				b_azapotzingo = {
+				}
+				b_azeulinch = {
+				}
+				b_azalisctlitlan = {
+				}
+			}
+			c_xecora = {
+
+				color={ 130 120 90 }
+				color2={ 112 160 20 }
+				
+				b_xecora = {
+				}
+				b_xecorahat = {
+				}
+				b_xecoraqias = {
+				}
+				b_xecorachun = {
+				}
+				b_tencarritec = {
+				}
+				b_xecoratec = {
+				}
+				b_xecorahcautl = {
+				}
+			}
+			c_cocuila = {
+
+				color={ 130 120 90 }
+				color2={ 155 180 28 }
+				
+				b_cocuila = {
+				}
+				b_cocuchap = {
+				}
+				b_cosaltepec = {
+				}
+				b_polroitrollis = {
+				}
+				b_ixtlahuacan = {
+				}
+				b_caijitlan = {
+				}
+				b_tlajomulco = {
+				}
+			}
+			c_xochitepec = {
+
+				color={ 130 120 90 }
+				color2={ 105 110 48 }
+				
+				b_xochitepec = {
+				}
+				b_curnavaca = {
+				}
+				b_zazacatoa = {
+				}
+				b_xocgucakci = {
+				}
+				b_tkahuica = {
+				}
+				b_alpuyeca = {
+				}
+				b_atlacholoaya = {
+				}
+			}
+			c_teulinchan = {
+
+				color={ 175 214 249 }
+				color2={ 220 220 220 }
+
+				b_etzatlan = {
+				}
+				b_oconahayu = {
+				}
+				b_mazateztlan = {
+				}
+				b_amparque = {
+				}
+				b_huazetaztlan = {
+				}
+				b_huaztotlan = {
+				}
+				b_jazetzat = {
+				}
+			}
+
+		}
+	}
+		k_chihuahua = {
+
+		color={ 130 18 4 }
+		color2={ 88 39 1 }
+
+		norse = "Chihuahua"
+		norwegian = "Chihuahua"
+		danish = "Chihuahua"
+		swedish = "Chihuahua"
+		english = "Chihuahua"
+		saxon = "Chihuahua"
+		old_saxon = "Chihuahua"
+		german = "Chihuahua"
+
+		capital = 4211 # Chihuahua
+
+		d_chihuahua = {
+
+			color={ 167 100 5 }
+			color2={ 130 20 5 }
+
+			inuit = "Chihuahua"
+			tuniit = "Chihuahua"
+			mikmaq = "Chihuahua"
+			innu = "Chihuahua"
+			norse = "Chihuahua"
+			norwegian = "Chihuahua"
+			danish = "Chihuahua"
+			swedish = "Chihuahua"
+			english = "Chihuahua"
+			french = "Chihuahua"
+			irish = "Chihuahua"
+			scottish = "Chihuahua"
+			portuguese = "Chihuahua"
+			italian = "Chihuahua"
+			
+			capital = 4156 # Chihuahua
+			
+			c_chihuahua = {
+
+				color={ 88 39 39 }
+				color2={ 136 110 5 }
+				
+				inuit = "Chihuahua"
+				tuniit = "Chihuahua"
+				norse = "Chihuahua"
+				norwegian = "Chihuahua"
+				danish = "Chihuahua"
+				swedish = "Chihuahua"
+				
+				b_ = {
+					inuit = "Chihuahua"
+					tuniit = "Chihuahua"
+					norse = "Chihuahua"
+					norwegian = "Chihuahua"
+					danish = "Chihuahua"
+					swedish = "Chihuahua"
+				}
+				b_chihuahua = {
+				}
+				b_pimbaguarjio = {
+				}
+				b_guadalupe = {
+				}
+				b_alamedas = {
+				}
+				b_zootecnia = {
+				}
+				b_chupicuaro = {
+				}
+			}
+			c_conchos = {
+
+				color={ 88 39 80 }
+				color2={ 136 110 5 }
+				
+				b_conchos = {
+				}
+				b_chadajuar = {
+				}
+				b_delicias = {
+				}
+				b_moctezuma = {
+				}
+				b_yachurachic = {
+				}
+				b_sacreel  = {
+				}
+				b_riogra = {
+				}
+			}
+			c_durango = {
+
+				color={ 130 39 80 }
+				color2={ 136 110 5 }
+				
+				b_durago = {
+				}
+				b_Hermoshillo = {
+				}
+				b_tonichures = {
+				}
+				b_bahiokino = {
+				}
+				b_pitiquio = {
+				}
+				b_guaymas = {
+				}
+				b_pimascholay = {
+				}
+			}
+			c_zacatecs = {
+
+				color={ 130 39 80 }
+				color2={ 136 110 5 }
+				
+				b_zacatecs = {
+				}
+				b_jalpe = {
+				}
+				b_chalchihuites = {
+				}
+				b_ojocaliente = {
+				}
+				b_sombrerete = {
+				}
+				b_nochistlan = {
+				}
+				b_fresnillo = {
+				}
+			}
+		}
+		d_coahuila = {
+
+			color={ 14 222 129 }
+			color2={ 220 220 220 }
+			
+			capital = 3773 # Coahuila
+			
+
+			c_chichitames = {
+
+				color={ 95 124 149 }
+				color2={ 220 220 220 }
+				
+				b_chichitames = {
+				}
+				b_chichihuila = {
+				}
+				b_chichita = {
+				}
+			}
+			c_cacaxtes = {
+
+				color={ 125 24 109 }
+				color2={ 220 220 220 }
+				
+				b_cacaxtes = {
+				}
+				b_cacaxtuintsun = {
+				}
+				b_cacaxchita = {
+				}
+			}
+			c_coahuila = {
+
+				color={ 88 78 80 }
+				color2={ 136 110 5 }
+				
+				b_juarez = {
+				}
+				b_campestre = {
+				}
+				b_elisos = {
+				}
+				b_"anapra = {
+				}
+				b_chavena = {
+				}
+				b_anahuac = {
+				}
+				b_infonavit = {
+				}
+			}
+			c_laguneros = {
+
+				color={ 45 214 129 }
+				color2={ 220 220 220 }
+				
+				b_laguneros = {
+				}
+				b_lagunernavit = {
+				}
+				b_lagunanipra = {
+				}
+			}
+		}
+		d_tamaulipas = {
+
+			color={ 55 194 22 }
+			color2={ 220 220 220 }
+			
+			capital = 3769 # Tamaulipas
+			
+			c_tamaulipas = {
+
+				color={ 195 144 119 }
+				color2={ 220 220 220 }
+				
+				b_tamaulipas = {
+				}
+				b_tamaulipas-ii = {
+				}
+				b_tamaulipas-iii = {
+				}
+				b_tamaulipas-iv = {
+				}
+			}
+			c_borrado = {
+
+				color={ 115 34 29 }
+				color2={ 220 220 220 }
+				
+				b_borrado = {
+				}
+				b_borrado-ii = {
+				}
+				b_borrado-iii = {
+				}
+			}
+			c_cotoname = {
+
+				color={ 75 124 33 }
+				color2={ 220 220 220 }
+				
+				b_cotoname = {
+				}
+				b_cotoname-ii = {
+				}
+				b_cotoname-iii = {
+				}
+			}
+			c_coahuilteco = {
+
+				color={ 155 174 49 }
+				color2={ 220 220 220 }
+				
+				b_coahuilteco = {
+				}
+				b_coahuilteco-ii = {
+				}
+				b_coahuilteco-iii = {
+				}
+			}
+			c_metztitlan = {
+
+				color={ 225 134 49 }
+				color2={ 220 220 220 }
+				
+				b_metztitlan = {
+				}
+				b_metztitlan-ii = {
+				}
+				b_metztitlan-iii = {
+				}
+			}
+			c_pame = {
+
+				color={ 95 197 49 }
+				color2={ 220 220 220 }
+				
+				b_pame = {
+				}
+				b_pame-ii = {
+				}
+				b_pame-iii = {
+				}
+			}
+		}
+		d_tijuana = {
+
+				color={ 180 60 80 }
+				color2={ 136 110 5 }
+
+			english = "Tijuana"
+			french = "Tijuana"
+			
+			capital = 4214 # Tijuana
+			
+			c_tarahumara = {
+
+				color={ 180 60 80 }
+				color2={ 146 120 15 }
+		
+				b_tarahumara = {
+				}
+				b_mayo = {
+				}
+				b_raremuri = {
+				}
+				b_tuaripa = {
+				}
+				b_utoazta = {
+				}
+				b_mukiomugi = {
+				}
+				b_mogollo = {
+				}
+			}
+			c_Chihuahuan = {
+
+				color={ 180 60 80 }
+				color2={ 136 110 5 }
+				
+				b_chihuahuan = {
+				}
+				b_noglaci = {
+				}
+				b_canbavispa = {
+				}
+				b_mosillo = {
+				}
+				b_semboeue = {
+				}
+				b_enaventa = {
+				}
+				b_tuchochi = {
+				}
+			}
+			c_cahitan = {
+
+				color={ 180 60 80 }
+				color2={ 166 120 55 }
+
+				b_cahitan = {
+				}
+				b_yaqui = {
+				}
+				b_mayaqui = {
+				}
+				b_yachitan = {
+				}
+				b_sonsina = {
+				}
+				b_casonora = {
+				}
+				b_cosinaloa = {
+				}
+			}
+			c_ohham= {
+
+				color={ 180 60 80 }
+				color2={ 126 100 25 }
+				
+				b_panasca = {
+				}
+				b_tohno = {
+				}
+				b_safilape = {
+				}
+				b_yuumapiti = {
+				}
+				b_tohnquin = {
+				}
+				b_visnua = {
+				}
+				b_embeoue = {
+				}
+			}
+			c_awkwala= {
+
+				color={ 180 60 80 }
+				color2={ 126 100 25 }
+				
+				b_tijuana = {
+				}
+				b_awkwala = {
+				}
+				b_mexicali = {
+				}
+				b_colnet = {
+				}
+				b_aronoso = {
+				}
+				b_puertecitos = {
+				}
+				b_arsetij = {
+				}
+			}
+			c_baja= {
+
+				color={ 180 60 80 }
+				color2={ 126 100 25 }
+				
+				b_lapiz = {
+				}
+				b_baja = {
+				}
+				b_rodeocas = {
+				}
+				b_inocentas = {
+				}
+				b_tomaciente = {
+				}
+				b_sulakas = {
+				}
+				b_latinaj = {
+				}
+			}
+		}
+		
+	}
+}
