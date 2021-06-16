@@ -586,6 +586,16 @@ e_inca = {
 				b_tarija-iii = {
 				}
 			}
+			c_joseuniano = {
+
+                color={ 115 114 182 }
+                color2={ 220 220 220 }
+
+                b_joseuniano = {
+                }
+                b_joseuniano-ii = {
+                }
+            }
 		}
 		d_potosi = {
 

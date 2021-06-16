@@ -4255,11 +4255,11 @@ province;red;green;blue;x;x;
 4254;172;195;27;Guarani;x #paraguay
 4255;4;198;155;Juyjuyarg;x
 4256;46;201;28;Cumayarga;x arg
-4257;88;204;156;Mozeno;x
+4257;88;204;156;Panuco River;x
 4258;130;207;29;Yuquieron;x #paraguay
 4259;172;210;157;Itapuat;x
 4260;4;0;30;Posadasina;x   #Arg Posa
-4261;46;3;158;Aymaras;x #Chile
+4261;46;3;158;Riosisante River;x #Chile
 4262;88;6;31;Atacamenos;x
 4263;130;9;159;Mankota;x #minn
 4264;172;12;32;Siouf;x #Dakota
@@ -4901,7 +4901,7 @@ province;red;green;blue;x;x;
 4900;4;3;50;Victoward;x
 4901;46;6;178;Penzhinsky;x
 4902;88;9;51;Oljutorsky;x
-4903;130;12;179;;x
+4903;130;12;179;East Pacuro;x
 4904;172;15;52;;x
 4905;4;18;180;;x
 4906;46;21;53;;x

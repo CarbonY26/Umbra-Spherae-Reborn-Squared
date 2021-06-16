@@ -76,6 +76,16 @@ e_consasurplata = {
 				b_cumaya = {
 				}
 			}
+			c_movima = {
+
+				color={ 135 124 218 }
+				color2={ 220 220 220 }
+				
+				b_movima = {
+				}
+				b_movimacura = {
+				}
+			}
 			c_chacobo = {
 
 				color={ 135 124 218 }
@@ -133,7 +143,7 @@ e_consasurplata = {
 				b_tacazon = {
 				}
 			}
-			c_mosetan = {
+			c_more = {
 
 				color={ 51 27 199 }
 				color2={ 220 220 220 }
@@ -145,12 +155,12 @@ e_consasurplata = {
 				b_aiquileose = {
 				}
 			}
-			c_camiribore = {
+			c_camiiribore = {
 
 				color={ 125 84 159 }
 				color2={ 220 220 220 }
 				
-				b_camiribore = {
+				b_camiiribore = {
 				}
 				b_robiquetos = {
 				}
