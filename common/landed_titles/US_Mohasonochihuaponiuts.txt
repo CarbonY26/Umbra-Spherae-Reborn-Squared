@@ -228,7 +228,7 @@ e_mohasonochihuaponiuts = {
 				b_eigohave = {
 				}
 			}
-			c_yavapal = {
+			c_aruitorado = {
 
 				color={ 75 176 86 }
 				color2={ 220 220 220 }

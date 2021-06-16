@@ -76,6 +76,16 @@ e_consasurplata = {
 				b_cumaya = {
 				}
 			}
+			c_chacobo = {
+
+				color={ 135 124 218 }
+				color2={ 220 220 220 }
+				
+				b_chacobo = {
+				}
+				b_chocomayaya = {
+				}
+			}
 			c_cavineno = {
 
 				color={ 115 144 118 }

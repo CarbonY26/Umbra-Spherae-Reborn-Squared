@@ -145,9 +145,9 @@ e_inca = {
 				
 				b_sucumbios = {
 				}
-				b_cascalago-ii = {
+				b_cascalago = {
 				}
-				b_shushufindi-iii = {
+				b_shushufindi = {
 				}
 			}
 		}
@@ -181,7 +181,7 @@ e_inca = {
 				}
 				b_requenucayal = {
 				}
-				b_putumayrecho-iii = {
+				b_putumayrecho = {
 				}
 			}
 			c_huanuco = {
