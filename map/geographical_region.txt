@@ -256,11 +256,12 @@ world_himalayas = {
 ###########################################################################
 
 custom_italy = {
-        duchies = {
-                d_savoie d_lombardia d_susa d_genoa d_modena d_verona d_friuli
-                d_ferrara d_toscana d_pisa d_ancona d_spoleto d_latium d_abruzzo
-                d_capua d_benevento d_salerno d_apulia d_calabria d_sicily
-                d_corsica d_sardinia d_venice
+	duchies = {
+		d_savoie d_lombardia d_susa d_genoa d_modena d_verona d_friuli
+		d_ferrara d_toscana d_pisa d_ancona d_spoleto d_latium d_abruzzo
+		d_capua d_benevento d_salerno d_apulia d_calabria d_sicily
+		d_corsica d_sardinia d_venice
+	}
 }
 
 custom_eastern_baltic = {

@@ -13169,7 +13169,6 @@ e_scandinavia = {
 				}
 
 				b_odeshog = {
-'
                                         norse = "Ødeshøg"
                                         norwegian = "Ødeshøg"
                                         danish = "Ødeshøg"
@@ -13611,7 +13610,7 @@ e_scandinavia = {
                                 veps = "Eeriklidn"
                                 lappish = "Erkesadji"
                                 ashkenazi = "Eriksshtot"
-                                greenlandic = "Erikillorpassualik""
+                                greenlandic = "Erikillorpassualik"
 
 				}
 

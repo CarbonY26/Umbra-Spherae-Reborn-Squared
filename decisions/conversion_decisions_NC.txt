@@ -1,3 +1,4 @@
+decisions = {
 # Visigothic character may convert to Leonese
 convert_to_leonese = {
 		only_playable = yes
@@ -571,3 +572,4 @@ convert_to_aragonese = {
 			}
 		}
 	}
+}
