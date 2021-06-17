@@ -1162,6 +1162,20 @@ e_wabanaki = {
 				b_plenkelanteree = {
 				}
 			}
+			c_rhoe = {
+
+                color={ 15 153 134 }
+                color2={ 220 220 220 }
+
+                b_rhoe = {
+                }
+                b_niantic = {
+                }
+                b_pocasset = {
+                }
+                b_sakonnet = {
+                }
+            }
 		}
 		d_kennebec = {
 
