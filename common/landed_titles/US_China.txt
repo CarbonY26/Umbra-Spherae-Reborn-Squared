@@ -368,7 +368,7 @@ e_china = {
 				b_kwentong = {
 				}
 			}
-			c_guangzhou = {
+			c_guangdong = {
 
 				color={ 51 232 143 }
 				color2={ 255 255 255 }
