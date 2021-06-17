@@ -420,7 +420,7 @@ e_wabanaki = {
 				color={ 75 176 86 }
 				color2={ 220 220 220 }
 				
-				b_ramapough = {
+				b_ramapoug = {
 				}
 				b_mahwah = {
 				}
