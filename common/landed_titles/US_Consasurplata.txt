@@ -1233,6 +1233,30 @@ e_consasurplata = {
 				b_pedernarch = {
 				}
 			}
+			c_apagachutchi = {
+
+                color={ 29 198 219 }
+                color2={ 220 220 220 }
+
+                b_apagachutchi = {
+                }
+                b_lamadri = {
+                }
+                b_vinchina = {
+                }
+            }
+            c_hirotikal = {
+
+                color={ 29 198 219 }
+                color2={ 220 220 220 }
+
+                b_hirotikal = {
+                }
+                b_famatina = {
+                }
+                b_chilcito = {
+                }
+            }
 		}
 		d_patagonochi = {
 
