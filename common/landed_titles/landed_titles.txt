@@ -20165,7 +20165,7 @@ e_scandinavia = {
                                 danish = "Røfos"
                                 icelandic = "Rauðifoss"
                                 faroese = "Reyðifossur"
-                                norn = "Rø
+                                norn = "Rø"
                                 greenlandic_norse = "Rautifoss"
 
 				}
