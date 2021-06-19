@@ -27491,13 +27491,13 @@ e_scandinavia = {
 					danish = "Arensborg"
 					norwegian = "Arensborg"
 					german = "Arensburg"
-				}
-				 = {#b_hiiumaa
+				# }
+				 # = {#b_hiiumaa
 					
-				}
-				 = {#b_muhu
+				# }
+				 # = {#b_muhu
                                         
-				}
+				# }
 				b_valjala = {
 				}
 				b_poide = {
@@ -27534,19 +27534,19 @@ e_scandinavia = {
                                 ugricbaltic = "Liivimaa"
 				german = "Livland"
 
-				b_ = {#b_gaujiena
+				b_gaujiena1 = {#b_gaujiena
 					
 				}
-				 = {#b_kokenois
+				b_kokenois1 = {#b_kokenois
 					
 				}
-				b_ = {#b_uxkull
+				b_uxkull1 = {#b_uxkull
 					
 				}
-				 = {#b_wenden
+				b_wenden1 = {#b_wenden
 					
 				}
-				 = {#b_wolmer
+				b_wolmer1 = {#b_wolmer
 					
 				}
 				b_lemisele = {
@@ -27559,7 +27559,7 @@ e_scandinavia = {
 					polish = Limbaži
 					lithuanian = Limbažiai
 				}
-				 = {#b_seswegen
+				b_seswegen1 = {#b_seswegen
 					
 				}
 			}

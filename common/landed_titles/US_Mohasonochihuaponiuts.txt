@@ -65,6 +65,7 @@ e_mohasonochihuaponiuts = {
 				}
 				b_ephraimanti = {
 				}
+			}
 			c_utah = {
 
 				color={ 135 94 219 }
@@ -479,7 +480,7 @@ e_mohasonochihuaponiuts = {
 				b_kitymyuma = {
 				}
 			}
-			c_ arapaha = {
+			c_arapaha = {
 
 				color={ 195 94 137 }
 				color2={ 220 220 220 }
@@ -599,7 +600,7 @@ e_mohasonochihuaponiuts = {
 			}
 		}
 	}
-		k_nevada = {
+	k_nevada = {
 
 		color={ 60 94 176 }
 		color2={ 220 220 220 }

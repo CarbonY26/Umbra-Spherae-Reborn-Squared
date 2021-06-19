@@ -810,7 +810,7 @@ e_consasurplata = {
 		color={ 106 85 0 }
 		color2={ 220 220 220 }
 
-		capital =  # 
+		capital = 3959 # Antofagasta
 
 		d_magalasysen = {
 
