@@ -727,7 +727,7 @@ province_event = {
 		should_evolve_cultures_trigger = yes
 		culture = "polish"
                 region = custom_silesian
-                year = "1200"
+                year = 1200
                 NOT = {
 			owner = { 
 				top_liege = { 
@@ -799,7 +799,7 @@ province_event = {
            trigger = {
 		should_evolve_cultures_trigger = yes
                 region = custom_masurian
-                year = {1300}
+                year = 1300
 		OR = {
 		      culture = "polish"
                       owner = {
@@ -858,7 +858,7 @@ province_event = {
            trigger = {
 		should_evolve_cultures_trigger = yes
                 region = custom_slovincian
-                year = {1100}
+                year = 1100
                 culture = "pommeranian"
                 NOT = {
 			owner = { 
@@ -884,7 +884,7 @@ province_event = {
 						religion_head = { culture = THIS }
 					}
 				}
-	
+	}
 	    mean_time_to_happen = {
 		months = 600
 		modifier = {
@@ -920,7 +920,7 @@ province_event = {
            trigger = {
 		should_evolve_cultures_trigger = yes
                 region = custom_kashubian
-                year = {1100}
+                year = 1100
                 culture = "pommeranian"
                  NOT = {
 			owner = { 
@@ -946,7 +946,7 @@ province_event = {
 						religion_head = { culture = THIS }
 					}
 				}
-	
+	}
 	    mean_time_to_happen = {
 		months = 600
 		modifier = {
@@ -977,7 +977,7 @@ province_event = {
            trigger = {
 		should_evolve_cultures_trigger = yes
                 region = custom_slovene
-                year = {1150}
+                year = 1150
                 culture = "carantanian"
                 NOT = {
 			owner = { 
@@ -1003,7 +1003,7 @@ province_event = {
 						religion_head = { culture = THIS }
 					}
 				}
-	
+	}
 	    mean_time_to_happen = {
 		months = 600
 		modifier = {
@@ -1093,26 +1093,25 @@ province_event = {
 
 #Province adopts Britonian Culture
 province_event = {
-                 id = NC.18
-                 desc = EVTDESC_NC_18
-	         picture = GFX_evt_stone_church
-                 trigger = {
-		 should_evolve_cultures_trigger = yes
-                 region = custom_britonian
-                 OR = {
-                      culture = welsh
-                      culture = cumbrian
-		 
-                 NOT = { religion_group = pagan_group }
-				AND = {
-					religion_group = pagan_group
-					is_reformed_religion = yes
-					NOT = {
-						religion_head = { culture = THIS }
-					}
+	id = NC.18
+	desc = EVTDESC_NC_18
+	picture = GFX_evt_stone_church
+	trigger = {
+		should_evolve_cultures_trigger = yes
+		region = custom_britonian
+		OR = {
+			culture = welsh
+			culture = cumbrian
+			NOT = { religion_group = pagan_group }
+			AND = {
+				religion_group = pagan_group
+				is_reformed_religion = yes
+				NOT = {
+					religion_head = { culture = THIS }
 				}
-	         }
-	
+			}
+		}
+	}
 	mean_time_to_happen = {
 		months = 600
 		modifier = {
@@ -1148,7 +1147,8 @@ province_event = {
 	}
 }
 #Province converts from Sicilian Arabic to Maltese           
-id = NC.19
+province_event = {
+	id = NC.19
 	   desc = EVTDESC_NC_19
 	   picture = GFX_evt_stone_church
            trigger = {
@@ -1164,7 +1164,7 @@ id = NC.19
 				religion_head = { culture = sicilian_arabic }
 			}
 		}
-	
+	}
 	    mean_time_to_happen = {
 		months = 600
 		modifier = {
