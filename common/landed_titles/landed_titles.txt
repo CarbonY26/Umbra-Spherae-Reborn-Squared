@@ -24869,7 +24869,6 @@ e_scandinavia = {
 				}
 
 				b_asele = {
-'
                                 norse = "Áseli"
                                 icelandic = "Áseli"
                                 faroese = "Áseli"
@@ -51427,7 +51426,7 @@ e_spain = {
                                 galician = "Valencia de Dom Xoán"
                                 basque = "Jaunarena Joanena Valentzia"
                                 catalan = "Valencia de Don Joan"
-                                aragonese = "Valencia de Don Chuan
+                                aragonese = "Valencia de Don Chuan"
                                 asturian = "Coyanza"
                                 leonese = "Coyanza"
                                 cantabrian = "Coyanza"
@@ -52136,7 +52135,7 @@ e_spain = {
                                 aragonese = "Ziudá Rodrigo"
                                 asturian = "Ciudá Rodrigu"
                                 leonese = "Ciudá Rodrigu"
-                                cantabrian = "Ciudá Rodrigu""
+                                cantabrian = "Ciudá Rodrigu"
                                 extremaduran = "Ciá Rodrigu"
                                 andalusian_arabic = "Chibt Ruderigo" 
                                 roman = "Augustobriga"
@@ -57647,7 +57646,7 @@ e_spain = {
 				b_moclin = {
 
                                 bedouin_arabic = "Hisn-Iqlim"
-                                levantine_arabic = "Hisn-Iqlim""
+                                levantine_arabic = "Hisn-Iqlim"
                                 egyptian_arabic = "Hisn-Iqlim"
                                 andalusian_arabic = "Hisn-Iqlim"
                                 sicilian_arabic = "Hisn-Iqlim"
