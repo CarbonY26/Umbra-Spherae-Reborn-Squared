@@ -6,7 +6,7 @@ title = c_hiiumaa
 #Settlements
 max_settlments = 7
 
-b_kardla
+b_kardla = tribal
 #b_kaina
 #b_korgessaare
 #b_isabella

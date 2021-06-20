@@ -64134,7 +64134,6 @@ e_maghreb = {
                                 mizrahi = "Ayn Ben Amar"
 
 				}
-'
 				b_ouazzane = {#b_barrha
 
                                 bedouin_arabic = "Wazzan"
