@@ -4240,7 +4240,7 @@ province;red;green;blue;x;x;
 4239;172;150;147;Eseeija;x
 4240;4;153;20;Tacana;x
 4241;46;156;148;Chacobo;x
-4242;88;159;21;Cavineno;x
+4242;88;159;21;;Cavineno;x
 4243;130;162;149;Tulsa;x okla
 4244;172;165;22;Movima;x
 4245;4;168;150;Owesobor;x #Kentuck
@@ -4277,18 +4277,18 @@ province;red;green;blue;x;x;
 4276;46;48;38;Hajenuwuseh;x #ohio2
 4277;88;51;166;Kawesqar;x
 4278;130;54;39;Chonos;x
-4279;172;57;167;Cuncos;x
+4279;172;57;167;Rigrandasanda River;x
 4280;4;60;40;Huilliches;x
-4281;46;63;168;Picunches;x
+4281;46;63;168;Usumacinta;x
 4282;88;66;41;Karyasratek;x #ohio2
 4283;130;69;169;Guangdong;x #Canton
 4284;172;72;42;Catamacovi;x
-4285;4;75;170;Diaguita;x
-4286;46;78;43;Chulupi;x
-4287;88;81;171;Mbyaguarni;x
-4288;130;84;44;Toba;x
-4289;172;87;172;Kolla;x
-4290;4;90;45;Rankatche;x
+4285;4;75;170;;x
+4286;46;78;43;;x
+4287;88;81;171;;x
+4288;130;84;44;;x
+4289;172;87;172;;x
+4290;4;90;45;;x
 4291;46;93;173;Detroit;x #mich
 4292;88;96;46;Chocarga;x
 4293;130;99;174;Taiwascaro;x #mich
@@ -4310,11 +4310,11 @@ province;red;green;blue;x;x;
 4309;172;147;182;Paraguari;x #paraguay
 4310;4;150;55;Saltrig;x
 4311;46;153;183;Camamcal;x
-4312;88;156;56;Riojati;x
-4313;130;159;184;Ujun;x
+4312;88;156;56;;x #ignore
+4313;130;159;184;;x
 4314;172;162;57;Sahorodacal;x
 4315;4;165;185;Pokzahalti;x
-4316;46;168;58;Corcalt;x
+4316;46;168;58;;x
 4317;88;171;186;Chihuahuan;x #desert to get rid of wastes
 4318;130;174;59;Shanghai;x #
 4319;172;177;187;Diegueno;x

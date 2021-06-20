@@ -569,7 +569,7 @@ e_consasurplata = {
 				b_salogotoaira = {
 				}
 			}
-			c_pokzahalt = {
+			c_pokzahalti = {
 
 				color={ 149 18 183 }
 				color2={ 220 220 220 }
@@ -659,7 +659,7 @@ e_consasurplata = {
 			
 			capital = 4300 # Urflorican
 			
-			c_Urflorican = {
+			c_urflorican = {
 
 				color={ 15 24 189 }
 				color2={ 220 220 220 }
@@ -991,7 +991,7 @@ e_consasurplata = {
 			color={ 45 14 31 }
 			color2={ 220 220 220 }
 			
-			capital = 4314 # Sahorodacal
+			capital = 4260 # Sahorodacal
 			
 			c_posadasina = {
 
@@ -1083,12 +1083,12 @@ e_consasurplata = {
 
 			capital = 4225 # Saltirg
 			
-			c_saltirg = {
+			c_saltrig = {
 
 				color={ 145 219 25 }
 				color2={ 220 220 220 }
 				
-				b_saltirg = {
+				b_saltrig = {
 				}
 				b_camquilja = {
 				}
@@ -1131,7 +1131,7 @@ e_consasurplata = {
 				b_olonghaoja = {
 				}
 			}
-			c_ catamacovi= {
+			c_ catamacovi = {
 
 				color={ 15 48 149 }
 				color2={ 220 220 220 }
@@ -1221,42 +1221,30 @@ e_consasurplata = {
 				b_pedernarch = {
 				}
 			}
-			c_cordarch = {
+			c_apagachutchi = {
 
 				color={ 29 198 219 }
 				color2={ 220 220 220 }
 				
-				b_concarluis = {
+				b_apagachutchi = {
 				}
-				b_gobernadupu = {
+				b_lamadri = {
 				}
-				b_pedernarch = {
+				b_vinchina = {
 				}
 			}
-			c_apagachutchi = {
+			c_hirotikal = {
 
-                color={ 29 198 219 }
-                color2={ 220 220 220 }
-
-                b_apagachutchi = {
-                }
-                b_lamadri = {
-                }
-                b_vinchina = {
-                }
-            }
-            c_hirotikal = {
-
-                color={ 29 198 219 }
-                color2={ 220 220 220 }
-
-                b_hirotikal = {
-                }
-                b_famatina = {
-                }
-                b_chilcito = {
-                }
-            }
+				color={ 29 198 219 }
+				color2={ 220 220 220 }
+				
+				b_hirotikal = {
+				}
+				b_famatina = {
+				}
+				b_chilcito = {
+				}
+			}
 		}
 		d_patagonochi = {
 
@@ -1265,7 +1253,7 @@ e_consasurplata = {
 			
 			capital = 4307 # Mendonzachuti
 			
-			c_heuque = {
+			c_heuqueu = {
 
 				color={ 148 27 195 }
 				color2={ 220 220 220 }
