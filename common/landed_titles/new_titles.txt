@@ -5,7 +5,7 @@ k_iceland = {
         capital = 1258
         catholic = 100
         norse_pagan_reformed = 400
-
+}
 k_canarias = { # Canarias
 		color = { 182 198 176 }
 		color2 = { 255 255 255 }
@@ -34,3 +34,4 @@ k_canarias = { # Canarias
                 greek = "Makaron Nesoi"
 
 		culture = guanche
+}

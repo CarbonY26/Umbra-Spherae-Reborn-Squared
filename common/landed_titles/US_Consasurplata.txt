@@ -453,7 +453,7 @@ e_consasurplata = {
 		color={ 106 85 0 }
 		color2={ 220 220 220 }
 
-		capital =  # 
+		capital = 4254 # 
 
 		d_paraguay = {
 
@@ -1131,7 +1131,7 @@ e_consasurplata = {
 				b_olonghaoja = {
 				}
 			}
-			c_ catamacovi = {
+			c_catamacovi = {
 
 				color={ 15 48 149 }
 				color2={ 220 220 220 }

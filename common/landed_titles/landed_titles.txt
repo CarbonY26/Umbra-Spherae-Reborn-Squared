@@ -15026,7 +15026,7 @@ e_scandinavia = {
 
 				}
 
-				b_hultsfred = { b_hulingsryd # Now Hultsfred
+				b_hultsfred = { #b_hulingsryd - Now Hultsfred
 
                                         norse = "Hulingsryðr"
                                         icelandic = "Hultsfriður"
@@ -52622,7 +52622,7 @@ e_spain = {
                                 cantabrian = "Villagarcía d'Arosa"
                                 extremaduran = "Villagarcia d'Arosa"
                                 andalusian_romance = "Villagarsía d'Arosa"
-                                sephardic "Viyagarsia de Arosa"
+                                sephardic = "Viyagarsia de Arosa"
 
 				}
 			}
@@ -57021,7 +57021,7 @@ e_spain = {
                                 portuguese = "Taraçona de Mancha"
                                 castillan = "Tarazona de la Mancha"
                                 galician = "Tarazona da Mancha"
-                                basque "Mantxako Tarazona"
+                                basque = "Mantxako Tarazona"
                                 catalan = "Tarassona de la Mancha"
                                 aragonese = "Tarazona de la Mancha"
                                 asturian = "Tarazona de la Mancha"
@@ -65350,7 +65350,7 @@ e_maghreb = {
                                 extremaduran = "Al-Machuar-Stinia"
                                 andalusian_romance = "Al-Machuar-Stinia"
                                 sephardic = "Al-Machuar-Stinia"
-                                mizrahi "Al-Mushawr Al-Sitinia"
+                                mizrahi = "Al-Mushawr Al-Sitinia"
 
                                 }
 
@@ -65662,7 +65662,7 @@ e_maghreb = {
                                 hijazi_arabic = "Utat al-Hajj" 
                                 omani_arabic = "Utat al-Hajj"
                                 yemeni_arabic = "Utat al-Hajj"
-                                mesopotamian_arabic = "Utat al-Hajj"'
+                                mesopotamian_arabic = "Utat al-Hajj"
                                 portuguese = "Utat O Haje"
                                 castillan = "Utat L'Haj"
                                 galician = "Utat O Haxe"

@@ -372,7 +372,8 @@ Torbjørn_Torbjörn Tord_Tord Torfinn_Torfinn Torgils_Torkel Ture Ubbe Uffe Ulf_Ul
 Valdemar_Vladimir Valentin_Valentin Vilfred Yngvar_Ingvar Sverker_Sverker
 Radulf_Radulf Ingi Steinkel_Stenkil Burislev_Boleslav Kol_Kol 
 Halsten_Halstein Sigmund_Sigmund Joachim_Joachim Åmunde_Amund
- 
+}
+
 female_names = {
 Agnethe Anna_Anna Asta_Asta Benedikte_Benedicta Birgitta_Brigid Bodil Cecilie_Cecilia 
 Christina_Christina Dagmar Dorothea_Dorothy 
@@ -6475,7 +6476,7 @@ male_names = {
                         Pribislaw_Przybyslaw Visan Slavomir Selibur Nako Stoigniew Mstivoj Mstidrag Mieceslas Mstislaw Przybygniew Udo_Otto
                         Ratibor Gotšalk_Gottschalk	 Budiwoj Gryn Kruto 
                         
-
+}
 		female_names = {
 			Moraja_Maria 
 

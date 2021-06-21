@@ -1243,7 +1243,7 @@ e_saskatchewan = {
 		color={ 47 134 116 }
 		color2={ 220 220 220 }
 
-		capital =  # ukitiyummiktuk
+		capital = 4438  # ukitiyummiktuk
 
 		d_ukitiyummiktuk = {
 
