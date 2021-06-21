@@ -1154,7 +1154,7 @@ province_event = {
            trigger = {
 		should_evolve_cultures_trigger = yes
                 region = custom_maltese
-                year = {1200}
+                year = 1200
                 culture = "sicilian_arabic"
                 owner = { 
                               culture_group = latin
@@ -1198,7 +1198,7 @@ province_event = {
 
 	trigger = {
 		should_evolve_cultures_trigger = yes
-                year = {1100}
+                year = 1100
 		culture = saxon
                 region = custom_scottish
 		owner = {
@@ -1247,7 +1247,7 @@ province_event = {
 
 	trigger = {
 		should_evolve_cultures_trigger = yes
-                year = {1100}
+                year = 1100
 		culture = english
                 region = custom_scottish
 		owner = {

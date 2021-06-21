@@ -92,7 +92,7 @@
 	intrigue=4
 	stewardship=7
 	religion="sunni"
-	culture=""andalusian_romance""
+	culture="andalusian_romance"
 	trait="humble"
 	trait="zealous"
 	trait="wroth"
@@ -115,7 +115,7 @@
 	intrigue=4
 	stewardship=7
 	religion="sunni"
-	culture=""andalusian_romance""
+	culture="andalusian_romance"
 	trait="wroth"
 	trait="tough_soldier"
 	father=20876
@@ -136,7 +136,7 @@
 	intrigue=6
 	stewardship=6
 	religion="sunni"
-	culture=""andalusian_romance""
+	culture="andalusian_romance"
 	trait="tough_soldier"
 	father=20877
 	1042.1.1={
@@ -223,7 +223,7 @@
 	name="Umar"
 	dynasty = 573
 	religion="sunni"
-	culture=""andalusian_romance""
+	culture="andalusian_romance"
 	father=3902
 	1066.1.1={
 		birth="1066.1.1"
@@ -237,7 +237,7 @@
 	name="Yahaff"
 	dynasty = 12195
 	religion="sunni"
-	culture=""andalusian_romance""
+	culture="andalusian_romance"
 	1008.1.1={
 		birth="1008.1.1"
 	}
@@ -250,7 +250,7 @@
 	name="Abdallah"
 	dynasty = 12195
 	religion="sunni"
-	culture=""andalusian_romance""
+	culture="andalusian_romance"
 	father=73197
 	1030.1.1={
 		birth="1030.1.1"
@@ -270,7 +270,7 @@
 	name="Ya'far"
 	dynasty = 12195
 	religion="sunni"
-	culture=""andalusian_romance""
+	culture="andalusian_romance"
 	father=73198
 	1055.1.1={
 		birth="1055.1.1"
@@ -293,7 +293,7 @@
 	name="Ahmad"
 	dynasty = 101608
 	religion="sunni"
-	culture=""andalusian_romance""
+	culture="andalusian_romance"
 	father=45006
 	1065.1.1={
 		birth="1065.1.1"
@@ -307,7 +307,7 @@
 	name="Ya'far"
 	dynasty = 101608
 	religion="sunni"
-	culture=""andalusian_romance""
+	culture="andalusian_romance"
 	father=45006
 	1067.1.1={
 		birth="1067.1.1"
@@ -321,7 +321,7 @@
 	name="Ubaid"
 	dynasty = 101608
 	religion="sunni"
-	culture=""andalusian_romance""
+	culture="andalusian_romance"
 	father=45006
 	1069.1.1={
 		birth="1069.1.1"
@@ -335,7 +335,7 @@
 	name="Raf"
 	dynasty = 101608
 	religion="sunni"
-	culture=""andalusian_romance""
+	culture="andalusian_romance"
 	father=45006
 	1071.1.1={
 		birth="1071.1.1"
@@ -350,7 +350,7 @@
 	female=yes
 	dynasty = 101608
 	religion="sunni"
-	culture=""andalusian_romance""
+	culture="andalusian_romance"
 	father=45006
 	1073.1.1={
 		birth="1073.1.1"

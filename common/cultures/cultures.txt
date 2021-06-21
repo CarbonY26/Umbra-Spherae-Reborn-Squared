@@ -3621,49 +3621,49 @@ caucasian_avar = {#avaral
 
 celtic = {
 	
-	graphical_cultures = westerngfx
+	graphical_cultures = { westerngfx }
 
 	briton = {#brithonikos
 		
-		graphical_cultures = {celticgfx westerngfx }
-		
-		color = { 0.5 1.0 0.0 }
-
+		graphical_cultures = { celticgfx westerngfx }
+        
+        color = { 0.5 1.0 0.0 }
+        
 		male_names = {
-Agrafin Alan_Alan Alisander_Alexander Alwyn_Alwyn Amhar Annan Apon Aradig Aradoc Arawain 
-Arod Arthfael Arthwr_Arthur Artognou Awighen_Owen
-Balin Balise Bedwyr Bedwyn Bleddyn Bleiddig Bleddijudd_Bleiddudd
-Bodoghnow_Budnou Brighobaghlos_Brighobaghlos 
-Brochobaghl_Brochmael Brwyn Brychan Bran_Bran
-Caddan Cadell Cadfael Catumandos_Cadfan Cadog Cadudighern_Cadeyrn 
-Cadwal Cadwallon Caelgyn Cai_Kay Caratacos_Caradog 
-Carig Cain Caleddin Caradoc Caraled Carawain Cavan
-Caswallon Cerdig Cerdoc Cerfin Cerlyn Cerwain 
-Cedwyn Celwin Ceredig Coel Cunowal_Cynwal Custennin_Constantine
-Cynfarch Cynfawr Cynfelyn Cynfyn Cynwallon Cynyr Culhwch Cythryn Cynlas 
-Dafydd_David Deiniol Derella Dinas 
-Dorfael Drystan_Tristan Dubnoghen_Dyfnien Dubnowal_Dunvel 
-Dyrrig Dyfrig Edern Edwyn_Edwin Eljudd_Eliudd Erbin
-Einion Eldoc Elgwyn Eachern Elwain Elwydd Elystan Emrys_Ambrose Ermid 
-Esuganios_Owen Fragan Fergal Feldan Gadric Galed Gareth_Gareth 
-Gawain_Gavin Gerdin Gereint_Gerontius
-Geralt_Gerald Gergant Gerled Gerlyd Gerreth Gerwain Griffid
-Gruffydd Gudovan Gundleus Gwen_Finn Gwerthern Gwidyr 
-Gwilym Gwiroghal Gwiroghnow_Gwiroghnow 
-Gwiroghust_Gwiroghust Gworthigern_Vortigern Gwydre Gwylyddyn Gyllad
-Hygwydd Jacob Juddonerth_Idnerth Idwal Idfael Iorweth_Edward Ithel Issa
-Lanval Lavaine Licat Ligessac Llanval Lladarn 
-Llystan Llyr Llughubarx_Llywarch Lugubelinos_Lwellwyn Loholt Malaine Mardoc Madog
-Mael Maelgwn Maelfin Maelgyr Mailgun_Maelgwyn 
-Maelgore Mapon Mared Menw
-Meilyr Meirion Meric Meriadoc_Meriadoc Merfyn 
-Meurig Minac Morfans Morien Morridig Morydd Nasiens
-Oreth Padarn Padern Pellinore Perddel Peredyr Peredur Quintus
-Rowain Severus Sestus Taliesin Tegwyd 
-Tertius Tighernobaghl_Tighernobaghl Togidubn_Togidubn
-Tudur_Tudur Tudowal_Tudwal Tudwallon Tyllwn 
-Uindiorigh Urboghen_Urien Uther Valerin Ynyr Ysfael
-}
+            Agrafin Alan_Alan Alisander_Alexander Alwyn_Alwyn Amhar Annan Apon Aradig Aradoc Arawain 
+            Arod Arthfael Arthwr_Arthur Artognou Awighen_Owen
+            Balin Balise Bedwyr Bedwyn Bleddyn Bleiddig Bleddijudd_Bleiddudd
+            Bodoghnow_Budnou Brighobaghlos_Brighobaghlos 
+            Brochobaghl_Brochmael Brwyn Brychan Bran_Bran
+            Caddan Cadell Cadfael Catumandos_Cadfan Cadog Cadudighern_Cadeyrn 
+            Cadwal Cadwallon Caelgyn Cai_Kay Caratacos_Caradog 
+            Carig Cain Caleddin Caradoc Caraled Carawain Cavan
+            Caswallon Cerdig Cerdoc Cerfin Cerlyn Cerwain 
+            Cedwyn Celwin Ceredig Coel Cunowal_Cynwal Custennin_Constantine
+            Cynfarch Cynfawr Cynfelyn Cynfyn Cynwallon Cynyr Culhwch Cythryn Cynlas 
+            Dafydd_David Deiniol Derella Dinas 
+            Dorfael Drystan_Tristan Dubnoghen_Dyfnien Dubnowal_Dunvel 
+            Dyrrig Dyfrig Edern Edwyn_Edwin Eljudd_Eliudd Erbin
+            Einion Eldoc Elgwyn Eachern Elwain Elwydd Elystan Emrys_Ambrose Ermid 
+            Esuganios_Owen Fragan Fergal Feldan Gadric Galed Gareth_Gareth 
+            Gawain_Gavin Gerdin Gereint_Gerontius
+            Geralt_Gerald Gergant Gerled Gerlyd Gerreth Gerwain Griffid
+            Gruffydd Gudovan Gundleus Gwen_Finn Gwerthern Gwidyr 
+            Gwilym Gwiroghal Gwiroghnow_Gwiroghnow 
+            Gwiroghust_Gwiroghust Gworthigern_Vortigern Gwydre Gwylyddyn Gyllad
+            Hygwydd Jacob Juddonerth_Idnerth Idwal Idfael Iorweth_Edward Ithel Issa
+            Lanval Lavaine Licat Ligessac Llanval Lladarn 
+            Llystan Llyr Llughubarx_Llywarch Lugubelinos_Lwellwyn Loholt Malaine Mardoc Madog
+            Mael Maelgwn Maelfin Maelgyr Mailgun_Maelgwyn 
+            Maelgore Mapon Mared Menw
+            Meilyr Meirion Meric Meriadoc_Meriadoc Merfyn 
+            Meurig Minac Morfans Morien Morridig Morydd Nasiens
+            Oreth Padarn Padern Pellinore Perddel Peredyr Peredur Quintus
+            Rowain Severus Sestus Taliesin Tegwyd 
+            Tertius Tighernobaghl_Tighernobaghl Togidubn_Togidubn
+            Tudur_Tudur Tudowal_Tudwal Tudwallon Tyllwn 
+            Uindiorigh Urboghen_Urien Uther Valerin Ynyr Ysfael
+        }
 		
 female_names = {
 Aliena Aelwyd Aeronwen Aeronwy Ailleann Alys Annes_Anna Annwyl Buddig_Boudicca
