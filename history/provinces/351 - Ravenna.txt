@@ -19,7 +19,7 @@ culture = italian
 religion = catholic
 
 # History
-476.9.4 = { culture = "gothic }
+476.9.4 = { culture = "gothic" }
 556.1.1 = { culture = "italian" }
 936.1.1 = { capital = b_ravenna }
 1130.1.1 = { trade_post = b_contarini }

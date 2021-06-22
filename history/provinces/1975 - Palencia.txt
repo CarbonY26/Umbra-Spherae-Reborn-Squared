@@ -8,7 +8,7 @@ max_settlements = 4
 b_palencia = castle
 b_duenyas = temple #b_saint_antolin
 b_pedrosa_de_la_vega = city #b_olmeda_palencia
-b_astudillo #b_monte_el_viejo
+b_astudillo = castle #b_monte_el_viejo
 
 # Misc
 culture = visigothic
