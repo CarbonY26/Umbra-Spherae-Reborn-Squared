@@ -8403,7 +8403,7 @@ decisions = {
 			wealth = -250
 			piety = 1500
 			prestige = 1500
-		
+		}
         ai_will_do = {
 			factor = 1
         } 

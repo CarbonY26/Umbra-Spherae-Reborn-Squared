@@ -269,7 +269,7 @@
 	932.5.31={ death=yes }
 }
 1019914895={
-	name=¨pikus”s
+	name=Mpikus”s
 	female=yes
 	dynasty=1009990116
 	dna="kgbaijncfoh"
@@ -447,7 +447,7 @@
 	1031.10.8={ death=yes }
 }
 1019914911={
-	name=¨pikus”s
+	name=Spikus”s
 	female=yes
 	dynasty=1009990116
 	dna="jejcbbbfbhb"

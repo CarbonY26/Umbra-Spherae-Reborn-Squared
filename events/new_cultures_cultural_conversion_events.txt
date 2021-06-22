@@ -1465,7 +1465,7 @@ province_event = {
 #Inuit Province Converts to Greenlandic
 province_event = {
 	id = NC.25
-	desc =Â EVTDESC_NC_25
+	desc = EVTDESC_NC_25
 	picture = GFX_evt_india_temple
 
 	trigger = {
@@ -1499,7 +1499,7 @@ province_event = {
 #Tuniq Culture Replaced by Greenlandic
 province_event = {
 	id = NC.26
-	desc =Â EVTDESC_NC_26
+	desc = EVTDESC_NC_26
 	picture = GFX_evt_india_temple
 
 	trigger = {
@@ -1534,7 +1534,7 @@ province_event = {
 #Greenlandic Norse Dies Out
 province_event = {
         id = NC.27 
-        desc =Â EVTDESC_NC_27
+        desc = EVTDESC_NC_27
 	picture = GFX_evt_stone_church
 
 	trigger = {
@@ -1677,25 +1677,25 @@ character_event = {
 #Old Ruthenian breaks off from Old East Slavic
 province_event = {
         id = NC.28
-        desc =Â EVTDESC_NC_28
+        desc = EVTDESC_NC_28
 	picture = GFX_evt_stone_church
 }
 #Russian Culture emerges from Old East Slavic
 province_event = {
         id = NC.29
-        desc =Â EVTDESC_NC_29
+        desc = EVTDESC_NC_29
 	picture = GFX_evt_stone_church
 }
 #Ukrainian Culture emerges from Old Ruthenian 
 province_event = {
         id = NC.30
-        desc =Â EVTDESC_NC_30
+        desc = EVTDESC_NC_30
 	picture = GFX_evt_stone_church
 }
 #Rusyn Culture emerges from Old Ruthenian 
 province_event = {
         id = NC.31
-        desc =Â EVTDESC_NC_31
+        desc = EVTDESC_NC_31
 	picture = GFX_evt_stone_church
 }
 #Belarusian Culture emerges from Old Ruthenian

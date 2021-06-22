@@ -256,7 +256,7 @@
 	religion="catholic"
 	culture="welsh"
 	father=166448
-	728.1.1=
+	728.1.1={
 		birth="728.1.1"
 	}
 	760.1.1={

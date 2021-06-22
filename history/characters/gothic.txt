@@ -213,7 +213,7 @@
 	female=yes
 
 	religion="catholic"
-	culture=""gothic""
+	culture="gothic"
 	
 	705.1.1={
 		birth=yes
@@ -292,7 +292,7 @@
 	mother=200236
 
 	religion="catholic"
-	culture=""gothic""
+	culture="gothic"
 
 	694.1.1={
 		birth=yes
@@ -310,7 +310,7 @@
 	father=200276
 
 	religion="catholic"
-	culture=""gothic""
+	culture="gothic"
 
 	549.1.1 = {
 		birth=yes
@@ -325,7 +325,7 @@
 	female=yes
 
 	religion="catholic"
-	culture=""gothic""
+	culture="gothic"
 
 	620.1.1 = {
 		birth=yes
@@ -340,7 +340,7 @@
 	female=yes
 
 	religion="catholic"
-	culture=""gothic""
+	culture="gothic"
 
 	555.1.1={
 		birth=yes
