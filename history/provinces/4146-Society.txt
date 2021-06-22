@@ -1,0 +1,16 @@
+# County Title
+title = c_society
+
+# Settlements
+max_settlements = 7
+b_tahaaraiatea = tribal
+b_huahine = temple
+#b_tupai = tribal
+#b_motuone = tribal
+#b_manuae = tribal
+#b_maupihaa = tribal
+#b_borabora = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

@@ -1,0 +1,13 @@
+# County Title
+title = c_capfeurolim
+
+# Settlements
+max_settlements = 3
+b_pabascap = tribal
+#b_bahianegor = temple
+#b_fuertlimp = tribal
+
+
+# Misc
+culture = nahuatl
+religion = aztec

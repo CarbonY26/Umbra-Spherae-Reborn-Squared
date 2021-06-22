@@ -1,0 +1,13 @@
+# County Title
+title = c_mitic
+
+# Settlements
+max_settlements = 4
+b_mitic = tribal
+b_miradric = tribal
+#b_miticalo  = temple
+#b_miticatic = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

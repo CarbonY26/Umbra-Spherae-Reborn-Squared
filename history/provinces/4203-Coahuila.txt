@@ -1,0 +1,14 @@
+# County Title
+title = c_pechichitane
+
+# Settlements
+max_settlements = 5
+b_juarez = tribal
+b_campestre = temple
+#b_elisos = tribal
+#b_anapra = tribal
+#b_chavena = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

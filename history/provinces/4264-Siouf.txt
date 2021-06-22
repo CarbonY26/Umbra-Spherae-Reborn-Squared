@@ -1,0 +1,13 @@
+# County Title
+title = c_siouf
+
+# Settlements
+max_settlements = 3
+b_siouf = tribal
+#b_yankota = temple
+#b_huylentaja = tribal
+
+
+# Misc
+culture = nahuatl
+religion = aztec

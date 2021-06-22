@@ -1,0 +1,13 @@
+# County Title
+title = c_duranrado
+
+# Settlements
+max_settlements = 4
+b_duranrado = tribal
+#b_saguache = temple
+#b_alamosaconejos = tribal
+#b_huerfapueblo = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

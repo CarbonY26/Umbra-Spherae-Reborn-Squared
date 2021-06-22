@@ -1,0 +1,12 @@
+# County Title
+title = c_tancitaro
+
+# Settlements
+max_settlements = 3
+b_tancitaro = tribal
+b_tancihuet = temple
+#b_tancipuruar = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

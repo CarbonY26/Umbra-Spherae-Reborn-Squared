@@ -1,0 +1,12 @@
+# County Title
+title = c_more
+
+# Settlements
+max_settlements = 3
+b_chimortan = tribal
+#b_cochabambamose = temple
+#b_aiquileose = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

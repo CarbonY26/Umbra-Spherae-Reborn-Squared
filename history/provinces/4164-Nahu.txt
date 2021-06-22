@@ -1,0 +1,13 @@
+# County Title
+title = c_nahu
+
+# Settlements
+max_settlements = 4
+b_nahu = tribal
+b_guasimas = temple
+#b_naranjilio = tribal
+#b_huitzonita = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

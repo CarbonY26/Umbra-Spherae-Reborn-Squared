@@ -1,0 +1,13 @@
+# County Title
+title = c_ayahualican
+
+# Settlements
+max_settlements = 4
+b_yahyalica = tribal
+b_acasico = tribal
+#b_zaoitullo  = temple
+#b_pastores = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

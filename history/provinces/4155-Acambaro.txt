@@ -1,0 +1,15 @@
+# County Title
+title = c_acambaro
+
+# Settlements
+max_settlements = 6
+b_acambaro = tribal
+b_guanajuato = tribal
+b_tarimoro = temple
+b_jerecuaro = tribal
+#b_tarandacuao = tribal
+#b_salvatierra = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

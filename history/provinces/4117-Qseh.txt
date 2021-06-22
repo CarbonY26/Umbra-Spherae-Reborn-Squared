@@ -1,0 +1,22 @@
+# County Title
+title = c_qesh
+
+# Settlements
+max_settlements = 4
+b_tacrifet = castle
+b_qeshtacrifet = city
+#b_sadkablakhe = temple
+#b_alkhammake = castle
+
+# Misc
+culture = maghreb_arabic
+religion = catholic
+
+# History
+1150.1.1 = { religion = orthodox }
+
+# History
+
+800.1.1 = { religion = sunni }
+909.1.1 = { religion = shiite }
+1171.1.1 = { religion = sunni }

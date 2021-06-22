@@ -1,0 +1,11 @@
+# County Title
+title = c_movima
+
+# Settlements
+max_settlements = 2
+b_movima = tribal
+#b_movimacura = temple
+
+# Misc
+culture = nahuatl
+religion = aztec

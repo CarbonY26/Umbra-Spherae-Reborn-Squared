@@ -1,0 +1,14 @@
+# County Title
+title = c_rhoe
+
+# Settlements
+max_settlements = 4
+b_rhoe = tribal
+#b_niantic = temple
+#b_pocasset = tribal
+#b_sakonnet = tribal
+
+
+# Misc
+culture = nahuatl
+religion = aztec

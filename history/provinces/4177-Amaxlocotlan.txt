@@ -1,0 +1,14 @@
+# County Title
+title = c_amaxlocotlan
+
+# Settlements
+max_settlements = 5
+b_amaxlocotlan = tribal
+#b_mazamitla  = temple
+#b_mazatli = tribal
+#b_amaxlocot = tribal
+#b_amitla  = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

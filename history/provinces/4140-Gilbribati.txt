@@ -1,0 +1,14 @@
+# County Title
+title = c_gilbribati
+
+# Settlements
+max_settlements = 5
+b_makin = tribal
+b_butaritari = tribal
+#b_abaiang = temple
+#b_nonouti = tribal
+#b_kuriamaiana = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

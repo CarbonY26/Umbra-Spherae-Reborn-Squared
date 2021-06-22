@@ -1,0 +1,13 @@
+# County Title
+title = c_camamcal
+
+# Settlements
+max_settlements = 4
+b_gahelvec = tribal
+b_iriongom = temple
+#b_casercastel = tribal
+#b_verjavia = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

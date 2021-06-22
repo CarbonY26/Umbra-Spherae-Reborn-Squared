@@ -1,0 +1,15 @@
+# County Title
+title = c_tonallan
+
+# Settlements
+max_settlements = 6
+b_tonallan = tribal
+#b_tonala  = temple
+#b_zapotonala = tribal
+#b_lanejopala = tribal
+#b_tonguadala = tribal
+#b_tonjara = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

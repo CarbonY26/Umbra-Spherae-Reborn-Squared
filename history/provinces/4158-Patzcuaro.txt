@@ -1,0 +1,13 @@
+# County Title
+title = c_patzcuaro
+
+# Settlements
+max_settlements = 4
+b_patzcuaro = tribal
+b_phascuaro = tribal
+#b_patatzecuaro = temple
+#b_petatzimícuaro = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

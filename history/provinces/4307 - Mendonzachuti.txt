@@ -1,0 +1,12 @@
+# County Title
+title = c_mendonzachuti
+
+# Settlements
+max_settlements = 3
+b_mapudungun = tribal
+b_tehuelche = temple
+#b_pehuenche = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

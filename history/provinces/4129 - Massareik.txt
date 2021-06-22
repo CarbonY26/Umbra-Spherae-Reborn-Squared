@@ -1,0 +1,16 @@
+# County Title
+title = c_massareik
+
+# Settlements
+max_settlements = 7
+b_merrick = tribal
+b_massapequa = temple
+b_matinecock = tribal
+#b_secotoag = tribal
+#b_unquachog = tribal
+#b_patchogue = tribal
+#b_yegowahgo = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

@@ -1,0 +1,13 @@
+# County Title
+title = c_xiconque
+
+# Settlements
+max_settlements = 4
+b_xiconque = tribal
+#b_cuxtaque = temple
+#b_sauzas = tribal
+#b_guaxaban = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

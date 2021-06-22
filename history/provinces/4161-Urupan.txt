@@ -1,0 +1,13 @@
+# County Title
+title = c_urupan
+
+# Settlements
+max_settlements = 4
+b_urupan = tribal
+b_tepalcatepec = tribal
+#b_reyesalgado = temple
+#b_chilchota = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

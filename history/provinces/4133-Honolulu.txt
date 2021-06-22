@@ -1,0 +1,16 @@
+# County Title
+title = c_honolulu
+
+# Settlements
+max_settlements = 7
+b_oahu = tribal
+b_honolulu = tribal
+b_makaha = temple
+#b_kahaluu = tribal
+#b_banzai = tribal
+#b_waimea = tribal
+#b_laie = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

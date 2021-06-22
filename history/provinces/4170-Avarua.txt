@@ -1,0 +1,16 @@
+# County Title
+title = c_avarua
+
+# Settlements
+max_settlements = 7
+b_avarua = tribal
+b_mangaia = temple
+#b_mauke = tribal
+#b_mitiaro = tribal
+#b_atiutakutea = tribal
+#b_manuae = tribal
+#b_aitutaki = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

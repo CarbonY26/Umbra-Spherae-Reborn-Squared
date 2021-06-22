@@ -1,0 +1,15 @@
+# County Title
+title = c_sorlenia
+
+# Settlements
+max_settlements = 6
+b_sorlenia = tribal
+b_carmecolonia = temple
+#b_jualacaze = tribal
+#b_mercesalvador = tribal
+#b_doloresrio = tribal
+#b_ardonriano = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

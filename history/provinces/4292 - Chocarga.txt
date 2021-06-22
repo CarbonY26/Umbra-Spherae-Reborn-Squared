@@ -1,0 +1,13 @@
+# County Title
+title = c_chocargo
+
+# Settlements
+max_settlements = 4
+b_chocargo = tribal
+b_b_resistencia = temple
+#b_guaycuru = tribal
+#b_tobagua = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

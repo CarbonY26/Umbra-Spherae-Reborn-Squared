@@ -1,0 +1,14 @@
+# County Title
+title = c_ayorecocembay
+
+# Settlements
+max_settlements = 4
+b_ayorecocembay = tribal
+#b_porapontax = temple
+#b_amambia = tribal
+#b_concepia = tribal
+
+
+# Misc
+culture = nahuatl
+religion = aztec

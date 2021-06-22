@@ -1,0 +1,12 @@
+# County Title
+title = c_rentacar
+
+# Settlements
+max_settlements = 3
+b_rentacarvina = tribal
+#b_vyagerlash = temple
+#b_renospash = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

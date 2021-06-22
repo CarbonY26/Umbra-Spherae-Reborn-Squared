@@ -1,0 +1,15 @@
+# County Title
+title = c_arkaltotikac
+
+# Settlements
+max_settlements = 6
+b_saltodayma = tribal
+b_artigacuareim = temple
+#b_embasalta = tribal
+#b_quaraigas = tribal
+#b_allebnoinu = tribal
+#b_casaromenta = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

@@ -1,0 +1,12 @@
+# County Title
+title = c_xochitepec
+
+# Settlements
+max_settlements = 3
+b_xecora = tribal
+b_xeconaque = tribal
+#b_xecome  = temple
+
+# Misc
+culture = nahuatl
+religion = aztec

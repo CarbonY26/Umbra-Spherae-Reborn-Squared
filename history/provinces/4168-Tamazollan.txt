@@ -1,0 +1,13 @@
+# County Title
+title = c_tamazollan
+
+# Settlements
+max_settlements = 4
+b_tamasayuru = tribal
+b_xaltepec  = temple
+#b_nochizilan = tribal
+#b_atlatlauhcan = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

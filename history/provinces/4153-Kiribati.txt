@@ -1,0 +1,16 @@
+# County Title
+title = c_kiribati
+
+# Settlements
+max_settlements = 7
+b_tarawa = tribal
+b_bairiki = temple
+#b_banpardon = tribal
+#b_beitoriki = tribal
+#b_kirimata = tribal
+#b_kiribati = tribal
+#b_tarawabati = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

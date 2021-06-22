@@ -1,0 +1,12 @@
+# County Title
+title = c_canichana
+
+# Settlements
+max_settlements = 3
+b_surcoli = tribal
+#b_chuquibaca = temple
+#b_oropeza = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

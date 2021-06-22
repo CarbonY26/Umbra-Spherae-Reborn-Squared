@@ -1,0 +1,13 @@
+# County Title
+title = c_heuqueu
+
+# Settlements
+max_settlements = 4
+b_viedmonz = tribal
+b_barilochita = temple
+#b_ocapichi = tribal
+#b_nochquincas = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

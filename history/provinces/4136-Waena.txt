@@ -1,0 +1,12 @@
+# County Title
+title = c_waena
+
+# Settlements
+max_settlements = 3
+b_hikinawaena = tribal
+b_onewaena = tribal
+#b_kuhaweana = temple
+
+# Misc
+culture = delaware
+religion = algic_pagan

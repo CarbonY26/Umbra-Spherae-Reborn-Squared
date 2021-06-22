@@ -1,0 +1,12 @@
+# County Title
+title = c_pokzahalti
+
+# Settlements
+max_settlements = 3
+b_abai = tribal
+b_cahzapa = temple
+#b_tavaiga = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

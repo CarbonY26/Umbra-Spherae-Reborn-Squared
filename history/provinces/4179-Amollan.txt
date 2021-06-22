@@ -1,0 +1,12 @@
+# County Title
+title = c_amollan
+
+# Settlements
+max_settlements = 3
+b_amollan = tribal
+b_amullaman = tribal
+#b_tepehuaje  = temple
+
+# Misc
+culture = nahuatl
+religion = aztec

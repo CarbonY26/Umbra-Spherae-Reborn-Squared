@@ -1,0 +1,13 @@
+# County Title
+title = c_mortlocksapwua
+
+# Settlements
+max_settlements = 4
+b_ettalunokor = tribal
+b_namoluta = temple
+#b_tanamanana = tribal
+#b_oneokutu = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

@@ -1,0 +1,13 @@
+# County Title
+title = c_tzapotzingo
+
+# Settlements
+max_settlements = 4
+b_tzapotzingo = tribal
+b_nayarith = tribal
+#b_huajicori  = temple
+#b_tecuala = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

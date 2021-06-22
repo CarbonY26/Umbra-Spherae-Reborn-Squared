@@ -1,0 +1,16 @@
+# County Title
+title = c_tacuarembo
+
+# Settlements
+max_settlements = 7
+b_uruguay = tribal
+b_bianquillo = temple
+#b_arogeergnas = tribal
+#b_tranqueras = tribal
+#b_liviramento = tribal
+#b_durazuni = tribal
+#b_ortrogerg = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

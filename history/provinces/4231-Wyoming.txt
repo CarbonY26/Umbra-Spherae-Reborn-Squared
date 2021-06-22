@@ -1,0 +1,12 @@
+# County Title
+title = c_wyoming
+
+# Settlements
+max_settlements = 3
+b_wyoming = tribal
+#b_wyom = temple
+#b_shosoyiwtom = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

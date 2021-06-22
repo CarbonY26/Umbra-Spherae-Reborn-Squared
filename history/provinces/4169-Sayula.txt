@@ -1,0 +1,12 @@
+# County Title
+title = c_sayula
+
+# Settlements
+max_settlements = 3
+b_sayula = tribal
+#b_tonalatala  = temple
+#b_coculameca = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

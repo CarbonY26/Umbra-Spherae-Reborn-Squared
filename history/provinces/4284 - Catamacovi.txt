@@ -1,0 +1,12 @@
+# County Title
+title = c_catamacovi
+
+# Settlements
+max_settlements = 3
+b_andalmarc = tribal
+#b_tinoghash = temple
+#b_vallanan = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

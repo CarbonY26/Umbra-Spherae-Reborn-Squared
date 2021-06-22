@@ -1,0 +1,13 @@
+# County Title
+title = c_asunciocaacu
+
+# Settlements
+max_settlements = 4
+b_sscuncion = tribal
+#b_vietelas = temple
+#b_caacube = tribal
+#b_sscuncionora = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

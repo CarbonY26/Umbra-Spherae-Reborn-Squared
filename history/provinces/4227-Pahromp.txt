@@ -1,0 +1,12 @@
+# County Title
+title = c_pahromp
+
+# Settlements
+max_settlements = 3
+b_tonopahromp = tribal
+#b_gabhrompa = temple
+#b_baankapampibui = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

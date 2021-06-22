@@ -1,0 +1,14 @@
+# County Title
+title = c_sandusky
+
+# Settlements
+max_settlements = 5
+b_hegahgwerie = tribal
+#b_kedzao = temple
+#b_atheshar = tribal
+#b_agyeoni = tribal
+#b_nyogwisagi = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

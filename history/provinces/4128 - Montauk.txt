@@ -1,0 +1,16 @@
+# County Title
+title = c_montauk
+
+# Settlements
+max_settlements = 7
+b_montauk = tribal
+b_manhasset = temple
+b_poospatuck = tribal
+#b_nesquake = tribal
+#b_corchaug = tribal
+#b_shinnecock = tribal
+#b_setauket = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

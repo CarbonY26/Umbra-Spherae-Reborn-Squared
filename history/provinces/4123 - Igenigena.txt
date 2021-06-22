@@ -1,0 +1,22 @@
+# County Title
+title = c_igenigena
+
+# Settlements
+max_settlements = 4
+b_igenigena = castle
+b_gigthiszitha = city
+#b_qqenmmud = temple
+#b_tassafgirba = castle
+
+# Misc
+culture = maghreb_arabic
+religion = catholic
+
+# History
+1150.1.1 = { religion = orthodox }
+
+# History
+
+800.1.1 = { religion = sunni }
+909.1.1 = { religion = shiite }
+1171.1.1 = { religion = sunni }

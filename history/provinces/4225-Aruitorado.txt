@@ -1,0 +1,12 @@
+# County Title
+title = c_aruitorado
+
+# Settlements
+max_settlements = 3
+b_yavapal = tribal
+#b_aruitorado = temple
+#b_torozona = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

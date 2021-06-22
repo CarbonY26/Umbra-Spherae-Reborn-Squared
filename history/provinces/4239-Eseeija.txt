@@ -1,0 +1,12 @@
+# County Title
+title = c_eseeija
+
+# Settlements
+max_settlements = 5
+b_trindabena = tribal
+#b_benicura = temple
+#b_cumaya = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

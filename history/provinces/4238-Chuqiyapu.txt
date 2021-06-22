@@ -1,0 +1,14 @@
+# County Title
+title = c_pacayuaca
+
+# Settlements
+max_settlements = 5
+b_chuqiyapu = tribal
+#b_aymara = temple
+#b_achocallaliz = tribal
+#b_viacha = tribal
+#b_mecapaca = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

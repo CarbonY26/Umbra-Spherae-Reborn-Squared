@@ -1,0 +1,16 @@
+# County Title
+title = c_guangdong
+
+# Settlements
+max_settlements = 7
+b_guangzhou = castle
+b_macau = city
+b_dongguan = city
+b_shenzhen = temple
+#b_huizhou = city
+#b_foshan = city
+#b_zhongshan = city
+
+# Misc
+culture = han
+religion = confucian

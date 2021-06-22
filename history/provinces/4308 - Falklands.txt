@@ -1,0 +1,12 @@
+# County Title
+title = c_falklands
+
+# Settlements
+max_settlements = 3
+b_stanliah = tribal
+b_nothrum = temple
+#b_cesalvaor = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

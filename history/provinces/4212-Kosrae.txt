@@ -1,0 +1,13 @@
+# County Title
+title = c_kosrae
+
+# Settlements
+max_settlements = 4
+b_tofokosrae = tribal
+b_tafunsakae = temple
+#b_fokofukunsral = tribal
+#b_fokomalsu = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

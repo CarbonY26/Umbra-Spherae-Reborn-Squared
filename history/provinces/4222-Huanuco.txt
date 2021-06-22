@@ -1,0 +1,12 @@
+# County Title
+title = c_huanuco
+
+# Settlements
+max_settlements = 3
+b_huanuco = tribal
+#b_kotosuanco = temple
+#b_huanuquena = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

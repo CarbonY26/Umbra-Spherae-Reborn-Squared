@@ -1,0 +1,16 @@
+# County Title
+title = c_tahiti
+
+# Settlements
+max_settlements = 7
+b_tahiti = tribal
+b_papette = temple
+#b_mahina = tribal
+#b_faaa = tribal
+#b_punaauia = tribal
+#b_paea = tribal
+#b_tahititi = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

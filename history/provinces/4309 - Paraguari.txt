@@ -1,0 +1,12 @@
+# County Title
+title = c_paraguari
+
+# Settlements
+max_settlements = 3
+b_pirayu = tribal
+b_escosis = temple
+#b_carapegua = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

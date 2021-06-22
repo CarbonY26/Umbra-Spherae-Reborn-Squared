@@ -1,0 +1,13 @@
+# County Title
+title = c_mexticacan
+
+# Settlements
+max_settlements = 4
+b_mexticacan = tribal
+b_tecuexeca = tribal
+#b_mextigua  = temple
+#b_guadalaj = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

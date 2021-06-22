@@ -1,0 +1,16 @@
+# County Title
+title = c_hawaii
+
+# Settlements
+max_settlements = 7
+b_hawaii = tribal
+b_hilo = temple
+b_maunaloa = tribal
+#b_kilauea = tribal
+#b_kailuakona = tribal
+#b_pahala = tribal
+#b_naalehu = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

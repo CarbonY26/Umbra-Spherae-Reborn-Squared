@@ -1,0 +1,12 @@
+# County Title
+title = c_huilliches
+
+# Settlements
+max_settlements = 3
+b_huilliches = tribal
+#b_temuco = temple
+#b_araucania = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

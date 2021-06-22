@@ -1,0 +1,12 @@
+# County Title
+title = c_loretaru
+
+# Settlements
+max_settlements = 3
+b_yurimaguas = tribal
+#b_requenucayal = temple
+#b_putumayrecho = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

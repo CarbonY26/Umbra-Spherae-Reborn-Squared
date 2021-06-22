@@ -1,0 +1,17 @@
+# County Title
+title = c_ramapough
+
+# Settlements
+max_settlements = 7
+b_ramapoug = tribal
+#b_mahwah = temple
+#b_pompton = tribal
+#b_tappenzi = tribal
+#b_unalami = tribal
+#b_navasink = tribal
+#b_nahwattan = tribal
+
+
+# Misc
+culture = nahuatl
+religion = aztec

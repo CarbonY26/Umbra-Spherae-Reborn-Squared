@@ -1,0 +1,15 @@
+# County Title
+title = c_xalostotititian
+
+# Settlements
+max_settlements = 6
+b_xalostotititian = tribal
+b_tecuexe = tribal
+#b_caxica  = temple
+#b_jalostit = tribal
+#b_xacostaj = tribal
+#b_quincena = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

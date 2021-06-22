@@ -1,0 +1,15 @@
+# County Title
+title = c_ysangrochuti
+
+# Settlements
+max_settlements = 6
+b_fraybencardos = tribal
+b_negyoun = temple
+#b_guichogro = tribal
+#b_quoguam = tribal
+#b_sandusay = tribal
+#b_paysurgay = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

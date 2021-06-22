@@ -1,0 +1,14 @@
+# County Title
+title = c_urflorican
+
+# Settlements
+max_settlements = 5
+b_montevideo = tribal
+b_canelones = temple
+#b_sarandiyica = tribal
+#b_canenando = tribal
+#b_lucaiando = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

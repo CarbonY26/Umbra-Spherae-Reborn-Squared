@@ -1,0 +1,22 @@
+# County Title
+title = c_nardalite
+
+# Settlements
+max_settlements = 4
+b_mawdgbal = castle
+b_mahdaios = city
+#b_sanazwa = temple
+#b_innate = castle
+
+# Misc
+culture = maghreb_arabic
+religion = catholic
+
+# History
+1150.1.1 = { religion = orthodox }
+
+# History
+
+800.1.1 = { religion = sunni }
+909.1.1 = { religion = shiite }
+1171.1.1 = { religion = sunni }

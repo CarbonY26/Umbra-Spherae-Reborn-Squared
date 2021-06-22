@@ -1,0 +1,12 @@
+# County Title
+title = c_tacana
+
+# Settlements
+max_settlements = 3
+b_uyunitac = tribal
+#b_tacapotosi = temple
+#b_tacazon = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

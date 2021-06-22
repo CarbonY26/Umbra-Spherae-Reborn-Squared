@@ -1,0 +1,13 @@
+# County Title
+title = c_huetamo
+
+# Settlements
+max_settlements = 4
+b_huetamo = tribal
+b_aurrera = tribal
+#b_sanignacio = temple
+#b_airan = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

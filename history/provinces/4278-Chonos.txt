@@ -1,0 +1,12 @@
+# County Title
+title = c_chonos
+
+# Settlements
+max_settlements = 3
+b_coihaique = tribal
+#b_carlibanez = temple
+#b_pincoiquet = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

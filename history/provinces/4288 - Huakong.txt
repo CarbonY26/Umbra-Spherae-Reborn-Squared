@@ -1,0 +1,16 @@
+# County Title
+title = c_huakong
+
+# Settlements
+max_settlements = 7
+b_guangzhou = city
+b_lantau = temple
+b_wanchai = castle
+b_kowloon = city
+#b_shamsuipo = city
+#b_yatsimong = city
+#b_wongtaisin = city
+
+# Misc
+culture = han
+religion = confucian

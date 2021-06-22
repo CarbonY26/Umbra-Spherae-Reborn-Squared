@@ -1,0 +1,13 @@
+# County Title
+title = c_atacamenos
+
+# Settlements
+max_settlements = 3
+b_atacamenos = tribal
+#b_valcricam = temple
+#b_valkaro = tribal
+
+
+# Misc
+culture = nahuatl
+religion = aztec

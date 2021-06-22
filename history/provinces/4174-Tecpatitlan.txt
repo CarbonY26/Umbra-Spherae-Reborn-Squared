@@ -1,0 +1,13 @@
+# County Title
+title = c_tepatitlan
+
+# Settlements
+max_settlements = 4
+b_tepatitlan = tribal
+#b_tepetate  = temple
+#b_tunaignacio = tribal
+#b_zapomezcal = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

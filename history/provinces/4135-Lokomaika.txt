@@ -1,0 +1,16 @@
+# County Title
+title = c_lokomaika
+
+# Settlements
+max_settlements = 7
+b_lokomaika = tribal
+b_lokoma = tribal
+b_hikina = temple
+#b_akua = tribal
+#b_moanamaluhia = tribal
+#b_kiahikina = tribal
+#b_lalaloko = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

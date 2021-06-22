@@ -1,0 +1,13 @@
+# County Title
+title = c_guyma
+
+# Settlements
+max_settlements = 4
+b_guyma = tribal
+#b_cimmarrion = temple
+#b_mexhomcimarron = tribal
+#b_oshulshky = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

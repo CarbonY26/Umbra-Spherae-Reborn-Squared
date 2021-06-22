@@ -1,0 +1,13 @@
+# County Title
+title = c_seneca
+
+# Settlements
+max_settlements = 4
+b_seneca = tribal
+#b_ottawaca = temple
+#b_huronec = tribal
+#b_wyaneca = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

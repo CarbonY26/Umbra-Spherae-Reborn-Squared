@@ -1,0 +1,12 @@
+# County Title
+title = c_centicpac
+
+# Settlements
+max_settlements = 3
+b_centicpac = tribal
+b_escuinapa = tribal
+#b_acaponeta  = temple
+
+# Misc
+culture = nahuatl
+religion = aztec

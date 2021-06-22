@@ -1,0 +1,13 @@
+# County Title
+title = c_apatzingan
+
+# Settlements
+max_settlements = 4
+b_apatzingan = tribal
+b_antunez = temple
+#b_peronchita = tribal
+#b_pizandaro = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

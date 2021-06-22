@@ -1,0 +1,12 @@
+# County Title
+title = c_karyasratek
+
+# Settlements
+max_settlements = 3
+b_karyasratek = tribal
+#b_muskingark = temple
+#b_ganeyagen = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

@@ -1,0 +1,14 @@
+# County Title
+title = c_mensiw
+
+# Settlements
+max_settlements = 5
+b_mensiw = tribal
+b_lenamaen = temple
+b_minisink = tribal
+#b_lehigh = tribal
+#b_wappinger = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

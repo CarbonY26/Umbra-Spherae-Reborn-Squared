@@ -1,0 +1,14 @@
+# County Title
+title = c_baja
+
+# Settlements
+max_settlements = 5
+b_lapiz = tribal
+#b_baja = temple
+#b_rodeocas = tribal
+#b_inocentas = tribal
+#b_tomaciente = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

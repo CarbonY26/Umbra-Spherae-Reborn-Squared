@@ -1,0 +1,13 @@
+# County Title
+title = c_loslag
+
+# Settlements
+max_settlements = 3
+b_loslag = tribal
+#b_puermontt = temple
+#b_chiloe = tribal
+
+
+# Misc
+culture = nahuatl
+religion = aztec

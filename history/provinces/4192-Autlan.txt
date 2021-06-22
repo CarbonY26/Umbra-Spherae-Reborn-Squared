@@ -1,0 +1,13 @@
+# County Title
+title = c_autlan
+
+# Settlements
+max_settlements = 4
+b_autlan = tribal
+b_talpascot = tribal
+#b_lanaut  = temple
+#b_melacham = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

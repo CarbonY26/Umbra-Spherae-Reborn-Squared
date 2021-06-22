@@ -1,0 +1,15 @@
+# County Title
+title = c_melahaucan
+
+# Settlements
+max_settlements = 6
+b_melahaucan = tribal
+b_scalientes = tribal
+#b_irapuatoeon  = temple
+#b_yahualic = tribal
+#b_teocaltiche = tribal
+#b_coltoleoupic  = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

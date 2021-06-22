@@ -1,0 +1,16 @@
+# County Title
+title = c_pitcairn
+
+# Settlements
+max_settlements = 7
+b_pitcairn = tribal
+b_duchie = temple
+#b_henderson = tribal
+#b_sandoeno = tribal
+#b_tuatama = tribal
+#b_kulanakauhalemua = tribal
+#b_kaikuono = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

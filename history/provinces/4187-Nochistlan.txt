@@ -1,0 +1,14 @@
+# County Title
+title = c_nochistlan
+
+# Settlements
+max_settlements = 5
+b_nochistlan = tribal
+b_guadalajara = tribal
+#b_caxcan  = temple
+#b_recuexe = tribal
+#b_zaratecas = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

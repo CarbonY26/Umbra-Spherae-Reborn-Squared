@@ -1,0 +1,16 @@
+# County Title
+title = c_yigo
+
+# Settlements
+max_settlements = 7
+b_yigo = tribal
+b_dededo = temple
+#b_moanakai = tribal
+#b_tamuning = tribal
+#b_barrigada = tribal
+#b_mangilao = tribal
+#b_hagatana = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

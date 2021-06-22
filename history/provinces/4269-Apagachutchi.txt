@@ -1,0 +1,13 @@
+# County Title
+title = c_apagachutchi
+
+# Settlements
+max_settlements = 3
+b_apagachutchi = tribal
+#b_lamadri = temple
+#b_vinchina = tribal
+
+
+# Misc
+culture = nahuatl
+religion = aztec

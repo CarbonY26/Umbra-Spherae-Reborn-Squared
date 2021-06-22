@@ -1,0 +1,13 @@
+# County Title
+title = c_aonikenk
+
+# Settlements
+max_settlements = 3
+b_aonikenk = tribal
+#b_aiocrakruz = temple
+#b_gallegcha = tribal
+
+
+# Misc
+culture = nahuatl
+religion = aztec

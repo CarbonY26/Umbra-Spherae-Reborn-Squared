@@ -1,0 +1,14 @@
+# County Title
+title = c_yapafarauelp
+
+# Settlements
+max_settlements = 5
+b_yapfais = tribal
+b_uhithitoll = tribal
+#b_yaropa = temple
+#b_gagiltamil = tribal
+#b_maaprumung = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

@@ -1,0 +1,12 @@
+# County Title
+title = c_pacayuaca
+
+# Settlements
+max_settlements = 3
+b_pacayuaca = tribal
+#b_yacuban = temple
+#b_goemferah = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

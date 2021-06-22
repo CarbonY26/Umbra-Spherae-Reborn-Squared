@@ -1,0 +1,16 @@
+# County Title
+title = c_marquesas
+
+# Settlements
+max_settlements = 7
+b_nukuhiva = tribal
+b_uahuka = temple
+#b_hivaoa = tribal
+#b_mohotani = tribal
+#b_fatuhiva = tribal
+#b_hatutaa = tribal
+#b_tahuata = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

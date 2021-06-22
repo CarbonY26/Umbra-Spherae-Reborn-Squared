@@ -1,0 +1,14 @@
+# County Title
+title = c_inarajan
+
+# Settlements
+max_settlements = 5
+b_inarajan = tribal
+b_merizo = temple
+#b_talofo = tribal
+#b_umatecbolo = tribal
+#b_agatsarita = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

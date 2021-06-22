@@ -1,0 +1,13 @@
+# County Title
+title = c_taiwascaro
+
+# Settlements
+max_settlements = 4
+b_taiwascaro = tribal
+b_oscodaogemaw = temple
+#b_asgwihsagaetge = tribal
+#b_genessesaginaw = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

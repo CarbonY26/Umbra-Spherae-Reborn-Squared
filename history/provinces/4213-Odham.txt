@@ -1,0 +1,12 @@
+# County Title
+title = c_odham
+
+# Settlements
+max_settlements = 3
+b_panasca = tribal
+#b_yuumapiti = temple
+#b_tohnquin = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

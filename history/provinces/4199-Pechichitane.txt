@@ -1,0 +1,13 @@
+# County Title
+title = c_pechichitane
+
+# Settlements
+max_settlements = 4
+b_pechichitane = tribal
+#b_tecuacan = temple
+#b_comanja = tribal
+#b_penjapechi = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

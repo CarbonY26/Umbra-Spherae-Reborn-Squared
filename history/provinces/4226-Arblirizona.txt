@@ -1,0 +1,12 @@
+# County Title
+title = c_arblirizona
+
+# Settlements
+max_settlements = 3
+b_arblirizona = tribal
+#b_arblicali = temple
+#b_aribaja = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

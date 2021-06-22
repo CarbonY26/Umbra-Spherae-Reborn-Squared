@@ -1,0 +1,12 @@
+# County Title
+title = c_entreriotrina
+
+# Settlements
+max_settlements = 3
+b_entreriotrina = tribal
+#b_parana = temple
+#b_comodoro = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

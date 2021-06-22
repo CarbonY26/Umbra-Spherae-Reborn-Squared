@@ -1,0 +1,16 @@
+# County Title
+title = c_tubuai
+
+# Settlements
+max_settlements = 7
+b_tubuai = tribal
+b_rurutu = temple
+#b_rimatara = tribal
+#b_raivavae = tribal
+#b_rapati = tribal
+#b_marotiri = tribal
+#b_tubumarotirim = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

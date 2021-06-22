@@ -1,0 +1,13 @@
+# County Title
+title = c_riomoro
+
+# Settlements
+max_settlements = 4
+b_chuybuyu = tribal
+b_rawrcian = temple
+#b_cushameia = tribal
+#b_tehuelches = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

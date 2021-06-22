@@ -1,0 +1,12 @@
+# County Title
+title = c_camiiribore
+
+# Settlements
+max_settlements = 3
+b_camiiribore = tribal
+#b_robiquetos = temple
+#b_camtarijaria = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

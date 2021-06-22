@@ -1,0 +1,12 @@
+# County Title
+title = c_tenomaxlan
+
+# Settlements
+max_settlements = 3
+b_tenomaxlan = tribal
+b_tenomalan = tribal
+#b_tenamallanax  = temple
+
+# Misc
+culture = nahuatl
+religion = aztec

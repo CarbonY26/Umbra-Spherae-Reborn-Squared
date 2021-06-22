@@ -1,0 +1,12 @@
+# County Title
+title = c_monticello
+
+# Settlements
+max_settlements = 3
+b_monticello = tribal
+#b_altonah = temple
+#b_tabionauch = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

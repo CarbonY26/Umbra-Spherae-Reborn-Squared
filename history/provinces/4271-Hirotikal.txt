@@ -1,0 +1,13 @@
+# County Title
+title = c_hirotikal
+
+# Settlements
+max_settlements = 3
+b_hirotikal = tribal
+#b_famatina = temple
+#b_chilcito = tribal
+
+
+# Misc
+culture = nahuatl
+religion = aztec

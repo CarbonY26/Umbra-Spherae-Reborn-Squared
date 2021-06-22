@@ -1,0 +1,14 @@
+# County Title
+title = c_aililokomaiki
+
+# Settlements
+max_settlements = 5
+b_aililokomaiki = tribal
+b_lapalama = tribal
+#b_terina = temple
+#b_opalaakoakoa = tribal
+#b_pohakupapau = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

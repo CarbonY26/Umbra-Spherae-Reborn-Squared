@@ -1,0 +1,16 @@
+# County Title
+title = c_kauai
+
+# Settlements
+max_settlements = 7
+b_maui = tribal
+b_hana = temple
+b_wailea = tribal
+#b_kaanapali = tribal
+#b_kahulul = tribal
+#b_maumau = tribal
+#b_kipahulu = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

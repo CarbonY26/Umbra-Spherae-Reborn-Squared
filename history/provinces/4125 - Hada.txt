@@ -1,0 +1,21 @@
+# County Title
+title = c_hada
+
+# Settlements
+max_settlements = 3
+b_hadadarni = castle
+b_hippondarnis = city
+#b_paliouros = temple
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History
+1150.1.1 = { religion = orthodox }
+
+# History
+
+909.1.1 = { religion = shiite }
+1148.1.1 = { trade_post = b_ziani }
+1171.1.1 = { religion = sunni }

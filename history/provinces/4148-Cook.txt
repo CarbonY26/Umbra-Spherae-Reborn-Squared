@@ -1,0 +1,14 @@
+# County Title
+title = c_cook
+
+# Settlements
+max_settlements = 5
+b_suwarrow = tribal
+b_manihiki = temple
+#b_penrhyn = tribal
+#b_rakahanga = tribal
+#b_pukapuka = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

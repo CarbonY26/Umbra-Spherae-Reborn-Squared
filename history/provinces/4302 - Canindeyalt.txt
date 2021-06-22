@@ -1,0 +1,12 @@
+# County Title
+title = c_canindeyalt
+
+# Settlements
+max_settlements = 3
+b_guairadeyal = tribal
+b_canindeyu = temple
+#b_salogotoaira = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

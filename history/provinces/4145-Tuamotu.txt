@@ -1,0 +1,16 @@
+# County Title
+title = c_tuamotu
+
+# Settlements
+max_settlements = 7
+b_tuamotu = tribal
+b_manihi = temple
+#b_fakarava = tribal
+#b_tuanake = tribal
+#b_rangiroa = tribal
+#b_tikehau = tribal
+#b_havaiki = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

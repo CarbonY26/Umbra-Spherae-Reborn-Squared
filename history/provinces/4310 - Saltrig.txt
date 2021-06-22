@@ -1,0 +1,13 @@
+# County Title
+title = c_saltrig
+
+# Settlements
+max_settlements = 4
+b_saltrig = tribal
+b_camquilja = temple
+#b_mercluiaza = tribal
+#b_lacaldran = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

@@ -1,0 +1,12 @@
+# County Title
+title = c_zacatecs
+
+# Settlements
+max_settlements = 3
+b_cahitan = tribal
+#b_yaqui = temple
+#b_mayaqui = temple
+
+# Misc
+culture = nahuatl
+religion = aztec

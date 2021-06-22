@@ -1,0 +1,13 @@
+# County Title
+title = c_ealaoe
+
+# Settlements
+max_settlements = 4
+b_ealaoe = tribal
+b_alalaealoe = tribal
+#b_lukiahohaku = temple
+#b_paakulanakauhale = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

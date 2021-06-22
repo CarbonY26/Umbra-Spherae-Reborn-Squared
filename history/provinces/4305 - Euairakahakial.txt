@@ -1,0 +1,16 @@
+# County Title
+title = c_euairakahakial
+
+# Settlements
+max_settlements = 7
+b_bueno_aires = tribal
+b_laplatina = temple
+#b_pilarbah = tribal
+#b_blacavic = tribal
+#b_ituzaing = tribal
+#b_berazategui = tribal
+#b_merpajos = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

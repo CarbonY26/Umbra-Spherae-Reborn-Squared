@@ -1,0 +1,15 @@
+# County Title
+title = c_colliman
+
+# Settlements
+max_settlements = 6
+b_colliman = tribal
+b_manzanillo  = temple
+#b_salagua = tribal
+#b_chacahuistle = tribal
+#b_elcolombo = tribal
+#b_jailpa = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

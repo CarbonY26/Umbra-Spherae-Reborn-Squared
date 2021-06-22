@@ -1,0 +1,13 @@
+# County Title
+title = c_paducah
+
+# Settlements
+max_settlements = 4
+b_paducah = tribal
+#b_paactaluck = temple
+#b_nootchalanta = tribal
+#b_kinniconnicky = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

@@ -1,0 +1,14 @@
+# County Title
+title = c_mariana
+
+# Settlements
+max_settlements = 5
+b_saipatinian = tribal
+b_rotaguam = temple
+#b_anatahan = tribal
+#b_sariganphillis = tribal
+#b_guguan = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

@@ -1,0 +1,12 @@
+# County Title
+title = c_juyjuyarg
+
+# Settlements
+max_settlements = 3
+b_humahuaca = tribal
+#b_xibixibarg = temple
+#b_gobernardo = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

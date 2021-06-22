@@ -1,0 +1,11 @@
+# County Title
+title = c_chacobo
+
+# Settlements
+max_settlements = 2
+b_chacobo = tribal
+#b_chocomayaya = temple
+
+# Misc
+culture = nahuatl
+religion = aztec

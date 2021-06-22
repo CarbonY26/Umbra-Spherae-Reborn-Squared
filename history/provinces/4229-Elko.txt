@@ -1,0 +1,12 @@
+# County Title
+title = c_elko
+
+# Settlements
+max_settlements = 3
+b_elkarliee = tribal
+#b_mowelltello = temple
+#b_tuscarleko = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

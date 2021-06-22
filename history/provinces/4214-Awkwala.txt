@@ -1,0 +1,16 @@
+# County Title
+title = c_awkwala
+
+# Settlements
+max_settlements = 7
+b_tijuana = tribal
+#b_awkwala = temple
+#b_mexicali = tribal
+#b_colnet= tribal
+#b_aronoso = tribal
+#b_puertecitos = tribal
+#b_arsetij = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

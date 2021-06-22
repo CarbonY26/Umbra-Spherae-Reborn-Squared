@@ -1,0 +1,12 @@
+# County Title
+title = c_yuquieron
+
+# Settlements
+max_settlements = 3
+b_eugisgar = tribal
+#b_estigarrim = temple
+#b_pedpanp = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

@@ -1,0 +1,14 @@
+# County Title
+title = c_xalisco
+
+# Settlements
+max_settlements = 5
+b_xalisco = tribal
+b_nayarit = tribal
+#b_tepic  = temple
+#b_ixcuintla = tribal
+#b_hacienda = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

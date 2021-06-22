@@ -1,0 +1,16 @@
+# County Title
+title = c_shanghai
+
+# Settlements
+max_settlements = 7
+b_shanghai = city
+b_aibao = city
+b_quadeng = castle
+b_giandeng = temple
+#b_zhjiajiao = city
+#b_zhouzhuang = city
+#b_taihu = city
+
+# Misc
+culture = han
+religion = confucian

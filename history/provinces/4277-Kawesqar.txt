@@ -1,0 +1,12 @@
+# County Title
+title = c_kawesqar
+
+# Settlements
+max_settlements = 3
+b_puntare = tribal
+#b_yaganes = temple
+#b_magallahilena = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

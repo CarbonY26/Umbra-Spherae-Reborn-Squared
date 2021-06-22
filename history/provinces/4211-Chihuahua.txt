@@ -1,0 +1,16 @@
+# County Title
+title = c_chihuahua
+
+# Settlements
+max_settlements = 7
+b_chitjiua = tribal
+b_chihuahua = temple
+b_pimbaguarjio = tribal
+b_guadalupe = tribal
+#b_alamedas = tribal
+#b_zootecnia = tribal
+#b_chupicuaro = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

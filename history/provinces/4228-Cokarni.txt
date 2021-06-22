@@ -1,0 +1,16 @@
+# County Title
+title = c_cokarni
+
+# Settlements
+max_settlements = 7
+b_cokarni = tribal
+#b_titsapa = temple
+#b_yankota = tribal
+#b_wasatchcache = tribal
+#b_tooele = tribal
+#b_timpanagos = tribal
+#b_papadsoki = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

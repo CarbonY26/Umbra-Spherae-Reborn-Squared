@@ -1,0 +1,12 @@
+# County Title
+title = c_durango
+
+# Settlements
+max_settlements = 3
+b_durango = tribal
+b_hermoshillo = temple
+#b_tonichures = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

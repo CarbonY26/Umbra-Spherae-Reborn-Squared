@@ -1,0 +1,16 @@
+# County Title
+title = c_ponhpei
+
+# Settlements
+max_settlements = 7
+b_palikir = tribal
+b_pohnpei = temple
+#b_kolonipakir = tribal
+#b_sekerapakir = tribal
+#b_pwelweite = tribal
+#b_tamworohi = tribal
+#b_atohkapw = tribal
+
+# Misc
+culture = delaware
+religion = algic_pagan

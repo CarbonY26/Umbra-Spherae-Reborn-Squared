@@ -1,0 +1,17 @@
+# County Title
+title = c_tzuntzuntzan
+
+# Settlements
+max_settlements = 6
+b_tzuntzuntzan = tribal
+b_yacata = tribal
+b_patzcuaro = temple
+b_cazonci = tribal
+#b_tanganxoán = tribal
+#b_irepan = tribal
+#b_hiquingare = tribal
+
+
+# Misc
+culture = nahuatl
+religion = aztec

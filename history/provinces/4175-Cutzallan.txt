@@ -1,0 +1,13 @@
+# County Title
+title = c_cutzalan
+
+# Settlements
+max_settlements = 4
+b_cutzalan = tribal
+#b_totonahyu  = temple
+#b_brias = tribal
+#b_yohualichan = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

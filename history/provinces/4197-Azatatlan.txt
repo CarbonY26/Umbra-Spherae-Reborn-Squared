@@ -1,0 +1,12 @@
+# County Title
+title = c_azatalan
+
+# Settlements
+max_settlements = 2
+b_azatalan = tribal
+#b_azatalanautl = temple
+
+
+# Misc
+culture = nahuatl
+religion = aztec

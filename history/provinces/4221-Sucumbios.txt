@@ -1,0 +1,13 @@
+# County Title
+title = c_sucumbios
+
+# Settlements
+max_settlements = 4
+b_sucumbios = tribal
+#b_cascalago = temple
+#b_caacube = tribal
+#b_shushufindi = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

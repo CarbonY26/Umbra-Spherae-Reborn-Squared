@@ -1,0 +1,12 @@
+# County Title
+title = c_amecan
+
+# Settlements
+max_settlements = 3
+b_amecan = tribal
+b_aymecaguach = tribal
+#b_amentanc  = temple
+
+# Misc
+culture = nahuatl
+religion = aztec

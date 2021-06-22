@@ -1,0 +1,13 @@
+# County Title
+title = c_acatic
+
+# Settlements
+max_settlements = 4
+b_acatic = tribal
+b_tepacatic = tribal
+#b_tonacatic  = temple
+#b_yaualititlan = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

@@ -1,0 +1,12 @@
+# County Title
+title = c_pahimpita
+
+# Settlements
+max_settlements = 3
+b_concarluis = tribal
+b_gobernadupu = temple
+#b_pedernarch = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

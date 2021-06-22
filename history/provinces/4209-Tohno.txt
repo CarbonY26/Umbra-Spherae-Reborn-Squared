@@ -1,0 +1,11 @@
+# County Title
+title = c_tohno
+
+# Settlements
+max_settlements = 2
+b_tohno = tribal
+#b_safilape = temple
+
+# Misc
+culture = nahuatl
+religion = aztec

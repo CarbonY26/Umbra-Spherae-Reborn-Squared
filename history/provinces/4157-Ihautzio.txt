@@ -1,0 +1,13 @@
+# County Title
+title = c_ihautzio
+
+# Settlements
+max_settlements = 4
+b_ihuatzio = tribal
+b_irepan = tribal
+#b_michoacan = temple
+#b_curicaueri = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

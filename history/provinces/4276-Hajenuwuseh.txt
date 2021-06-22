@@ -1,0 +1,13 @@
+# County Title
+title = c_hajenuwuseh
+
+# Settlements
+max_settlements = 4
+b_hajenuwuseh = tribal
+#b_oisgwanyeda = temple
+#b_onudagowunohkut = tribal
+#b_ushsohgwajih = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec

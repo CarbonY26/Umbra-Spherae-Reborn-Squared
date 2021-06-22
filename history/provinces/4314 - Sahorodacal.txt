@@ -1,0 +1,12 @@
+# County Title
+title = c_sahorodacal
+
+# Settlements
+max_settlements = 3
+b_sahorodacal = tribal
+b_corrientiana = temple
+#b_guarani = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
