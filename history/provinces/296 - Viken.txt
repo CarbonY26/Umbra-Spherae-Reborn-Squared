@@ -5,7 +5,7 @@ title = c_viken
 
 # Settlements
 max_settlements = 3
-b_bagahus = tribal
+b_lysekil = tribal
 
 #b_kungahalla = city
 #b_svenneby = temple
@@ -21,10 +21,10 @@ religion = norse_pagan
 
 # History
 1000.1.1 = {
-	b_bagahus = castle
+	b_lysekil = castle
 	b_kungahalla = city
 
-	b_bagahus = ca_shipyard_1
+	b_lysekil = ca_shipyard_1
 	b_kungahalla = ct_port_1
 }
 1066.1.1 = {

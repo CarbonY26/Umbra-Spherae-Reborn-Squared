@@ -403,7 +403,7 @@
 	dynasty = 1062156
 	religion = finnish_pagan
 	culture = komi
-	741.1. = {
+	741.1.1 = {
 		birth = yes
 	}
 	780.1.1 = {

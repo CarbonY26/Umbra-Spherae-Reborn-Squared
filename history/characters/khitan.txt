@@ -111,6 +111,8 @@
 
 188912 = {
 	name="Yelü-Zhilugu"
+	dna = eboqtsnbtbn
+	properties = fm00gd000000000000
 	dynasty=214009
 	religion=buddhist
 	culture=khitan
@@ -252,6 +254,12 @@
 	dynasty=1045082 # Liao Dynasty
 	religion="buddhist"
 	culture=khitan
+	trait="indulgent_wastrel"
+	trait="slothful"
+	trait="paranoid"
+	trait="cynical"
+	trait="cruel"
+	disallow_random_traits = yes
 	father=194332
 	1032.9.14 = {
 		birth = yes
@@ -1206,7 +1214,7 @@
 	}
 	664.6.1={
 		add_spouse=247391
-		effect={c_247390={add_consort=ROOT}}
+		effect={ROOT={add_consort=c_247390}}
 	}
 	666.1.1={
 		death=yes
@@ -1225,7 +1233,7 @@
 	}
 	666.1.1={
 		add_spouse=247390
-		effect={c_247391={add_consort=ROOT}}
+		effect={ROOT={add_consort=c_247391}}
 	}
 	688.1.1={
 		add_claim = c_fuqi
@@ -1831,29 +1839,5 @@ father=93263
 	}
 	1087.1.1={
 		death=yes
-	}
-}
-261078 = {
-	name = "Chala"
-	dynasty = 1062516
-	religion = tengri_pagan
-	culture = khitan
-	905.1.1 = {
-		birth = yes
-	}
-	949.1.1 = {
-		death = yes
-	}
-}
-261079 = {
-	name = "Keling"
-	dynasty = 1062517
-	religion = tengri_pagan
-	culture = khitan
-	896.1.1 = {
-		birth = yes
-	}
-	967.1.1 = {
-		death = yes
 	}
 }
