@@ -1,10 +1,10 @@
 # County Title
-title = c_chocargo
+title = c_chocarga
 
 # Settlements
 max_settlements = 4
 b_chocargo = tribal
-b_b_resistencia = temple
+b_resistencia = temple
 #b_guaycuru = tribal
 #b_tobagua = tribal
 

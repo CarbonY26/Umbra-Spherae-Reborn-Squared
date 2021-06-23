@@ -452,20 +452,6 @@ e_mohasonochihuaponiuts = {
 				b_bacaminsal = {
 				}
 			}
-			c_jicarilla = {
-
-				color={ 195 94 137 }
-				color2={ 220 220 220 }
-				
-				b_jicarilla = {
-				}
-				b_lajuntapinocha = {
-				}
-				b_tenkwatawa = {
-				}
-				b_bacaminsal = {
-				}
-			}
 			c_commanche = {
 
 				color={ 195 94 137 }

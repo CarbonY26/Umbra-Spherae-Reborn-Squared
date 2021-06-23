@@ -557,18 +557,6 @@ e_consasurplata = {
 				b_isidrosito = {
 				}
 			}
-			c_canindeyalt = {
-
-				color={ 149 18 183 }
-				color2={ 220 220 220 }
-				
-				b_guairadeyal = {
-				}
-				b_canindeyu = {
-				}
-				b_salogotoaira = {
-				}
-			}
 			c_pokzahalti = {
 
 				color={ 149 18 183 }

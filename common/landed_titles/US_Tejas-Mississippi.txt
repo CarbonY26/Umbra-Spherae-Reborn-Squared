@@ -1057,18 +1057,6 @@ e_mississippi = {
 				b_chakchiuma-vi = {
 				}
 			}
-			c_caddo = {
-
-				color={ 105 104 70 }
-				color2={ 220 220 220 }
-				
-				b_caddo = {
-				}
-				b_caddo-ii = {
-				}
-				b_caddo-iii = {
-				}
-			}
 			c_chicasaw = {
 
 				color={ 105 104 70 }

@@ -237,7 +237,7 @@
 	stewardship=5
 	religion="catholic"
 	culture="welsh"
-	father=166446
+	#father=166446
 	768.1.1={
 		birth="768.1.1"
 	}
