@@ -5,7 +5,7 @@ title = c_oppland
 
 # Settlements
 max_settlements = 3
-b_lillehammer = tribal
+b_heggenes = tribal
 
 #b_lillehammer = city
 #b_favang = temple
@@ -20,8 +20,8 @@ religion = norse_pagan
 
 # History
 1000.1.1 = {
-	b_lillehammer = castle
-	b_favang = city
+	b_heggenes = castle
+	b_raufoss = city
 }
 1066.1.1 = {
 	culture = norwegian

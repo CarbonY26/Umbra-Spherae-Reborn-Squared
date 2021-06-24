@@ -453,7 +453,7 @@ e_purepechtarrahum = {
 				}
 				b_mezcala = {
 				}
-				b_Meczcalachapa = {
+				b_meczcalachapa = {
 				}
 			}
 			c_tonallan = {
@@ -503,7 +503,7 @@ e_purepechtarrahum = {
 				
 				b_nochistlan = {
 				}
-				b_guadalajara = {
+				b_guadalajara2 = {
 				}
 				b_caxcan = {
 				}
@@ -517,7 +517,7 @@ e_purepechtarrahum = {
 				}
 			}
 		}
-		d_Ayacmimexatec = {
+		d_ayacmimexatec = {
 
 				color={ 180 60 80 }
 				color2={ 136 110 5 }
@@ -542,7 +542,7 @@ e_purepechtarrahum = {
 				}
 				b_coyotilvand = {
 				}
-				b_Rincolc = {
+				b_rincolc = {
 				}
 				b_Cuqcontia = {
 				}
@@ -1030,26 +1030,6 @@ e_purepechtarrahum = {
 				b_azeulinch = {
 				}
 				b_azalisctlitlan = {
-				}
-			}
-			c_xecora = {
-
-				color={ 130 120 90 }
-				color2={ 112 160 20 }
-				
-				b_xecora = {
-				}
-				b_xecorahat = {
-				}
-				b_xecoraqias = {
-				}
-				b_xecorachun = {
-				}
-				b_tencarritec = {
-				}
-				b_xecoratec = {
-				}
-				b_xecorahcautl = {
 				}
 			}
 			c_cocuila = {

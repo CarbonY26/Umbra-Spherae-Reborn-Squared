@@ -5,8 +5,8 @@ title = c_akershus
 
 # Settlements
 max_settlements = 5
-b_akershus = tribal
-b_bergheim = temple
+b_aker = tribal
+b_sandvika = temple
 
 #b_oslo = city
 #b_isegran = castle
@@ -19,15 +19,15 @@ religion = norse_pagan
 
 # History
 800.1.1 = {
-	b_akershus = tb_shipyard_1
+	b_aker = tb_shipyard_1
 }
 1000.1.1 = {
-	b_akershus = castle
+	b_aker = castle
 	b_oslo = city
 
-	b_bergheim = tp_town_1
-	b_bergheim = tp_shipyard_1
-	b_akershus = ca_shipyard_1
+	b_sandvika = tp_town_1
+	b_sandvika = tp_shipyard_1
+	b_aker = ca_shipyard_1
 	b_oslo = ct_port_1
 }
 1066.1.1 = {

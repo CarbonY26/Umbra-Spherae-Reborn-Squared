@@ -683,13 +683,6 @@ e_nunavut = {
 				b_insapiangwichan = {
 				}
 			}
-			c_matayuko = {
-				color={ 135 124 119 }
-				color2={ 220 220 220 }
-
-				b_matayuko = {
-				}
-			}
 			c_tutchone = {
 				color={ 8 84 19 }
 				color2={ 220 220 220 }
@@ -836,7 +829,7 @@ e_nunavut = {
 				}
 				b_muskayuko = {
 				}
-				b_Tlingitaska = {
+				b_tlingitaska = {
 				}
 				b_matanuskaska = {
 				}

@@ -1,11 +1,11 @@
 # 274 - Bergenshus
 
 # County Title
-title = c_bergenshus
+title = c_hordaland
 
 # Settlements
 max_settlements = 4
-b_bergenhus = tribal
+b_odda = tribal
 
 #b_bergen = city
 #b_kinsarvik = temple
@@ -18,15 +18,15 @@ terrain = mountain
 
 # History
 800.1.1 = {
-	b_bergenhus = tb_shipyard_1
+	b_odda = tb_shipyard_1
 }
 1000.1.1 = {
-	b_bergenhus = castle
+	b_odda = castle
 	b_bergen = city
 	b_kinsarvik = temple
 
 	b_bergen = ct_port_1
-	b_bergenhus = ca_shipyard_1
+	b_odda = ca_shipyard_1
 	b_kinsarvik = tp_shipyard_1
 }
 1066.1.1 = {

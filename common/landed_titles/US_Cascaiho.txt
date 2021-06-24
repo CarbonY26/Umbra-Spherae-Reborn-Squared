@@ -295,18 +295,6 @@ e_cascaiho = {
 				b_cheylimpian = {
 				}
 			}
-			c_chenaliu = {
-
-				color={ 95 11 49 }
-				color2={ 220 220 220 }
-				
-				b_chenaliu = {
-				}
-				b_chenaligeron = {
-				}
-				b_cheylimpian = {
-				}
-			}
 		}
 	}
 	k_orecadia = {
@@ -351,7 +339,7 @@ e_cascaiho = {
 				}
 				b_clallam = {
 				}
-				c_lallambia = {
+				b_lallambia = {
 				}
 			}
 			c_nootka = {
@@ -389,7 +377,7 @@ e_cascaiho = {
 				
 				b_ouinault = {
 				}
-				b_kiakumwah = {
+				b_kiakumwah1 = {
 				}
 				b_ouinurego = {
 				}
