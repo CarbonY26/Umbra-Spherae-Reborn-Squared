@@ -1,13 +1,6 @@
 # Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
 
-# Culture-specific opinion can be added to modifiers (E.G., norse_opinion = 5), but the modifier *has* to be defined in 00_modifier_definitions.txt as well. It also needs localisation. Works for groups as well
-
-# Culture modifiers: modifier (applies to provinces), character_modifier, and settlement modifiers.
-# The ID of the modifier can be defined here (E.G., modifier = modifier_name or character_modifier = modifier_name), while the effect of it must be defined in static_modifiers.txt, and the localisation in localisation. For the settlement modifiers you don't need to (and can't) define the ID; it defaults to culture name + settlement type. E.G., norse_temple
-
-# nomadic_in_alt_start = yes - Will be Nomadic if the "Tribal & Nomadic" option is taken in the alt-start generation
-
 north_germanic = {
 	graphical_cultures = { westerngfx }
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
@@ -95,7 +88,7 @@ north_germanic = {
 			Býulfr_Bjug Byx Bæglir_Bæglir Bæilir_Bæglir Böðmóðr_Bodmod Böðrekr_Böðríkr
 			Böðríkr Böðvarðr Börðr_Böðvarðr Böðvarr_Bodvar Börðr_Böðvarðr Börkr 
 			Bøsir_Bósi Dafiþ_David Dagfinnr_Dagfinn
-			Dagr_Dag Dagstyggr_Dagstygg Dali_Dalli Dálkr Dalli
+			Dagr_Dag Dagstyggr_Dagstygg Dali_Dalli Dálkr_Dalk Dalli
 			Danr_Danr Danski Darrhöðr_Darrhöðr Darri David Davið_David Davíð_David
 			Dávíð_David Diarfr Digraldi_Digrvaldi Digrvaldi 
 			Diúrgeirr Diúri_Dýri Diúrvér_Dýrvér Dofri Dolgfinnr Dólgfinnr_Dolgfinnr
@@ -514,62 +507,15 @@ color = { 0.3 0.55 0.8 }
 # Þ 222 þ 254 Ð 208 ð 240 æ
 
 male_names = {
-Agmundr_Ogmund Ale Alfr_Alf Alfgeir Anders_Andrew 
-Anlaufr Anuntr_Anund Arnbjörn 
-Arngrimr Arni_Arne Arnfast Arnfinnr_Arnfinn 
-As Asbjörn_Asbjörn Bagge Baldr_Balder Barid 
-Bengt_Benedict Bersi Bertil Birger Björn_Beorn Bo 
-Borkvard Botulfr_Botulf Bragi_Brage Butli_Buðli
-Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik 
-Eskild Falki Faste Filip_Philip Fredrik_Frederick 
-Frirek Froti_Frode 
-Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa 
-Gorm_Gorm Greger_Gregory Grimr_Grim Gutfrit_Godfrey 
-Gutleikr_Gudleik Gutmundr_Gudmund 
-Gutrötr_Gudröd Gunnarr_Gunnar Haimrikr_Henry
-Hakon_Hakon Halltorr_Haldor Halsten Haraldr_Harold Haukr Helgi_Helge
-Hemming Holmger Hrafn_Hrafn Hrolfr_Rudolf Hrane Hæsteinn 
-Hjalmar_Hjalmar Hrotgar_Roger Hrotulfr_Rudolf Hrörekr_Roderick 
-Hysing Ingólfr_Ingolf Ingemar Ingjald Ivar_Ivar Jedvard_Edward 
-Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas Knut_Knut Kol 
-Kolbeinn_Kolbein Kolbjörn Lars_Laurence Leifr_Leif 
-Lotinn_Lodin Magnus_Magnus Markus_Marcus 
-Magni_Magne Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig 
-Olafr_Olaf Ormr_Orm Ottarr_Ottar 
-Refr Refil Ragnarr_Rainer Rikulfr 
-Rögnvaldr_Ragnvald Skuli_Skule Snorri Sigbjörn 
-Sigtrygg_Sigtrygg Sigurtr_Sigurd 
-Starkatr_Starkad Steinn_Sten Sturla 
-Styrbjörn Styrkar Sumarliti_Somerled 
-Suni_Sune Sveinn_Sven Sverker_Sverker Sværri_Sverre
-Sæmundr_Sämund Sölvi_Sölve Sörkver 
-Tjudmund_Tjudmund Torbrandr_Torbrand 
-Toke_Toke Tolir Torbjörn_Torbjörn 
-Torfinn_Torfinn Tordr_Tord 
-Torgeirr_Torgeir Torgil_Torkel 
-Torsteinn_Torsten Tormodr_Tormod Torolfr_Thorolf 
-Toste Totil Trondr_Trond Tryggve Tyke Ulfr_Ulf Vagn 
-Valdemar_Vladimir Åke Yngvar_Ingvar 
-Örvar_Orvar Öysteinn_Eysteinn Tortar_Thordar
-Enriti_Enriði Sigvat_Sigvað 
-Erlingur Baarne Ingi Ratulfur_Ralph
+Gutlibr_Gudleif Hælgi_Helgi
+Libr_Leif Litvadr_Ledvor Mikal_Michael Misial_Michael
+Ólavr_Olaf Tálkr_Dalk Tortar_Thordar Turfinnr_Torfinn Turlibr_Thorleif Tyrtrik_Thierry
+Enriti_Enriði Sigvor_Sigvard Sigvat_Sigvað 
+Erlingr Baarne Ingi Ratulfur_Ralph Øsurr_Ossor
 }
 
 female_names = {
-Aleta Alfhildr_Alfhild Alfrit_Alfridh Alvör Anna_Anna Asa_Åsa 
-Aslaug Asta_Asta Astrid_Astrid Beata 
-Birgitta_Brigid Björg Bodil Bothildr_Bothild Cecilia_Cecilia
-Edla Elin Elisabet_Elizabeth Freyja_Freja Gertr_Gerðr Glot_Gloð 
-Grima Gunnhildr_Gunhild Gurli Gutrun_Gudrun Gyla Gyrit_Gyrið 
-Gyta_Gytha Hafrid Halla Helena_Helen Holmfrid
-Iliana Inga_Inga Ingfrid Ingibjörg_Ingeborg Ingjertr_Ingegerd 
-Ingrid_Ingrid Karin_Catherine Katarina_Catherine 
-Kraka Kristina_Christina Linda Maer
-Malmfrit_Malmfrid Margareta_Margaret Maria_Maria Rikissa 
-Rögnfrit_Ragnfrid Rögnhildr_Ragnhild Saga Sara_Sarah Sif 
-Sigrid_Sigrid Skuld Sofia_Sophia
-Svanhildr_Svanhild Tora_Thora Tordis_Thordis Tyra_Thyra  
-Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa 
+Bjærg_Björg Bragil_Brigid Brigil_Brigid Hælga_Helga Ingibjarg_Ingeborg Maria_Maria Turfinna_Torfinna
 }
 		
 parent = norse
@@ -688,7 +634,7 @@ color = { 0.2 0.75 0.35 }
 male_names = {
 Andreas_Andrew Bjørn_Beorn Erik Harald_Harold Hendrik_Henry
 Johann_John
-Magnus Mikael_Michael Robert Sjur_Sigurd Torkel           
+Magnus Martin Mikael_Michael Robert Sjur_Sigurd Torkel           
 }
 
 female_names = {
@@ -3628,7 +3574,7 @@ celtic = {
 		
 		graphical_cultures = { celticgfx westerngfx }
         
-        color = { 0.5 1.0 0.0 }
+        color = { 0.57 1.0 0.0 }
         
 		male_names = {
             Agrafin Alan_Alan Alisander_Alexander Alwyn_Alwyn Amhar Annan Apon Aradig Aradoc Arawain 
@@ -4831,11 +4777,7 @@ graphical_cultures = { ugricgfx }
 color = { 0.56 0.55 0.2 }
 
 male_names = {
-			Algirdas Antanas Antavas Aras Arunas Azuolas Budrys Bukantas Butavas Butigeidis Butvydas Daugvilas Daumantas Dausprungas Dravenis Erdenis Erdvilas Gedigaudas
-			Gediminas Gedivilas Gintaras Gintautas Girdenis Irmantas Jaunutis Jogaila Jovirdas Kantibutas Karijotas Kesgaila Kestutis Korigaila Korybutas
-			Lasukas Lingvenis Liudas Lubartas Lutuveras Merkelis Mindaugas Minigaila Mantvydas Movkoldas Narimantas Povilas Pukuveras Rimantas 
-			Rimgaila Rimvydas Ringaudas Sarunas Skirgaila Songaila Svarnas Svitrigaila Tarvydas Tovtivilas Traidenis Treniotas Vainius Vaisvilkas Valimantas
-			Vidmantas Vingoldas Virmantas Visvaldis Vizgirdas Vykintas Vytautas Vytenis Zivinbudas Zygimantas 
+			Nameikis_Nameisis
 }
 
 female_names = {

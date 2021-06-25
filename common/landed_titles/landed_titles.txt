@@ -12455,7 +12455,7 @@ e_scandinavia = {
                                         faroese = "Vakshólmur"
                                         norn = "Vakshulm"
                                         greenlandic_norse = "Vaxholmr"
-                                        finnish = "Vaxholma"
+                                        finnish = "Vaksholma"
                                         karelian = "Vaksholma"
                                         lettigallish = "Vaksholma"
                                         livonian = "Vaksholm"
@@ -12645,8 +12645,8 @@ e_scandinavia = {
                                 greenlandic_norse = "Mariahöfn"
                                 finnish = "Maarianhamina"
                                 karelian = "Maarianhamina"
-                                ingrian = "Maarjahamn"
-                                votic = "Maarjahamn"
+                                ingrian = "Maarjanhamn"
+                                votic = "Maarjaahamn"
                                 veps = "Marijanhamn"
                                 ugricbaltic = "Maarjahamn"
                                 lettigallish = "Mariehamna" 
@@ -13753,7 +13753,7 @@ e_scandinavia = {
                                 norn = "Aksvollj"
                                 greenlandic_norse = "Axevöllr"
                                 faroese = "Aksvall"
-                                finnish = "Axvall"
+                                finnish = "Aksvall"
                                 karelian = "Aksvall"
                                 ingrian = "Aksvall"
                                 votic = "Aksvall"
@@ -13801,10 +13801,10 @@ e_scandinavia = {
                                 ugricbaltic = "Maarjalinn"
                                 lettigallish = "Marijapils"
                                 livonian = "Marjanin"
-                                ingrian = "Maarjalinn"
-                                votic = "Maarjalidna"
-                                veps = "Maarjalidn"
-                                lappish = "Mariasadji"
+                                ingrian = "Maarjanlinn"
+                                votic = "Maarjaalidna"
+                                veps = "Maarjanlidn"
+                                lappish = "Márjjásadji"
                                 ashkenazi = "Miryamshtot"
                                 greenlandic = "Mariaillorpassualik"
 
@@ -14105,7 +14105,17 @@ e_scandinavia = {
 
 				b_sundsvall = {
 
+                                        norse = "Sundsvöllr"
+                                        norwegian = "Sundsvoll"
+                                        danish = "Sundsvold"
+                                        icelandic = "Sundsvöllur"
+                                        faroese = "Sundsvøllur"
+                                        norn = "Sundsvollj"
+                                        greenlandic_norse = "Sundsvöllr"
                                         lettigallish = "Sundsvalla"
+                                        lappish = "Sundsvalla"
+                                        ashkenazi = "Sundsval"
+                                        greenlandic = "Sundsvold"
 
 				}
 
