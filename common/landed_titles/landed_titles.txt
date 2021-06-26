@@ -28324,7 +28324,7 @@ e_scandinavia = {
                                         ingrian = "Hyvätmeehet"
                                         votic = "Üvädmeheed"
                                         veps = "Hüvädmehed"
-                                        lappish = "Gudmannsb
+                                        lappish = "Gudmannsb"
                                         german = "Gudmannsbach"
                                         ashkenazi = "Gutmentshtaykhl"
                                         greenlandic = "Godmannsbææk"
@@ -29028,7 +29028,7 @@ e_scandinavia = {
                                         icelandic = "Kandá"
                                         faroese = "Kandau"
                                         norn = "Kandau"
-                                        greenlandic norse = "Kandá"
+                                        greenlandic_norse = "Kandá"
                                         finnish = "Kandau"
                                         karelian = "Kandau"
                                         livonian = "Kandav"
@@ -29638,7 +29638,7 @@ e_scandinavia = {
                                 votic = "Kaceeni" #vowel doubled to make spelling consistent
                                 veps = "Kacen'" #hypotethical vepsification
                                 german = "Katzen" #hypothetical germanization
-                                ashkenazi = "Katzen #hypothetical yiddification
+                                ashkenazi = "Katzen" #hypothetical yiddification
                                 russian = "Kaceny"
                                 old_east_slavic = "Kachanova Sloboda"
                                 ruthenian = "Kachanova Slobodá"
@@ -86895,7 +86895,7 @@ d_guiyi = { #
 	}
 }
 
-#k_badajoz = {
+k_badajoz = {
 		color={ 138 243 51 }
 		color2={ 255 255 255 }
 
