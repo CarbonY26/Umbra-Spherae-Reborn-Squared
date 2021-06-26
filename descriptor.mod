@@ -1,4 +1,4 @@
-name="Umbra Spherae-Reborn"
+name="Umbra Spherae-Reborn Master"
 path="mod/umbra_spherae"
 user_dir="Umbra_Spherae-Reborn"
 tags=
