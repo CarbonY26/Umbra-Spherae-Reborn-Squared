@@ -361,10 +361,10 @@ silk_road = {
 
 	# China - Japan
 	path = {	# Fu(Fujian)-Ryukyu-Chikuzen-Yamashiro
-		2582 2732 2564 2731 2015 2726 2725 2845 2843 2715 2006 2004
+		2582 2564 2731 2015 2726 2725 2845 2843 2006 2004
 	}
 	path = {	# You(Beijing/Fanyang)-Gyeonggi-Yang-Tsushima Straits
-		2449 2729 2024 2028 2730 2037 2725
+		2449 2729 2024 2028 2037 2725
 	}
 
 	# Bab el Mandeb-Zimbabwe
