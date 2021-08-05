@@ -534,20 +534,6 @@ e_mohasonochihuaponiuts = {
 				b_gualupiuel = {
 				}
 			}
-			c_pawkan = {
-
-				color={ 35 134 164 }
-				color2={ 220 220 220 }
-				
-				b_pawkan = {
-				}
-				b_braskansas = {
-				}
-				b_mankatocha = {
-				}
-				b_wakeenyul = {
-				}
-			}
 			c_roswell = {
 
 				color={ 37 130 174 }
@@ -684,7 +670,7 @@ e_mohasonochihuaponiuts = {
 				}
 				b_piamutahni = {
 				}
-				b_eletenmex = {
+				b_tonammutahni2 = {
 				}
 				b_eurkututni = {
 				}

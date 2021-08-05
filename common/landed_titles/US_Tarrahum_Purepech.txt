@@ -94,13 +94,13 @@ e_purepechtarrahum = {
 				}
 				b_yacata = {
 				}
-				b_patzcuaro = {
+				b_tzuntzuntzan1 = {
 				}
 				b_cazonci = {
 				}
-				b_tanganxoán = {
+				b_tanganxoan = {
 				}
-				b_irepan  = {
+				b_tzuntzuntzan2 = {
 				}
 				b_hiquingare = {
 				}

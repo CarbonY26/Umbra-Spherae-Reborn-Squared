@@ -117,11 +117,8 @@
 1019919317={
 	name=Huitzitl
 	dynasty=1009990159
-	dna="njneonegbig"
-	culture=nahuatl religion=aztec
-	martial=5 diplomacy=6 stewardship=7 intrigue=8 learning=8
-	add_trait=flamboyant_schemer add_trait=kind add_trait=just add_trait=shy add_trait=greedy 
-	add_trait=cruel add_trait=stressed 
+	culture=nahuatl 
+	religion=aztec
 	father=1019919314	#Cuitlahuac
 	1074.1.14={ birth=yes }
 	1151.3.23={ death=yes }
@@ -129,10 +126,8 @@
 1019919318={
 	name=Ahuitzotl
 	dynasty=1009990159
-	dna="nhlkmaemong"
-	culture=nahuatl religion=aztec
-	martial=6 diplomacy=7 stewardship=6 intrigue=7 learning=4
-	add_trait=midas_touched add_trait=trusting add_trait=proud 
+	culture=nahuatl 
+	religion=aztec
 	father=1019919314	#Cuitlahuac
 	1079.12.19={ birth=yes }
 	1156.7.18={ death=yes }

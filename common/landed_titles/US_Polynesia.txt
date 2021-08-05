@@ -451,7 +451,7 @@ e_polynesia = {
 				}
 				b_atiutakutea = {
 				}
-				b_manuae = {
+				b_avarua1 = {
 				}
 				b_aitutaki = {
 				}
