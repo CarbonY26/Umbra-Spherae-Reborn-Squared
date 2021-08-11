@@ -519,7 +519,7 @@ e_wabanaki = {
 				}
 				b_topalendenlen = {
 				}
-				b_bihujantee = {
+				b_delaware1 = {
 				}
 				b_centilentenpeo = {
 				}

@@ -223,11 +223,9 @@ e_japan = {
             		}
             		c_ginzahuko = {
 
-				color={ 225 132 160 }
-				color2={ 255 255 255 }
+						color={ 225 132 160 }
+						color2={ 255 255 255 }
 
-                		b_chiba = {
-                		}
                 		b_chuchoko = { # temple
                 		}
                 		b_ginzahuko = {

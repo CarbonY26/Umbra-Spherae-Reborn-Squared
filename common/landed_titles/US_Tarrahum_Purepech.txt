@@ -1163,7 +1163,7 @@ e_purepechtarrahum = {
 				}
 				b_zootecnia = {
 				}
-				b_chupicuaro = {
+				b_chihuahua1 = {
 				}
 			}
 			c_conchos = {
@@ -1335,18 +1335,6 @@ e_purepechtarrahum = {
 				b_cotoname-iii = {
 				}
 			}
-			c_coahuilteco = {
-
-				color={ 155 174 49 }
-				color2={ 220 220 220 }
-				
-				b_coahuilteco = {
-				}
-				b_coahuilteco-ii = {
-				}
-				b_coahuilteco-iii = {
-				}
-			}
 			c_metztitlan = {
 
 				color={ 225 134 49 }
@@ -1357,18 +1345,6 @@ e_purepechtarrahum = {
 				b_metztitlan-ii = {
 				}
 				b_metztitlan-iii = {
-				}
-			}
-			c_pame = {
-
-				color={ 95 197 49 }
-				color2={ 220 220 220 }
-				
-				b_pame = {
-				}
-				b_pame-ii = {
-				}
-				b_pame-iii = {
 				}
 			}
 		}
@@ -1466,14 +1442,6 @@ e_purepechtarrahum = {
 				b_tohno = {
 				}
 				b_safilape = {
-				}
-			}
-			c_pandoliva = {
-
-				color={ 180 60 80 }
-				color2={ 126 100 25 }
-				
-				b_pandoliva = {
 				}
 			}
 			c_awkwala = {

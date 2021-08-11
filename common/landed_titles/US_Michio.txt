@@ -559,18 +559,6 @@ e_michio = {
 				b_muunasing = {
 				}
 			}
-			c_ontonagon = {
-
-				color={ 65 177 86 }
-				color2={ 220 220 220 }
-				
-				b_keweenaw = {
-				}
-				b_ontonagon = {
-				}
-				b_gogebic = {
-				}
-			}
 			c_menomini = {
 
 				color={ 155 173 93 }

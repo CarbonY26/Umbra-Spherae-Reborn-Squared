@@ -38,7 +38,7 @@ e_mohasonochihuaponiuts = {
 				b_titsapa = {
 				}
 				b_yankota = {
-			              }
+				}
 				b_wasatchcache = {
 				}
 				b_tooele = {
@@ -252,7 +252,7 @@ e_mohasonochihuaponiuts = {
 				
 				b_coconino = {
 				}
-				b_arblirizona = {
+				b_coconino1 = {
 				}
 				b_arbliliz = {
 				}
@@ -297,18 +297,6 @@ e_mohasonochihuaponiuts = {
 				b_apapocatela = {
 				}
 				b_apacholorada = {
-				}
-			}
-			c_mohave = {
-
-				color={ 75 176 86 }
-				color2={ 220 220 220 }
-				
-				b_mohapa = {
-				}
-				b_mohave = {
-				}
-				b_monamevico = {
 				}
 			}
 			c_navajo = {
@@ -383,7 +371,7 @@ e_mohasonochihuaponiuts = {
 				}
 				b_shirstrawnee = {
 				}
-				b_bihujantee = {
+				b_shirstrawnee1 = {
 				}
 				b_arapahoe = {
 				}

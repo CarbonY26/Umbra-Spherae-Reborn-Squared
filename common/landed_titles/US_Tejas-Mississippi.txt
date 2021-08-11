@@ -66,9 +66,9 @@ e_tejas = {
 				
 				b_efeketaspuyvfenaft = {
 				}
-				b_atohopkacet = {
+				b_efeketaspuyvfenaft1 = {
 				}
-				b_cehowhasapohicket = {
+				b_efeketaspuyvfenaft2 = {
 				}
 				b_hotvletoyanlofrakko = {
 				}
@@ -137,7 +137,7 @@ e_tejas = {
 				}
 				b_patolikiyateh = {
 				}
-				b_likiyessokpekse = {
+				b_hasinai1 = {
 				}
 				b_puyvefektvlof = {
 				}
@@ -379,14 +379,14 @@ e_tejas = {
 				b_elpas-iii = {
 				}
 			}
-			c_odessa = {
+			c_manahodesa = {
 
 				color={ 138 69 79 }
 				color2={ 220 220 220 }
 				
-				b_odessa = {
-				}
 				b_manahodesa = {
+				}
+				b_manahodesa1 = {
 				}
 				b_goohoondahahikku = {
 				}
@@ -540,9 +540,9 @@ e_tejas = {
 				}
 				b_oklatohcopokse = {
 				}
-				b_catuerakkatej = {
+				b_witcitejueohkav1 = {
 				}
-				b_tokashcvtototv = {
+				b_witcitejueohkav2 = {
 				}
 				b_encakuseeten = {
 				}
@@ -982,7 +982,7 @@ e_mississippi = {
 				}
 				b_assunwvtehoy = {
 				}
-				b_mirimenlois = {
+				b_ohkopvnetpivnne1 = {
 				}
 				b_keachiteja = {
 				}
@@ -1483,11 +1483,11 @@ e_mississippi = {
 				color={ 95 94 99 }
 				color2={ 220 220 220 }
 				
-				b_chuckamauya = {
+				b_padcunnesse = {
 				}
-				b_chuckamauya-ii = {
+				b_padcunnesse-ii = {
 				}
-				b_chuckamauya-iii = {
+				b_padcunnesse-iii = {
 				}
 			}
 			c_cumberennese = {

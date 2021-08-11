@@ -18,18 +18,6 @@ e_creek = {
 			
 			capital = 3709 # apalachee
 			
-			c_bayougoula = {
-
-				color={ 145 175 126 }
-				color2={ 220 220 220 }
-				
-				b_bayougoula = {
-				}
-				b_bayougoula-ii = {
-				}
-				b_bayougoula-iii = {
-				}
-			}
 			c_pensacola = {
 
 				color={ 158 74 111 }
@@ -156,6 +144,7 @@ e_creek = {
 				}
 				b_iistenpillent = {
 				}
+			}
 			c_okeechobee = {
 
 				color={ 15 194 223 }
@@ -184,7 +173,6 @@ e_creek = {
 				b_istokpoga = {
 				}
 			}
-						}
 			c_sarasadria = {
 
 				color={ 15 194 223 }
@@ -196,9 +184,9 @@ e_creek = {
 				}
 				b_myakkainole = {
 				}
-				b_istokpoga = {
+				b_sarasadria1 = {
 				}
-				b_istokpoga = {
+				b_sarasadria2 = {
 				}
 			}
 		}
@@ -324,7 +312,7 @@ e_creek = {
 				}
 				b_hiyvsemfulotkv = {
 				}
-				b_masksutsuqqu = {
+				b_attapulga1 = {
 				}
 				b_seminole = {
 				}
@@ -690,7 +678,7 @@ e_creek = {
 				}
 			}
 		}
-	d_canesufke = {
+		d_canesufke = {
 
 			color={ 35 51 83 }
 			color2={ 220 220 220 }
@@ -766,18 +754,6 @@ e_creek = {
 				b_nantahala = {
 				}
 				b_cartoogechave = {
-				}
-			}
-			c_waxhaw = {
-
-				color={ 195 144 34 }
-				color2={ 220 220 220 }
-				
-				b_waxhaw = {
-				}
-				b_najhenleqqew = {
-				}
-				b_juallentenmenwek = {
 				}
 			}
 			c_yadkin = {

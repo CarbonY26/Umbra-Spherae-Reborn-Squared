@@ -35,8 +35,8 @@ e_ahbathippanih = {
 				
 				b_siouf = {
 				}
-				b_yankota = {
-			              }
+				b_siouf1 = {
+				}
 				b_huylentaja = {
 				}
 				b_minnehaha = {

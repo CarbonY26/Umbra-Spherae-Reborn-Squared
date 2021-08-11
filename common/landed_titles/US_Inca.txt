@@ -488,18 +488,6 @@ e_inca = {
 				b_tiahuanaco-iii = {
 				}
 			}
-			c_chuqiyapu = {
-
-				color={ 39 34 149 }
-				color2={ 220 220 220 }
-				
-				b_chuqiyapu = {
-				}
-				b_chuqiyapu-ii = {
-			              }
-				b_chuqiyapu-iii = {
-				}
-			}
 			c_macaya = {
 
 				color={ 149 54 97 }
@@ -513,7 +501,7 @@ e_inca = {
 				}
 			}
 		}
-              }
+	}
 
 	k_upper_peru = {
 

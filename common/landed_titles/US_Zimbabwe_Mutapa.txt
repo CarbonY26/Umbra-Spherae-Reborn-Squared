@@ -639,8 +639,6 @@ e_zimbabwe_mutapa = {
 
 				b_inyanga = {
 				}
-				b_makaha = {
-				}
 				b_tsindi = {
 				}
 				b_bindura = {
